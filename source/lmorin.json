@@ -1,0 +1,143 @@
+{
+  "parks": {
+    "lmorin": { "name": "Lucien Morin Park", "mainPin": [43.17003,-77.52966],
+      "SW": [43.15639, -77.53562], "NE": [43.17761, -77.51696],
+      "directionsCoordinate": [43.17538876465969,-77.52373695373535],
+      "url": "http://www.monroecounty.gov/parks-wetlands.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "lmorin", "url": "http://www.monroecounty.gov/parks-wetlands.php" },
+    "lmorin_blue": {
+      "name": "Blue Trail",
+      "color": "sky",
+      "length": 0.4,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.169552,
+        -77.527146
+      ],
+      "NE": [
+        43.172604,
+        -77.524803
+      ]
+    },
+    "lmorin_east": {
+      "name": "East Trail",
+      "color": "sky",
+      "length": 0.8,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.1597,
+        -77.522932
+      ],
+      "NE": [
+        43.164859,
+        -77.51937
+      ]
+    },
+    "lmorin_pink": {
+      "name": "Pink Trail",
+      "color": "pink",
+      "length": 0.2,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.166425,
+        -77.530575
+      ],
+      "NE": [
+        43.167694,
+        -77.528518
+      ]
+    },
+    "lmorin_red": {
+      "name": "Red Trail",
+      "color": "red",
+      "length": 0.2,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.16744,
+        -77.528136
+      ],
+      "NE": [
+        43.169974,
+        -77.527115
+      ]
+    },
+    "lmorin_rifle_range_salmon": {
+      "name": "Rifle Range Salmon Trail",
+      "color": "orange",
+      "length": 0.4,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.165447,
+        -77.52937
+      ],
+      "NE": [
+        43.168645,
+        -77.525872
+      ]
+    },
+    "lmorin_rifle_range_white": {
+      "name": "Rifle Range White Trail",
+      "color": "white",
+      "length": 1.6,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.164648,
+        -77.5317
+      ],
+      "NE": [
+        43.174685,
+        -77.522927
+      ]
+    },
+    "lmorin_rifle_range_yellow": {
+      "name": "Rifle Range Yellow Trail",
+      "color": "yellow",
+      "length": 0.6,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.1648,
+        -77.527975
+      ],
+      "NE": [
+        43.169056,
+        -77.52294
+      ]
+    },
+    "lmorin_connector": {
+      "name": "Tryon/Ellison Connectors",
+      "color": "black",
+      "trailheads": [
+      ],
+      "SW": [
+        43.154026,
+        -77.530457
+      ],
+      "NE": [
+        43.163914,
+        -77.520447
+      ]
+    },
+    "lmorin_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.172104,-77.528365],"NE":[43.175612,-77.523707]}
+  },
+  "points": [
+    { "type": "parking", "loc": [43.17538876465969,-77.52373695373535] },
+    { "type": "poi", "name": "Wetlands Center", "loc": [43.172126011563776,-77.52838253974915] },
+    { "type": "poi", "name": "Underpass", "loc": [43.157434, -77.527030] }
+  ]
+}

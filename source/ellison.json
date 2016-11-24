@@ -1,0 +1,148 @@
+{
+  "parks": {
+    "ellison": { "name": "Ellison Park", "mainPin": [43.14945406346895,-77.51878023147583],
+      "SW": [43.13532, -77.53284], "NE": [43.15542, -77.50434],
+      "url": "http://www.monroecounty.gov/parks-ellison.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "ellison", "url": "http://www.monroecounty.gov/parks-ellison.php" },
+    "ellison_bridle": {
+      "name": "Bridle Trail",
+      "color": "grass",
+      "length": 0.9,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.148399,
+        -77.525976
+      ],
+      "NE": [
+        43.154062,
+        -77.514253
+      ]
+    },
+    "ellison_butlers_gap": {
+      "name": "Butler’s Gap Trail",
+      "color": "purple",
+      "length": 0.7,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.150221,
+        -77.524618
+      ],
+      "NE": [
+        43.153222,
+        -77.519417
+      ]
+    },
+    "ellison_coyote_den": {
+      "name": "Coyote Den Trail",
+      "color": "sky",
+      "length": 1.1,
+      "trailheads": [
+        [43.135855, -77.513401]
+      ],
+      "SW": [
+        43.13624,
+        -77.518375
+      ],
+      "NE": [
+        43.148061,
+        -77.511392
+      ]
+    },
+    "ellison_indian_landing": {
+      "name": "Indian Landing Trail",
+      "color": "orange",
+      "length": 1.5,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.149017,
+        -77.525158
+      ],
+      "NE": [
+        43.154073,
+        -77.514604
+      ]
+    },
+    "ellison_mill_race": {
+      "name": "Mill Race Trail",
+      "color": "brown",
+      "length": 0.4,
+      "trailheads": [
+      ],
+      "SW": [
+        43.147956,
+        -77.5146
+      ],
+      "NE": [
+        43.151426,
+        -77.511706
+      ]
+    },
+    "ellison_overlook": {
+      "name": "Overlook Trail",
+      "color": "red",
+      "length": 0.6,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.140581,
+        -77.513237
+      ],
+      "NE": [
+        43.143237,
+        -77.508823
+      ]
+    },
+    "ellison_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.14419,-77.521491],"NE":[43.150783,-77.512383]}
+  },
+  "points": [
+    { "type": "poi", "name": "Trading Post (Ft. Schuyler)", "loc": [43.153711, -77.526371] },
+    { "type": "poi", "name": "Historical Marker", "loc": [43.1505731872468,-77.52802312374115] },
+    { "type": "poi", "name": "Indian Landing Site", "loc": [43.15357848229551,-77.52517998218536] },
+    { "type": "sports", "name": "Disc Golf Course", "loc": [43.15165798850736,-77.52730965614319] },
+    { "type": "sports", "name": "Playground", "loc": [43.150432488265714,-77.51585125923157] },
+    { "type": "sports", "name": "Softball Field 1", "loc": [43.14433468958596,-77.51245021820068] },
+    { "type": "sports", "name": "Softball Field 2", "loc": [43.1452584003658,-77.51397371292114] },
+    { "type": "sports", "name": "Softball Field 3", "loc": [43.14605685097938,-77.51663446426392] },
+    { "type": "sports", "name": "Softball Field 4", "loc": [43.14652652293923,-77.51481056213379] },
+    { "type": "sports", "name": "Softball Field 5", "loc": [43.149994155893424,-77.51404881477356] },
+    { "type": "sports", "name": "Tennis Courts", "loc": [43.147567616251514,-77.51955270767212] },
+    { "type": "parking", "comments": "Landing Rd", "loc": [43.15285891417387,-77.52816796302795] },
+    { "type": "parking", "comments": "Pavilion", "loc": [43.152076206664326,-77.51772880554199] },
+    { "type": "parking", "comments": "Roadside", "loc": [43.15076906277506,-77.51534700393677] },
+    { "type": "parking", "comments": "Hazelwood", "loc": [43.150432488265714,-77.5129222869873] },
+    { "type": "parking", "comments": "Main E", "loc": [43.14819382925222,-77.51530408859253] },
+    { "type": "parking", "comments": "Main W", "loc": [43.14830341586777,-77.51786828041077] },
+    { "type": "parking", "name": "Tennis Parking", "loc": [43.14763023784028,-77.52023935317993] },
+    { "type": "parking", "comments": "Softball 4", "loc": [43.146354310306315,-77.51537919044495], "directionsCoordinate": [43.147250, -77.514289] },
+    { "type": "parking", "comments": "South", "loc": [43.14445211122217,-77.51613020896912], "directionsCoordinate": [43.147250, -77.514289] },
+    { "type": "parking", "comments": "Sycamore", "loc": [43.144326861468876,-77.51444578170776], "directionsCoordinate": [43.146015, -77.513366] },
+    { "type": "parking", "comments": "Penfield Rd", "loc": [43.13598151856929,-77.5134265422821] },
+    { "type": "parking", "comments": "Old Meadow", "loc": [43.14938873939272,-77.51249849796295] },
+    { "type": "restroom", "loc": [43.15328157206093,-77.52785682678223] },
+    { "type": "restroom", "loc": [43.14928185908384,-77.51599073410034] },
+    { "type": "restroom", "loc": [43.1512856619047,-77.5131368637085] },
+    { "type": "restroom", "loc": [43.14483568699531,-77.51453161239624] },
+    { "type": "admin", "name": "Park Office", "loc": [43.146894430120554,-77.51831889152527] },
+    { "type": "lodge", "name": "Pavilion", "loc": [43.151879, -77.518189] },
+    { "type": "lodge", "name": "Hazelwood", "loc": [43.151060, -77.513498] },
+    { "type": "lodge", "name": "Creekside", "loc": [43.149225, -77.515807] },
+    { "type": "lodge", "name": "South", "loc": [43.14441297070183,-77.51663446426392], "directionsCoordinate": [43.147250, -77.514289] },
+    { "type": "shelter", "name": "Old Meadow", "loc": [43.149330, -77.513922] },
+    { "type": "shelter", "name": "Orchard Grove", "loc": [43.149195, -77.516936] },
+    { "type": "shelter", "name": "Roadside", "loc": [43.150427, -77.515089] },
+    { "type": "shelter", "name": "Island", "loc": [43.1450861841603,-77.5158941745758], "directionsCoordinate": [43.146015, -77.513366] },
+    { "type": "shelter", "name": "Spruce", "loc": [43.14406853304225,-77.51530408859253], "directionsCoordinate": [43.147250, -77.514289] },
+    { "type": "shelter", "name": "Sycamore", "loc": [43.14423292398549,-77.51381278038025], "directionsCoordinate": [43.146015, -77.513366] },
+    { "type": "shelter", "name": "Circle", "loc": [43.143637983238754,-77.51280426979065] },
+    { "type": "boat_launch", "loc": [43.14490613942671,-77.51204252243042] }
+  ]
+}

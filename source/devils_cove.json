@@ -1,0 +1,18 @@
+{
+  "parks": {
+    "devils_cove": {
+        "name": "Devil’s Cove Park",
+        "mainPin": [43.20968, -77.52086],
+        "annotationIconName": "Annotation-SmallParkBadge",
+        "visibilityConstraint": "parkBoundaries",
+        "SW": [43.20749, -77.52730], "NE": [43.21475, -77.51472],
+        "url": "http://www.monroecounty.gov/parks-devilscove.php",
+        "hideInListView": true }
+  },
+  "trails": {
+  },
+  "trailPaths": [
+  ],
+  "points": [
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "parks": {
+    "mponds": { "name": "Mendon Ponds Park", "mainPin": [43.017854, -77.568531],
+      "SW": [42.996656, -77.585581 ], "NE": [43.045216, -77.542675 ],
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "mponds", "url": "http://www.monroecounty.gov/parks-mendonponds.php" },
+    "mponds_bathtub": {
+      "name": "Devil’s Bathtub Trail",
+      "color": "grass",
+      "length": 0.67,
+      "trailheads": [
+        [43.021673, -77.573337]
+      ],
+      "SW": [
+        43.021673,
+        -77.573858
+      ],
+      "NE": [
+        43.02576,
+        -77.571605
+      ]
+    },
+    "mponds_birdsong": {
+      "name": "Birdsong/Nature Trail",
+      "color": "yellow",
+      "length": 1,
+      "trailheads": [
+        [43.02134, -77.58218]
+      ],
+      "SW": [
+        43.018762,
+        -77.583207
+      ],
+      "NE": [
+        43.022065,
+        -77.576936
+      ]
+    },
+    "mponds_eesker": {
+      "name": "East Esker Trail",
+      "color": "dark_green",
+      "length": 4.7,
+      "trailheads": [
+        [43.01008415163849,-77.5633156299591], [43.02727076805929,-77.55618095397949]
+      ],
+      "SW": [
+        43.01012,
+        -77.565364
+      ],
+      "NE": [
+        43.02724,
+        -77.54829
+      ]
+    },
+    "mponds_fern_valley": {
+      "name": "Fern Valley Trail",
+      "color": "brown",
+      "length": 1.4,
+      "trailheads": [
+        [43.034856, -77.574561]
+      ],
+      "SW": [
+        43.034532,
+        -77.574561
+      ],
+      "NE": [
+        43.038938,
+        -77.569298
+      ]
+    },
+    "mponds_grasslands": {
+      "name": "Grasslands Trail",
+      "color": "sky",
+      "length": 2,
+      "trailheads": [
+        [43.02341968986633,-77.57907629013062], [43.023937364126226,-77.57428586483002]
+      ],
+      "SW": [
+        43.0233,
+        -77.580825
+      ],
+      "NE": [
+        43.031531,
+        -77.574108
+      ]
+    },
+    "mponds_nmeadow": {
+      "name": "North Meadow Trail",
+      "color": "blue",
+      "length": 1.8,
+      "trailheads": [
+        [43.033785, -77.552175]
+      ],
+      "SW": [
+        43.026929,
+        -77.555779
+      ],
+      "NE": [
+        43.033785,
+        -77.54875
+      ]
+    },
+    "mponds_pine_woods": {
+      "name": "Pine Woods Trail",
+      "color": "red_orange",
+      "length": 1,
+      "trailheads": [
+        [43.034019, -77.551177]
+      ],
+      "SW": [
+        43.034019,
+        -77.555492
+      ],
+      "NE": [
+        43.036353,
+        -77.54691
+      ]
+    },
+    "mponds_quaker": {
+      "name": "Quaker Pond Trail",
+      "color": "purple",
+      "length": 2.7,
+      "trailheads": [
+        [42.996750, -77.571432], [43.015305, -77.571990]
+      ],
+      "SW": [
+        42.9992,
+        -77.578869
+      ],
+      "NE": [
+        43.016097,
+        -77.568526
+      ]
+    },
+    "mponds_smeadow": {
+      "name": "Southern Meadow Trail",
+      "color": "red",
+      "length": 3,
+      "trailheads": [
+        [42.996751, -77.571100], [43.009636968706786,-77.56349265575409]
+      ],
+      "SW": [
+        42.9991,
+        -77.570614
+      ],
+      "NE": [
+        43.012347,
+        -77.561334
+      ]
+    },
+    "mponds_swamp": {
+      "name": "Swamp Trail",
+      "color": "yellow",
+      "length": 0.7,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.015125,
+        -77.57979
+      ],
+      "NE": [
+        43.018762,
+        -77.575555
+      ]
+    },
+    "mponds_unnamed_trails": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        42.998927,
+        -77.582846
+      ],
+      "NE": [
+        43.03819,
+        -77.54752
+      ]
+    },
+    "mponds_wesker": {
+      "name": "West Esker Trail",
+      "color": "orange",
+      "length": 1.5,
+      "trailheads": [
+        [43.034403, -77.577000], [43.028262, -77.568628]
+      ],
+      "SW": [
+        43.025316,
+        -77.57734
+      ],
+      "NE": [
+        43.034403,
+        -77.568559
+      ]
+    }
+  },
+  "points": [
+    { "type": "intersection", "name": "1", "loc": [43.023798, -77.564056] },
+    { "type": "intersection", "name": "2", "loc": [43.024854, -77.568327] },
+    { "type": "intersection", "name": "3", "loc": [43.021673, -77.573337] },
+    { "type": "intersection", "name": "4", "loc": [43.025306, -77.571605] },
+    { "type": "intersection", "name": "5", "loc": [43.025760, -77.572650] },
+    { "type": "intersection", "name": "6", "loc": [43.029247, -77.573386] },
+    { "type": "intersection", "name": "7", "loc": [43.031833, -77.575782] },
+    { "type": "intersection", "name": "8", "loc": [43.028702, -77.571449] },
+    { "type": "intersection", "name": "9", "loc": [43.025461, -77.569466] },
+    { "type": "intersection", "name": "10", "loc": [43.028425, -77.570467] },
+    { "type": "intersection", "name": "11", "loc": [43.030256, -77.572626] },
+    { "type": "intersection", "name": "12", "loc": [43.032246, -77.575247] },
+    { "type": "intersection", "name": "13", "loc": [43.01234355245723,-77.57108330726624] },
+    { "type": "intersection", "name": "14", "loc": [43.011472751569,-77.57060050964355] },
+    { "type": "intersection", "name": "15", "loc": [43.00874259307606,-77.56791830062866] },
+    { "type": "intersection", "name": "16", "loc": [43.00386252473692,-77.5679612159729] },
+    { "type": "intersection", "name": "17", "loc": [43.001971590192866,-77.56728529930115] },
+    { "type": "intersection", "name": "18", "loc": [43.00622414962688,-77.56484985351562] },
+    { "type": "intersection", "name": "19", "loc": [43.007728, -77.561355] },
+    { "type": "intersection", "name": "20", "loc": [43.008716, -77.563487] },
+    { "type": "intersection", "name": "21", "loc": [43.010210, -77.563260] },
+    { "type": "intersection", "name": "22", "loc": [43.015848, -77.555585] },
+    { "type": "intersection", "name": "23", "loc": [43.019240, -77.556083] },
+    { "type": "intersection", "name": "24", "loc": [43.022804, -77.557830] },
+    { "type": "intersection", "name": "25", "loc": [43.026927, -77.550668] },
+    { "type": "intersection", "name": "26", "loc": [43.030594, -77.549292] },
+    { "type": "intersection", "name": "27", "loc": [43.031458, -77.551947] },
+    { "type": "intersection", "name": "28", "loc": [43.027212, -77.555783] },
+    { "type": "intersection", "name": "29", "loc": [43.022461, -77.560745] },
+    { "type": "intersection", "name": "30", "loc": [43.018670, -77.558630] },
+    { "type": "intersection", "name": "31", "loc": [43.016015, -77.556262] },
+    { "type": "intersection", "name": "32", "loc": [43.035436, -77.555492] },
+    { "type": "intersection", "name": "33", "loc": [43.034698, -77.548347] },
+    { "type": "campsite", "name": "Youth Camping Area", "loc": [43.03191370198331,-77.57124423980713] },
+    { "type": "shelter", "name": "Evergreen", "loc": [43.03516825200764,-77.56419539451599] },
+    { "type": "lodge", "name": "West", "loc": [43.035254514841,-77.56263971328735] },
+    { "type": "lodge", "name": "East", "loc": [43.03445461846262,-77.56127715110779] },
+    { "type": "restroom", "loc": [43.034917304893874,-77.56219983100891] },
+    { "type": "parking", "loc": [43.0350114101818,-77.56171703338623] },
+    { "type": "scenic", "loc": [43.032933218145914,-77.55181431770325] },
+    { "type": "scenic", "comments": "Round Pond N", "loc": [43.020558, -77.563184] },
+    { "type": "admin", "name": "Park Office", "loc": [43.02829036134602,-77.55547285079956] },
+    { "type": "poi", "name": "Water Tower", "loc": [43.027090376714526,-77.5494110584259] },
+    { "type": "scenic", "loc": [43.02470602391365,-77.5509774684906] },
+    { "type": "lodge", "name": "Cavalry", "loc": [43.0166346161345,-77.56494641304016] },
+    { "type": "restroom", "loc": [43.01654832713171,-77.56467819213867] },
+    { "type": "parking", "name": "Horse Trailer Parking", "loc": [43.009990008133954,-77.56341218948364] },
+    { "type": "scenic", "loc": [43.01348891140191,-77.55576252937317] },
+    { "type": "scenic", "loc": [43.01206897693338,-77.56338000297546] },
+    { "type": "scenic", "loc": [43.006420293790086,-77.56626605987549] },
+    { "type": "scenic", "loc": [43.000017824906486,-77.56627678871155] },
+    { "type": "scenic", "loc": [43.00326621971138,-77.56928086280823] },
+    { "type": "scenic", "loc": [43.004976658090406,-77.57439851760864] },
+    { "type": "scenic", "loc": [43.0081384898865,-77.5695812702179] },
+    { "type": "scenic", "loc": [43.01617179188251,-77.57655501365662] },
+    { "type": "parking", "loc": [43.01544224826686,-77.57168412208557] },
+    { "type": "restroom", "loc": [43.0157795652094,-77.57121205329895] },
+    { "type": "shelter", "name": "Lookout", "loc": [43.01588154438541,-77.57101893424988] },
+    { "type": "scenic", "loc": [43.019205, -77.577893], "comments": "Birdsong" },
+    { "type": "poi", "name": "Sharon’s Sensory Garden", "loc": [43.02135679302117,-77.58315324783325] },
+    { "type": "restroom", "loc": [43.02174094359814,-77.583287358284] },
+    { "type": "poi", "name": "Nature Center", "loc": [43.02179363439459,-77.58340805768967], "allowsDirections": true },
+    { "type": "poi", "name": "Wild Wings", "loc": [43.02160779558068,-77.58367896080017], "allowsDirections": true, "url": "http://www.wildwingsinc.org" },
+    { "type": "parking", "loc": [43.02237648453568,-77.58289575576782] },
+    { "type": "shelter", "name": "Algonkian", "loc": [43.021811734404686,-77.57363677024841] },
+    { "type": "shelter", "name": "Devil’s Bathtub", "loc": [43.023686371090825,-77.57352948188782] },
+    { "type": "restroom", "loc": [43.02307457126796,-77.57376551628113] },
+    { "type": "scenic", "loc": [43.030135, -77.577886], "comments": "Grasslands" },
+    { "type": "lodge", "name": "Hopkins Point", "loc": [43.0289334807087,-77.56993532180786] },
+    { "type": "shelter", "name": "Pond View", "loc": [43.02864329353784,-77.56825089454651] },
+    { "type": "restroom", "loc": [43.02861976478822,-77.56929159164429] },
+    { "type": "parking", "loc": [43.02888642342283,-77.56874442100525] },
+    { "type": "parking", "loc": [43.03331749292003,-77.56154537200928] },
+    { "type": "restroom", "loc": [43.03298027232916,-77.56107330322266] },
+    { "type": "shelter", "name": "Southview", "loc": [43.03373313435469,-77.5606119632721] },
+    { "type": "lodge", "name": "Cobblestone House", "loc": [43.03269794668851,-77.55614876747131] },
+    { "type": "shelter", "name": "Canfieldwoods", "loc": [43.028698193918636,-77.55922794342041] },
+    { "type": "lodge", "name": "Stewart", "loc": [43.027411943524505,-77.55963563919067] },
+    { "type": "parking", "name": "Beach Area", "loc": [43.02875309425032,-77.5583267211914] },
+    { "type": "restroom", "loc": [43.02753743255437,-77.5590991973877] },
+    { "type": "sports", "name": "Playground", "loc": [43.02804722910002,-77.55847692489624] },
+    { "type": "boat_launch", "loc": [43.026502140385844,-77.5621247291565] },
+    { "type": "scenic", "loc": [43.02511388030075,-77.56873369216919] },
+    { "type": "parking", "loc": [43.01530104527564,-77.56637334823608] },
+    { "type": "poi", "name": "Boardwalk", "loc": [43.015449, -77.576164] },
+    { "type": "poi", "name": "David’s Nature Trail", "loc": [43.018782, -77.578212] }
+  ]
+}

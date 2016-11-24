@@ -1,0 +1,55 @@
+{
+  "parks": {
+    "ontariob": { "name": "Ontario Beach Park", "mainPin": [43.25821, -77.60631],
+      "SW": [43.25367, -77.61635], "NE": [43.26117, -77.60317],
+      "url": "http://www.monroecounty.gov/parks-ontariobeach.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "ontariob", "url": "http://www.monroecounty.gov/parks-ontariobeach.php" },
+    "ontariob_paths": {
+      "name": "Boardwalk/Pier/Riverwalk",
+      "color": "red",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.254135,
+        -77.610195
+      ],
+      "NE": [
+        43.263972,
+        -77.59885
+      ]
+    }
+  },
+  "points": [
+        { "type": "poi", "name": "Roger Robach Community Center", "loc": [43.259823184234364,-77.60942280292511] },
+        { "type": "poi", "name": "Concession Stand", "loc": [43.25911998206949,-77.60848939418793] },
+        { "type": "sports", "name": "Bocce Courts", "loc": [43.258826978770486,-77.60861545801163] },
+        { "type": "sports", "name": "Basketball Courts", "loc": [43.25998921689369,-77.6098707318306] },
+        { "type": "sports", "name": "Playground", "loc": [43.258254641592785,-77.6075667142868] },
+        { "type": "poi", "name": "Gazebo", "loc": [43.25952823098183,-77.60767936706543] },
+        { "type": "poi", "name": "Gazebo", "loc": [43.258553507752616,-77.60440170764923] },
+        { "type": "sports", "name": "Volleyball Area", "loc": [43.258770331303346,-77.60491132736206] },
+        { "type": "poi", "name": "Bandstand", "loc": [43.258684383321565,-77.60640531778336] },
+        { "type": "poi", "name": "Carousel", "loc": [43.257711599979494,-77.6055309176445], "url": "http://rocwiki.org/Dentzel_Carousel" },
+        { "type": "admin", "name": "Park Office", "loc": [43.255310829204355,-77.61021137237549] },
+        { "type": "shelter", "name": "Beachfront", "loc": [43.25878400483473,-77.6075130701065] },
+        { "type": "shelter", "name": "Sandpiper", "loc": [43.25856913470101,-77.60768473148346] },
+        { "type": "shelter", "name": "Harborview", "loc": [43.25825268821436,-77.60565161705017] },
+        { "type": "shelter", "name": "Shoreline", "loc": [43.25828394226155,-77.60500252246857] },
+        { "type": "shelter", "name": "Portside", "loc": [43.25830347603289,-77.6045572757721] },
+        { "type": "sports", "name": "Soccer Field", "loc": [43.25789717229855,-77.61123061180115] },
+        { "type": "sports", "name": "Baseball Fields", "loc": [43.25686968056554,-77.61407911777496] },
+        { "type": "sports", "name": "Baseball Fields", "loc": [43.257600256316586,-77.61234641075134] },
+        { "type": "restroom", "loc": [43.25954971769087,-77.608682513237] },
+        { "type": "restroom", "loc": [43.25789717229855,-77.60712146759033] },
+        { "type": "restroom", "loc": [43.25792451975036,-77.6047557592392] },
+        { "type": "boat_launch", "name": "City Boat Launch", "loc": [43.2539238477042,-77.60895609855652] },
+        { "type": "parking", "loc": [43.258565227964304,-77.6104474067688] },
+        { "type": "parking", "loc": [43.25858085490968,-77.60982513427734] },
+        { "type": "parking", "loc": [43.25704158153082,-77.6079797744751] },
+        { "type": "parking", "loc": [43.256986885821775,-77.60617196559906] },
+        { "type": "parking", "loc": [43.256486808489626,-77.60668694972992] }
+  ]
+}

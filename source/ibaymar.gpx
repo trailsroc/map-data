@@ -1,0 +1,72 @@
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2016-06-01T13:20:53.426Z</time>
+    </metadata>
+    <trk>
+        <name>border:ibaymar</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.540001" lat="43.233691"></trkpt>
+            <trkpt lon="-77.539845" lat="43.233409"></trkpt>
+            <trkpt lon="-77.539814" lat="43.233321"></trkpt>
+            <trkpt lon="-77.539957" lat="43.232783"></trkpt>
+            <trkpt lon="-77.541881" lat="43.230653"></trkpt>
+            <trkpt lon="-77.543884" lat="43.228085"></trkpt>
+            <trkpt lon="-77.541244" lat="43.227799"></trkpt>
+            <trkpt lon="-77.541460" lat="43.228277"></trkpt>
+            <trkpt lon="-77.541246" lat="43.228691"></trkpt>
+            <trkpt lon="-77.539224" lat="43.230138"></trkpt>
+            <trkpt lon="-77.538884" lat="43.230025"></trkpt>
+            <trkpt lon="-77.538460" lat="43.230379"></trkpt>
+            <trkpt lon="-77.538845" lat="43.231956"></trkpt>
+            <trkpt lon="-77.538235" lat="43.233052"></trkpt>
+            <trkpt lon="-77.534300" lat="43.234327"></trkpt>
+            <trkpt lon="-77.534425" lat="43.234749"></trkpt>
+            <trkpt lon="-77.537352" lat="43.234505"></trkpt>
+            <trkpt lon="-77.537490" lat="43.234185"></trkpt>
+            <trkpt lon="-77.538597" lat="43.233796"></trkpt>
+            <trkpt lon="-77.540009" lat="43.233821"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaymar_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.543881" lat="43.227307"></trkpt>
+            <trkpt lon="-77.543922" lat="43.227451"></trkpt>
+            <trkpt lon="-77.543774" lat="43.227878"></trkpt>
+            <trkpt lon="-77.543545" lat="43.228088"></trkpt>
+            <trkpt lon="-77.543209" lat="43.228297"></trkpt>
+            <trkpt lon="-77.543003" lat="43.228545"></trkpt>
+            <trkpt lon="-77.542791" lat="43.228940"></trkpt>
+            <trkpt lon="-77.542594" lat="43.229178"></trkpt>
+            <trkpt lon="-77.542342" lat="43.229314"></trkpt>
+            <trkpt lon="-77.541883" lat="43.229665"></trkpt>
+            <trkpt lon="-77.541705" lat="43.229976"></trkpt>
+            <trkpt lon="-77.541624" lat="43.230216"></trkpt>
+            <trkpt lon="-77.541503" lat="43.230517"></trkpt>
+            <trkpt lon="-77.541180" lat="43.230876"></trkpt>
+            <trkpt lon="-77.540976" lat="43.231120"></trkpt>
+            <trkpt lon="-77.540816" lat="43.231609"></trkpt>
+            <trkpt lon="-77.540453" lat="43.231985"></trkpt>
+            <trkpt lon="-77.539975" lat="43.232504"></trkpt>
+            <trkpt lon="-77.539543" lat="43.232891"></trkpt>
+            <trkpt lon="-77.538889" lat="43.233324"></trkpt>
+            <trkpt lon="-77.538630" lat="43.233463"></trkpt>
+            <trkpt lon="-77.538421" lat="43.233558"></trkpt>
+            <trkpt lon="-77.538348" lat="43.233635"></trkpt>
+            <trkpt lon="-77.538241" lat="43.233693"></trkpt>
+            <trkpt lon="-77.537167" lat="43.234100"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>

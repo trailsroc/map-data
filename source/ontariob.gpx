@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name>border:ontariob</name>
+        <desc>Length: 3.937 km (2.446 mi)</desc>
+        <trkseg>
+            <trkpt lon="-77.611676" lat="43.260382"/>
+            <trkpt lon="-77.610511" lat="43.261391"/>
+            <trkpt lon="-77.609105" lat="43.260887"/>
+            <trkpt lon="-77.606852" lat="43.260121"/>
+            <trkpt lon="-77.603134" lat="43.258944"/>
+            <trkpt lon="-77.605249" lat="43.256622"/>
+            <trkpt lon="-77.605565" lat="43.256478"/>
+            <trkpt lon="-77.605769" lat="43.256493"/>
+            <trkpt lon="-77.606365" lat="43.255872"/>
+            <trkpt lon="-77.607277" lat="43.256334"/>
+            <trkpt lon="-77.607304" lat="43.256471"/>
+            <trkpt lon="-77.608157" lat="43.256803"/>
+            <trkpt lon="-77.608840" lat="43.257048"/>
+            <trkpt lon="-77.609956" lat="43.255491"/>
+            <trkpt lon="-77.609273" lat="43.255237"/>
+            <trkpt lon="-77.609994" lat="43.254175"/>
+            <trkpt lon="-77.611273" lat="43.254592"/>
+            <trkpt lon="-77.608741" lat="43.258139"/>
+            <trkpt lon="-77.609433" lat="43.258358"/>
+            <trkpt lon="-77.609573" lat="43.258132"/>
+            <trkpt lon="-77.609970" lat="43.258241"/>
+            <trkpt lon="-77.610120" lat="43.257987"/>
+            <trkpt lon="-77.610431" lat="43.258085"/>
+            <trkpt lon="-77.611107" lat="43.257100"/>
+            <trkpt lon="-77.612207" lat="43.257483"/>
+            <trkpt lon="-77.613569" lat="43.255897"/>
+            <trkpt lon="-77.613816" lat="43.255787"/>
+            <trkpt lon="-77.614342" lat="43.255901"/>
+            <trkpt lon="-77.614970" lat="43.256065"/>
+            <trkpt lon="-77.615190" lat="43.256170"/>
+            <trkpt lon="-77.615356" lat="43.256393"/>
+            <trkpt lon="-77.615356" lat="43.256522"/>
+            <trkpt lon="-77.615270" lat="43.256667"/>
+            <trkpt lon="-77.615275" lat="43.256803"/>
+            <trkpt lon="-77.615120" lat="43.257002"/>
+            <trkpt lon="-77.614862" lat="43.257155"/>
+            <trkpt lon="-77.614326" lat="43.257292"/>
+            <trkpt lon="-77.614192" lat="43.257358"/>
+            <trkpt lon="-77.613800" lat="43.257436"/>
+            <trkpt lon="-77.613484" lat="43.257495"/>
+            <trkpt lon="-77.612883" lat="43.257733"/>
+            <trkpt lon="-77.612797" lat="43.257835"/>
+            <trkpt lon="-77.612062" lat="43.258007"/>
+            <trkpt lon="-77.611842" lat="43.257964"/>
+            <trkpt lon="-77.611402" lat="43.258569"/>
+            <trkpt lon="-77.610871" lat="43.258405"/>
+            <trkpt lon="-77.609965" lat="43.259335"/>
+            <trkpt lon="-77.610721" lat="43.259796"/>
+        </trkseg>
+    </trk><trk>
+        <name>ontariob_paths</name>
+        <desc>Length: 0.553 km (0.344 mi)</desc>
+        <trkseg>
+            <trkpt lon="-77.610573" lat="43.259825"/>
+            <trkpt lon="-77.610195" lat="43.260370"/>
+            <trkpt lon="-77.609315" lat="43.260043"/>
+            <trkpt lon="-77.608420" lat="43.259714"/>
+            <trkpt lon="-77.607706" lat="43.259487"/>
+            <trkpt lon="-77.606967" lat="43.259263"/>
+            <trkpt lon="-77.606193" lat="43.259030"/>
+            <trkpt lon="-77.606141" lat="43.259047"/>
+            <trkpt lon="-77.605391" lat="43.258820"/>
+            <trkpt lon="-77.604622" lat="43.258589"/>
+            <trkpt lon="-77.603962" lat="43.258386"/>
+        </trkseg>
+    </trk><trk>
+        <name>ontariob_paths</name>
+        <desc>Length: 0.754 km (0.469 mi)</desc>
+        <trkseg>
+            <trkpt lon="-77.598850" lat="43.263972"/>
+            <trkpt lon="-77.599200" lat="43.263594"/>
+            <trkpt lon="-77.599763" lat="43.262970"/>
+            <trkpt lon="-77.600522" lat="43.262145"/>
+            <trkpt lon="-77.601301" lat="43.261299"/>
+            <trkpt lon="-77.602400" lat="43.260091"/>
+            <trkpt lon="-77.603096" lat="43.259332"/>
+            <trkpt lon="-77.604016" lat="43.258331"/>
+            <trkpt lon="-77.604495" lat="43.257815"/>
+            <trkpt lon="-77.604954" lat="43.257327"/>
+            <trkpt lon="-77.605442" lat="43.256823"/>
+            <trkpt lon="-77.605655" lat="43.256827"/>
+            <trkpt lon="-77.605791" lat="43.256768"/>
+            <trkpt lon="-77.606022" lat="43.256588"/>
+            <trkpt lon="-77.606580" lat="43.256006"/>
+            <trkpt lon="-77.606900" lat="43.255672"/>
+            <trkpt lon="-77.607492" lat="43.255059"/>
+            <trkpt lon="-77.607865" lat="43.254671"/>
+            <trkpt lon="-77.608388" lat="43.254135"/>
+        </trkseg>
+    </trk></gpx>

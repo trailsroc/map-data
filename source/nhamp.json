@@ -1,0 +1,160 @@
+{
+  "parks": {
+    "nhamp": { "name": "Northampton Park", "mainPin": [43.18365, -77.89066],
+      "SW": [43.17911, -77.905355 ], "NE": [43.192142, -77.854294 ],
+      "url": "http://www.monroecounty.gov/parks-northampton.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "nhamp", "url": "http://www.monroecounty.gov/parks-northampton.php" },
+    "nhamp_creek": {
+      "name": "Creek Trail",
+      "color": "red",
+      "length": 1.3,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.179364,
+        -77.863955
+      ],
+      "NE": [
+        43.185654,
+        -77.858354
+      ]
+    },
+    "nhamp_fairview": {
+      "name": "Fairview Trail",
+      "color": "dark_green",
+      "length": 1.1,
+      "trailheads": [
+        [43.186977, -77.884919], [43.185055, -77.876065]
+      ],
+      "SW": [
+        43.18486,
+        -77.884988
+      ],
+      "NE": [
+        43.186977,
+        -77.875169
+      ]
+    },
+    "nhamp_farm": {
+      "name": "Farm Trail",
+      "color": "purple",
+      "length": 1.5,
+      "trailheads": [
+        [43.180534, -77.870820]
+      ],
+      "SW": [
+        43.180452,
+        -77.87129
+      ],
+      "NE": [
+        43.187454,
+        -77.865348
+      ]
+    },
+    "nhamp_gardner": {
+      "name": "Gardner Trail",
+      "color": "blue",
+      "length": 1.8,
+      "trailheads": [
+        [43.188020, -77.884229]
+      ],
+      "SW": [
+        43.187996,
+        -77.899395
+      ],
+      "NE": [
+        43.190765,
+        -77.884138
+      ]
+    },
+    "nhamp_loop": {
+      "name": "Loop Trail",
+      "color": "orange",
+      "length": 0.4,
+      "trailheads": [
+        [43.184684, -77.889448]
+      ],
+      "SW": [
+        43.184684,
+        -77.891191
+      ],
+      "NE": [
+        43.186617,
+        -77.888927
+      ]
+    },
+    "nhamp_unnamed_trails": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.179554,
+        -77.893262
+      ],
+      "NE": [
+        43.186791,
+        -77.854408
+      ]
+    }
+  },
+  "points": [
+    { "type": "lodge", "name": "Knollwood", "loc": [43.186162, -77.887427] },
+    { "type": "lodge", "name": "Ski Lodge", "loc": [43.185436, -77.875437] },
+    { "type": "parking", "loc": [43.184271, -77.899041], "comment": "Airfield" },
+    { "type": "parking", "loc": [43.181213, -77.893283], "comment": "Ballfield" },
+    { "type": "parking", "loc": [43.184786, -77.889158], "comment": "Loop Trail" },
+    { "type": "parking", "loc": [43.186232, -77.887010], "comment": "Knollwood" },
+    { "type": "parking", "loc": [43.187012, -77.885116], "comment": "Fairview W" },
+    { "type": "parking", "loc": [43.187861, -77.883923], "comment": "Gardner E" },
+    { "type": "parking", "name": "Horse Trailer Parking", "loc": [43.190741, -77.899132] },
+    { "type": "parking", "loc": [43.184196, -77.875061], "comment": "Ski W" },
+    { "type": "parking", "loc": [43.184013, -77.874035], "comment": "Ski E" },
+    { "type": "parking", "loc": [43.179792, -77.872364], "comment": "Farm" },
+    { "type": "restroom", "loc": [43.180063, -77.869847], "comment": "Farm" },
+    { "type": "restroom", "loc": [43.184932, -77.875859], "comment": "Ski" },
+    { "type": "restroom", "loc": [43.182463, -77.894151], "comment": "Ballfield" },
+    { "type": "admin", "name": "Park Office", "loc": [43.182382, -77.892023] },
+    { "type": "poi", "name": "Model Airfield", "loc": [43.184968, -77.897291] },
+    { "type": "sports", "name": "Ski Hill", "loc": [43.186475, -77.875270] },
+    { "type": "poi", "name": "Springdale Farm", "loc": [43.180629, -77.870314] },
+    { "type": "poi", "name": "Ogden Historical Society Museum", "loc": [43.179503, -77.856574] },
+    { "type": "poi", "name": "Enchanted Woods", "loc": [43.183499, -77.870435] },
+    { "type": "scenic", "comments": "Fairview", "loc": [43.186767, -77.884240] },
+    { "type": "scenic", "comments": "Ski E", "loc": [43.184686, -77.873715] },
+    { "type": "scenic", "comments": "Pond", "loc": [43.182034, -77.870834] },
+    { "type": "sports", "name": "Playground", "loc": [43.180917, -77.872185] },
+    { "type": "sports", "name": "Soccer Field", "loc": [43.184410, -77.876901], "comments": "Ski" },
+    { "type": "sports", "name": "Soccer Field", "loc": [43.180898, -77.894058], "comments": "Salmon" },
+    { "type": "sports", "name": "Softball Field", "loc": [43.181811, -77.893649] },
+    { "type": "campsite", "name": "Youth Camping (Permit)", "loc": [43.185372, -77.893175] },
+    { "type": "intersection", "name": "11", "loc": [43.188890, -77.888126] },
+    { "type": "intersection", "name": "12", "loc": [43.190725, -77.892447] },
+    { "type": "intersection", "name": "21", "loc": [43.179488, -77.863439] },
+    { "type": "intersection", "name": "22", "loc": [43.183032, -77.863307] },
+    { "type": "intersection", "name": "23", "loc": [43.183264, -77.859949] },
+    { "type": "intersection", "name": "24", "loc": [43.184938, -77.858430] },
+    { "type": "intersection", "name": "25", "loc": [43.184135, -77.860777] },
+    { "type": "intersection", "name": "26", "loc": [43.185642, -77.861810] },
+    { "type": "intersection", "name": "28", "loc": [43.184316, -77.863811] },
+    { "type": "intersection", "name": "8", "loc": [43.186784, -77.883235] },
+    { "type": "intersection", "name": "9", "loc": [43.186791, -77.883261] },
+    { "type": "intersection", "name": "10", "loc": [43.186985, -77.884557] },
+    { "type": "intersection", "name": "13", "loc": [43.184868, -77.871268] },
+    { "type": "intersection", "name": "14", "loc": [43.182928, -77.870628] },
+    { "type": "intersection", "name": "16", "loc": [43.184234, -77.865951] },
+    { "type": "intersection", "name": "1", "loc": [43.183175, -77.874509] },
+    { "type": "intersection", "name": "3", "loc": [43.183205, -77.876451] },
+    { "type": "intersection", "name": "4", "loc": [43.180856, -77.883357] },
+    { "type": "intersection", "name": "5", "loc": [43.181778, -77.883131] },
+    { "type": "intersection", "name": "6", "loc": [43.182970, -77.882365] },
+    { "type": "intersection", "name": "7", "loc": [43.185988, -77.883395] },
+    { "type": "intersection", "name": "17", "loc": [43.181202, -77.864440] },
+    { "type": "intersection", "name": "18", "loc": [43.180221, -77.864382] },
+    { "type": "intersection", "name": "19", "loc": [43.179554, -77.865732] }
+  ]
+}

@@ -1,0 +1,895 @@
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2016-06-01T15:17:23.662Z</time>
+    </metadata>
+    <wpt lon="-77.527030" lat="43.157434">
+        <name>Underpass</name>
+        <desc>{"type": "poi"}</desc>
+    </wpt>
+    <trk>
+        <name>border:lmorin</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.529338" lat="43.176695"></trkpt>
+            <trkpt lon="-77.531262" lat="43.172523"></trkpt>
+            <trkpt lon="-77.529088" lat="43.172568"></trkpt>
+            <trkpt lon="-77.528730" lat="43.173073"></trkpt>
+            <trkpt lon="-77.526578" lat="43.173075"></trkpt>
+            <trkpt lon="-77.525651" lat="43.175079"></trkpt>
+            <trkpt lon="-77.523951" lat="43.175031"></trkpt>
+            <trkpt lon="-77.523874" lat="43.175699"></trkpt>
+            <trkpt lon="-77.523329" lat="43.175661"></trkpt>
+            <trkpt lon="-77.523189" lat="43.175235"></trkpt>
+            <trkpt lon="-77.523065" lat="43.173128"></trkpt>
+            <trkpt lon="-77.522881" lat="43.173121"></trkpt>
+            <trkpt lon="-77.525677" lat="43.165772"></trkpt>
+            <trkpt lon="-77.523964" lat="43.165620"></trkpt>
+            <trkpt lon="-77.523948" lat="43.165755"></trkpt>
+            <trkpt lon="-77.523219" lat="43.165703"></trkpt>
+            <trkpt lon="-77.523208" lat="43.165837"></trkpt>
+            <trkpt lon="-77.521742" lat="43.165695"></trkpt>
+            <trkpt lon="-77.521444" lat="43.165429"></trkpt>
+            <trkpt lon="-77.521080" lat="43.165000"></trkpt>
+            <trkpt lon="-77.520627" lat="43.164158"></trkpt>
+            <trkpt lon="-77.519452" lat="43.162419"></trkpt>
+            <trkpt lon="-77.519519" lat="43.162386"></trkpt>
+            <trkpt lon="-77.519317" lat="43.162171"></trkpt>
+            <trkpt lon="-77.518505" lat="43.162310"></trkpt>
+            <trkpt lon="-77.518476" lat="43.161923"></trkpt>
+            <trkpt lon="-77.520395" lat="43.157818"></trkpt>
+            <trkpt lon="-77.520614" lat="43.157964"></trkpt>
+            <trkpt lon="-77.520215" lat="43.158995"></trkpt>
+            <trkpt lon="-77.522385" lat="43.158933"></trkpt>
+            <trkpt lon="-77.522440" lat="43.160435"></trkpt>
+            <trkpt lon="-77.523212" lat="43.160110"></trkpt>
+            <trkpt lon="-77.523831" lat="43.160074"></trkpt>
+            <trkpt lon="-77.524047" lat="43.160220"></trkpt>
+            <trkpt lon="-77.524200" lat="43.160462"></trkpt>
+            <trkpt lon="-77.524507" lat="43.160661"></trkpt>
+            <trkpt lon="-77.524809" lat="43.160989"></trkpt>
+            <trkpt lon="-77.525035" lat="43.161019"></trkpt>
+            <trkpt lon="-77.525637" lat="43.160899"></trkpt>
+            <trkpt lon="-77.525954" lat="43.160977"></trkpt>
+            <trkpt lon="-77.526492" lat="43.161237"></trkpt>
+            <trkpt lon="-77.526683" lat="43.161442"></trkpt>
+            <trkpt lon="-77.526852" lat="43.161511"></trkpt>
+            <trkpt lon="-77.526839" lat="43.161736"></trkpt>
+            <trkpt lon="-77.527570" lat="43.161785"></trkpt>
+            <trkpt lon="-77.528081" lat="43.161824"></trkpt>
+            <trkpt lon="-77.528514" lat="43.161696"></trkpt>
+            <trkpt lon="-77.528658" lat="43.161529"></trkpt>
+            <trkpt lon="-77.528566" lat="43.161403"></trkpt>
+            <trkpt lon="-77.528142" lat="43.161359"></trkpt>
+            <trkpt lon="-77.527666" lat="43.161108"></trkpt>
+            <trkpt lon="-77.527789" lat="43.160723"></trkpt>
+            <trkpt lon="-77.528146" lat="43.160268"></trkpt>
+            <trkpt lon="-77.528430" lat="43.160034"></trkpt>
+            <trkpt lon="-77.528439" lat="43.159848"></trkpt>
+            <trkpt lon="-77.528188" lat="43.159658"></trkpt>
+            <trkpt lon="-77.527792" lat="43.159192"></trkpt>
+            <trkpt lon="-77.527390" lat="43.158961"></trkpt>
+            <trkpt lon="-77.527233" lat="43.158611"></trkpt>
+            <trkpt lon="-77.527339" lat="43.157727"></trkpt>
+            <trkpt lon="-77.528886" lat="43.157988"></trkpt>
+            <trkpt lon="-77.528829" lat="43.158158"></trkpt>
+            <trkpt lon="-77.529064" lat="43.158272"></trkpt>
+            <trkpt lon="-77.529445" lat="43.158046"></trkpt>
+            <trkpt lon="-77.530205" lat="43.158186"></trkpt>
+            <trkpt lon="-77.529792" lat="43.159326"></trkpt>
+            <trkpt lon="-77.530843" lat="43.159569"></trkpt>
+            <trkpt lon="-77.529891" lat="43.161513"></trkpt>
+            <trkpt lon="-77.531442" lat="43.161960"></trkpt>
+            <trkpt lon="-77.530222" lat="43.164394"></trkpt>
+            <trkpt lon="-77.530923" lat="43.164873"></trkpt>
+            <trkpt lon="-77.531582" lat="43.165360"></trkpt>
+            <trkpt lon="-77.531963" lat="43.166230"></trkpt>
+            <trkpt lon="-77.532409" lat="43.166340"></trkpt>
+            <trkpt lon="-77.532788" lat="43.166690"></trkpt>
+            <trkpt lon="-77.532973" lat="43.167157"></trkpt>
+            <trkpt lon="-77.532884" lat="43.167606"></trkpt>
+            <trkpt lon="-77.534397" lat="43.167545"></trkpt>
+            <trkpt lon="-77.534417" lat="43.167947"></trkpt>
+            <trkpt lon="-77.534329" lat="43.168265"></trkpt>
+            <trkpt lon="-77.533120" lat="43.169327"></trkpt>
+            <trkpt lon="-77.533237" lat="43.169919"></trkpt>
+            <trkpt lon="-77.533427" lat="43.170153"></trkpt>
+            <trkpt lon="-77.534547" lat="43.170635"></trkpt>
+            <trkpt lon="-77.535377" lat="43.172424"></trkpt>
+            <trkpt lon="-77.534373" lat="43.175142"></trkpt>
+            <trkpt lon="-77.531966" lat="43.175145"></trkpt>
+            <trkpt lon="-77.531771" lat="43.175472"></trkpt>
+            <trkpt lon="-77.531446" lat="43.175441"></trkpt>
+            <trkpt lon="-77.531223" lat="43.175984"></trkpt>
+            <trkpt lon="-77.531376" lat="43.176021"></trkpt>
+            <trkpt lon="-77.530946" lat="43.177093"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.524803" lat="43.172604"></trkpt>
+            <trkpt lon="-77.524832" lat="43.172502"></trkpt>
+            <trkpt lon="-77.524969" lat="43.172375"></trkpt>
+            <trkpt lon="-77.525202" lat="43.172271"></trkpt>
+            <trkpt lon="-77.525507" lat="43.172229"></trkpt>
+            <trkpt lon="-77.525767" lat="43.172264"></trkpt>
+            <trkpt lon="-77.525944" lat="43.172327"></trkpt>
+            <trkpt lon="-77.526028" lat="43.172355"></trkpt>
+            <trkpt lon="-77.526083" lat="43.172419"></trkpt>
+            <trkpt lon="-77.526227" lat="43.172432"></trkpt>
+            <trkpt lon="-77.526363" lat="43.172418"></trkpt>
+            <trkpt lon="-77.526394" lat="43.172412"></trkpt>
+            <trkpt lon="-77.526385" lat="43.172379"></trkpt>
+            <trkpt lon="-77.526188" lat="43.172279"></trkpt>
+            <trkpt lon="-77.526106" lat="43.172164"></trkpt>
+            <trkpt lon="-77.526060" lat="43.172104"></trkpt>
+            <trkpt lon="-77.526061" lat="43.172061"></trkpt>
+            <trkpt lon="-77.526100" lat="43.172051"></trkpt>
+            <trkpt lon="-77.526304" lat="43.172144"></trkpt>
+            <trkpt lon="-77.526671" lat="43.172236"></trkpt>
+            <trkpt lon="-77.526760" lat="43.172285"></trkpt>
+            <trkpt lon="-77.526823" lat="43.172294"></trkpt>
+            <trkpt lon="-77.526872" lat="43.172281"></trkpt>
+            <trkpt lon="-77.527049" lat="43.172145"></trkpt>
+            <trkpt lon="-77.527137" lat="43.171963"></trkpt>
+            <trkpt lon="-77.527146" lat="43.171903"></trkpt>
+            <trkpt lon="-77.527139" lat="43.171874"></trkpt>
+            <trkpt lon="-77.527004" lat="43.171598"></trkpt>
+            <trkpt lon="-77.526733" lat="43.171214"></trkpt>
+            <trkpt lon="-77.526449" lat="43.170898"></trkpt>
+            <trkpt lon="-77.526453" lat="43.170880"></trkpt>
+            <trkpt lon="-77.526628" lat="43.170834"></trkpt>
+            <trkpt lon="-77.526666" lat="43.170835"></trkpt>
+            <trkpt lon="-77.526873" lat="43.170880"></trkpt>
+            <trkpt lon="-77.526908" lat="43.170864"></trkpt>
+            <trkpt lon="-77.526930" lat="43.170717"></trkpt>
+            <trkpt lon="-77.526922" lat="43.170568"></trkpt>
+            <trkpt lon="-77.526890" lat="43.170536"></trkpt>
+            <trkpt lon="-77.526691" lat="43.170466"></trkpt>
+            <trkpt lon="-77.526495" lat="43.170388"></trkpt>
+            <trkpt lon="-77.526477" lat="43.170362"></trkpt>
+            <trkpt lon="-77.526220" lat="43.170091"></trkpt>
+            <trkpt lon="-77.526012" lat="43.169804"></trkpt>
+            <trkpt lon="-77.525882" lat="43.169552"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_pink</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.528518" lat="43.166847">lmorin</trkpt>
+            <trkpt lon="-77.528694" lat="43.166847">lmorin</trkpt>
+            <trkpt lon="-77.528816" lat="43.166881">lmorin</trkpt>
+            <trkpt lon="-77.528961" lat="43.166961">lmorin</trkpt>
+            <trkpt lon="-77.529129" lat="43.167148">lmorin</trkpt>
+            <trkpt lon="-77.529273" lat="43.167255">lmorin</trkpt>
+            <trkpt lon="-77.529350" lat="43.167346">lmorin</trkpt>
+            <trkpt lon="-77.529411" lat="43.167510">lmorin</trkpt>
+            <trkpt lon="-77.529502" lat="43.167648">lmorin</trkpt>
+            <trkpt lon="-77.529579" lat="43.167694">lmorin</trkpt>
+            <trkpt lon="-77.529563" lat="43.167587">lmorin</trkpt>
+            <trkpt lon="-77.529571" lat="43.167465">lmorin</trkpt>
+            <trkpt lon="-77.529556" lat="43.167339">lmorin</trkpt>
+            <trkpt lon="-77.529403" lat="43.167228">lmorin</trkpt>
+            <trkpt lon="-77.529411" lat="43.167079">lmorin</trkpt>
+            <trkpt lon="-77.529571" lat="43.166976">lmorin</trkpt>
+            <trkpt lon="-77.529724" lat="43.166957">lmorin</trkpt>
+            <trkpt lon="-77.529815" lat="43.166889">lmorin</trkpt>
+            <trkpt lon="-77.529853" lat="43.166797">lmorin</trkpt>
+            <trkpt lon="-77.529991" lat="43.166717">lmorin</trkpt>
+            <trkpt lon="-77.530166" lat="43.166648">lmorin</trkpt>
+            <trkpt lon="-77.530380" lat="43.166564">lmorin</trkpt>
+            <trkpt lon="-77.530502" lat="43.166515">lmorin</trkpt>
+            <trkpt lon="-77.530575" lat="43.166425">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.527115" lat="43.169974"></trkpt>
+            <trkpt lon="-77.527423" lat="43.169801"></trkpt>
+            <trkpt lon="-77.527614" lat="43.169326"></trkpt>
+            <trkpt lon="-77.527651" lat="43.168957"></trkpt>
+            <trkpt lon="-77.527811" lat="43.168490"></trkpt>
+            <trkpt lon="-77.527980" lat="43.168266"></trkpt>
+            <trkpt lon="-77.528124" lat="43.167924"></trkpt>
+            <trkpt lon="-77.528136" lat="43.167586"></trkpt>
+            <trkpt lon="-77.527901" lat="43.167440"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.527304" lat="43.168247"></trkpt>
+            <trkpt lon="-77.527817" lat="43.168491"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_salmon</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.527765" lat="43.165846">lmorin</trkpt>
+            <trkpt lon="-77.527809" lat="43.165912">lmorin</trkpt>
+            <trkpt lon="-77.527938" lat="43.165924">lmorin</trkpt>
+            <trkpt lon="-77.528068" lat="43.165889">lmorin</trkpt>
+            <trkpt lon="-77.528182" lat="43.165794">lmorin</trkpt>
+            <trkpt lon="-77.528266" lat="43.165721">lmorin</trkpt>
+            <trkpt lon="-77.528503" lat="43.165683">lmorin</trkpt>
+            <trkpt lon="-77.528663" lat="43.165637">lmorin</trkpt>
+            <trkpt lon="-77.528747" lat="43.165561">lmorin</trkpt>
+            <trkpt lon="-77.528900" lat="43.165458">lmorin</trkpt>
+            <trkpt lon="-77.529029" lat="43.165447">lmorin</trkpt>
+            <trkpt lon="-77.529144" lat="43.165493">lmorin</trkpt>
+            <trkpt lon="-77.529205" lat="43.165576">lmorin</trkpt>
+            <trkpt lon="-77.529243" lat="43.165664">lmorin</trkpt>
+            <trkpt lon="-77.529289" lat="43.165756">lmorin</trkpt>
+            <trkpt lon="-77.529370" lat="43.165895">lmorin</trkpt>
+            <trkpt lon="-77.529364" lat="43.165995">lmorin</trkpt>
+            <trkpt lon="-77.529226" lat="43.166090">lmorin</trkpt>
+            <trkpt lon="-77.529097" lat="43.166220">lmorin</trkpt>
+            <trkpt lon="-77.528990" lat="43.166350">lmorin</trkpt>
+            <trkpt lon="-77.528830" lat="43.166445">lmorin</trkpt>
+            <trkpt lon="-77.528662" lat="43.166495">lmorin</trkpt>
+            <trkpt lon="-77.528509" lat="43.166449">lmorin</trkpt>
+            <trkpt lon="-77.528357" lat="43.166377">lmorin</trkpt>
+            <trkpt lon="-77.528234" lat="43.166361">lmorin</trkpt>
+            <trkpt lon="-77.528038" lat="43.166350">lmorin</trkpt>
+            <trkpt lon="-77.527821" lat="43.166611">lmorin</trkpt>
+            <trkpt lon="-77.527543" lat="43.166841">lmorin</trkpt>
+            <trkpt lon="-77.527242" lat="43.167115">lmorin</trkpt>
+            <trkpt lon="-77.527142" lat="43.167118">lmorin</trkpt>
+            <trkpt lon="-77.527126" lat="43.167353">lmorin</trkpt>
+            <trkpt lon="-77.527096" lat="43.167561">lmorin</trkpt>
+            <trkpt lon="-77.527066" lat="43.167679">lmorin</trkpt>
+            <trkpt lon="-77.526806" lat="43.168035">lmorin</trkpt>
+            <trkpt lon="-77.526630" lat="43.168328">lmorin</trkpt>
+            <trkpt lon="-77.526526" lat="43.168493">lmorin</trkpt>
+            <trkpt lon="-77.526417" lat="43.168601">lmorin</trkpt>
+            <trkpt lon="-77.526264" lat="43.168632">lmorin</trkpt>
+            <trkpt lon="-77.526103" lat="43.168635">lmorin</trkpt>
+            <trkpt lon="-77.525872" lat="43.168645">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_salmon</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.528167" lat="43.167029"></trkpt>
+            <trkpt lon="-77.528056" lat="43.166925"></trkpt>
+            <trkpt lon="-77.528125" lat="43.166796"></trkpt>
+            <trkpt lon="-77.528321" lat="43.166616"></trkpt>
+            <trkpt lon="-77.528516" lat="43.166453"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_salmon</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.527141" lat="43.167119"></trkpt>
+            <trkpt lon="-77.527059" lat="43.167081"></trkpt>
+            <trkpt lon="-77.526910" lat="43.166869"></trkpt>
+            <trkpt lon="-77.526795" lat="43.166574"></trkpt>
+            <trkpt lon="-77.526774" lat="43.166319"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.522927" lat="43.164861">lmorin</trkpt>
+            <trkpt lon="-77.523607" lat="43.165161">lmorin</trkpt>
+            <trkpt lon="-77.523640" lat="43.165306">lmorin</trkpt>
+            <trkpt lon="-77.523758" lat="43.165403">lmorin</trkpt>
+            <trkpt lon="-77.523925" lat="43.165461">lmorin</trkpt>
+            <trkpt lon="-77.524411" lat="43.165491">lmorin</trkpt>
+            <trkpt lon="-77.524549" lat="43.165476">lmorin</trkpt>
+            <trkpt lon="-77.525154" lat="43.165638">lmorin</trkpt>
+            <trkpt lon="-77.525475" lat="43.165664">lmorin</trkpt>
+            <trkpt lon="-77.525731" lat="43.165728">lmorin</trkpt>
+            <trkpt lon="-77.525838" lat="43.165789">lmorin</trkpt>
+            <trkpt lon="-77.526083" lat="43.166125">lmorin</trkpt>
+            <trkpt lon="-77.526198" lat="43.166224">lmorin</trkpt>
+            <trkpt lon="-77.526476" lat="43.166372">lmorin</trkpt>
+            <trkpt lon="-77.526804" lat="43.166300">lmorin</trkpt>
+            <trkpt lon="-77.527529" lat="43.165999">lmorin</trkpt>
+            <trkpt lon="-77.527765" lat="43.165846">lmorin</trkpt>
+            <trkpt lon="-77.528218" lat="43.165081">lmorin</trkpt>
+            <trkpt lon="-77.528229" lat="43.164783">lmorin</trkpt>
+            <trkpt lon="-77.528205" lat="43.164648">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.526025" lat="43.168713">lmorin</trkpt>
+            <trkpt lon="-77.525970" lat="43.169185">lmorin</trkpt>
+            <trkpt lon="-77.525924" lat="43.169307">lmorin</trkpt>
+            <trkpt lon="-77.525882" lat="43.169547">lmorin</trkpt>
+            <trkpt lon="-77.525332" lat="43.170278">lmorin</trkpt>
+            <trkpt lon="-77.524965" lat="43.170427">lmorin</trkpt>
+            <trkpt lon="-77.524775" lat="43.170439">lmorin</trkpt>
+            <trkpt lon="-77.524668" lat="43.170271">lmorin</trkpt>
+            <trkpt lon="-77.524538" lat="43.170278">lmorin</trkpt>
+            <trkpt lon="-77.524378" lat="43.170320">lmorin</trkpt>
+            <trkpt lon="-77.524279" lat="43.170381">lmorin</trkpt>
+            <trkpt lon="-77.524332" lat="43.170477">lmorin</trkpt>
+            <trkpt lon="-77.524447" lat="43.170534">lmorin</trkpt>
+            <trkpt lon="-77.524630" lat="43.170561">lmorin</trkpt>
+            <trkpt lon="-77.524782" lat="43.170683">lmorin</trkpt>
+            <trkpt lon="-77.524890" lat="43.170863">lmorin</trkpt>
+            <trkpt lon="-77.524950" lat="43.171077">lmorin</trkpt>
+            <trkpt lon="-77.524959" lat="43.171378">lmorin</trkpt>
+            <trkpt lon="-77.524844" lat="43.171678">lmorin</trkpt>
+            <trkpt lon="-77.524468" lat="43.172112">lmorin</trkpt>
+            <trkpt lon="-77.524488" lat="43.172332">lmorin</trkpt>
+            <trkpt lon="-77.524607" lat="43.172504">lmorin</trkpt>
+            <trkpt lon="-77.524801" lat="43.172610">lmorin</trkpt>
+            <trkpt lon="-77.524841" lat="43.172710">lmorin</trkpt>
+            <trkpt lon="-77.524791" lat="43.172860">lmorin</trkpt>
+            <trkpt lon="-77.524701" lat="43.172980">lmorin</trkpt>
+            <trkpt lon="-77.524400" lat="43.173060">lmorin</trkpt>
+            <trkpt lon="-77.524170" lat="43.173030">lmorin</trkpt>
+            <trkpt lon="-77.524000" lat="43.172940">lmorin</trkpt>
+            <trkpt lon="-77.523892" lat="43.172814">lmorin</trkpt>
+            <trkpt lon="-77.523702" lat="43.172705">lmorin</trkpt>
+            <trkpt lon="-77.523532" lat="43.172682">lmorin</trkpt>
+            <trkpt lon="-77.523362" lat="43.172715">lmorin</trkpt>
+            <trkpt lon="-77.523250" lat="43.172780">lmorin</trkpt>
+            <trkpt lon="-77.523320" lat="43.172880">lmorin</trkpt>
+            <trkpt lon="-77.523410" lat="43.173270">lmorin</trkpt>
+            <trkpt lon="-77.523420" lat="43.173670">lmorin</trkpt>
+            <trkpt lon="-77.523450" lat="43.173790">lmorin</trkpt>
+            <trkpt lon="-77.523483" lat="43.174115">lmorin</trkpt>
+            <trkpt lon="-77.523573" lat="43.174281">lmorin</trkpt>
+            <trkpt lon="-77.523671" lat="43.174363">lmorin</trkpt>
+            <trkpt lon="-77.523868" lat="43.174615">lmorin</trkpt>
+            <trkpt lon="-77.523868" lat="43.174685">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.525869" lat="43.168651">lmorin</trkpt>
+            <trkpt lon="-77.526357" lat="43.168786">lmorin</trkpt>
+            <trkpt lon="-77.526915" lat="43.168546">lmorin</trkpt>
+            <trkpt lon="-77.527297" lat="43.168237">lmorin</trkpt>
+            <trkpt lon="-77.528175" lat="43.167026">lmorin</trkpt>
+            <trkpt lon="-77.528289" lat="43.166927">lmorin</trkpt>
+            <trkpt lon="-77.528990" lat="43.166718">lmorin</trkpt>
+            <trkpt lon="-77.529811" lat="43.166594">lmorin</trkpt>
+            <trkpt lon="-77.530274" lat="43.166463">lmorin</trkpt>
+            <trkpt lon="-77.531044" lat="43.166366">lmorin</trkpt>
+            <trkpt lon="-77.531311" lat="43.166416">lmorin</trkpt>
+            <trkpt lon="-77.531486" lat="43.166427">lmorin</trkpt>
+            <trkpt lon="-77.531640" lat="43.166418">lmorin</trkpt>
+            <trkpt lon="-77.531700" lat="43.166400">lmorin</trkpt>
+            <trkpt lon="-77.531600" lat="43.166347">lmorin</trkpt>
+            <trkpt lon="-77.531005" lat="43.166160">lmorin</trkpt>
+            <trkpt lon="-77.530616" lat="43.165969">lmorin</trkpt>
+            <trkpt lon="-77.530479" lat="43.165950">lmorin</trkpt>
+            <trkpt lon="-77.530364" lat="43.165843">lmorin</trkpt>
+            <trkpt lon="-77.530296" lat="43.165721">lmorin</trkpt>
+            <trkpt lon="-77.529739" lat="43.165161">lmorin</trkpt>
+            <trkpt lon="-77.529609" lat="43.165088">lmorin</trkpt>
+            <trkpt lon="-77.529212" lat="43.165012">lmorin</trkpt>
+            <trkpt lon="-77.528976" lat="43.165008">lmorin</trkpt>
+            <trkpt lon="-77.528778" lat="43.164947">lmorin</trkpt>
+            <trkpt lon="-77.528526" lat="43.164909">lmorin</trkpt>
+            <trkpt lon="-77.528327" lat="43.164691">lmorin</trkpt>
+            <trkpt lon="-77.528205" lat="43.164649">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_yellow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.522940" lat="43.164860">lmorin</trkpt>
+            <trkpt lon="-77.523100" lat="43.164880">lmorin</trkpt>
+            <trkpt lon="-77.523220" lat="43.164840">lmorin</trkpt>
+            <trkpt lon="-77.523380" lat="43.164810">lmorin</trkpt>
+            <trkpt lon="-77.523540" lat="43.164800">lmorin</trkpt>
+            <trkpt lon="-77.523750" lat="43.164820">lmorin</trkpt>
+            <trkpt lon="-77.523950" lat="43.164850">lmorin</trkpt>
+            <trkpt lon="-77.524140" lat="43.164890">lmorin</trkpt>
+            <trkpt lon="-77.524330" lat="43.164990">lmorin</trkpt>
+            <trkpt lon="-77.524570" lat="43.165040">lmorin</trkpt>
+            <trkpt lon="-77.525022" lat="43.165173">lmorin</trkpt>
+            <trkpt lon="-77.525340" lat="43.165260">lmorin</trkpt>
+            <trkpt lon="-77.525444" lat="43.165323">lmorin</trkpt>
+            <trkpt lon="-77.525610" lat="43.165419">lmorin</trkpt>
+            <trkpt lon="-77.525747" lat="43.165469">lmorin</trkpt>
+            <trkpt lon="-77.525957" lat="43.165549">lmorin</trkpt>
+            <trkpt lon="-77.526147" lat="43.165639">lmorin</trkpt>
+            <trkpt lon="-77.526307" lat="43.165659">lmorin</trkpt>
+            <trkpt lon="-77.526427" lat="43.165639">lmorin</trkpt>
+            <trkpt lon="-77.526620" lat="43.165601">lmorin</trkpt>
+            <trkpt lon="-77.526845" lat="43.165547">lmorin</trkpt>
+            <trkpt lon="-77.527111" lat="43.165519">lmorin</trkpt>
+            <trkpt lon="-77.527325" lat="43.165500">lmorin</trkpt>
+            <trkpt lon="-77.527615" lat="43.165500">lmorin</trkpt>
+            <trkpt lon="-77.527975" lat="43.165472">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_rifle_range_yellow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.525722" lat="43.165723"></trkpt>
+            <trkpt lon="-77.525657" lat="43.166201"></trkpt>
+            <trkpt lon="-77.525702" lat="43.166633"></trkpt>
+            <trkpt lon="-77.525732" lat="43.166811"></trkpt>
+            <trkpt lon="-77.525799" lat="43.166886"></trkpt>
+            <trkpt lon="-77.525942" lat="43.166927"></trkpt>
+            <trkpt lon="-77.525872" lat="43.167183"></trkpt>
+            <trkpt lon="-77.525953" lat="43.167308"></trkpt>
+            <trkpt lon="-77.526140" lat="43.167398"></trkpt>
+            <trkpt lon="-77.526306" lat="43.167590"></trkpt>
+            <trkpt lon="-77.526339" lat="43.167674"></trkpt>
+            <trkpt lon="-77.525483" lat="43.167865"></trkpt>
+            <trkpt lon="-77.524941" lat="43.168055"></trkpt>
+            <trkpt lon="-77.524927" lat="43.168111"></trkpt>
+            <trkpt lon="-77.525140" lat="43.168196"></trkpt>
+            <trkpt lon="-77.524948" lat="43.168271"></trkpt>
+            <trkpt lon="-77.524946" lat="43.168329"></trkpt>
+            <trkpt lon="-77.525414" lat="43.168603"></trkpt>
+            <trkpt lon="-77.525735" lat="43.168816"></trkpt>
+            <trkpt lon="-77.525990" lat="43.169056"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.523707" lat="43.175612"></trkpt>
+            <trkpt lon="-77.523778" lat="43.175118"></trkpt>
+            <trkpt lon="-77.523838" lat="43.174952"></trkpt>
+            <trkpt lon="-77.523952" lat="43.174876"></trkpt>
+            <trkpt lon="-77.524123" lat="43.174862"></trkpt>
+            <trkpt lon="-77.524286" lat="43.174816"></trkpt>
+            <trkpt lon="-77.524389" lat="43.174725"></trkpt>
+            <trkpt lon="-77.524530" lat="43.174475"></trkpt>
+            <trkpt lon="-77.524746" lat="43.174180"></trkpt>
+            <trkpt lon="-77.524958" lat="43.173812"></trkpt>
+            <trkpt lon="-77.525326" lat="43.173037"></trkpt>
+            <trkpt lon="-77.525460" lat="43.172874"></trkpt>
+            <trkpt lon="-77.525612" lat="43.172788"></trkpt>
+            <trkpt lon="-77.525926" lat="43.172717"></trkpt>
+            <trkpt lon="-77.526329" lat="43.172654"></trkpt>
+            <trkpt lon="-77.526630" lat="43.172615"></trkpt>
+            <trkpt lon="-77.527017" lat="43.172517"></trkpt>
+            <trkpt lon="-77.527258" lat="43.172420"></trkpt>
+            <trkpt lon="-77.527460" lat="43.172285"></trkpt>
+            <trkpt lon="-77.527540" lat="43.172251"></trkpt>
+            <trkpt lon="-77.527902" lat="43.172167"></trkpt>
+            <trkpt lon="-77.528365" lat="43.172104"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.522932" lat="43.164859">lmorin</trkpt>
+            <trkpt lon="-77.522830" lat="43.164780">lmorin</trkpt>
+            <trkpt lon="-77.522600" lat="43.164670">lmorin</trkpt>
+            <trkpt lon="-77.522100" lat="43.164570">lmorin</trkpt>
+            <trkpt lon="-77.521934" lat="43.164307">lmorin</trkpt>
+            <trkpt lon="-77.521654" lat="43.164241">lmorin</trkpt>
+            <trkpt lon="-77.521300" lat="43.164280">lmorin</trkpt>
+            <trkpt lon="-77.521140" lat="43.164240">lmorin</trkpt>
+            <trkpt lon="-77.521030" lat="43.164100">lmorin</trkpt>
+            <trkpt lon="-77.520730" lat="43.163970">lmorin</trkpt>
+            <trkpt lon="-77.520550" lat="43.163450">lmorin</trkpt>
+            <trkpt lon="-77.520420" lat="43.163310">lmorin</trkpt>
+            <trkpt lon="-77.520290" lat="43.163240">lmorin</trkpt>
+            <trkpt lon="-77.520200" lat="43.163140">lmorin</trkpt>
+            <trkpt lon="-77.520150" lat="43.163050">lmorin</trkpt>
+            <trkpt lon="-77.520090" lat="43.162730">lmorin</trkpt>
+            <trkpt lon="-77.520030" lat="43.162620">lmorin</trkpt>
+            <trkpt lon="-77.520000" lat="43.162480">lmorin</trkpt>
+            <trkpt lon="-77.519420" lat="43.161740">lmorin</trkpt>
+            <trkpt lon="-77.519370" lat="43.161600">lmorin</trkpt>
+            <trkpt lon="-77.519420" lat="43.160920">lmorin</trkpt>
+            <trkpt lon="-77.519400" lat="43.160820">lmorin</trkpt>
+            <trkpt lon="-77.519470" lat="43.160730">lmorin</trkpt>
+            <trkpt lon="-77.519740" lat="43.160590">lmorin</trkpt>
+            <trkpt lon="-77.519820" lat="43.160500">lmorin</trkpt>
+            <trkpt lon="-77.519830" lat="43.160090">lmorin</trkpt>
+            <trkpt lon="-77.519680" lat="43.159820">lmorin</trkpt>
+            <trkpt lon="-77.518604" lat="43.159166">lmorin</trkpt>
+            <trkpt lon="-77.518578" lat="43.159168">lmorin</trkpt>
+            <trkpt lon="-77.518539" lat="43.159157">lmorin</trkpt>
+            <trkpt lon="-77.518478" lat="43.159138">lmorin</trkpt>
+            <trkpt lon="-77.518379" lat="43.159019">lmorin</trkpt>
+            <trkpt lon="-77.517891" lat="43.158829">lmorin</trkpt>
+            <trkpt lon="-77.517891" lat="43.158798">lmorin</trkpt>
+            <trkpt lon="-77.517952" lat="43.158642">lmorin</trkpt>
+            <trkpt lon="-77.517899" lat="43.158527">lmorin</trkpt>
+            <trkpt lon="-77.517830" lat="43.158478">lmorin</trkpt>
+            <trkpt lon="-77.518005" lat="43.157818">lmorin</trkpt>
+            <trkpt lon="-77.518425" lat="43.157787">lmorin</trkpt>
+            <trkpt lon="-77.518639" lat="43.157887">lmorin</trkpt>
+            <trkpt lon="-77.518723" lat="43.157883">lmorin</trkpt>
+            <trkpt lon="-77.518776" lat="43.157909">lmorin</trkpt>
+            <trkpt lon="-77.518829" lat="43.157990">lmorin</trkpt>
+            <trkpt lon="-77.518829" lat="43.158012">lmorin</trkpt>
+            <trkpt lon="-77.518814" lat="43.158051">lmorin</trkpt>
+            <trkpt lon="-77.518784" lat="43.158077">lmorin</trkpt>
+            <trkpt lon="-77.518761" lat="43.158085">lmorin</trkpt>
+            <trkpt lon="-77.518745" lat="43.158123">lmorin</trkpt>
+            <trkpt lon="-77.518753" lat="43.158142">lmorin</trkpt>
+            <trkpt lon="-77.518936" lat="43.158321">lmorin</trkpt>
+            <trkpt lon="-77.518944" lat="43.158340">lmorin</trkpt>
+            <trkpt lon="-77.519089" lat="43.158459">lmorin</trkpt>
+            <trkpt lon="-77.519180" lat="43.158463">lmorin</trkpt>
+            <trkpt lon="-77.519211" lat="43.158440">lmorin</trkpt>
+            <trkpt lon="-77.519226" lat="43.158405">lmorin</trkpt>
+            <trkpt lon="-77.519226" lat="43.158390">lmorin</trkpt>
+            <trkpt lon="-77.519241" lat="43.158352">lmorin</trkpt>
+            <trkpt lon="-77.519241" lat="43.158337">lmorin</trkpt>
+            <trkpt lon="-77.519508" lat="43.157967">lmorin</trkpt>
+            <trkpt lon="-77.520317" lat="43.157803">lmorin</trkpt>
+            <trkpt lon="-77.520447" lat="43.157810">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_connector</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.525093" lat="43.157078">lmorin</trkpt>
+            <trkpt lon="-77.525300" lat="43.156892">lmorin</trkpt>
+            <trkpt lon="-77.526681" lat="43.157462">lmorin</trkpt>
+            <trkpt lon="-77.527237" lat="43.157616">lmorin</trkpt>
+            <trkpt lon="-77.528206" lat="43.157810">lmorin</trkpt>
+            <trkpt lon="-77.528236" lat="43.157825">lmorin</trkpt>
+            <trkpt lon="-77.528214" lat="43.157858">lmorin</trkpt>
+            <trkpt lon="-77.528259" lat="43.157848">lmorin</trkpt>
+            <trkpt lon="-77.528381" lat="43.157909">lmorin</trkpt>
+            <trkpt lon="-77.528526" lat="43.157936">lmorin</trkpt>
+            <trkpt lon="-77.528938" lat="43.157887">lmorin</trkpt>
+            <trkpt lon="-77.528961" lat="43.157879">lmorin</trkpt>
+            <trkpt lon="-77.528969" lat="43.157871">lmorin</trkpt>
+            <trkpt lon="-77.529045" lat="43.157848">lmorin</trkpt>
+            <trkpt lon="-77.529137" lat="43.157860">lmorin</trkpt>
+            <trkpt lon="-77.529152" lat="43.157867">lmorin</trkpt>
+            <trkpt lon="-77.529182" lat="43.157894">lmorin</trkpt>
+            <trkpt lon="-77.529312" lat="43.157936">lmorin</trkpt>
+            <trkpt lon="-77.529327" lat="43.157951">lmorin</trkpt>
+            <trkpt lon="-77.529427" lat="43.157978">lmorin</trkpt>
+            <trkpt lon="-77.529480" lat="43.158020">lmorin</trkpt>
+            <trkpt lon="-77.529526" lat="43.158085">lmorin</trkpt>
+            <trkpt lon="-77.529839" lat="43.158287">lmorin</trkpt>
+            <trkpt lon="-77.529839" lat="43.158310">lmorin</trkpt>
+            <trkpt lon="-77.529831" lat="43.158321">lmorin</trkpt>
+            <trkpt lon="-77.529808" lat="43.158340">lmorin</trkpt>
+            <trkpt lon="-77.529800" lat="43.158352">lmorin</trkpt>
+            <trkpt lon="-77.529785" lat="43.158360">lmorin</trkpt>
+            <trkpt lon="-77.529770" lat="43.158363">lmorin</trkpt>
+            <trkpt lon="-77.529732" lat="43.158382">lmorin</trkpt>
+            <trkpt lon="-77.529716" lat="43.158405">lmorin</trkpt>
+            <trkpt lon="-77.529709" lat="43.158424">lmorin</trkpt>
+            <trkpt lon="-77.529709" lat="43.158470">lmorin</trkpt>
+            <trkpt lon="-77.529701" lat="43.158489">lmorin</trkpt>
+            <trkpt lon="-77.529663" lat="43.158531">lmorin</trkpt>
+            <trkpt lon="-77.529648" lat="43.158566">lmorin</trkpt>
+            <trkpt lon="-77.529610" lat="43.158581">lmorin</trkpt>
+            <trkpt lon="-77.529610" lat="43.158588">lmorin</trkpt>
+            <trkpt lon="-77.529602" lat="43.158604">lmorin</trkpt>
+            <trkpt lon="-77.529602" lat="43.158623">lmorin</trkpt>
+            <trkpt lon="-77.529594" lat="43.158638">lmorin</trkpt>
+            <trkpt lon="-77.529572" lat="43.158657">lmorin</trkpt>
+            <trkpt lon="-77.529541" lat="43.158672">lmorin</trkpt>
+            <trkpt lon="-77.529518" lat="43.158691">lmorin</trkpt>
+            <trkpt lon="-77.529472" lat="43.158764">lmorin</trkpt>
+            <trkpt lon="-77.529457" lat="43.158779">lmorin</trkpt>
+            <trkpt lon="-77.529396" lat="43.158817">lmorin</trkpt>
+            <trkpt lon="-77.529312" lat="43.158989">lmorin</trkpt>
+            <trkpt lon="-77.529259" lat="43.159050">lmorin</trkpt>
+            <trkpt lon="-77.529198" lat="43.159096">lmorin</trkpt>
+            <trkpt lon="-77.529182" lat="43.159119">lmorin</trkpt>
+            <trkpt lon="-77.529167" lat="43.159157">lmorin</trkpt>
+            <trkpt lon="-77.529152" lat="43.159176">lmorin</trkpt>
+            <trkpt lon="-77.529129" lat="43.159187">lmorin</trkpt>
+            <trkpt lon="-77.529114" lat="43.159199">lmorin</trkpt>
+            <trkpt lon="-77.529091" lat="43.159210">lmorin</trkpt>
+            <trkpt lon="-77.529045" lat="43.159260">lmorin</trkpt>
+            <trkpt lon="-77.529037" lat="43.159279">lmorin</trkpt>
+            <trkpt lon="-77.529037" lat="43.159309">lmorin</trkpt>
+            <trkpt lon="-77.529045" lat="43.159328">lmorin</trkpt>
+            <trkpt lon="-77.529060" lat="43.159348">lmorin</trkpt>
+            <trkpt lon="-77.529068" lat="43.159370">lmorin</trkpt>
+            <trkpt lon="-77.529083" lat="43.159393">lmorin</trkpt>
+            <trkpt lon="-77.529083" lat="43.159412">lmorin</trkpt>
+            <trkpt lon="-77.529106" lat="43.159466">lmorin</trkpt>
+            <trkpt lon="-77.529106" lat="43.159477">lmorin</trkpt>
+            <trkpt lon="-77.529121" lat="43.159489">lmorin</trkpt>
+            <trkpt lon="-77.529129" lat="43.159500">lmorin</trkpt>
+            <trkpt lon="-77.529144" lat="43.159508">lmorin</trkpt>
+            <trkpt lon="-77.529259" lat="43.159641">lmorin</trkpt>
+            <trkpt lon="-77.529282" lat="43.159691">lmorin</trkpt>
+            <trkpt lon="-77.529312" lat="43.159721">lmorin</trkpt>
+            <trkpt lon="-77.529587" lat="43.160152">lmorin</trkpt>
+            <trkpt lon="-77.529587" lat="43.160172">lmorin</trkpt>
+            <trkpt lon="-77.529610" lat="43.160206">lmorin</trkpt>
+            <trkpt lon="-77.529678" lat="43.160259">lmorin</trkpt>
+            <trkpt lon="-77.529686" lat="43.160278">lmorin</trkpt>
+            <trkpt lon="-77.529701" lat="43.160294">lmorin</trkpt>
+            <trkpt lon="-77.529732" lat="43.160347">lmorin</trkpt>
+            <trkpt lon="-77.529732" lat="43.160393">lmorin</trkpt>
+            <trkpt lon="-77.529755" lat="43.160469">lmorin</trkpt>
+            <trkpt lon="-77.529755" lat="43.160492">lmorin</trkpt>
+            <trkpt lon="-77.529778" lat="43.160549">lmorin</trkpt>
+            <trkpt lon="-77.529877" lat="43.160660">lmorin</trkpt>
+            <trkpt lon="-77.529877" lat="43.160694">lmorin</trkpt>
+            <trkpt lon="-77.529884" lat="43.160713">lmorin</trkpt>
+            <trkpt lon="-77.529884" lat="43.160740">lmorin</trkpt>
+            <trkpt lon="-77.529907" lat="43.160816">lmorin</trkpt>
+            <trkpt lon="-77.529907" lat="43.160839">lmorin</trkpt>
+            <trkpt lon="-77.529922" lat="43.160889">lmorin</trkpt>
+            <trkpt lon="-77.529938" lat="43.160915">lmorin</trkpt>
+            <trkpt lon="-77.529945" lat="43.160938">lmorin</trkpt>
+            <trkpt lon="-77.529945" lat="43.160957">lmorin</trkpt>
+            <trkpt lon="-77.529953" lat="43.160969">lmorin</trkpt>
+            <trkpt lon="-77.529961" lat="43.160976">lmorin</trkpt>
+            <trkpt lon="-77.530029" lat="43.161129">lmorin</trkpt>
+            <trkpt lon="-77.530029" lat="43.161140">lmorin</trkpt>
+            <trkpt lon="-77.530022" lat="43.161148">lmorin</trkpt>
+            <trkpt lon="-77.530022" lat="43.161182">lmorin</trkpt>
+            <trkpt lon="-77.530006" lat="43.161201">lmorin</trkpt>
+            <trkpt lon="-77.529999" lat="43.161224">lmorin</trkpt>
+            <trkpt lon="-77.529984" lat="43.161251">lmorin</trkpt>
+            <trkpt lon="-77.529984" lat="43.161278">lmorin</trkpt>
+            <trkpt lon="-77.529976" lat="43.161297">lmorin</trkpt>
+            <trkpt lon="-77.529968" lat="43.161304">lmorin</trkpt>
+            <trkpt lon="-77.529961" lat="43.161320">lmorin</trkpt>
+            <trkpt lon="-77.529671" lat="43.161530">lmorin</trkpt>
+            <trkpt lon="-77.529610" lat="43.161541">lmorin</trkpt>
+            <trkpt lon="-77.528534" lat="43.162075">lmorin</trkpt>
+            <trkpt lon="-77.528084" lat="43.162033">lmorin</trkpt>
+            <trkpt lon="-77.528053" lat="43.162045">lmorin</trkpt>
+            <trkpt lon="-77.528038" lat="43.162056">lmorin</trkpt>
+            <trkpt lon="-77.528023" lat="43.162075">lmorin</trkpt>
+            <trkpt lon="-77.528023" lat="43.162098">lmorin</trkpt>
+            <trkpt lon="-77.528015" lat="43.162117">lmorin</trkpt>
+            <trkpt lon="-77.528023" lat="43.162140">lmorin</trkpt>
+            <trkpt lon="-77.528038" lat="43.162163">lmorin</trkpt>
+            <trkpt lon="-77.528084" lat="43.162193">lmorin</trkpt>
+            <trkpt lon="-77.528137" lat="43.162251">lmorin</trkpt>
+            <trkpt lon="-77.528252" lat="43.162319">lmorin</trkpt>
+            <trkpt lon="-77.528412" lat="43.162579">lmorin</trkpt>
+            <trkpt lon="-77.528496" lat="43.162647">lmorin</trkpt>
+            <trkpt lon="-77.528503" lat="43.162663">lmorin</trkpt>
+            <trkpt lon="-77.528549" lat="43.162704">lmorin</trkpt>
+            <trkpt lon="-77.528603" lat="43.162731">lmorin</trkpt>
+            <trkpt lon="-77.528633" lat="43.162758">lmorin</trkpt>
+            <trkpt lon="-77.528641" lat="43.162769">lmorin</trkpt>
+            <trkpt lon="-77.528641" lat="43.162807">lmorin</trkpt>
+            <trkpt lon="-77.528664" lat="43.162853">lmorin</trkpt>
+            <trkpt lon="-77.528679" lat="43.162861">lmorin</trkpt>
+            <trkpt lon="-77.528687" lat="43.162872">lmorin</trkpt>
+            <trkpt lon="-77.528694" lat="43.162891">lmorin</trkpt>
+            <trkpt lon="-77.528702" lat="43.162903">lmorin</trkpt>
+            <trkpt lon="-77.528725" lat="43.162910">lmorin</trkpt>
+            <trkpt lon="-77.528770" lat="43.163002">lmorin</trkpt>
+            <trkpt lon="-77.528915" lat="43.163097">lmorin</trkpt>
+            <trkpt lon="-77.528961" lat="43.163170">lmorin</trkpt>
+            <trkpt lon="-77.529007" lat="43.163197">lmorin</trkpt>
+            <trkpt lon="-77.529022" lat="43.163200">lmorin</trkpt>
+            <trkpt lon="-77.529030" lat="43.163208">lmorin</trkpt>
+            <trkpt lon="-77.529037" lat="43.163219">lmorin</trkpt>
+            <trkpt lon="-77.529045" lat="43.163227">lmorin</trkpt>
+            <trkpt lon="-77.529099" lat="43.163246">lmorin</trkpt>
+            <trkpt lon="-77.529160" lat="43.163235">lmorin</trkpt>
+            <trkpt lon="-77.529182" lat="43.163239">lmorin</trkpt>
+            <trkpt lon="-77.529243" lat="43.163277">lmorin</trkpt>
+            <trkpt lon="-77.529579" lat="43.163250">lmorin</trkpt>
+            <trkpt lon="-77.529633" lat="43.163265">lmorin</trkpt>
+            <trkpt lon="-77.529709" lat="43.163311">lmorin</trkpt>
+            <trkpt lon="-77.529724" lat="43.163326">lmorin</trkpt>
+            <trkpt lon="-77.529739" lat="43.163334">lmorin</trkpt>
+            <trkpt lon="-77.530273" lat="43.163872">lmorin</trkpt>
+            <trkpt lon="-77.530418" lat="43.163914">lmorin</trkpt>
+            <trkpt lon="-77.530441" lat="43.163914">lmorin</trkpt>
+            <trkpt lon="-77.530457" lat="43.163914">lmorin</trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>lmorin_connector</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.520447" lat="43.157810">lmorin</trkpt>
+            <trkpt lon="-77.520477" lat="43.157837">lmorin</trkpt>
+            <trkpt lon="-77.520485" lat="43.157856">lmorin</trkpt>
+            <trkpt lon="-77.520752" lat="43.157990">lmorin</trkpt>
+            <trkpt lon="-77.520775" lat="43.158012">lmorin</trkpt>
+            <trkpt lon="-77.521301" lat="43.158230">lmorin</trkpt>
+            <trkpt lon="-77.521461" lat="43.158222">lmorin</trkpt>
+            <trkpt lon="-77.521568" lat="43.158257">lmorin</trkpt>
+            <trkpt lon="-77.522430" lat="43.158226">lmorin</trkpt>
+            <trkpt lon="-77.522530" lat="43.158195">lmorin</trkpt>
+            <trkpt lon="-77.523026" lat="43.158176">lmorin</trkpt>
+            <trkpt lon="-77.523277" lat="43.158089">lmorin</trkpt>
+            <trkpt lon="-77.523300" lat="43.158070">lmorin</trkpt>
+            <trkpt lon="-77.523354" lat="43.158047">lmorin</trkpt>
+            <trkpt lon="-77.523438" lat="43.158035">lmorin</trkpt>
+            <trkpt lon="-77.523979" lat="43.157738">lmorin</trkpt>
+            <trkpt lon="-77.524048" lat="43.157669">lmorin</trkpt>
+            <trkpt lon="-77.524071" lat="43.157654">lmorin</trkpt>
+            <trkpt lon="-77.524536" lat="43.157486">lmorin</trkpt>
+            <trkpt lon="-77.525040" lat="43.157169">lmorin</trkpt>
+            <trkpt lon="-77.525094" lat="43.157086">lmorin</trkpt>
+            <trkpt lon="-77.525673" lat="43.157188">lmorin</trkpt>
+            <trkpt lon="-77.525688" lat="43.157196">lmorin</trkpt>
+            <trkpt lon="-77.525826" lat="43.157230">lmorin</trkpt>
+            <trkpt lon="-77.526115" lat="43.157436">lmorin</trkpt>
+            <trkpt lon="-77.526146" lat="43.157482">lmorin</trkpt>
+            <trkpt lon="-77.526154" lat="43.157505">lmorin</trkpt>
+            <trkpt lon="-77.526169" lat="43.157524">lmorin</trkpt>
+            <trkpt lon="-77.526192" lat="43.157600">lmorin</trkpt>
+            <trkpt lon="-77.526237" lat="43.157631">lmorin</trkpt>
+            <trkpt lon="-77.526405" lat="43.157646">lmorin</trkpt>
+            <trkpt lon="-77.526596" lat="43.157612">lmorin</trkpt>
+            <trkpt lon="-77.526703" lat="43.157623">lmorin</trkpt>
+            <trkpt lon="-77.526817" lat="43.157665">lmorin</trkpt>
+            <trkpt lon="-77.526863" lat="43.157669">lmorin</trkpt>
+            <trkpt lon="-77.526878" lat="43.157665">lmorin</trkpt>
+            <trkpt lon="-77.526978" lat="43.157677">lmorin</trkpt>
+            <trkpt lon="-77.527008" lat="43.157673">lmorin</trkpt>
+            <trkpt lon="-77.527039" lat="43.157661">lmorin</trkpt>
+            <trkpt lon="-77.527061" lat="43.157646">lmorin</trkpt>
+            <trkpt lon="-77.527069" lat="43.157631">lmorin</trkpt>
+            <trkpt lon="-77.527077" lat="43.157619">lmorin</trkpt>
+            <trkpt lon="-77.527077" lat="43.157619">lmorin</trkpt>
+            <trkpt lon="-77.527061" lat="43.157589">lmorin</trkpt>
+            <trkpt lon="-77.527046" lat="43.157578">lmorin</trkpt>
+            <trkpt lon="-77.527046" lat="43.157570">lmorin</trkpt>
+            <trkpt lon="-77.527039" lat="43.157562">lmorin</trkpt>
+            <trkpt lon="-77.527039" lat="43.157558">lmorin</trkpt>
+            <trkpt lon="-77.527031" lat="43.157551">lmorin</trkpt>
+            <trkpt lon="-77.527023" lat="43.157547">lmorin</trkpt>
+            <trkpt lon="-77.527008" lat="43.157543">lmorin</trkpt>
+            <trkpt lon="-77.526993" lat="43.157532">lmorin</trkpt>
+            <trkpt lon="-77.526939" lat="43.157383">lmorin</trkpt>
+            <trkpt lon="-77.526978" lat="43.157261">lmorin</trkpt>
+            <trkpt lon="-77.526978" lat="43.157227">lmorin</trkpt>
+            <trkpt lon="-77.526970" lat="43.157207">lmorin</trkpt>
+            <trkpt lon="-77.526970" lat="43.157101">lmorin</trkpt>
+            <trkpt lon="-77.526955" lat="43.157055">lmorin</trkpt>
+            <trkpt lon="-77.526939" lat="43.157032">lmorin</trkpt>
+            <trkpt lon="-77.526924" lat="43.156990">lmorin</trkpt>
+            <trkpt lon="-77.526924" lat="43.156918">lmorin</trkpt>
+            <trkpt lon="-77.526917" lat="43.156895">lmorin</trkpt>
+            <trkpt lon="-77.526901" lat="43.156872">lmorin</trkpt>
+            <trkpt lon="-77.526894" lat="43.156853">lmorin</trkpt>
+            <trkpt lon="-77.526848" lat="43.156780">lmorin</trkpt>
+            <trkpt lon="-77.526840" lat="43.156750">lmorin</trkpt>
+            <trkpt lon="-77.526840" lat="43.156677">lmorin</trkpt>
+            <trkpt lon="-77.526833" lat="43.156651">lmorin</trkpt>
+            <trkpt lon="-77.526833" lat="43.156628">lmorin</trkpt>
+            <trkpt lon="-77.526817" lat="43.156609">lmorin</trkpt>
+            <trkpt lon="-77.526802" lat="43.156574">lmorin</trkpt>
+            <trkpt lon="-77.526802" lat="43.156559">lmorin</trkpt>
+            <trkpt lon="-77.526787" lat="43.156521">lmorin</trkpt>
+            <trkpt lon="-77.526794" lat="43.156502">lmorin</trkpt>
+            <trkpt lon="-77.526787" lat="43.156490">lmorin</trkpt>
+            <trkpt lon="-77.526779" lat="43.156487">lmorin</trkpt>
+            <trkpt lon="-77.526764" lat="43.156467">lmorin</trkpt>
+            <trkpt lon="-77.526749" lat="43.156456">lmorin</trkpt>
+            <trkpt lon="-77.526741" lat="43.156445">lmorin</trkpt>
+            <trkpt lon="-77.526733" lat="43.156425">lmorin</trkpt>
+            <trkpt lon="-77.526741" lat="43.156410">lmorin</trkpt>
+            <trkpt lon="-77.526741" lat="43.156364">lmorin</trkpt>
+            <trkpt lon="-77.525970" lat="43.155731">lmorin</trkpt>
+            <trkpt lon="-77.525955" lat="43.155704">lmorin</trkpt>
+            <trkpt lon="-77.525795" lat="43.155560">lmorin</trkpt>
+            <trkpt lon="-77.525787" lat="43.155540">lmorin</trkpt>
+            <trkpt lon="-77.525757" lat="43.155499">lmorin</trkpt>
+            <trkpt lon="-77.525711" lat="43.155396">lmorin</trkpt>
+            <trkpt lon="-77.525688" lat="43.155384">lmorin</trkpt>
+            <trkpt lon="-77.525665" lat="43.155365">lmorin</trkpt>
+            <trkpt lon="-77.525612" lat="43.155281">lmorin</trkpt>
+            <trkpt lon="-77.525604" lat="43.155254">lmorin</trkpt>
+            <trkpt lon="-77.525589" lat="43.155228">lmorin</trkpt>
+            <trkpt lon="-77.525558" lat="43.155132">lmorin</trkpt>
+            <trkpt lon="-77.525543" lat="43.155113">lmorin</trkpt>
+            <trkpt lon="-77.525536" lat="43.155094">lmorin</trkpt>
+            <trkpt lon="-77.525513" lat="43.155064">lmorin</trkpt>
+            <trkpt lon="-77.525497" lat="43.155052">lmorin</trkpt>
+            <trkpt lon="-77.525490" lat="43.155037">lmorin</trkpt>
+            <trkpt lon="-77.525475" lat="43.155022">lmorin</trkpt>
+            <trkpt lon="-77.525467" lat="43.155003">lmorin</trkpt>
+            <trkpt lon="-77.525467" lat="43.154991">lmorin</trkpt>
+            <trkpt lon="-77.525459" lat="43.154980">lmorin</trkpt>
+            <trkpt lon="-77.525459" lat="43.154972">lmorin</trkpt>
+            <trkpt lon="-77.525444" lat="43.154957">lmorin</trkpt>
+            <trkpt lon="-77.525421" lat="43.154892">lmorin</trkpt>
+            <trkpt lon="-77.525421" lat="43.154869">lmorin</trkpt>
+            <trkpt lon="-77.525414" lat="43.154850">lmorin</trkpt>
+            <trkpt lon="-77.525414" lat="43.154663">lmorin</trkpt>
+            <trkpt lon="-77.525406" lat="43.154636">lmorin</trkpt>
+            <trkpt lon="-77.525414" lat="43.154617">lmorin</trkpt>
+            <trkpt lon="-77.525414" lat="43.154537">lmorin</trkpt>
+            <trkpt lon="-77.525406" lat="43.154518">lmorin</trkpt>
+            <trkpt lon="-77.525406" lat="43.154354">lmorin</trkpt>
+            <trkpt lon="-77.525330" lat="43.154163">lmorin</trkpt>
+            <trkpt lon="-77.525330" lat="43.154137">lmorin</trkpt>
+            <trkpt lon="-77.525322" lat="43.154106">lmorin</trkpt>
+            <trkpt lon="-77.525322" lat="43.154049">lmorin</trkpt>
+            <trkpt lon="-77.525330" lat="43.154026">lmorin</trkpt>
+        </trkseg>
+    </trk>
+</gpx>

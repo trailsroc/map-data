@@ -1,0 +1,52 @@
+{
+    "parks": {
+        "oatka": { "name": "Oatka Creek Park", "mainPin": [43.00565, -77.80106],
+              "SW": [42.99837, -77.81745], "NE": [43.01425, -77.78964],
+              "directionsCoordinate": [43.006095, -77.791700],
+              "url": "http://www.monroecounty.gov/parks-oatka.php" }
+    },
+    "trails": {
+        "_prototype": { "parkId": "oatka", "url": "http://www.monroecounty.gov/parks-oatka.php" },
+        "oatka_black_billed_cuckoo": {"name":"Black Billed Cuckoo Trail","color":"black","length":0.93,"trailheads":[],"SW":[43.00396,-77.805793],"NE":[43.009013,-77.796461]},
+        "oatka_bluebird": {"name":"Bluebird Trail","color":"sky","length":0.56,"trailheads":[],"SW":[43.001258,-77.805487],"NE":[43.004032,-77.799308]},
+        "oatka_gypsum": {"name":"Gypsum Hollow Trail","color":"orange","length":0.5,"trailheads":[],"SW":[43.008825,-77.802289],"NE":[43.010959,-77.796754]},
+        "oatka_maple_hill": {"name":"Maple Hill Trail","color":"red","length":0.5,"trailheads":[],"SW":[42.999885,-77.79486],"NE":[43.001799,-77.792065]},
+        "oatka_old_burrell": {"name":"Old Burrell Road Trail","color":"grass","length":0.9,"trailheads":[],"SW":[43.001885,-77.80656],"NE":[43.00607,-77.796814]},
+        "oatka_trout_run": {"name":"Trout Run Trail","color":"teal","length":0.77,"trailheads":[[43.011159, -77.792253]],"SW":[43.010406,-77.803958],"NE":[43.012532,-77.792253]},
+        "oatka_warbler": {"name":"Warbler Loop Trail","color":"purple","length":0.52,"trailheads":[],"SW":[43.007982,-77.803685],"NE":[43.010733,-77.801798]},
+        "oatka_white_tail": {"name":"White Tail Trail","color":"white","length":0.91,"trailheads":[],"SW":[43.001387,-77.799308],"NE":[43.005891,-77.794635]},
+        "oatka_woodland": {"name":"Woodland Trail","color":"yellow","length":0.82,"trailheads":[],"SW":[43.003576,-77.810927],"NE":[43.010406,-77.803572]},
+            "oatka_yellow": {
+                "name": "Yellow Trail",
+      "color": "yellow",
+      "length": 0.4,
+      "trailheads": [ ],
+      "SW": [
+        43.007088,
+        -77.796833
+      ],
+      "NE": [
+        43.010124,
+        -77.795158
+      ]
+    },
+    "oatka_unnamed": {
+        "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [ ],
+      "SW": [
+        43.004004,
+        -77.814156
+      ],
+      "NE": [
+        43.010415,
+        -77.794458
+      ]
+    }
+    },
+    "points": [
+        { "type": "lodge", "name": "Oatka Lodge", "loc": [43.00546310434427,-77.79637813568115], "directionsCoordinate": [43.006095, -77.791700] },
+        { "type": "parking", "loc": [43.00602015903273,-77.79235482215881], "directionsCoordinate": [43.006095, -77.791700] },
+        {"type": "sports", "loc": [43.005627, -77.793405], "name": "Soccer Fields"}
+    ]
+}

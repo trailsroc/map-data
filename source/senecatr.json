@@ -1,0 +1,47 @@
+{
+    "parks": {
+        "senecatr": { "name": "Seneca Trail", "mainPin": [42.989172, -77.428556],
+            "SW":[42.9294,-77.444977],"NE":[43.034866,-77.412195],
+            "directionsCoordinate": [42.995138, -77.436878],
+            "url": "http://www.victorhikingtrails.org/",
+            "hideInListView": false }
+    },
+    "trails": {
+        "_prototype": {
+            "parkId": null,
+            "url": "http://www.victorhikingtrails.org/",
+            "visibilityConstraint": "largeTrailSystem"
+        },
+        "senecatr_main": {
+            "name":"Seneca Trail",
+            "length": 13.5,
+            "color":"red",
+            "trailheads":[],
+            "SW":[42.9294,-77.444977],"NE":[43.034866,-77.412195]
+        },
+        "senecatr_hunting": {
+            "name":"Seneca Trail",
+            "length": 13.5,
+            "color":"red",
+            "dashStyle": "trailClosure",
+            "trailheads":[],
+            "SW":[42.9294,-77.444977],"NE":[43.034866,-77.412195],
+            "hideInListView": true
+        }
+    },
+    "points": [
+        {"type": "parking", "loc": [43.034185, -77.442643],"directionsCoordinate":[43.033143, -77.439798], "comments": "Square Dr"},
+        {"type": "parking", "loc": [43.028995, -77.435295],"directionsCoordinate":[43.028957, -77.433653], "comments": "Constellation Brands"},
+        {"type": "parking", "loc": [42.995138, -77.436878], "comments": "Lehigh Crossing Park"},
+        {"type": "poi", "name": "Lehigh Crossing Park",
+             "loc": [42.996655, -77.439800],
+             "directionsCoordinate": [42.995138, -77.436878],
+             "SW": [42.992780, -77.444425], "NE": [42.999978, -77.434278]
+             },
+        {"type": "parking", "loc": [42.980988, -77.421420], "comments": "Rawson Rd"},
+        {"type": "parking", "loc": [42.970552, -77.412363], "comments": "Ganondagan East"},
+        {"type": "parking", "loc": [42.960777, -77.425243], "comments": "Ganondagan South"},
+        {"type": "parking", "loc": [43.025823, -77.435990], "comments": "Valentown"},
+        {"type": "parking", "name": "(Permit Required)", "loc": [42.929320, -77.440644]}
+    ]
+}

@@ -1,0 +1,71 @@
+{
+  "parks": {
+    "corbetts": {
+      "name": "Corbett’s Glen Nature Park",
+      "mainPin": [43.131929, -77.523257],
+      "directionsCoordinate": [43.128423,-77.521422],
+      "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
+      "SW": [
+        43.129472,
+        -77.528491
+      ],
+      "NE": [
+        43.137765,
+        -77.516907
+      ]
+    }
+  },
+  "trails": {
+    "_prototype": { "parkId": "corbetts", "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park" },
+    "corbetts_south_access": {
+      "name": "Glen Road/Tunnel Access",
+      "color": "black",
+      "length": 0.2,
+      "trailheads": [[43.128439, -77.521587]],
+      "hideInListView": true,
+      "SW": [
+        43.128434,
+        -77.52232
+      ],
+      "NE": [
+        43.130014,
+        -77.520489
+      ]
+    },
+    "corbetts_perimeter": {
+      "name": "Perimeter Trail",
+      "color": "dark_green",
+      "length": 1.7,
+      "trailheads": [],
+      "SW": [
+        43.129893,
+        -77.527412
+      ],
+      "NE": [
+        43.137341,
+        -77.517202
+      ]
+    },
+    "corbetts_unnamed": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "SW": [
+        43.130873,
+        -77.526511
+      ],
+      "NE": [
+        43.136264,
+        -77.5178
+      ]
+    }
+  },
+  "points": [
+    {"type":"parking","name":"Shoulder Parking","loc":[43.128423,-77.521422]},
+    {"type":"parking","name":"","loc":[43.137475,-77.526624],"comment":"Penfield Rd"},
+    {"type":"poi","name":"Corbett’s Glen Tunnel","loc":[43.129779,-77.520883]},
+    {"type":"scenic","name":"Waterfalls","loc":[43.130169,-77.518504]},
+    {"type":"poi","name":"Boardwalk","loc":[43.131798,-77.520104]},
+    {"type":"scenic","name":"Waterfalls","loc":[43.129826,-77.519823]}
+  ]
+}

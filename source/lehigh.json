@@ -1,0 +1,65 @@
+{
+  "parks": {
+    "lehigh_park": { "name": "Lehigh Valley Trail", "mainPin": [42.986848, -77.601529],
+      "SW": [42.98174, -77.732828 ], "NE": [43.048082, -77.482145 ],
+      "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
+      "hideInListView": true }
+  },
+  "trails": {
+    "_prototype": { "parkId": null, "visibilityConstraint": "largeTrailSystem", "url": "http://www.monroecounty.gov/parks-lehighvalley.php" },
+    "lehigh_valley_main": {
+      "name": "Lehigh Valley Trail Main Branch",
+      "shortName": "Lehigh Valley Trail (Main)",
+      "color": "green",
+      "length": 13.2,
+      "trailheads": [
+
+      ],
+      "SW":[42.98174,-77.732828], "NE":[43.002847,-77.482145]
+    },
+    "lehigh_valley_north": {
+      "name": "Lehigh Valley Trail North Branch",
+      "shortName": "Lehigh Valley Trail (North)",
+      "color": "green",
+      "length": 5.7,
+      "trailheads": [
+
+      ],
+      "SW":[42.984307,-77.637049], "NE":[43.048082,-77.596093]
+    },
+    "lehigh_valley_unnamed_trails": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        42.977797,
+        -77.637586
+      ],
+      "NE": [
+        43.041158,
+        -77.587699
+      ]
+    }
+  },
+  "points": [
+        { "type": "poi", "name": "Great Bend Nature Park",
+          "loc": [42.97885197672802,-77.5900948047638],
+          "SW": [42.976206714433175,-77.59536266326904], "NE": [42.98367909085195,-77.58255243301392] },
+        { "type": "parking", "loc": [42.98702449026875,-77.70078420639038] },
+        { "type": "parking", "loc": [42.99071501002129,-77.67954647541046] },
+        { "type": "parking", "loc": [42.9919941815274,-77.64282166957855] },
+        { "type": "parking", "loc": [42.9849623330313,-77.59835600852966] },
+        { "type": "parking", "loc": [42.98293346382646,-77.57467746734619] },
+        { "type": "parking", "loc": [42.99765203799735,-77.50843226909637] },
+        { "type": "parking", "loc": [43.0013360348093,-77.49394297599792] },
+        { "type": "parking", "loc": [43.00282683335733,-77.48203933238983] },
+        { "type": "parking", "loc": [42.99329294498958,-77.6120674610138] },
+        { "type": "parking", "loc": [43.002301134840465,-77.62341856956482] },
+        { "type": "parking", "loc": [43.02602370401501,-77.63028502464294] },
+        { "type": "scenic", "loc": [42.981885, -77.581048], "comments": "East of Clover St" },
+        { "type": "poi", "name": "Freight House Replica", "loc": [42.985142, -77.597866] },
+        { "type": "restroom", "comments": "Junction", "loc": [42.985059, -77.597726] }
+  ]
+}

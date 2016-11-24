@@ -1,0 +1,86 @@
+{
+    "parks": {
+        "crescenttr": { "name": "Crescent Trail System", "mainPin": [43.069686, -77.404460],
+            "SW":[43.034866,-77.48281],"NE":[43.108284,-77.371976],
+            "directionsCoordinate": [43.068642, -77.425743],
+            "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+            "hideInListView": false },
+        "crescenttr_mccoord": { "name": "McCoord Woods", "mainPin": [43.062965, -77.461141],
+            "directionsCoordinate": [43.064299, -77.467267],
+            "SW": [43.056218, -77.463051 ], "NE": [43.065006, -77.454421 ],
+            "annotationIconName": "Annotation-SmallParkBadge",
+            "visibilityConstraint": "parkBoundaries",
+            "advisories": ["generalHuntingAdvisory"],
+            "hideInListView": true
+        },
+        "crescenttr_dewitt": { "name": "Dewitt Hill", "mainPin": [43.058085, -77.423688],
+            "directionsCoordinate": [43.068642, -77.425743],
+            "SW": [43.056493, -77.42999 ], "NE": [43.059528, -77.421561 ],
+            "advisories": ["generalHuntingAdvisory"],
+            "annotationIconName": "Annotation-SmallParkBadge",
+            "visibilityConstraint": "parkBoundariesAdvisoriesOnly",
+            "hideInListView": true
+        },
+        "crescenttr_howell": { "name": "Howell Road Park", "mainPin": [43.103735, -77.397520],
+            "SW": [43.100641, -77.40129 ], "NE": [43.108568, -77.39119 ],
+            "advisories": ["generalHuntingAdvisory"],
+            "annotationIconName": "Annotation-SmallParkBadge",
+            "visibilityConstraint": "parkBoundaries",
+            "hideInListView": true
+        },
+        "white_brook": { "name": "White Brook Nature Area", "mainPin": [43.071299, -77.384069],
+            "directionsCoordinate": [43.071070, -77.391801],
+            "SW": [43.067078, -77.391892 ], "NE": [43.079058, -77.377864 ],
+            "advisories": ["generalHuntingAdvisory"],
+            "annotationIconName": "Annotation-SmallParkBadge",
+            "visibilityConstraint": "parkBoundaries",
+            "hideInListView": true
+        }
+    },
+    "trails": {
+        "_prototype": {
+            "parkId": null,
+            "url": "http://www.perinton.org/Departments/parks/hikingctha/"
+        },
+        "crescenttr_main": {
+            "name":"Crescent Trail",
+            "shortName":"Crescent Trail (Main)",
+            "length": 17.8,
+            "color":"orange",
+            "visibilityConstraint": "largeTrailSystem",
+            "trailheads":[],
+            "SW":[43.034866,-77.48281],"NE":[43.108284,-77.371976]
+        },
+        "crescenttr_blue": {"name":"Crescent Trail (Blue)","color":"sky","trailheads":[],"hideInListView": true},
+        "crescenttr_green": {"name":"Crescent Trail (Other)","color":"dark_green","trailheads":[],"hideInListView": true},
+        "crescenttr_red": {"name":"Crescent Trail (Red)","color":"red","trailheads":[],"hideInListView": true},
+        "crescenttr_white": {"name":"Crescent Trail (White)","color":"black","trailheads":[],"hideInListView": true},
+        "crescenttr_yellow": {"name":"Crescent Trail (Yellow)","color":"yellow","trailheads":[],"hideInListView": true}
+    },
+    "points": [
+        {"type": "parking", "loc": [43.104032, -77.407654], "comments": "Hamilton Rd (N end)"},
+        {"type": "parking", "loc": [43.094020, -77.387250], "comments": "High Acres NW"},
+        {"type": "parking", "loc": [43.088150, -77.385740], "comments": "High Acres SW"},
+        {"type": "parking", "loc": [43.088959, -77.379001], "comments": "High Acres SE"},
+        {"type": "parking", "loc": [43.085680, -77.401810], "comments": "Erie Canal"},
+        {"type": "parking", "loc": [43.070220, -77.389913],"directionsCoordinate":[43.071070, -77.391801], "comments": "White Brook"},
+        {"type": "parking", "loc": [43.068642, -77.425743], "comments": "Indian Hill"},
+        {"type": "scenic", "loc": [43.062919, -77.416587], "comments": "Thayer Hill"},
+        {"type": "scenic", "loc": [43.066577, -77.425245], "comments": "Indian Hill N"},
+        {"type": "scenic", "loc": [43.065254, -77.425886], "comments": "Indian Hill S"},
+        {"type": "parking", "loc": [43.049696, -77.430197], "comments": "Lilac"},
+        {"type": "parking", "loc": [43.048891, -77.446359], "comments": "Foley"},
+        {"type": "scenic", "name": "Nancy’s Glen", "loc": [43.051571, -77.460600]},
+        {"type": "scenic", "name": "Allan’s Walk", "loc": [43.050847, -77.458648]},
+        {"type": "scenic", "loc": [43.045886, -77.461013], "comments": "Woodcliff"},
+        {"type": "scenic", "loc": [43.043649, -77.456858], "comments": "Woodcliff SE"},
+        {"type": "parking", "loc": [43.052965, -77.463986], "comments": "Garnsey"},
+        {"type": "parking", "loc": [43.063609, -77.469399], "comments": "Kreag Rd Park"},
+        {"type": "parking", "loc": [43.062810, -77.483054], "comments": "Bushnells Basin"},
+        {"type": "parking", "loc": [43.064439, -77.466186], "directionsCoordinate": [43.064299, -77.467267], "comments": "Kreag church"},
+        {"type": "poi", "loc": [43.091485, -77.381175],
+            "name": "High Acres Nature Area",
+            "url": "http://highacreslandfill.wm.com/nature-area/index.jsp",
+            "SW": [43.086948, -77.387707], "NE": [43.095889, -77.370737]}
+    ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name>border:devils_cove</name>
+        <trkseg>
+            <trkpt lon="-77.524005" lat="43.209610"/>
+            <trkpt lon="-77.523816" lat="43.209929"/>
+            <trkpt lon="-77.523285" lat="43.210281"/>
+            <trkpt lon="-77.521859" lat="43.210509"/>
+            <trkpt lon="-77.520929" lat="43.210806"/>
+            <trkpt lon="-77.520396" lat="43.210862"/>
+            <trkpt lon="-77.519660" lat="43.211220"/>
+            <trkpt lon="-77.519834" lat="43.211270"/>
+            <trkpt lon="-77.519825" lat="43.211629"/>
+            <trkpt lon="-77.520056" lat="43.211587"/>
+            <trkpt lon="-77.520260" lat="43.211410"/>
+            <trkpt lon="-77.519891" lat="43.212616"/>
+            <trkpt lon="-77.517506" lat="43.212686"/>
+            <trkpt lon="-77.518001" lat="43.211368"/>
+            <trkpt lon="-77.519412" lat="43.211357"/>
+            <trkpt lon="-77.519773" lat="43.210713"/>
+            <trkpt lon="-77.520851" lat="43.210700"/>
+            <trkpt lon="-77.521038" lat="43.210259"/>
+            <trkpt lon="-77.520773" lat="43.210154"/>
+            <trkpt lon="-77.520669" lat="43.209980"/>
+            <trkpt lon="-77.520133" lat="43.209891"/>
+            <trkpt lon="-77.517099" lat="43.210216"/>
+            <trkpt lon="-77.517201" lat="43.209712"/>
+            <trkpt lon="-77.520485" lat="43.209350"/>
+            <trkpt lon="-77.521932" lat="43.209674"/>
+            <trkpt lon="-77.523118" lat="43.209514"/>
+            <trkpt lon="-77.523203" lat="43.209524"/>
+            <trkpt lon="-77.523550" lat="43.209602"/>
+            <trkpt lon="-77.523826" lat="43.209552"/>
+        </trkseg>
+    </trk></gpx>

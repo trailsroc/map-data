@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name>border:nhamp</name>
+        <trkseg>
+            <trkpt lon="-77.901368" lat="43.192142"/>
+            <trkpt lon="-77.894761" lat="43.192055"/>
+            <trkpt lon="-77.879559" lat="43.188430"/>
+            <trkpt lon="-77.865728" lat="43.188078"/>
+            <trkpt lon="-77.854294" lat="43.185931"/>
+            <trkpt lon="-77.854626" lat="43.179110"/>
+            <trkpt lon="-77.874641" lat="43.179554"/>
+            <trkpt lon="-77.885014" lat="43.179833"/>
+            <trkpt lon="-77.905355" lat="43.180011"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_creek</name>
+        <trkseg>
+            <trkpt lon="-77.863439" lat="43.179488"/>
+            <trkpt lon="-77.863408" lat="43.180049"/>
+            <trkpt lon="-77.863295" lat="43.180330"/>
+            <trkpt lon="-77.863361" lat="43.180751"/>
+            <trkpt lon="-77.863067" lat="43.181577"/>
+            <trkpt lon="-77.863192" lat="43.181691"/>
+            <trkpt lon="-77.863404" lat="43.182202"/>
+            <trkpt lon="-77.863334" lat="43.183046"/>
+            <trkpt lon="-77.863904" lat="43.183335"/>
+            <trkpt lon="-77.863823" lat="43.184119"/>
+            <trkpt lon="-77.863813" lat="43.184620"/>
+            <trkpt lon="-77.863950" lat="43.184809"/>
+            <trkpt lon="-77.863955" lat="43.185162"/>
+            <trkpt lon="-77.863914" lat="43.185354"/>
+            <trkpt lon="-77.863154" lat="43.185294"/>
+            <trkpt lon="-77.862242" lat="43.185611"/>
+            <trkpt lon="-77.861742" lat="43.185654"/>
+            <trkpt lon="-77.860385" lat="43.185264"/>
+            <trkpt lon="-77.859832" lat="43.185111"/>
+            <trkpt lon="-77.859321" lat="43.185146"/>
+            <trkpt lon="-77.858937" lat="43.185088"/>
+            <trkpt lon="-77.858422" lat="43.184925"/>
+            <trkpt lon="-77.858486" lat="43.184760"/>
+            <trkpt lon="-77.858354" lat="43.184365"/>
+            <trkpt lon="-77.858714" lat="43.183929"/>
+            <trkpt lon="-77.859109" lat="43.183844"/>
+            <trkpt lon="-77.859505" lat="43.183759"/>
+            <trkpt lon="-77.859960" lat="43.183244"/>
+            <trkpt lon="-77.860338" lat="43.183170"/>
+            <trkpt lon="-77.862009" lat="43.183164"/>
+            <trkpt lon="-77.862399" lat="43.182982"/>
+            <trkpt lon="-77.863307" lat="43.183032"/>
+        </trkseg>
+    </trk><rte>
+        <name>nhamp_fairview</name>
+        <rtept lon="-77.875258" lat="43.184848"/>
+        <rtept lon="-77.875724" lat="43.184883"/>
+        <rtept lon="-77.876065" lat="43.185055"/>
+        <rtept lon="-77.876052" lat="43.185258"/>
+        <rtept lon="-77.875988" lat="43.186301"/>
+        <rtept lon="-77.878489" lat="43.186293"/>
+        <rtept lon="-77.880921" lat="43.186173"/>
+        <rtept lon="-77.882588" lat="43.186672"/>
+        <rtept lon="-77.883235" lat="43.186784"/>
+        <rtept lon="-77.884000" lat="43.186925"/>
+        <rtept lon="-77.884919" lat="43.186977"/>
+    </rte><trk>
+        <name>nhamp_farm</name>
+        <trkseg>
+            <trkpt lon="-77.870820" lat="43.180534"/>
+            <trkpt lon="-77.870787" lat="43.181019"/>
+            <trkpt lon="-77.870699" lat="43.182021"/>
+            <trkpt lon="-77.870623" lat="43.182934"/>
+            <trkpt lon="-77.870295" lat="43.182990"/>
+            <trkpt lon="-77.870152" lat="43.183060"/>
+            <trkpt lon="-77.869340" lat="43.183077"/>
+            <trkpt lon="-77.869017" lat="43.183121"/>
+            <trkpt lon="-77.868822" lat="43.183290"/>
+            <trkpt lon="-77.868716" lat="43.184049"/>
+            <trkpt lon="-77.868498" lat="43.184225"/>
+            <trkpt lon="-77.867996" lat="43.184240"/>
+            <trkpt lon="-77.867268" lat="43.184292"/>
+            <trkpt lon="-77.866380" lat="43.184297"/>
+            <trkpt lon="-77.865958" lat="43.184231"/>
+            <trkpt lon="-77.865812" lat="43.184299"/>
+            <trkpt lon="-77.865800" lat="43.184404"/>
+            <trkpt lon="-77.865691" lat="43.184509"/>
+            <trkpt lon="-77.865531" lat="43.184722"/>
+            <trkpt lon="-77.865463" lat="43.185009"/>
+            <trkpt lon="-77.865393" lat="43.185092"/>
+            <trkpt lon="-77.865348" lat="43.185195"/>
+            <trkpt lon="-77.865579" lat="43.185406"/>
+            <trkpt lon="-77.866101" lat="43.185364"/>
+            <trkpt lon="-77.866378" lat="43.185461"/>
+            <trkpt lon="-77.866355" lat="43.186471"/>
+            <trkpt lon="-77.866457" lat="43.186541"/>
+            <trkpt lon="-77.866369" lat="43.187218"/>
+            <trkpt lon="-77.866531" lat="43.187386"/>
+            <trkpt lon="-77.866893" lat="43.187454"/>
+            <trkpt lon="-77.867685" lat="43.187431"/>
+            <trkpt lon="-77.867988" lat="43.187418"/>
+            <trkpt lon="-77.868330" lat="43.187387"/>
+            <trkpt lon="-77.868776" lat="43.187390"/>
+            <trkpt lon="-77.869021" lat="43.187378"/>
+            <trkpt lon="-77.869549" lat="43.187155"/>
+            <trkpt lon="-77.869814" lat="43.186954"/>
+            <trkpt lon="-77.869966" lat="43.186721"/>
+            <trkpt lon="-77.870117" lat="43.186652"/>
+            <trkpt lon="-77.870331" lat="43.186345"/>
+            <trkpt lon="-77.870866" lat="43.185850"/>
+            <trkpt lon="-77.871083" lat="43.185611"/>
+            <trkpt lon="-77.871178" lat="43.185536"/>
+            <trkpt lon="-77.871290" lat="43.185353"/>
+            <trkpt lon="-77.871222" lat="43.183938"/>
+            <trkpt lon="-77.870922" lat="43.183481"/>
+            <trkpt lon="-77.870842" lat="43.183334"/>
+            <trkpt lon="-77.870791" lat="43.183151"/>
+            <trkpt lon="-77.870628" lat="43.182928"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_gardner</name>
+        <trkseg>
+            <trkpt lon="-77.888126" lat="43.188890"/>
+            <trkpt lon="-77.889823" lat="43.188617"/>
+            <trkpt lon="-77.890523" lat="43.188487"/>
+            <trkpt lon="-77.891392" lat="43.188517"/>
+            <trkpt lon="-77.894107" lat="43.188505"/>
+            <trkpt lon="-77.896379" lat="43.188505"/>
+            <trkpt lon="-77.897084" lat="43.188539"/>
+            <trkpt lon="-77.897142" lat="43.188890"/>
+            <trkpt lon="-77.897434" lat="43.188951"/>
+            <trkpt lon="-77.897819" lat="43.188959"/>
+            <trkpt lon="-77.898735" lat="43.189449"/>
+            <trkpt lon="-77.899090" lat="43.189725"/>
+            <trkpt lon="-77.899192" lat="43.189893"/>
+            <trkpt lon="-77.899383" lat="43.190484"/>
+            <trkpt lon="-77.899395" lat="43.190710"/>
+            <trkpt lon="-77.898853" lat="43.190765"/>
+            <trkpt lon="-77.895665" lat="43.190749"/>
+            <trkpt lon="-77.892447" lat="43.190725"/>
+            <trkpt lon="-77.891756" lat="43.190731"/>
+            <trkpt lon="-77.889779" lat="43.190685"/>
+            <trkpt lon="-77.889688" lat="43.190591"/>
+            <trkpt lon="-77.889367" lat="43.190031"/>
+            <trkpt lon="-77.888930" lat="43.189526"/>
+            <trkpt lon="-77.888429" lat="43.189106"/>
+            <trkpt lon="-77.888117" lat="43.188893"/>
+            <trkpt lon="-77.887901" lat="43.188530"/>
+            <trkpt lon="-77.887592" lat="43.188163"/>
+            <trkpt lon="-77.887413" lat="43.188095"/>
+            <trkpt lon="-77.886285" lat="43.188133"/>
+            <trkpt lon="-77.885709" lat="43.188354"/>
+            <trkpt lon="-77.885419" lat="43.188386"/>
+            <trkpt lon="-77.885220" lat="43.188397"/>
+            <trkpt lon="-77.884917" lat="43.188368"/>
+            <trkpt lon="-77.884681" lat="43.188294"/>
+            <trkpt lon="-77.884426" lat="43.188066"/>
+            <trkpt lon="-77.884229" lat="43.188020"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_loop</name>
+        <trkseg>
+            <trkpt lon="-77.889448" lat="43.184684"/>
+            <trkpt lon="-77.889856" lat="43.185316"/>
+            <trkpt lon="-77.890439" lat="43.185304"/>
+            <trkpt lon="-77.891051" lat="43.185520"/>
+            <trkpt lon="-77.891191" lat="43.186011"/>
+            <trkpt lon="-77.890720" lat="43.186389"/>
+            <trkpt lon="-77.890054" lat="43.186617"/>
+            <trkpt lon="-77.889211" lat="43.186553"/>
+            <trkpt lon="-77.888927" lat="43.186171"/>
+            <trkpt lon="-77.889193" lat="43.185690"/>
+            <trkpt lon="-77.889853" lat="43.185309"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.891154" lat="43.185814"/>
+            <trkpt lon="-77.891518" lat="43.185844"/>
+            <trkpt lon="-77.891881" lat="43.185890"/>
+            <trkpt lon="-77.892355" lat="43.185932"/>
+            <trkpt lon="-77.892642" lat="43.185903"/>
+            <trkpt lon="-77.892960" lat="43.185788"/>
+            <trkpt lon="-77.893262" lat="43.185738"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.892639" lat="43.181539"/>
+            <trkpt lon="-77.891860" lat="43.181448"/>
+            <trkpt lon="-77.891131" lat="43.181499"/>
+            <trkpt lon="-77.890825" lat="43.181480"/>
+            <trkpt lon="-77.890426" lat="43.181559"/>
+            <trkpt lon="-77.889953" lat="43.181601"/>
+            <trkpt lon="-77.889531" lat="43.181707"/>
+            <trkpt lon="-77.889164" lat="43.181684"/>
+            <trkpt lon="-77.888923" lat="43.181787"/>
+            <trkpt lon="-77.888712" lat="43.181941"/>
+            <trkpt lon="-77.888530" lat="43.182020"/>
+            <trkpt lon="-77.887467" lat="43.182362"/>
+            <trkpt lon="-77.887485" lat="43.184616"/>
+            <trkpt lon="-77.886579" lat="43.184531"/>
+            <trkpt lon="-77.885584" lat="43.184589"/>
+            <trkpt lon="-77.885544" lat="43.186028"/>
+            <trkpt lon="-77.884348" lat="43.185906"/>
+            <trkpt lon="-77.883427" lat="43.185978"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.874509" lat="43.183175"/>
+            <trkpt lon="-77.876451" lat="43.183205"/>
+            <trkpt lon="-77.878728" lat="43.182436"/>
+            <trkpt lon="-77.878879" lat="43.182364"/>
+            <trkpt lon="-77.878867" lat="43.181937"/>
+            <trkpt lon="-77.878831" lat="43.181676"/>
+            <trkpt lon="-77.878934" lat="43.181580"/>
+            <trkpt lon="-77.879586" lat="43.181604"/>
+            <trkpt lon="-77.879703" lat="43.181545"/>
+            <trkpt lon="-77.879757" lat="43.180868"/>
+            <trkpt lon="-77.879933" lat="43.180833"/>
+            <trkpt lon="-77.881719" lat="43.180824"/>
+            <trkpt lon="-77.882346" lat="43.180807"/>
+            <trkpt lon="-77.883357" lat="43.180856"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.878890" lat="43.182360"/>
+            <trkpt lon="-77.882546" lat="43.182557"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.884309" lat="43.179898"/>
+            <trkpt lon="-77.884100" lat="43.180222"/>
+            <trkpt lon="-77.883714" lat="43.180351"/>
+            <trkpt lon="-77.883447" lat="43.180628"/>
+            <trkpt lon="-77.883376" lat="43.180844"/>
+            <trkpt lon="-77.883296" lat="43.181198"/>
+            <trkpt lon="-77.883113" lat="43.181488"/>
+            <trkpt lon="-77.883131" lat="43.181778"/>
+            <trkpt lon="-77.882557" lat="43.182554"/>
+            <trkpt lon="-77.882365" lat="43.182970"/>
+            <trkpt lon="-77.881971" lat="43.183622"/>
+            <trkpt lon="-77.880908" lat="43.186162"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.883130" lat="43.181784"/>
+            <trkpt lon="-77.883565" lat="43.182989"/>
+            <trkpt lon="-77.883762" lat="43.183612"/>
+            <trkpt lon="-77.883762" lat="43.184088"/>
+            <trkpt lon="-77.883617" lat="43.184696"/>
+            <trkpt lon="-77.883401" lat="43.185545"/>
+            <trkpt lon="-77.883395" lat="43.185988"/>
+            <trkpt lon="-77.883304" lat="43.186141"/>
+            <trkpt lon="-77.883101" lat="43.186360"/>
+            <trkpt lon="-77.883127" lat="43.186569"/>
+            <trkpt lon="-77.883261" lat="43.186791"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.887463" lat="43.183762"/>
+            <trkpt lon="-77.886900" lat="43.183620"/>
+            <trkpt lon="-77.886407" lat="43.183604"/>
+            <trkpt lon="-77.885022" lat="43.183359"/>
+            <trkpt lon="-77.883588" lat="43.182989"/>
+            <trkpt lon="-77.882386" lat="43.182980"/>
+            <trkpt lon="-77.881997" lat="43.182950"/>
+            <trkpt lon="-77.881401" lat="43.183019"/>
+            <trkpt lon="-77.880751" lat="43.183183"/>
+            <trkpt lon="-77.879832" lat="43.183356"/>
+            <trkpt lon="-77.879233" lat="43.183536"/>
+            <trkpt lon="-77.879022" lat="43.183661"/>
+            <trkpt lon="-77.878490" lat="43.183674"/>
+            <trkpt lon="-77.877481" lat="43.183523"/>
+            <trkpt lon="-77.876477" lat="43.183225"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.874374" lat="43.184463"/>
+            <trkpt lon="-77.873677" lat="43.184535"/>
+            <trkpt lon="-77.872990" lat="43.184736"/>
+            <trkpt lon="-77.872840" lat="43.184819"/>
+            <trkpt lon="-77.872649" lat="43.184871"/>
+            <trkpt lon="-77.872261" lat="43.184887"/>
+            <trkpt lon="-77.871950" lat="43.184823"/>
+            <trkpt lon="-77.871559" lat="43.184871"/>
+            <trkpt lon="-77.871268" lat="43.184868"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.854408" lat="43.184707"/>
+            <trkpt lon="-77.855025" lat="43.184655"/>
+            <trkpt lon="-77.855236" lat="43.184659"/>
+            <trkpt lon="-77.855534" lat="43.184802"/>
+            <trkpt lon="-77.856362" lat="43.184889"/>
+            <trkpt lon="-77.856763" lat="43.184895"/>
+            <trkpt lon="-77.857108" lat="43.184922"/>
+            <trkpt lon="-77.857566" lat="43.184984"/>
+            <trkpt lon="-77.857797" lat="43.185002"/>
+            <trkpt lon="-77.858086" lat="43.184975"/>
+            <trkpt lon="-77.858430" lat="43.184938"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.865341" lat="43.185199"/>
+            <trkpt lon="-77.863953" lat="43.185175"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.861810" lat="43.185642"/>
+            <trkpt lon="-77.861504" lat="43.184972"/>
+            <trkpt lon="-77.861032" lat="43.184431"/>
+            <trkpt lon="-77.860777" lat="43.184135"/>
+            <trkpt lon="-77.860356" lat="43.183968"/>
+            <trkpt lon="-77.860308" lat="43.183634"/>
+            <trkpt lon="-77.859949" lat="43.183264"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.860826" lat="43.184139"/>
+            <trkpt lon="-77.861542" lat="43.184148"/>
+            <trkpt lon="-77.861988" lat="43.184099"/>
+            <trkpt lon="-77.862172" lat="43.183933"/>
+            <trkpt lon="-77.862422" lat="43.183892"/>
+            <trkpt lon="-77.863015" lat="43.183991"/>
+            <trkpt lon="-77.863432" lat="43.184261"/>
+            <trkpt lon="-77.863811" lat="43.184316"/>
+        </trkseg>
+    </trk><trk>
+        <name>nhamp_unnamed_trails</name>
+        <trkseg>
+            <trkpt lon="-77.865951" lat="43.184234"/>
+            <trkpt lon="-77.865627" lat="43.184181"/>
+            <trkpt lon="-77.865413" lat="43.184079"/>
+            <trkpt lon="-77.865278" lat="43.183817"/>
+            <trkpt lon="-77.865251" lat="43.183421"/>
+            <trkpt lon="-77.865289" lat="43.183178"/>
+            <trkpt lon="-77.865455" lat="43.182719"/>
+            <trkpt lon="-77.865425" lat="43.182340"/>
+            <trkpt lon="-77.865155" lat="43.182058"/>
+            <trkpt lon="-77.864875" lat="43.181914"/>
+            <trkpt lon="-77.864567" lat="43.181737"/>
+            <trkpt lon="-77.864468" lat="43.181588"/>
+            <trkpt lon="-77.864441" lat="43.181191"/>
+            <trkpt lon="-77.864383" lat="43.181039"/>
+            <trkpt lon="-77.864405" lat="43.180809"/>
+            <trkpt lon="-77.864382" lat="43.180221"/>
+            <trkpt lon="-77.864343" lat="43.180055"/>
+            <trkpt lon="-77.864455" lat="43.179928"/>
+            <trkpt lon="-77.864807" lat="43.179832"/>
+            <trkpt lon="-77.865001" lat="43.179674"/>
+            <trkpt lon="-77.865139" lat="43.179632"/>
+            <trkpt lon="-77.865732" lat="43.179554"/>
+            <trkpt lon="-77.865791" lat="43.179869"/>
+            <trkpt lon="-77.865800" lat="43.180719"/>
+            <trkpt lon="-77.865865" lat="43.180971"/>
+            <trkpt lon="-77.865724" lat="43.181039"/>
+            <trkpt lon="-77.865326" lat="43.181139"/>
+            <trkpt lon="-77.864955" lat="43.181185"/>
+            <trkpt lon="-77.864440" lat="43.181202"/>
+        </trkseg>
+    </trk></gpx>

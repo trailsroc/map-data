@@ -1,0 +1,120 @@
+{
+    "parks": {
+        "wrnp": {
+            "name": "Whiting Road Nature Preserve",
+            "mainPin": [43.246350, -77.472826],
+            "directionsCoordinate": [43.246995, -77.468721],
+            "SW": [
+                43.238517,
+                -77.48021
+              ],
+              "NE": [
+                43.255969,
+                -77.468599
+              ],
+            "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+            "advisories": ["websterHuntingAdvisory"]
+        }
+    },
+    "trails": {
+        "_prototype": {
+            "parkId": "wrnp",
+            "url": "http://www.webstertrails.org/wrnp/wrnp.php"
+        },
+        "wrnp_white": {
+          "name": "White Trail",
+          "color": "white",
+          "length": 0.20,
+          "SW": [
+            43.246382,
+            -77.480129
+          ],
+          "NE": [
+            43.247743,
+            -77.477428
+          ]
+        },
+        "wrnp_red": {
+          "name": "Red Trail",
+          "color": "red",
+          "length": 1.40,
+          "SW": [
+            43.240857,
+            -77.477476
+          ],
+          "NE": [
+            43.250881,
+            -77.471535
+          ]
+        },
+        "wrnp_blue": {
+          "name": "Blue Trail",
+          "color": "blue",
+          "length": 0.70,
+          "trailheads": [[43.246896, -77.468970]],
+          "SW": [
+            43.24567,
+            -77.471619
+          ],
+          "NE": [
+            43.249634,
+            -77.468844
+          ]
+        },
+        "wrnp_brown": {
+          "name": "Brown Trail",
+          "color": "brown",
+          "length": 0.40,
+          "SW": [
+            43.249496,
+            -77.471918
+          ],
+          "NE": [
+            43.252014,
+            -77.469401
+          ]
+        },
+        "wrnp_green": {
+          "name": "Green Trail",
+          "color": "dark_green",
+          "length": 1.20,
+          "SW": [
+            43.250526,
+            -77.474387
+          ],
+          "NE": [
+            43.255585,
+            -77.469958
+          ]
+        },
+        "wrnp_orange": {
+          "name": "Orange Trail",
+          "color": "orange",
+          "length": 1.40,
+          "SW": [
+            43.239086,
+            -77.475407
+          ],
+          "NE": [
+            43.245645,
+            -77.470089
+          ]
+        },
+        "wrnp_yellow": {
+          "name": "Yellow Trail",
+          "color": "yellow",
+          "length": 0.55,
+          "SW": [
+            43.245571,
+            -77.474184
+          ],
+          "NE": [
+            43.249507,
+            -77.47108
+          ]
+        }
+    },
+    "points": [
+        {"type": "parking", "loc": [43.246995, -77.468721], "comments": "Main lot"}
+    ]
+}

@@ -1,0 +1,135 @@
+{
+  "parks": {
+    "pmills": { "name": "Powder Mills Park", "mainPin": [43.041152, -77.479433],
+      "SW": [43.03414, -77.49146], "NE": [43.05164, -77.46829],
+      "url": "http://www.monroecounty.gov/parks-powdermill.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "pmills", "url": "http://www.monroecounty.gov/parks-powdermill.php" },
+    "pmills_daffodil": {
+      "name": "Daffodil Trail",
+      "color": "red",
+      "length": 0.7,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.047943,
+        -77.491219
+      ],
+      "NE": [
+        43.054462,
+        -77.483536
+      ]
+    },
+    "pmills_hatchery": {
+      "name": "Hatchery Trail",
+      "color": "blue",
+      "length": 0.8,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.047119,
+        -77.480254
+      ],
+      "NE": [
+        43.049568,
+        -77.469917
+      ]
+    },
+    "pmills_ridge": {
+      "name": "Ridge Trail",
+      "color": "grass",
+      "length": 0.4,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.04008,
+        -77.479643
+      ],
+      "NE": [
+        43.046463,
+        -77.4756
+      ]
+    },
+    "pmills_trillium": {
+      "name": "Trillium Trail",
+      "color": "orange",
+      "length": 0.5,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.040126,
+        -77.481367
+      ],
+      "NE": [
+        43.045772,
+        -77.476749
+      ]
+    },
+    "pmills_unnamed_trails": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.035353,
+        -77.481225
+      ],
+      "NE": [
+        43.047571,
+        -77.472547
+      ]
+    },
+    "pmills_roads": {
+      "name": "",
+      "color": "black",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.035116,
+        -77.483104
+      ],
+      "NE": [
+        43.03971,
+        -77.479848
+      ]
+    }
+  },
+  "points": [
+    { "type": "parking", "comments": "W W", "loc": [43.048731, -77.485163] },
+    { "type": "parking", "comments": "W E", "loc": [43.047962, -77.483796] },
+    { "type": "parking", "comments": "Rand", "loc": [43.046892, -77.481562] },
+    { "type": "parking", "comments": "East Area", "loc": [43.046140, -77.482461] },
+    { "type": "parking", "comments": "Mushroom", "loc": [43.047889, -77.476246] },
+    { "type": "parking", "comments": "Oak", "loc": [43.039886, -77.476962] },
+    { "type": "parking", "comments": "P Horn", "loc": [43.039185, -77.481861] },
+    { "type": "parking", "comments": "Shadyrest", "loc": [43.037118, -77.481367], "directionsCoordinate": [43.038900, -77.482276] },
+    { "type": "restroom", "comments": "Powder Horn", "loc": [43.039673, -77.481627] },
+    { "type": "restroom", "comments": "Oak", "loc": [43.039693, -77.478379] },
+    { "type": "restroom", "comments": "Rand", "loc": [43.046959, -77.481074] },
+    { "type": "lodge", "name": "Rand", "loc": [43.046931, -77.480337] },
+    { "type": "lodge", "name": "Wadhams", "loc": [43.045707, -77.481620] },
+    { "type": "lodge", "name": "Powder Horn", "loc": [43.039672, -77.481867] },
+    { "type": "lodge", "name": "North", "loc": [43.038311, -77.480492], "directionsCoordinate": [43.039742, -77.479873] },
+    { "type": "lodge", "name": "South", "loc": [43.038037, -77.480704], "directionsCoordinate": [43.039742, -77.479873] },
+    { "type": "lodge", "name": "Mess Hall", "loc": [43.037084, -77.480009], "directionsCoordinate": [43.039742, -77.479873] },
+    { "type": "lodge", "name": "Oak Tree", "loc": [43.039912, -77.478342] },
+    { "type": "shelter", "name": "West Area", "loc": [43.049544, -77.485469] },
+    { "type": "shelter", "name": "East Area", "loc": [43.046142, -77.482747] },
+    { "type": "shelter", "name": "Butternut Grove", "loc": [43.039620, -77.482484] },
+    { "type": "shelter", "name": "Shadyrest", "loc": [43.036307, -77.480538], "directionsCoordinate": [43.038900, -77.482276] },
+    { "type": "admin", "name": "Park Office", "loc": [43.045203, -77.477936] },
+    { "type": "poi", "name": "Mill Wheel", "loc": [43.046111, -77.482011] },
+    { "type": "scenic", "name": "Sandhill", "loc": [43.046224, -77.481225] },
+    { "type": "poi", "name": "Fish Hatchery", "loc": [43.047037, -77.476584], "allowsDirections": true, "url": "http://fishpowdermill.org" },
+    { "type": "sports", "name": "Volleyball Area", "loc": [43.048209, -77.485512] },
+    { "type": "sports", "name": "Playground", "loc": [43.038951, -77.481486] },
+    { "type": "sports", "name": "Downhill Ski Area", "loc": [43.038712, -77.483173] }
+  ]
+}

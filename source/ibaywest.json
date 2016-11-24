@@ -1,0 +1,128 @@
+{
+  "parks": {
+    "ibaywest": {
+      "name": "Irondequoit Bay Park West",
+      "mainPin": [43.18694, -77.53322],
+      "SW": [
+        43.181836,
+        -77.542742
+      ],
+      "NE": [
+        43.189354,
+        -77.527341
+      ],
+      "directionsCoordinate": [43.183771, -77.529223],
+      "url": "http://www.monroecounty.gov/parks-baywest.php"
+    }
+  },
+  "trails": {
+    "_prototype": { "parkId": "ibaywest", "url": "http://www.monroecounty.gov/parks-baywest.php" },
+    "ibaywest_other": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "SW": [
+        43.183407,
+        -77.538055
+      ],
+      "NE": [
+        43.188755,
+        -77.529541
+      ]
+    },
+    "ibaywest_green": {
+      "name": "Green Trail",
+      "color": "dark_green",
+      "length": 0.49,
+      "trailheads": [
+        [43.189137, -77.531830]
+      ],
+      "SW": [
+        43.185883,
+        -77.538536
+      ],
+      "NE": [
+        43.189137,
+        -77.53183
+      ]
+    },
+    "ibaywest_purple": {
+      "name": "Purple Trail",
+      "color": "purple",
+      "length": 0.66,
+      "trailheads": [
+        [43.182628, -77.531867],
+        [43.183743, -77.529015]
+      ],
+      "SW": [
+        43.182682,
+        -77.533531
+      ],
+      "NE": [
+        43.185303,
+        -77.528427
+      ]
+    },
+    "ibaywest_red": {
+      "name": "Red Trail",
+      "color": "red",
+      "length": 0.69,
+      "trailheads": [],
+      "SW": [
+        43.185207,
+        -77.539711
+      ],
+      "NE": [
+        43.186604,
+        -77.533012
+      ]
+    },
+    "ibaywest_blue": {
+      "name": "Blue Trail",
+      "color": "sky",
+      "length": 1.5,
+      "trailheads": [
+        [43.186226, -77.543198],
+        [43.189037, -77.530693]
+      ],
+      "SW": [
+        43.184895,
+        -77.543198
+      ],
+      "NE": [
+        43.189037,
+        -77.530457
+      ]
+    },
+    "ibaywest_orange": {
+      "name": "Orange Trail",
+      "color": "orange",
+      "length": 0.67,
+      "trailheads": [],
+      "SW": [
+        43.18512,
+        -77.539665
+      ],
+      "NE": [
+        43.186329,
+        -77.532318
+      ]
+    }
+  },
+  "points": [
+      { "type": "parking", "loc": [43.189061, -77.530172], "comments": "Bay West N" },
+      { "type": "parking", "loc": [43.183771, -77.529223], "comments": "Bay West S" },
+      { "type": "intersection", "name": "1",  "loc": [43.185883, -77.538536] },
+      { "type": "intersection", "name": "2",  "loc": [43.185299, -77.539711] },
+      { "type": "intersection", "name": "3",  "loc": [43.185284, -77.537788] },
+      { "type": "intersection", "name": "4",  "loc": [43.185398, -77.537704] },
+      { "type": "intersection", "name": "5",  "loc": [43.185574, -77.536987] },
+      { "type": "intersection", "name": "6",  "loc": [43.185371, -77.536392] },
+      { "type": "intersection", "name": "7",  "loc": [43.185764, -77.533768] },
+      { "type": "intersection", "name": "8",  "loc": [43.186600, -77.533897] },
+      { "type": "intersection", "name": "9",  "loc": [43.185661, -77.532318] },
+      { "type": "intersection", "name": "10", "loc": [43.185078, -77.531860] },
+      { "type": "intersection", "name": "11", "loc": [43.185230, -77.531403] },
+      { "type": "intersection", "name": "12", "loc": [43.184269, -77.530075] }
+  ]
+}

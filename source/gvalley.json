@@ -1,0 +1,125 @@
+{
+  "parks": {
+    "gvalley": { "name": "Genesee Valley Park", "mainPin": [43.11555176041976,-77.64572381973267],
+      "SW": [43.10217, -77.66398], "NE": [43.12584, -77.63038],
+      "directionsCoordinate": [43.118813, -77.635807],
+      "url": "http://www.monroecounty.gov/parks-geneseevalley.php" }
+  },
+  "trails": {
+    "_prototype": { "parkId": "gvalley", "url": "http://www.monroecounty.gov/parks-geneseevalley.php" },
+    "gvalley_erie_canalway": {
+      "name": "Erie Canalway Trail",
+      "color": "sky",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.117108,
+        -77.645748
+      ],
+      "NE": [
+        43.122952,
+        -77.632969
+      ],
+      "url": "http://www.ptny.org/canalway/"
+    },
+    "gvalley_greenway": {
+      "name": "Genesee Valley Greenway",
+      "color": "grass",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.114615,
+        -77.658321
+      ],
+      "NE": [
+        43.123596,
+        -77.63656
+      ],
+      "url": "http://www.fogvg.org"
+    },
+    "gvalley_red_creek": {
+      "name": "Red Creek Trail",
+      "color": "red",
+      "length": 0.57,
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.114323,
+        -77.642387
+      ],
+      "NE": [
+        43.119573,
+        -77.639146
+      ]
+    },
+    "gvalley_riverway": {
+      "name": "Genesee Riverway Trail",
+      "color": "purple",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.114925,
+        -77.656905
+      ],
+      "NE": [
+        43.125616,
+        -77.63163
+      ],
+      "url": "http://www.cityofrochester.gov/article.aspx?id=8589936619"
+    },
+    "gvalley_unnamed_trails": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.119445,
+        -77.641307
+      ],
+      "NE": [
+        43.120984,
+        -77.638387
+      ]
+    }
+  },
+  "points": [
+    { "type": "shelter", "name": "Hawthorne", "loc": [43.11660904446119,-77.63824045658112] },
+    { "type": "shelter", "name": "Dogwood", "loc": [43.115226739802786,-77.63851940631866] },
+    { "type": "shelter", "name": "Tupelo", "loc": [43.11494479280905,-77.63878226280212] },
+    { "type": "shelter", "name": "Canalside", "loc": [43.12007054291502,-77.63773620128632] },
+    { "type": "shelter", "name": "Roundhouse", "loc": [43.12003138678775,-77.6364541053772] },
+    { "type": "shelter", "name": "Riverbend", "loc": [43.12125696168864,-77.63568699359894], "directionsCoordinate": [43.120685290828085,-77.6365453004837] },
+    { "type": "parking", "name": "Crittenden", "loc": [43.105079746221556,-77.64915704727173] },
+    { "type": "parking", "comments": "S Golf S", "loc": [43.11326287368589,-77.6513859629631] },
+    { "type": "parking", "comments": "S Golf N", "loc": [43.11371713346524,-77.65096217393875] },
+    { "type": "parking", "comments": "Hawthorne", "loc": [43.11708677422128,-77.63762354850769] },
+    { "type": "parking", "comments": "Hawthorne-390", "loc": [43.11833198672078,-77.63887882232666] },
+    { "type": "parking", "name": "Parking (Under Expressway)", "loc": [43.119725968135015,-77.64065980911255] },
+    { "type": "parking", "comments": "Main", "loc": [43.119483198374816,-77.63680279254913] },
+    { "type": "parking", "comments": "Riverbend", "loc": [43.120685290828085,-77.6365453004837] },
+    { "type": "parking", "comments": "Sports Complex", "loc": [43.12403301340834,-77.63603568077087] },
+    { "type": "restroom", "loc": [43.11583762049947,-77.63871252536774] },
+    { "type": "restroom", "loc": [43.120207589163115,-77.63588547706604] },
+    { "type": "poi", "name": "South Golf Course", "loc": [43.1102259037987,-77.65377044677734], "url": "http://golftheparks.com/courses/Genesee.html", "allowsDirections": true, "directionsCoordinate": [43.11326287368589,-77.6513859629631] },
+    { "type": "poi", "name": "North Golf Course", "loc": [43.11830849237985,-77.64402866363525], "url": "http://golftheparks.com/courses/Genesee.html", "allowsDirections": true },
+    { "type": "poi", "name": "Club House", "loc": [43.11431432330361,-77.65075027942657], "url": "http://golftheparks.com/courses/Genesee.html", "allowsDirections": true },
+    { "type": "poi", "name": "Sports Complex", "loc": [43.12415047403197,-77.63480186462402], "url": "http://www.cityofrochester.gov/GVPSC/", "allowsDirections": true },
+    { "type": "sports", "name": "Softball Field 1", "loc": [43.104178928332615,-77.6502513885498] },
+    { "type": "sports", "name": "Softball Field 2", "loc": [43.105432236569804,-77.64812707901001] },
+    { "type": "sports", "name": "Softball Field 3", "loc": [43.10615287718743,-77.64729022979736] },
+    { "type": "sports", "name": "Softball Field 4", "loc": [43.11522282388119,-77.64040231704712] },
+    { "type": "sports", "name": "Softball Field 5", "loc": [43.11628794531343,-77.63928651809692] },
+    { "type": "sports", "name": "Softball Field 6", "loc": [43.11807354847455,-77.63990879058838] },
+    { "type": "sports", "name": "Softball Field 7", "loc": [43.11727473244876,-77.64059543609619] },
+    { "type": "sports", "name": "Soccer Field", "loc": [43.11741570074049,-77.6389217376709] },
+    { "type": "sports", "name": "Cricket Field", "loc": [43.11595118098243,-77.64140009880066] },
+    { "type": "sports", "name": "Playground", "loc": [43.12051300541173,-77.6373016834259] },
+    { "type": "boat_launch", "name": "Canoe Launch (Under Expressway)", "loc": [43.12022325157193,-77.64172196388245] },
+    { "type": "boat_launch", "loc": [43.122646961017516,-77.63649702072144] }
+  ]
+}

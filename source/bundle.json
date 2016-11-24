@@ -1,0 +1,66 @@
+{
+    "dataVersion": "iOS-1",
+    "build": 131,
+    "appConfig": {
+        "initialMapRegion": {
+            "SW": [42.8077, -77.9526],
+            "NE": [43.4906, -77.371976]
+        },
+        "visibilityConstraints": {
+            "trailheads": {"maxScale": 41.9},
+            "points": {"maxScale": 41.9},
+            "trails": {"maxScale": 41.9},
+            "parkBoundaries": {"maxScale": 105.4},
+            "parkBoundariesAdvisoriesOnly": {"maxScale": 105.4, "onlyWithActiveConstraints": true},
+            "largeTrailSystem": {"maxScale": 167}
+        },
+        "colors": {
+            "sys_tintColor": { "hex": "#FF6C00" },
+            "park_border": { "hex": "00C000", "alpha": 0.75 },
+            "park_fill": { "hex": "008000", "alpha": 0.1 },
+            "unmarked_trail": { "hex": "#a0a0a0" },
+            "trail_closure": { "hex": "#808080" },
+            "black":    { "hex": "#000000" },
+            "blue": { "hex": "#333399" },
+            "brown": { "hex": "#8D5531" },
+            "dark_green": { "hex": "#339933" },
+            "grass": { "hex": "#4db15c" },
+            "green": { "hex": "#00ff00" },
+            "orange": { "hex": "#FF7D40" },
+            "pink": { "hex": "#F20F62" },
+            "purple": { "hex": "#8755E5" },
+            "red": { "hex": "#a00000" },
+            "red_orange": { "hex": "#FB5C4A" },
+            "sky": { "hex": "#0080ff" },
+            "teal": { "hex": "#008080" },
+            "white": { "hex": "#ffffff" },
+            "yellow": { "hex": "#eeee66" }
+        },
+        "dashStyles": {
+            "duplex1": { "pattern": [8, 8], "phase": 0 },
+            "duplex2": { "pattern": [8, 8], "phase": 16 },
+            "trailClosure": { "pattern": [10, 6], "phase": 0 }
+        }
+    },
+    "dataSources": {
+        "remoteBaseURL": "http://localhost:4567/Preparation/",
+        "localFiles": ["advisories.json",
+                       "abe.json", "black_creek.json", "churchville_park.json", "crescenttr.json",
+                        "devils_cove.json", "durand_eastman.json",
+                        "ellison.json", "gcanal.json", "gosnell.json", "gvalley.json", "highland.json",
+                        "hitor.json", "ibaymar.json", "ibaywest.json", "lehigh.json",
+                        "lmoren.json", "mponds.json", "nhamp.json", "oatka.json", "ontariob.json", "pmills.json",
+                        "senecapk.json", "senecatr.json", "tryon.json",
+                        "webstercp.json", "webstertr.json", "wrnp.json"],
+        "remoteFiles": [],
+        "localGpx": ["abe.gpx", "black_creek.gpx", "churchville_park.gpx", "crescenttr.gpx",
+                      "devils_cove.gpx", "durand_eastman.gpx",
+                      "ellison.gpx", "gcanal.gpx", "gosnell.gpx", "gvalley.gpx", "highland.gpx",
+                      "hitor.gpx", "ibaymar.gpx", "ibaywest.gpx",
+                      "lehigh.gpx", "lmoren.gpx", "mponds.gpx",
+                      "nhamp.gpx", "oatka.gpx", "ontariob.gpx", "pmills.gpx",
+                      "senecapk.gpx", "senecatr.gpx", "tryon.gpx",
+                      "webstercp.gpx", "webstertr.gpx", "wrnp.gpx"],
+        "remoteGpx": []
+    }
+}
