@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2014-10-14T14:17:22.005Z</time>
+        <time>2016-12-04T18:16:17.388Z</time>
     </metadata>
     <trk>
         <name>senecatr_main</name>
@@ -4739,34 +4739,6 @@
         <name>senecatr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.424346" lat="42.983931">
-                <ele>177.600006</ele>
-                <extensions>
-                    <gpxtpx:TrackPointExtension>
-                        <gpxtpx:atemp>20.0</gpxtpx:atemp>
-                        <gpxtpx:hr>149</gpxtpx:hr>
-                    </gpxtpx:TrackPointExtension>
-                </extensions>
-            </trkpt>
-            <trkpt lon="-77.423446" lat="42.983088">
-                <ele>177.659537</ele>
-            </trkpt>
-            <trkpt lon="-77.422493" lat="42.982145">
-                <ele>177.724665</ele>
-            </trkpt>
-            <trkpt lon="-77.421420" lat="42.980988">
-                <ele>177.791108</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>senecatr_main</name>
-        <extensions>
-            <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
@@ -5855,6 +5827,28 @@
             <trkpt lon="-77.431859" lat="42.940018"></trkpt>
             <trkpt lon="-77.432046" lat="42.940008"></trkpt>
             <trkpt lon="-77.431962" lat="42.938614"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main,senecatr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.424393" lat="42.983905">
+                <ele>177.600006</ele>
+            </trkpt>
+            <trkpt lon="-77.423446" lat="42.983088">
+                <ele>177.659537</ele>
+            </trkpt>
+            <trkpt lon="-77.422493" lat="42.982145">
+                <ele>177.724665</ele>
+            </trkpt>
+            <trkpt lon="-77.421493" lat="42.981007">
+                <ele>177.791108</ele>
+            </trkpt>
         </trkseg>
     </trk>
 </gpx>

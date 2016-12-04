@@ -1,0 +1,189 @@
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2016-12-04T19:01:04.048Z</time>
+    </metadata>
+    <wpt lon="-77.384341" lat="42.968810">
+        <name>parking</name>
+        <desc></desc>
+    </wpt>
+    <wpt lon="-77.390207" lat="42.969000">
+        <name>parking</name>
+    </wpt>
+    <wpt lon="-77.408509" lat="42.973867">
+        <name>parking</name>
+    </wpt>
+    <wpt lon="-77.437035" lat="42.992805">
+        <name>parking</name>
+    </wpt>
+    <wpt lon="-77.467477" lat="43.008981">
+        <name>parking - Fishers FH Auburn trail</name>
+        <desc>{"type": "parking", "name": ""}</desc>
+    </wpt>
+    <wpt lon="-77.482431" lat="43.026709">
+        <name>parking</name>
+    </wpt>
+    <wpt lon="-77.453491" lat="43.001971">
+        <name>parking</name>
+    </wpt>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.467422" lat="43.009092"></trkpt>
+            <trkpt lon="-77.466900" lat="43.007900"></trkpt>
+            <trkpt lon="-77.466500" lat="43.007300"></trkpt>
+            <trkpt lon="-77.466100" lat="43.006800"></trkpt>
+            <trkpt lon="-77.465100" lat="43.006000"></trkpt>
+            <trkpt lon="-77.464300" lat="43.005600"></trkpt>
+            <trkpt lon="-77.459000" lat="43.003700"></trkpt>
+            <trkpt lon="-77.453600" lat="43.001900"></trkpt>
+            <trkpt lon="-77.451900" lat="43.001300"></trkpt>
+            <trkpt lon="-77.450377" lat="43.000574"></trkpt>
+            <trkpt lon="-77.446000" lat="42.998500"></trkpt>
+            <trkpt lon="-77.442200" lat="42.996600"></trkpt>
+            <trkpt lon="-77.440000" lat="42.995100"></trkpt>
+            <trkpt lon="-77.436800" lat="42.992800"></trkpt>
+            <trkpt lon="-77.424400" lat="42.983900"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.421500" lat="42.981000"></trkpt>
+            <trkpt lon="-77.416930" lat="42.980980"></trkpt>
+            <trkpt lon="-77.416600" lat="42.980900"></trkpt>
+            <trkpt lon="-77.416450" lat="42.980770"></trkpt>
+            <trkpt lon="-77.416470" lat="42.980680"></trkpt>
+            <trkpt lon="-77.416400" lat="42.980600"></trkpt>
+            <trkpt lon="-77.415100" lat="42.981300"></trkpt>
+            <trkpt lon="-77.412800" lat="42.980700"></trkpt>
+            <trkpt lon="-77.410400" lat="42.980000"></trkpt>
+            <trkpt lon="-77.409700" lat="42.980000"></trkpt>
+            <trkpt lon="-77.409700" lat="42.979700"></trkpt>
+            <trkpt lon="-77.409800" lat="42.979200"></trkpt>
+            <trkpt lon="-77.411600" lat="42.975300"></trkpt>
+            <trkpt lon="-77.411300" lat="42.975300"></trkpt>
+            <trkpt lon="-77.411600" lat="42.974800"></trkpt>
+            <trkpt lon="-77.411610" lat="42.974600"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.384304" lat="42.968840"></trkpt>
+            <trkpt lon="-77.383814" lat="42.968823"></trkpt>
+            <trkpt lon="-77.382910" lat="42.968840"></trkpt>
+            <trkpt lon="-77.382010" lat="42.969100"></trkpt>
+            <trkpt lon="-77.381700" lat="42.969100"></trkpt>
+            <trkpt lon="-77.380600" lat="42.969000"></trkpt>
+            <trkpt lon="-77.380200" lat="42.968900"></trkpt>
+            <trkpt lon="-77.377800" lat="42.967600"></trkpt>
+            <trkpt lon="-77.377800" lat="42.967500"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.377800" lat="42.967500"></trkpt>
+            <trkpt lon="-77.377300" lat="42.967400"></trkpt>
+            <trkpt lon="-77.375900" lat="42.967100"></trkpt>
+            <trkpt lon="-77.374700" lat="42.966800"></trkpt>
+            <trkpt lon="-77.368384" lat="42.964267"></trkpt>
+            <trkpt lon="-77.366259" lat="42.963515"></trkpt>
+            <trkpt lon="-77.365961" lat="42.963500"></trkpt>
+            <trkpt lon="-77.364797" lat="42.963053"></trkpt>
+            <trkpt lon="-77.364721" lat="42.962944"></trkpt>
+            <trkpt lon="-77.363663" lat="42.962438"></trkpt>
+            <trkpt lon="-77.363470" lat="42.962400"></trkpt>
+            <trkpt lon="-77.362952" lat="42.962013"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.411610" lat="42.974600"></trkpt>
+            <trkpt lon="-77.409420" lat="42.973970"></trkpt>
+            <trkpt lon="-77.407120" lat="42.973460"></trkpt>
+            <trkpt lon="-77.406140" lat="42.973210"></trkpt>
+            <trkpt lon="-77.404100" lat="42.972900"></trkpt>
+            <trkpt lon="-77.403320" lat="42.972760"></trkpt>
+            <trkpt lon="-77.402610" lat="42.972530"></trkpt>
+            <trkpt lon="-77.399220" lat="42.971360"></trkpt>
+            <trkpt lon="-77.396900" lat="42.970500"></trkpt>
+            <trkpt lon="-77.395900" lat="42.970200"></trkpt>
+            <trkpt lon="-77.393800" lat="42.969600"></trkpt>
+            <trkpt lon="-77.393100" lat="42.969500"></trkpt>
+            <trkpt lon="-77.391600" lat="42.969260"></trkpt>
+            <trkpt lon="-77.390160" lat="42.969090"></trkpt>
+            <trkpt lon="-77.386000" lat="42.968600"></trkpt>
+            <trkpt lon="-77.384350" lat="42.968390"></trkpt>
+            <trkpt lon="-77.384304" lat="42.968840"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.467422" lat="43.009092"></trkpt>
+            <trkpt lon="-77.468621" lat="43.012036"></trkpt>
+            <trkpt lon="-77.469510" lat="43.014140"></trkpt>
+            <trkpt lon="-77.469909" lat="43.014788"></trkpt>
+            <trkpt lon="-77.470348" lat="43.015383"></trkpt>
+            <trkpt lon="-77.471150" lat="43.016237"></trkpt>
+            <trkpt lon="-77.471812" lat="43.016821"></trkpt>
+            <trkpt lon="-77.472841" lat="43.017596"></trkpt>
+            <trkpt lon="-77.473513" lat="43.017951"></trkpt>
+            <trkpt lon="-77.474905" lat="43.018542"></trkpt>
+            <trkpt lon="-77.476434" lat="43.019364"></trkpt>
+            <trkpt lon="-77.476777" lat="43.019628"></trkpt>
+            <trkpt lon="-77.478953" lat="43.021381"></trkpt>
+            <trkpt lon="-77.480939" lat="43.023185"></trkpt>
+            <trkpt lon="-77.481282" lat="43.023642"></trkpt>
+            <trkpt lon="-77.481712" lat="43.024579"></trkpt>
+            <trkpt lon="-77.482371" lat="43.026797"></trkpt>
+            <trkpt lon="-77.482549" lat="43.027499"></trkpt>
+            <trkpt lon="-77.482523" lat="43.028236"></trkpt>
+            <trkpt lon="-77.482393" lat="43.029054"></trkpt>
+            <trkpt lon="-77.482265" lat="43.030250"></trkpt>
+            <trkpt lon="-77.482208" lat="43.031322"></trkpt>
+            <trkpt lon="-77.482264" lat="43.031863"></trkpt>
+            <trkpt lon="-77.482468" lat="43.032263"></trkpt>
+            <trkpt lon="-77.482608" lat="43.032342"></trkpt>
+            <trkpt lon="-77.483350" lat="43.033413"></trkpt>
+            <trkpt lon="-77.484698" lat="43.035084"></trkpt>
+            <trkpt lon="-77.485417" lat="43.036037"></trkpt>
+            <trkpt lon="-77.487000" lat="43.038172"></trkpt>
+            <trkpt lon="-77.490230" lat="43.042362"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>

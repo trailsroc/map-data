@@ -3,7 +3,7 @@
     "lehigh_park": { "name": "Lehigh Valley Trail", "mainPin": [42.986848, -77.601529],
       "SW": [42.98174, -77.732828 ], "NE": [43.048082, -77.482145 ],
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
-      "hideInListView": true }
+      "hideInListView": false }
   },
   "trails": {
     "_prototype": { "parkId": null, "visibilityConstraint": "largeTrailSystem", "url": "http://www.monroecounty.gov/parks-lehighvalley.php" },
