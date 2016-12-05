@@ -62,7 +62,7 @@
   },
   "points": [
     {"type":"parking","name":"Shoulder Parking","loc":[43.128423,-77.521422]},
-    {"type":"parking","name":"","loc":[43.137475,-77.526624],"comment":"Penfield Rd"},
+    {"type":"parking","loc":[43.137475,-77.526624],"comment":"Penfield Rd"},
     {"type":"poi","name":"Corbett’s Glen Tunnel","loc":[43.129779,-77.520883]},
     {"type":"scenic","name":"Waterfalls","loc":[43.130169,-77.518504]},
     {"type":"poi","name":"Boardwalk","loc":[43.131798,-77.520104]},

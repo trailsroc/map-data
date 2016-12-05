@@ -11,7 +11,7 @@
         "abe_green_trail": {"name":"Green Trail","length": 0.37, "color":"grass","trailheads":[],"SW":[43.184388,-77.518699],"NE":[43.185711,-77.515025]},
         "abe_orange_trail": {"name":"Orange Trail","length": 0.32, "color":"orange","trailheads":[],"SW":[43.187533,-77.514915],"NE":[43.189385,-77.512124]},
         "abe_red_trail": {"name":"Red Trail","length": 0.32, "color":"red","trailheads":[],"SW":[43.186449,-77.516775],"NE":[43.188333,-77.514501]},
-        "abe_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.180725,-77.512619],"NE":[43.18934,-77.509031]},
+        "abe_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.180725,-77.512619],"NE":[43.18934,-77.509031]},
         "abe_white_trail": {"name":"White Trail","length": 1.45, "color":"white","trailheads":[],"SW":[43.180288,-77.517042],"NE":[43.189966,-77.510281]},
         "abe_yellow_trail": {"name":"Yellow Trail","length": 0.4, "color":"yellow","trailheads":[],"SW":[43.18158,-77.517016],"NE":[43.183226,-77.512919]}
     },

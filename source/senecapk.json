@@ -55,7 +55,7 @@
         -77.619468
       ]
     },
-    "senecapk_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.197673,-77.623481],"NE":[43.212724,-77.619291]}
+    "senecapk_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.197673,-77.623481],"NE":[43.212724,-77.619291]}
   },
   "points": [
     { "type": "lodge", "name": "Wegman", "loc": [43.213046, -77.618759] },

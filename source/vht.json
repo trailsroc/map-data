@@ -34,7 +34,7 @@
   },
     "points": [
         {"type":"poi","name":"Victor Hiking Trails Kiosk","loc":[42.982776,-77.410896]},
-        {"type":"parking","name":"","loc":[43.001739,-77.469571]},
-        {"type":"parking","name":"","loc":[43.00037,-77.454762]}
+{"type":"parking","loc":[43.001739,-77.469571]},
+{"type":"parking","loc":[43.00037,-77.454762]}
     ]
 }

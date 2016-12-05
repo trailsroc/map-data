@@ -133,7 +133,7 @@
         -77.520447
       ]
     },
-    "lmorin_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.172104,-77.528365],"NE":[43.175612,-77.523707]}
+    "lmorin_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.172104,-77.528365],"NE":[43.175612,-77.523707]}
   },
   "points": [
     { "type": "parking", "loc": [43.17538876465969,-77.52373695373535] },

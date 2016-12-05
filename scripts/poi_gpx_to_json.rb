@@ -21,7 +21,9 @@ def process(gpx_file)
         if names.count > 0 then
             tokens = names.first.content.split(':')
             poi["type"] = tokens[0]
-            poi["name"] = tokens[1] || ''
+            if tokens[1] && tokens[1].length > 0 then
+                poi["name"] = tokens[1]
+            end
         end
         poi["loc"] = [node["lat"].to_f, node["lon"].to_f]
         descs = node.>('desc')

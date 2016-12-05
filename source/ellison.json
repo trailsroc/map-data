@@ -101,7 +101,7 @@
         -77.508823
       ]
     },
-    "ellison_unnamed_trails": {"name":"","color":"unmarked_trail","trailheads":[],"SW":[43.14419,-77.521491],"NE":[43.150783,-77.512383]}
+    "ellison_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.14419,-77.521491],"NE":[43.150783,-77.512383]}
   },
   "points": [
     { "type": "poi", "name": "Trading Post (Ft. Schuyler)", "loc": [43.153711, -77.526371] },
