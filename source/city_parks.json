@@ -1,0 +1,84 @@
+{
+  "parks": {
+    "cobbs": {
+        "name": "Cobbs Hill Park",
+        "mainPin": [43.138995, -77.570838],
+        "url": "http://www.cityofrochester.gov/cobbshill/",
+      "SW": [
+        43.136209,
+        -77.578288
+      ],
+      "NE": [
+        43.143946,
+        -77.562719
+      ]
+    }
+  },
+  "trails": {
+    "cobbs_singletrack": {
+        "hideInListView": true,
+        "color": "dark_green",
+        "parkId": "cobbs",
+        "length": 0,
+        "url": "",
+      "SW": [
+        43.13738,
+        -77.577376
+      ],
+      "NE": [
+        43.141806,
+        -77.562988
+      ]
+    },
+    "cobbs_reservoir_loop": {
+        "hideInListView": true,
+        "color": "blue",
+        "parkId": "cobbs",
+        "length": 0,
+        "url": "",
+      "SW": [
+        43.137577,
+        -77.574787
+      ],
+      "NE": [
+        43.139823,
+        -77.569397
+      ]
+    },
+    "cobbs_gravel": {
+        "hideInListView": true,
+        "color": "unmarked_trail",
+        "parkId": "cobbs",
+        "length": 0,
+        "url": "",
+      "SW": [
+        43.137352,
+        -77.577193
+      ],
+      "NE": [
+        43.141275,
+        -77.573697
+      ]
+    }
+  },
+  "points": [
+    {"type":"scenic","name":"City Overlook","loc":[43.139613,-77.573261]},
+{"type":"parking","loc":[43.141464,-77.575447]},
+{"type":"sports","name":"Tennis Courts","loc":[43.138204,-77.5768]},
+{"type":"poi","name":"Washington Grove","loc":[43.139619,-77.566163],"url":"http://www.cityofrochester.gov/washingtongrove/"},
+{"type":"poi","name":"Water Towers","loc":[43.141021,-77.567728],"url":"https://rocwiki.org/The_Water_Towers"},
+{"type":"parking","loc":[43.139635,-77.563462]},
+{"type":"parking","loc":[43.139647,-77.569616]},
+{"type":"parking","loc":[43.139603,-77.572805]},
+{"type":"poi","name":"Switchback","loc":[43.138712, -77.575259]},
+{"type":"sports","name":"Ball Fields","loc":[43.142475,-77.570223]},
+{"type":"sports","name":"Ball Field","loc":[43.140721,-77.575555]},
+{"type":"sports","name":"Basketball Courts","loc":[43.140777,-77.574259]},
+{"type":"lodge","name":"Lake Riley Lodge","loc":[43.141347,-77.574885],"url":"http://www.cityofrochester.gov/article.aspx?id=8589935140"},
+{"type":"parking","loc":[43.141371,-77.574012]},
+{"type":"sports","name":"Playground","loc":[43.140874,-77.574756]},
+{"type":"parking","loc":[43.139795,-77.574732],"directionsCoordinate":[43.141275,-77.573697]},
+{"type":"lodge","name":"Tay House","loc":[43.141759,-77.566082],"url":"http://www.cityofrochester.gov/article.aspx?id=8589935131"},
+{"type":"scenic","loc":[43.13806,-77.574921]}
+  ]
+}
