@@ -1,6 +1,6 @@
 {
     "dataVersion": "iOS-1",
-    "build": 141,
+    "build": 142,
     "appConfig": {
         "initialMapRegion": {
             "SW": [42.8077, -77.9526],
@@ -12,7 +12,8 @@
             "trails": {"maxScale": 41.9},
             "parkBoundaries": {"maxScale": 105.4},
             "parkBoundariesAdvisoriesOnly": {"maxScale": 105.4, "onlyWithActiveConstraints": true},
-            "largeTrailSystem": {"maxScale": 167}
+            "largeTrailSystem": {"maxScale": 167},
+            "extraLargeTrailSystem": {"maxScale": 334}
         },
         "colors": {
             "sys_tintColor": { "hex": "#FF6C00" },

@@ -2,7 +2,7 @@
   "parks": {
     "gv_riverway_park": { "name": "Genesee Riverway Trail",
       "mainPin": [43.141994, -77.614992],
-      "directionsCoordinate": [],
+      "directionsCoordinate": null,
       "SW": [
         43.11488,
         -77.656806
@@ -15,7 +15,7 @@
       "hideInListView": false },
     "gv_greenway_park": { "name": "Genesee Valley Greenway",
       "mainPin": [43.032102, -77.736419],
-      "directionsCoordinate": [],
+      "directionsCoordinate": null,
       "SW": [
         42.725963,
         -77.882524
@@ -28,7 +28,7 @@
       "hideInListView": false },
     "ecanal_park_park_w": { "name": "Erie Canal Heritage Trail",
       "mainPin": [43.194378, -77.814611],
-      "directionsCoordinate": [],
+      "directionsCoordinate": null,
       "SW": [
         43.062883,
         -78.027192
@@ -41,7 +41,7 @@
       "hideInListView": false },
     "ecanal_park_park_e": { "name": "Erie Canal Heritage Trail",
       "mainPin": [43.083816, -77.456999],
-      "directionsCoordinate": [],
+      "directionsCoordinate": null,
       "SW": [
         43.062883,
         -78.027192
@@ -54,12 +54,12 @@
       "hideInListView": true }
   },
   "trails": {
-    "_prototype": { "parkId": null },
+    "_prototype": { "parkId2": null },
     "ecanal_main": {
       "name": "Erie Canal Heritage Trail",
       "url": "http://www.eriecanalway.org/explore/cycling",
       "color": "yellow",
-      "visibilityConstraint": "largeTrailSystem",
+      "visibilityConstraint": "extraLargeTrailSystem",
       "length": 45,
       "trailheads": [],
       "hideInListView": false,
@@ -76,7 +76,7 @@
       "name": "Erie Canal (Possible Closures)",
       "url": "http://www.eriecanalway.org/explore/cycling",
       "color": "orange",
-      "visibilityConstraint": "largeTrailSystem",
+      "visibilityConstraint": "extraLargeTrailSystem",
       "length": 45,
       "trailheads": [],
       "hideInListView": true,
@@ -93,6 +93,7 @@
       "name": "Erie Canal (Construction Detour)",
       "url": "http://www.eriecanalway.org/explore/cycling",
       "color": "black",
+      "visibilityConstraint": "largeTrailSystem",
       "length": 45,
       "trailheads": [],
       "hideInListView": true,
@@ -169,7 +170,7 @@
       "name": "Genesee Valley Greenway",
       "url": "http://fogvg.org",
       "color": "dark_green",
-      "visibilityConstraint": "largeTrailSystem",
+      "visibilityConstraint": "extraLargeTrailSystem",
       "length": 34,
       "trailheads": [],
       "hideInListView": false,
@@ -186,7 +187,7 @@
       "name": "Genesee Greenway: Road Detour",
       "url": "http://fogvg.org",
       "color": "black",
-      "visibilityConstraint": "largeTrailSystem",
+      "visibilityConstraint": "extraLargeTrailSystem",
       "length": 34,
       "trailheads": [],
       "hideInListView": true,
@@ -229,10 +230,6 @@
         -77.707218
       ]
     },
-
-    // TODO north/middle/south. split the distances
-    // parkId: gv_riverway_park
-
     "gv_riverway_south": {
       "name": "Genesee Riverway (South)",
       "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
@@ -291,7 +288,6 @@
       "name": "Genesee Riverway (East Bank)",
       "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
       "color": "sky",
-      "visibilityConstraint": "largeTrailSystem",
       "length": 3.25,
       "trailheads": [],
       "hideInListView": false,
@@ -334,5 +330,49 @@
         -77.616804
       ]
     }
-  }
+  },
+  "points": [
+    {"type":"parking","loc":[43.227844,-78.021728]},
+{"type":"scenic","name":"Holley Canal Falls","loc":[43.225168,-78.018888]},
+{"type":"parking","loc":[43.225489,-78.019317]},
+{"type":"parking","loc":[43.222742,-77.996513]},
+{"type":"parking","loc":[43.217119,-77.937887]},
+{"type":"parking","loc":[43.193779,-77.800365]},
+{"type":"parking","name":"Parking (Henpeck Park)","loc":[43.18834,-77.730931]},
+{"type":"parking","loc":[43.106997,-77.599417]},
+{"type":"parking","loc":[43.096259,-77.56861]},
+{"type":"parking","loc":[43.092962,-77.547754]},
+{"type":"parking","loc":[43.092851,-77.5136]},
+{"type":"parking","loc":[43.089902,-77.510593]},
+{"type":"parking","loc":[43.091454,-77.511929]},
+{"type":"parking","loc":[43.093971,-77.51574]},
+{"type":"parking","loc":[43.073715,-77.490357]},
+{"type":"parking","loc":[43.101838,-77.456047]},
+{"type":"parking","loc":[43.102534,-77.442478]},
+{"type":"parking","loc":[43.101518,-77.440947]},
+{"type":"parking","loc":[43.105812,-77.678173]},
+{"type":"parking","loc":[43.077216,-77.709686]},
+{"type":"parking","loc":[43.018389,-77.747525]},
+{"type":"parking","loc":[43.005097,-77.740234]},
+{"type":"parking","loc":[42.983003,-77.743267]},
+{"type":"parking","loc":[42.922628,-77.756364]},
+{"type":"parking","loc":[42.917369,-77.784261]},
+{"type":"parking","loc":[42.864674,-77.851261]},
+{"type":"parking","loc":[42.828022,-77.851115]},
+{"type":"parking","loc":[42.777203,-77.870333]},
+{"type":"parking","loc":[42.726325,-77.872275]},
+{"type":"parking","loc":[43.125996,-77.634651]},
+{"type":"parking","loc":[43.251545,-77.610359]},
+{"type":"parking","loc":[43.246225,-77.613469]},
+{"type":"scenic","loc":[43.231325,-77.617868]},
+{"type":"parking","loc":[43.227546,-77.617829]},
+{"type":"parking","loc":[43.181457,-77.630282]},
+{"type":"scenic","name":"High Falls Footbridge","loc":[43.162423,-77.615641]},
+{"type":"poi","name":"Footbridge","loc":[43.15749,-77.611153]},
+{"type":"poi","name":"Footbridge","loc":[43.131286,-77.633298]},
+{"type":"poi","name":"Footbridge","loc":[43.133008,-77.622898]},
+{"type":"scenic","name":"Footbridge","loc":[43.197811,-77.620465]},
+{"type":"poi","name":"Footbridge","loc":[43.1221,-77.639921]},
+{"type":"poi","name":"Construction","loc":[43.110751,-77.616022]}
+  ]
 }
