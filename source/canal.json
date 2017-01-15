@@ -54,11 +54,10 @@
       "hideInListView": true }
   },
   "trails": {
-    "_prototype": { "parkId2": null },
     "ecanal_main": {
       "name": "Erie Canal Heritage Trail",
       "url": "http://www.eriecanalway.org/explore/cycling",
-      "color": "yellow",
+      "color": "brown",
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 45,
       "trailheads": [],
