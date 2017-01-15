@@ -1,0 +1,338 @@
+{
+  "parks": {
+    "gv_riverway_park": { "name": "Genesee Riverway Trail",
+      "mainPin": [43.141994, -77.614992],
+      "directionsCoordinate": [],
+      "SW": [
+        43.11488,
+        -77.656806
+      ],
+      "NE": [
+        43.252121,
+        -77.609638
+      ],
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "hideInListView": false },
+    "gv_greenway_park": { "name": "Genesee Valley Greenway",
+      "mainPin": [43.032102, -77.736419],
+      "directionsCoordinate": [],
+      "SW": [
+        42.725963,
+        -77.882524
+      ],
+      "NE": [
+        43.121382,
+        -77.644888
+      ],
+      "url": "http://fogvg.org",
+      "hideInListView": false },
+    "ecanal_park_park_w": { "name": "Erie Canal Heritage Trail",
+      "mainPin": [43.194378, -77.814611],
+      "directionsCoordinate": [],
+      "SW": [
+        43.062883,
+        -78.027192
+      ],
+      "NE": [
+        43.23769,
+        -77.301035
+      ],
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "hideInListView": false },
+    "ecanal_park_park_e": { "name": "Erie Canal Heritage Trail",
+      "mainPin": [43.083816, -77.456999],
+      "directionsCoordinate": [],
+      "SW": [
+        43.062883,
+        -78.027192
+      ],
+      "NE": [
+        43.23769,
+        -77.301035
+      ],
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "hideInListView": true }
+  },
+  "trails": {
+    "_prototype": { "parkId": null },
+    "ecanal_main": {
+      "name": "Erie Canal Heritage Trail",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "color": "yellow",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 45,
+      "trailheads": [],
+      "hideInListView": false,
+      "SW": [
+        43.062883,
+        -78.027192
+      ],
+      "NE": [
+        43.23769,
+        -77.301035
+      ]
+    },
+    "ecanal_closed": {
+      "name": "Erie Canal (Possible Closures)",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "color": "orange",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 45,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.109153,
+        -77.622858
+      ],
+      "NE": [
+        43.112774,
+        -77.610884
+      ]
+    },
+    "ecanal_detour": {
+      "name": "Erie Canal (Construction Detour)",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "color": "black",
+      "length": 45,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.109153,
+        -77.623015
+      ],
+      "NE": [
+        43.114902,
+        -77.604731
+      ]
+    },
+    "ecanal_access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.06299,
+        -78.027185
+      ],
+      "NE": [
+        43.237812,
+        -77.301028
+      ]
+    },
+    "ecanal_other": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.095259,
+        -77.606528
+      ],
+      "NE": [
+        43.106056,
+        -77.568807
+      ]
+    },
+    "ecanal_holley_falls": {
+      "name": "Brookdale Preserve",
+      "url": "http://nyfalls.com/waterfalls/holley-falls/",
+      "color": "blue",
+      "length": 0.6,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.224856,
+        -78.023725
+      ],
+      "NE": [
+        43.227885,
+        -78.018425
+      ]
+    },
+    "ecanal_rose_turner": {
+      "name": "Rose Turner Park",
+      "url": "https://www.rochesterparks.org/town-parks/ogden-parks/rose-turner-park/",
+      "color": "dark_green",
+      "length": 0.55,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.190886,
+        -77.78309
+      ],
+      "NE": [
+        43.194836,
+        -77.781358
+      ]
+    },
+    "gv_greenway": {
+      "name": "Genesee Valley Greenway",
+      "url": "http://fogvg.org",
+      "color": "dark_green",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 34,
+      "trailheads": [],
+      "hideInListView": false,
+      "SW": [
+        42.725963,
+        -77.882524
+      ],
+      "NE": [
+        43.121382,
+        -77.644888
+      ]
+    },
+    "gv_greenway_detour": {
+      "name": "Genesee Greenway: Road Detour",
+      "url": "http://fogvg.org",
+      "color": "black",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 34,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.092994,
+        -77.691338
+      ],
+      "NE": [
+        43.107804,
+        -77.675843
+      ]
+    },
+    "gv_greenway_access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        42.922566,
+        -77.776417
+      ],
+      "NE": [
+        43.12193,
+        -77.645446
+      ]
+    },
+    "brookdale_preserve_trail": {
+      "name": "Brookdale Preserve",
+      "url": "http://www.geneseelandtrust.org/protected-places.aspx?id=1",
+      "color": "red",
+      "length": 0.8,
+      "trailheads": [],
+      "hideInListView": false,
+      "SW": [
+        43.077359,
+        -77.71346
+      ],
+      "NE": [
+        43.082089,
+        -77.707218
+      ]
+    },
+
+    // TODO north/middle/south. split the distances
+    // parkId: gv_riverway_park
+
+    "gv_riverway_south": {
+      "name": "Genesee Riverway (South)",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 4.3,
+      "trailheads": [],
+      "hideInListView": false,
+      "parkId": "gv_riverway_park",
+      "SW": [
+        43.11488,
+        -77.656806
+      ],
+      "NE": [
+        43.154547,
+        -77.609638
+      ]
+    },
+    "gv_riverway_maplewood": {
+      "name": "Genesee Riverway (Maplewood)",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 2.4,
+      "trailheads": [],
+      "hideInListView": false,
+      "parkId": "gv_riverway_park",
+      "SW": [
+        43.173716,
+        -77.62977
+      ],
+      "NE": [
+        43.201835,
+        -77.621294
+      ]
+    },
+    "gv_riverway_north": {
+      "name": "Genesee Riverway (North)",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 3,
+      "trailheads": [],
+      "hideInListView": false,
+      "parkId": "gv_riverway_park",
+      "SW": [
+        43.21954,
+        -77.628874
+      ],
+      "NE": [
+        43.252121,
+        -77.609702
+      ]
+    },
+    "gv_riverway_east": {
+      "name": "Genesee Riverway (East Bank)",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "visibilityConstraint": "largeTrailSystem",
+      "length": 3.25,
+      "trailheads": [],
+      "hideInListView": false,
+      "SW": [
+        43.121451,
+        -77.639772
+      ],
+      "NE": [
+        43.153636,
+        -77.607612
+      ]
+    },
+    "gv_riverway_other": {
+      "name": "Genesee Riverway (Other Trails)",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "blue",
+      "length": 0,
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.130747,
+        -77.63465
+      ],
+      "NE": [
+        43.198041,
+        -77.610571
+      ]
+    },
+    "gv_riverway_access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [],
+      "hideInListView": true,
+      "SW": [
+        43.130153,
+        -77.633171
+      ],
+      "NE": [
+        43.230127,
+        -77.616804
+      ]
+    }
+  }
+}

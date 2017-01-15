@@ -6,22 +6,6 @@
   },
   "trails": {
     "_prototype": { "parkId": "gcanal", "url": "http://www.monroecounty.gov/parks-greececanal.php" },
-    "gcanal_canal_trail": {
-      "name": "Canal Trail",
-      "color": "red",
-      "length": 0.9,
-      "trailheads": [
-
-      ],
-      "SW": [
-        43.189338,
-        -77.742465
-      ],
-      "NE": [
-        43.191359,
-        -77.73645
-      ]
-    },
     "gcanal_deer_run": {
       "name": "Deer Run Trail",
       "color": "sky",

@@ -1,349 +1,159 @@
-<?xml version="1.0"?>
-<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-01-13T05:34:51.349Z</time>
+    </metadata>
+    <rte>
+        <name>gvalley_red_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.639236" lat="43.114323"></rtept>
+        <rtept lon="-77.639649" lat="43.114492"></rtept>
+        <rtept lon="-77.639894" lat="43.114483"></rtept>
+        <rtept lon="-77.640205" lat="43.114488"></rtept>
+        <rtept lon="-77.640502" lat="43.114508"></rtept>
+        <rtept lon="-77.640777" lat="43.114561"></rtept>
+        <rtept lon="-77.641008" lat="43.114630"></rtept>
+        <rtept lon="-77.641237" lat="43.114667"></rtept>
+        <rtept lon="-77.641512" lat="43.114666"></rtept>
+        <rtept lon="-77.641904" lat="43.114644"></rtept>
+        <rtept lon="-77.642018" lat="43.114723"></rtept>
+        <rtept lon="-77.642058" lat="43.114896"></rtept>
+        <rtept lon="-77.642103" lat="43.115024"></rtept>
+        <rtept lon="-77.642171" lat="43.115224"></rtept>
+        <rtept lon="-77.642204" lat="43.115501"></rtept>
+        <rtept lon="-77.642243" lat="43.115646"></rtept>
+        <rtept lon="-77.642348" lat="43.115880"></rtept>
+        <rtept lon="-77.642375" lat="43.116054"></rtept>
+        <rtept lon="-77.642387" lat="43.116266"></rtept>
+        <rtept lon="-77.642342" lat="43.116471"></rtept>
+        <rtept lon="-77.642256" lat="43.116650"></rtept>
+        <rtept lon="-77.642007" lat="43.116811"></rtept>
+        <rtept lon="-77.641934" lat="43.116921"></rtept>
+        <rtept lon="-77.641740" lat="43.117091"></rtept>
+        <rtept lon="-77.641599" lat="43.117206"></rtept>
+        <rtept lon="-77.641358" lat="43.117347"></rtept>
+        <rtept lon="-77.641061" lat="43.117424"></rtept>
+        <rtept lon="-77.640850" lat="43.117537"></rtept>
+        <rtept lon="-77.640753" lat="43.117640"></rtept>
+        <rtept lon="-77.640718" lat="43.117746"></rtept>
+        <rtept lon="-77.640718" lat="43.117940"></rtept>
+        <rtept lon="-77.640620" lat="43.118118"></rtept>
+        <rtept lon="-77.640527" lat="43.118278"></rtept>
+        <rtept lon="-77.640381" lat="43.118459"></rtept>
+        <rtept lon="-77.640230" lat="43.118547"></rtept>
+        <rtept lon="-77.639886" lat="43.118651"></rtept>
+        <rtept lon="-77.639645" lat="43.118825"></rtept>
+        <rtept lon="-77.639610" lat="43.118921"></rtept>
+        <rtept lon="-77.639630" lat="43.119041"></rtept>
+        <rtept lon="-77.639625" lat="43.119105"></rtept>
+        <rtept lon="-77.639752" lat="43.119206"></rtept>
+        <rtept lon="-77.639712" lat="43.119343"></rtept>
+        <rtept lon="-77.639611" lat="43.119427"></rtept>
+        <rtept lon="-77.639552" lat="43.119501"></rtept>
+        <rtept lon="-77.639473" lat="43.119559"></rtept>
+        <rtept lon="-77.639352" lat="43.119573"></rtept>
+        <rtept lon="-77.639230" lat="43.119505"></rtept>
+        <rtept lon="-77.639146" lat="43.119451"></rtept>
+    </rte>
+    <rte>
+        <name>gvalley_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.641307" lat="43.119985"></rtept>
+        <rtept lon="-77.641006" lat="43.120266"></rtept>
+        <rtept lon="-77.640932" lat="43.120403"></rtept>
+        <rtept lon="-77.640525" lat="43.120833"></rtept>
+        <rtept lon="-77.640371" lat="43.120939"></rtept>
+        <rtept lon="-77.640128" lat="43.120984"></rtept>
+    </rte>
+    <rte>
+        <name>gvalley_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.638648" lat="43.120008"></rtept>
+        <rtept lon="-77.638387" lat="43.120118"></rtept>
+    </rte>
+    <rte>
+        <name>gvalley_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.638699" lat="43.120208"></rtept>
+        <rtept lon="-77.638651" lat="43.120102"></rtept>
+        <rtept lon="-77.638648" lat="43.120008"></rtept>
+        <rtept lon="-77.638719" lat="43.119860"></rtept>
+        <rtept lon="-77.638719" lat="43.119860"></rtept>
+        <rtept lon="-77.639013" lat="43.119546"></rtept>
+        <rtept lon="-77.639140" lat="43.119445"></rtept>
+    </rte>
     <trk>
         <name>border:gvalley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <trkseg>
-            <trkpt lon="-77.661575" lat="43.110111"/>
-            <trkpt lon="-77.660594" lat="43.108091"/>
-            <trkpt lon="-77.661682" lat="43.105523"/>
-            <trkpt lon="-77.660802" lat="43.103393"/>
-            <trkpt lon="-77.651997" lat="43.103572"/>
-            <trkpt lon="-77.651534" lat="43.104370"/>
-            <trkpt lon="-77.650878" lat="43.104370"/>
-            <trkpt lon="-77.650911" lat="43.103609"/>
-            <trkpt lon="-77.649112" lat="43.103624"/>
-            <trkpt lon="-77.648548" lat="43.104827"/>
-            <trkpt lon="-77.647641" lat="43.104551"/>
-            <trkpt lon="-77.646658" lat="43.105145"/>
-            <trkpt lon="-77.644587" lat="43.104297"/>
-            <trkpt lon="-77.644742" lat="43.103774"/>
-            <trkpt lon="-77.643962" lat="43.103758"/>
-            <trkpt lon="-77.642688" lat="43.106168"/>
-            <trkpt lon="-77.642363" lat="43.106184"/>
-            <trkpt lon="-77.641305" lat="43.108232"/>
-            <trkpt lon="-77.647803" lat="43.108667"/>
-            <trkpt lon="-77.647848" lat="43.108997"/>
-            <trkpt lon="-77.645993" lat="43.112136"/>
-            <trkpt lon="-77.645281" lat="43.112521"/>
-            <trkpt lon="-77.645386" lat="43.112994"/>
-            <trkpt lon="-77.648397" lat="43.113076"/>
-            <trkpt lon="-77.648077" lat="43.113573"/>
-            <trkpt lon="-77.637537" lat="43.113964"/>
-            <trkpt lon="-77.633933" lat="43.118966"/>
-            <trkpt lon="-77.634453" lat="43.119200"/>
-            <trkpt lon="-77.630822" lat="43.123486"/>
-            <trkpt lon="-77.632485" lat="43.124113"/>
-            <trkpt lon="-77.633443" lat="43.123019"/>
-            <trkpt lon="-77.635181" lat="43.122177"/>
-            <trkpt lon="-77.638107" lat="43.121975"/>
-            <trkpt lon="-77.641191" lat="43.121953"/>
-            <trkpt lon="-77.643574" lat="43.121223"/>
-            <trkpt lon="-77.646521" lat="43.119768"/>
-            <trkpt lon="-77.648869" lat="43.118474"/>
-            <trkpt lon="-77.650686" lat="43.116927"/>
-            <trkpt lon="-77.651690" lat="43.115753"/>
-            <trkpt lon="-77.652665" lat="43.115151"/>
-            <trkpt lon="-77.654050" lat="43.114820"/>
-            <trkpt lon="-77.655887" lat="43.114575"/>
-            <trkpt lon="-77.657662" lat="43.113914"/>
-            <trkpt lon="-77.658985" lat="43.113018"/>
-            <trkpt lon="-77.659736" lat="43.111732"/>
-            <trkpt lon="-77.660429" lat="43.111074"/>
-            <trkpt lon="-77.661791" lat="43.110706"/>
+            <trkpt lon="-77.661575" lat="43.110111"></trkpt>
+            <trkpt lon="-77.660594" lat="43.108091"></trkpt>
+            <trkpt lon="-77.661682" lat="43.105523"></trkpt>
+            <trkpt lon="-77.660802" lat="43.103393"></trkpt>
+            <trkpt lon="-77.651997" lat="43.103572"></trkpt>
+            <trkpt lon="-77.651534" lat="43.104370"></trkpt>
+            <trkpt lon="-77.650878" lat="43.104370"></trkpt>
+            <trkpt lon="-77.650911" lat="43.103609"></trkpt>
+            <trkpt lon="-77.649112" lat="43.103624"></trkpt>
+            <trkpt lon="-77.648548" lat="43.104827"></trkpt>
+            <trkpt lon="-77.647641" lat="43.104551"></trkpt>
+            <trkpt lon="-77.646658" lat="43.105145"></trkpt>
+            <trkpt lon="-77.644587" lat="43.104297"></trkpt>
+            <trkpt lon="-77.644742" lat="43.103774"></trkpt>
+            <trkpt lon="-77.643962" lat="43.103758"></trkpt>
+            <trkpt lon="-77.642688" lat="43.106168"></trkpt>
+            <trkpt lon="-77.642363" lat="43.106184"></trkpt>
+            <trkpt lon="-77.641305" lat="43.108232"></trkpt>
+            <trkpt lon="-77.647803" lat="43.108667"></trkpt>
+            <trkpt lon="-77.647848" lat="43.108997"></trkpt>
+            <trkpt lon="-77.645993" lat="43.112136"></trkpt>
+            <trkpt lon="-77.645281" lat="43.112521"></trkpt>
+            <trkpt lon="-77.645386" lat="43.112994"></trkpt>
+            <trkpt lon="-77.648397" lat="43.113076"></trkpt>
+            <trkpt lon="-77.648077" lat="43.113573"></trkpt>
+            <trkpt lon="-77.637537" lat="43.113964"></trkpt>
+            <trkpt lon="-77.633933" lat="43.118966"></trkpt>
+            <trkpt lon="-77.634453" lat="43.119200"></trkpt>
+            <trkpt lon="-77.630822" lat="43.123486"></trkpt>
+            <trkpt lon="-77.632485" lat="43.124113"></trkpt>
+            <trkpt lon="-77.633443" lat="43.123019"></trkpt>
+            <trkpt lon="-77.635181" lat="43.122177"></trkpt>
+            <trkpt lon="-77.638107" lat="43.121975"></trkpt>
+            <trkpt lon="-77.641191" lat="43.121953"></trkpt>
+            <trkpt lon="-77.643574" lat="43.121223"></trkpt>
+            <trkpt lon="-77.646521" lat="43.119768"></trkpt>
+            <trkpt lon="-77.648869" lat="43.118474"></trkpt>
+            <trkpt lon="-77.650686" lat="43.116927"></trkpt>
+            <trkpt lon="-77.651690" lat="43.115753"></trkpt>
+            <trkpt lon="-77.652665" lat="43.115151"></trkpt>
+            <trkpt lon="-77.654050" lat="43.114820"></trkpt>
+            <trkpt lon="-77.655887" lat="43.114575"></trkpt>
+            <trkpt lon="-77.657662" lat="43.113914"></trkpt>
+            <trkpt lon="-77.658985" lat="43.113018"></trkpt>
+            <trkpt lon="-77.659736" lat="43.111732"></trkpt>
+            <trkpt lon="-77.660429" lat="43.111074"></trkpt>
+            <trkpt lon="-77.661791" lat="43.110706"></trkpt>
         </trkseg>
-    </trk><trk>
-        <name>gvalley_erie_canalway</name>
-        <trkseg>
-            <trkpt lon="-77.645748" lat="43.122952"/>
-            <trkpt lon="-77.645481" lat="43.122761"/>
-            <trkpt lon="-77.645299" lat="43.122596"/>
-            <trkpt lon="-77.645254" lat="43.122511"/>
-            <trkpt lon="-77.645243" lat="43.122366"/>
-            <trkpt lon="-77.645223" lat="43.122262"/>
-            <trkpt lon="-77.645264" lat="43.122149"/>
-            <trkpt lon="-77.645366" lat="43.122070"/>
-            <trkpt lon="-77.645437" lat="43.122010"/>
-            <trkpt lon="-77.645453" lat="43.121928"/>
-            <trkpt lon="-77.645383" lat="43.121829"/>
-            <trkpt lon="-77.645150" lat="43.121648"/>
-            <trkpt lon="-77.644851" lat="43.121414"/>
-        </trkseg>
-    </trk><trk>
-        <name>gvalley_erie_canalway</name>
-        <trkseg>
-            <trkpt lon="-77.639841" lat="43.122623"/>
-            <trkpt lon="-77.639839" lat="43.122036"/>
-            <trkpt lon="-77.639772" lat="43.121493"/>
-            <trkpt lon="-77.639987" lat="43.121330"/>
-            <trkpt lon="-77.640116" lat="43.121166"/>
-            <trkpt lon="-77.640097" lat="43.120981"/>
-            <trkpt lon="-77.639994" lat="43.120844"/>
-            <trkpt lon="-77.639826" lat="43.120751"/>
-            <trkpt lon="-77.639608" lat="43.120663"/>
-            <trkpt lon="-77.639428" lat="43.120581"/>
-            <trkpt lon="-77.639144" lat="43.120437"/>
-            <trkpt lon="-77.638906" lat="43.120310"/>
-            <trkpt lon="-77.638762" lat="43.120237"/>
-            <trkpt lon="-77.638450" lat="43.120147"/>
-            <trkpt lon="-77.638300" lat="43.120042"/>
-            <trkpt lon="-77.638229" lat="43.119867"/>
-            <trkpt lon="-77.638070" lat="43.119685"/>
-            <trkpt lon="-77.637849" lat="43.119590"/>
-            <trkpt lon="-77.637666" lat="43.119510"/>
-            <trkpt lon="-77.637448" lat="43.119362"/>
-            <trkpt lon="-77.637246" lat="43.119205"/>
-            <trkpt lon="-77.636989" lat="43.119078"/>
-            <trkpt lon="-77.636719" lat="43.118924"/>
-            <trkpt lon="-77.636485" lat="43.118811"/>
-            <trkpt lon="-77.636218" lat="43.118685"/>
-            <trkpt lon="-77.636125" lat="43.118629"/>
-            <trkpt lon="-77.635897" lat="43.118459"/>
-            <trkpt lon="-77.635754" lat="43.118317"/>
-            <trkpt lon="-77.635754" lat="43.118317"/>
-            <trkpt lon="-77.635591" lat="43.118221"/>
-            <trkpt lon="-77.635407" lat="43.118136"/>
-            <trkpt lon="-77.635312" lat="43.118079"/>
-            <trkpt lon="-77.635196" lat="43.118032"/>
-            <trkpt lon="-77.635067" lat="43.117975"/>
-            <trkpt lon="-77.634864" lat="43.117946"/>
-            <trkpt lon="-77.634728" lat="43.117910"/>
-            <trkpt lon="-77.634584" lat="43.117873"/>
-            <trkpt lon="-77.634411" lat="43.117820"/>
-            <trkpt lon="-77.634288" lat="43.117779"/>
-            <trkpt lon="-77.634135" lat="43.117739"/>
-            <trkpt lon="-77.633878" lat="43.117660"/>
-            <trkpt lon="-77.632969" lat="43.117108"/>
-        </trkseg>
-    </trk><rte>
-        <name>gvalley_greenway</name>
-        <rtept lon="-77.638044" lat="43.122707"/>
-        <rtept lon="-77.637476" lat="43.122894"/>
-        <rtept lon="-77.637021" lat="43.123160"/>
-        <rtept lon="-77.636560" lat="43.123596"/>
-    </rte><rte>
-        <name>gvalley_greenway</name>
-        <rtept lon="-77.658321" lat="43.114615"/>
-        <rtept lon="-77.656438" lat="43.115349"/>
-        <rtept lon="-77.655741" lat="43.115611"/>
-        <rtept lon="-77.654385" lat="43.116178"/>
-        <rtept lon="-77.653542" lat="43.116693"/>
-        <rtept lon="-77.652459" lat="43.117540"/>
-        <rtept lon="-77.652409" lat="43.117763"/>
-        <rtept lon="-77.652049" lat="43.118148"/>
-        <rtept lon="-77.651921" lat="43.118341"/>
-        <rtept lon="-77.651442" lat="43.118613"/>
-        <rtept lon="-77.650600" lat="43.119103"/>
-        <rtept lon="-77.649660" lat="43.119655"/>
-        <rtept lon="-77.648703" lat="43.120216"/>
-        <rtept lon="-77.647147" lat="43.121089"/>
-        <rtept lon="-77.646942" lat="43.121207"/>
-        <rtept lon="-77.646797" lat="43.121244"/>
-        <rtept lon="-77.646284" lat="43.121287"/>
-        <rtept lon="-77.645824" lat="43.121261"/>
-        <rtept lon="-77.645112" lat="43.121287"/>
-    </rte><rte>
-        <name>gvalley_riverway</name>
-        <rtept lon="-77.656905" lat="43.115217"/>
-        <rtept lon="-77.656717" lat="43.115237"/>
-        <rtept lon="-77.656538" lat="43.115168"/>
-        <rtept lon="-77.656484" lat="43.115108"/>
-        <rtept lon="-77.656508" lat="43.115000"/>
-        <rtept lon="-77.656387" lat="43.114925"/>
-        <rtept lon="-77.656166" lat="43.114952"/>
-        <rtept lon="-77.655799" lat="43.114990"/>
-        <rtept lon="-77.655501" lat="43.115063"/>
-        <rtept lon="-77.655106" lat="43.115144"/>
-        <rtept lon="-77.654572" lat="43.115224"/>
-        <rtept lon="-77.653977" lat="43.115308"/>
-        <rtept lon="-77.653521" lat="43.115373"/>
-        <rtept lon="-77.653261" lat="43.115471"/>
-        <rtept lon="-77.652987" lat="43.115622"/>
-        <rtept lon="-77.652646" lat="43.115811"/>
-        <rtept lon="-77.652397" lat="43.115980"/>
-        <rtept lon="-77.652132" lat="43.116129"/>
-        <rtept lon="-77.651869" lat="43.116331"/>
-        <rtept lon="-77.651656" lat="43.116547"/>
-        <rtept lon="-77.651479" lat="43.116769"/>
-        <rtept lon="-77.651321" lat="43.116945"/>
-        <rtept lon="-77.651228" lat="43.117144"/>
-        <rtept lon="-77.651102" lat="43.117327"/>
-        <rtept lon="-77.650961" lat="43.117503"/>
-        <rtept lon="-77.650786" lat="43.117697"/>
-        <rtept lon="-77.650608" lat="43.117870"/>
-        <rtept lon="-77.650519" lat="43.117963"/>
-        <rtept lon="-77.650389" lat="43.118077"/>
-        <rtept lon="-77.650259" lat="43.118158"/>
-        <rtept lon="-77.650034" lat="43.118238"/>
-        <rtept lon="-77.649845" lat="43.118345"/>
-        <rtept lon="-77.649629" lat="43.118486"/>
-        <rtept lon="-77.649464" lat="43.118625"/>
-        <rtept lon="-77.649255" lat="43.118777"/>
-        <rtept lon="-77.649025" lat="43.118944"/>
-        <rtept lon="-77.648720" lat="43.119159"/>
-        <rtept lon="-77.648472" lat="43.119354"/>
-        <rtept lon="-77.648170" lat="43.119548"/>
-        <rtept lon="-77.647926" lat="43.119678"/>
-        <rtept lon="-77.647652" lat="43.119797"/>
-        <rtept lon="-77.647403" lat="43.119938"/>
-        <rtept lon="-77.647238" lat="43.120070"/>
-        <rtept lon="-77.647017" lat="43.120190"/>
-        <rtept lon="-77.646810" lat="43.120299"/>
-        <rtept lon="-77.646578" lat="43.120436"/>
-        <rtept lon="-77.646350" lat="43.120581"/>
-        <rtept lon="-77.646239" lat="43.120545"/>
-        <rtept lon="-77.646034" lat="43.120772"/>
-        <rtept lon="-77.645851" lat="43.120894"/>
-        <rtept lon="-77.645639" lat="43.121014"/>
-        <rtept lon="-77.645112" lat="43.121287"/>
-    </rte><rte>
-        <name>gvalley_riverway</name>
-        <rtept lon="-77.638044" lat="43.122707"/>
-        <rtept lon="-77.637768" lat="43.122583"/>
-        <rtept lon="-77.637261" lat="43.122588"/>
-        <rtept lon="-77.636949" lat="43.122520"/>
-        <rtept lon="-77.636407" lat="43.122546"/>
-        <rtept lon="-77.635980" lat="43.122552"/>
-        <rtept lon="-77.635466" lat="43.122630"/>
-        <rtept lon="-77.635050" lat="43.122764"/>
-        <rtept lon="-77.634724" lat="43.122923"/>
-        <rtept lon="-77.634514" lat="43.123092"/>
-        <rtept lon="-77.634158" lat="43.123352"/>
-        <rtept lon="-77.633945" lat="43.123587"/>
-        <rtept lon="-77.633786" lat="43.123727"/>
-        <rtept lon="-77.633605" lat="43.123983"/>
-        <rtept lon="-77.633545" lat="43.124131"/>
-        <rtept lon="-77.633545" lat="43.124335"/>
-        <rtept lon="-77.633353" lat="43.124503"/>
-        <rtept lon="-77.633315" lat="43.124623"/>
-        <rtept lon="-77.633304" lat="43.124722"/>
-        <rtept lon="-77.633350" lat="43.124836"/>
-        <rtept lon="-77.633364" lat="43.125052"/>
-        <rtept lon="-77.633316" lat="43.125275"/>
-        <rtept lon="-77.633251" lat="43.125424"/>
-        <rtept lon="-77.633284" lat="43.125616"/>
-    </rte><rte>
-        <name>gvalley_riverway</name>
-        <rtept lon="-77.639772" lat="43.121493"/>
-        <rtept lon="-77.638924" lat="43.121486"/>
-        <rtept lon="-77.638805" lat="43.121491"/>
-        <rtept lon="-77.638435" lat="43.121489"/>
-        <rtept lon="-77.638070" lat="43.121486"/>
-        <rtept lon="-77.636890" lat="43.121451"/>
-        <rtept lon="-77.636635" lat="43.121457"/>
-        <rtept lon="-77.636265" lat="43.121489"/>
-        <rtept lon="-77.635871" lat="43.121525"/>
-        <rtept lon="-77.635323" lat="43.121583"/>
-        <rtept lon="-77.634956" lat="43.121622"/>
-        <rtept lon="-77.634559" lat="43.121690"/>
-        <rtept lon="-77.634307" lat="43.121749"/>
-        <rtept lon="-77.634052" lat="43.121843"/>
-        <rtept lon="-77.633800" lat="43.121966"/>
-        <rtept lon="-77.633564" lat="43.122111"/>
-        <rtept lon="-77.633422" lat="43.122186"/>
-        <rtept lon="-77.633261" lat="43.122235"/>
-        <rtept lon="-77.633116" lat="43.122278"/>
-        <rtept lon="-77.632998" lat="43.122321"/>
-        <rtept lon="-77.632891" lat="43.122411"/>
-        <rtept lon="-77.632467" lat="43.122761"/>
-        <rtept lon="-77.632209" lat="43.123031"/>
-        <rtept lon="-77.632025" lat="43.123257"/>
-        <rtept lon="-77.631944" lat="43.123356"/>
-        <rtept lon="-77.631799" lat="43.123523"/>
-        <rtept lon="-77.631694" lat="43.123589"/>
-        <rtept lon="-77.631630" lat="43.123699"/>
-    </rte><rte>
-        <name>gvalley_riverway,gvalley_greenway</name>
-        <rtept lon="-77.645112" lat="43.121287"/>
-        <rtept lon="-77.644518" lat="43.121549"/>
-        <rtept lon="-77.643733" lat="43.121920"/>
-        <rtept lon="-77.643260" lat="43.122209"/>
-        <rtept lon="-77.643255" lat="43.122212"/>
-        <rtept lon="-77.643096" lat="43.122299"/>
-        <rtept lon="-77.642878" lat="43.122353"/>
-        <rtept lon="-77.642696" lat="43.122383"/>
-        <rtept lon="-77.642508" lat="43.122407"/>
-        <rtept lon="-77.642291" lat="43.122458"/>
-        <rtept lon="-77.642187" lat="43.122501"/>
-        <rtept lon="-77.642089" lat="43.122593"/>
-        <rtept lon="-77.642053" lat="43.122652"/>
-        <rtept lon="-77.641897" lat="43.122659"/>
-        <rtept lon="-77.641468" lat="43.122657"/>
-        <rtept lon="-77.640982" lat="43.122686"/>
-        <rtept lon="-77.640590" lat="43.122678"/>
-        <rtept lon="-77.640227" lat="43.122663"/>
-        <rtept lon="-77.639842" lat="43.122643"/>
-        <rtept lon="-77.639242" lat="43.122606"/>
-        <rtept lon="-77.638605" lat="43.122606"/>
-        <rtept lon="-77.638044" lat="43.122707"/>
-    </rte><rte>
-        <name>gvalley_red_creek</name>
-        <rtept lon="-77.639236" lat="43.114323"/>
-        <rtept lon="-77.639649" lat="43.114492"/>
-        <rtept lon="-77.639894" lat="43.114483"/>
-        <rtept lon="-77.640205" lat="43.114488"/>
-        <rtept lon="-77.640502" lat="43.114508"/>
-        <rtept lon="-77.640777" lat="43.114561"/>
-        <rtept lon="-77.641008" lat="43.114630"/>
-        <rtept lon="-77.641237" lat="43.114667"/>
-        <rtept lon="-77.641512" lat="43.114666"/>
-        <rtept lon="-77.641904" lat="43.114644"/>
-        <rtept lon="-77.642018" lat="43.114723"/>
-        <rtept lon="-77.642058" lat="43.114896"/>
-        <rtept lon="-77.642103" lat="43.115024"/>
-        <rtept lon="-77.642171" lat="43.115224"/>
-        <rtept lon="-77.642204" lat="43.115501"/>
-        <rtept lon="-77.642243" lat="43.115646"/>
-        <rtept lon="-77.642348" lat="43.115880"/>
-        <rtept lon="-77.642375" lat="43.116054"/>
-        <rtept lon="-77.642387" lat="43.116266"/>
-        <rtept lon="-77.642342" lat="43.116471"/>
-        <rtept lon="-77.642256" lat="43.116650"/>
-        <rtept lon="-77.642007" lat="43.116811"/>
-        <rtept lon="-77.641934" lat="43.116921"/>
-        <rtept lon="-77.641740" lat="43.117091"/>
-        <rtept lon="-77.641599" lat="43.117206"/>
-        <rtept lon="-77.641358" lat="43.117347"/>
-        <rtept lon="-77.641061" lat="43.117424"/>
-        <rtept lon="-77.640850" lat="43.117537"/>
-        <rtept lon="-77.640753" lat="43.117640"/>
-        <rtept lon="-77.640718" lat="43.117746"/>
-        <rtept lon="-77.640718" lat="43.117940"/>
-        <rtept lon="-77.640620" lat="43.118118"/>
-        <rtept lon="-77.640527" lat="43.118278"/>
-        <rtept lon="-77.640381" lat="43.118459"/>
-        <rtept lon="-77.640230" lat="43.118547"/>
-        <rtept lon="-77.639886" lat="43.118651"/>
-        <rtept lon="-77.639645" lat="43.118825"/>
-        <rtept lon="-77.639610" lat="43.118921"/>
-        <rtept lon="-77.639630" lat="43.119041"/>
-        <rtept lon="-77.639625" lat="43.119105"/>
-        <rtept lon="-77.639752" lat="43.119206"/>
-        <rtept lon="-77.639712" lat="43.119343"/>
-        <rtept lon="-77.639611" lat="43.119427"/>
-        <rtept lon="-77.639552" lat="43.119501"/>
-        <rtept lon="-77.639473" lat="43.119559"/>
-        <rtept lon="-77.639352" lat="43.119573"/>
-        <rtept lon="-77.639230" lat="43.119505"/>
-        <rtept lon="-77.639146" lat="43.119451"/>
-    </rte><rte>
-        <name>gvalley_unnamed_trails</name>
-        <rtept lon="-77.641307" lat="43.119985"/>
-        <rtept lon="-77.641006" lat="43.120266"/>
-        <rtept lon="-77.640932" lat="43.120403"/>
-        <rtept lon="-77.640525" lat="43.120833"/>
-        <rtept lon="-77.640371" lat="43.120939"/>
-        <rtept lon="-77.640128" lat="43.120984"/>
-    </rte><rte>
-        <name>gvalley_unnamed_trails</name>
-        <rtept lon="-77.638648" lat="43.120008"/>
-        <rtept lon="-77.638387" lat="43.120118"/>
-    </rte><rte>
-        <name>gvalley_unnamed_trails</name>
-        <rtept lon="-77.638699" lat="43.120208"/>
-        <rtept lon="-77.638651" lat="43.120102"/>
-        <rtept lon="-77.638648" lat="43.120008"/>
-        <rtept lon="-77.638719" lat="43.119860"/>
-        <rtept lon="-77.638719" lat="43.119860"/>
-        <rtept lon="-77.639013" lat="43.119546"/>
-        <rtept lon="-77.639140" lat="43.119445"/>
-    </rte></gpx>
+    </trk>
+</gpx>

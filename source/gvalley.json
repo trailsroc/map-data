@@ -7,38 +7,6 @@
   },
   "trails": {
     "_prototype": { "parkId": "gvalley", "url": "http://www.monroecounty.gov/parks-geneseevalley.php" },
-    "gvalley_erie_canalway": {
-      "name": "Erie Canalway Trail",
-      "color": "sky",
-      "trailheads": [
-
-      ],
-      "SW": [
-        43.117108,
-        -77.645748
-      ],
-      "NE": [
-        43.122952,
-        -77.632969
-      ],
-      "url": "http://www.ptny.org/canalway/"
-    },
-    "gvalley_greenway": {
-      "name": "Genesee Valley Greenway",
-      "color": "grass",
-      "trailheads": [
-
-      ],
-      "SW": [
-        43.114615,
-        -77.658321
-      ],
-      "NE": [
-        43.123596,
-        -77.63656
-      ],
-      "url": "http://www.fogvg.org"
-    },
     "gvalley_red_creek": {
       "name": "Red Creek Trail",
       "color": "red",
@@ -54,22 +22,6 @@
         43.119573,
         -77.639146
       ]
-    },
-    "gvalley_riverway": {
-      "name": "Genesee Riverway Trail",
-      "color": "purple",
-      "trailheads": [
-
-      ],
-      "SW": [
-        43.114925,
-        -77.656905
-      ],
-      "NE": [
-        43.125616,
-        -77.63163
-      ],
-      "url": "http://www.cityofrochester.gov/article.aspx?id=8589936619"
     },
     "gvalley_unnamed_trails": {
       "name": "",

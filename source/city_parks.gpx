@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-12-17T02:38:37.437Z</time>
+        <time>2016-12-17T02:52:32.356Z</time>
     </metadata>
     <wpt lon="-77.573261" lat="43.139613">
         <name>scenic:City Overlook</name>
@@ -30,7 +30,7 @@
     <wpt lon="-77.572805" lat="43.139603">
         <name>parking</name>
     </wpt>
-    <wpt lon="-77.575327" lat="43.138629">
+    <wpt lon="-77.575259" lat="43.138712">
         <name>poi:Switchback</name>
     </wpt>
     <wpt lon="-77.570223" lat="43.142475">
