@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2014-10-24T15:11:48.493Z</time>
+        <time>2017-07-20T04:03:20.646Z</time>
     </metadata>
     <rte>
         <name>mponds_birdsong</name>
@@ -819,14 +819,14 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.562872" lat="43.009516"></trkpt>
-            <trkpt lon="-77.562099" lat="43.010536"></trkpt>
-            <trkpt lon="-77.561095" lat="43.010265"></trkpt>
-            <trkpt lon="-77.561134" lat="43.011576"></trkpt>
-            <trkpt lon="-77.559117" lat="43.011545"></trkpt>
-            <trkpt lon="-77.559185" lat="43.008532"></trkpt>
-            <trkpt lon="-77.560508" lat="43.008803"></trkpt>
             <trkpt lon="-77.561824" lat="43.009103"></trkpt>
+            <trkpt lon="-77.560508" lat="43.008803"></trkpt>
+            <trkpt lon="-77.559185" lat="43.008532"></trkpt>
+            <trkpt lon="-77.559117" lat="43.011545"></trkpt>
+            <trkpt lon="-77.561134" lat="43.011576"></trkpt>
+            <trkpt lon="-77.561095" lat="43.010265"></trkpt>
+            <trkpt lon="-77.562099" lat="43.010536"></trkpt>
+            <trkpt lon="-77.562872" lat="43.009516"></trkpt>
         </trkseg>
     </trk>
     <trk>

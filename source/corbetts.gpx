@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-06-01T16:15:31.352Z</time>
+        <time>2017-07-21T02:28:56.416Z</time>
     </metadata>
     <wpt lon="-77.521422" lat="43.128423">
         <name>Shoulder Parking</name>
@@ -1084,18 +1084,18 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.518689" lat="43.130909"></trkpt>
-            <trkpt lon="-77.518806" lat="43.130608"></trkpt>
-            <trkpt lon="-77.519385" lat="43.130297"></trkpt>
-            <trkpt lon="-77.519995" lat="43.130091"></trkpt>
-            <trkpt lon="-77.520216" lat="43.129953"></trkpt>
-            <trkpt lon="-77.520600" lat="43.130207"></trkpt>
-            <trkpt lon="-77.520899" lat="43.130384"></trkpt>
-            <trkpt lon="-77.521024" lat="43.130533"></trkpt>
-            <trkpt lon="-77.520705" lat="43.130685"></trkpt>
-            <trkpt lon="-77.520553" lat="43.130773"></trkpt>
-            <trkpt lon="-77.520272" lat="43.130993"></trkpt>
             <trkpt lon="-77.519385" lat="43.131060"></trkpt>
+            <trkpt lon="-77.520272" lat="43.130993"></trkpt>
+            <trkpt lon="-77.520553" lat="43.130773"></trkpt>
+            <trkpt lon="-77.520705" lat="43.130685"></trkpt>
+            <trkpt lon="-77.521024" lat="43.130533"></trkpt>
+            <trkpt lon="-77.520899" lat="43.130384"></trkpt>
+            <trkpt lon="-77.520600" lat="43.130207"></trkpt>
+            <trkpt lon="-77.520216" lat="43.129953"></trkpt>
+            <trkpt lon="-77.519995" lat="43.130091"></trkpt>
+            <trkpt lon="-77.519385" lat="43.130297"></trkpt>
+            <trkpt lon="-77.518806" lat="43.130608"></trkpt>
+            <trkpt lon="-77.518689" lat="43.130909"></trkpt>
         </trkseg>
     </trk>
 </gpx>

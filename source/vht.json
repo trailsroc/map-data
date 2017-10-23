@@ -30,7 +30,7 @@
       "name": "Auburn/Black Diamond Connector",
       "hideInListView": true,
       "color": "unmarked_trail"
-    },
+    }
   },
     "points": [
         {"type":"poi","name":"Victor Hiking Trails Kiosk","loc":[42.982776,-77.410896]},

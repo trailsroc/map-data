@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-03-23T23:39:33.813Z</time>
+        <time>2017-06-20T04:37:46.798Z</time>
     </metadata>
     <wpt lon="-77.384069" lat="43.071299">
         <name>White Brook Nature Area</name>
@@ -7436,18 +7436,6 @@
             <trkpt lon="-77.394087" lat="43.104936"></trkpt>
             <trkpt lon="-77.392767" lat="43.105032"></trkpt>
             <trkpt lon="-77.392751" lat="43.101907"></trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.460140" lat="43.050271"></trkpt>
         </trkseg>
     </trk>
     <trk>

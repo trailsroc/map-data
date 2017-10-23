@@ -51,11 +51,56 @@
             "trailheads":[],
             "SW":[43.034866,-77.48281],"NE":[43.108284,-77.371976]
         },
-        "crescenttr_blue": {"name":"Crescent Trail (Blue)","color":"sky","trailheads":[],"hideInListView": true},
-        "crescenttr_green": {"name":"Crescent Trail (Other)","color":"dark_green","trailheads":[],"hideInListView": true},
-        "crescenttr_red": {"name":"Crescent Trail (Red)","color":"red","trailheads":[],"hideInListView": true},
-        "crescenttr_white": {"name":"Crescent Trail (White)","color":"black","trailheads":[],"hideInListView": true},
-        "crescenttr_yellow": {"name":"Crescent Trail (Yellow)","color":"yellow","trailheads":[],"hideInListView": true}
+        "crescenttr_blue": {"name":"Crescent Trail (Blue)","color":"sky","trailheads":[],"hideInListView": true,
+            "SW": [
+                43.03883,
+                -77.462642
+              ],
+              "NE": [
+                43.108284,
+                -77.371976
+              ]
+        },
+        "crescenttr_green": {"name":"Crescent Trail (Other)","color":"dark_green","trailheads":[],"hideInListView": true,
+            "SW": [
+            43.047677,
+            -77.459921
+          ],
+          "NE": [
+            43.094171,
+            -77.372005
+          ]
+        },
+        "crescenttr_red": {"name":"Crescent Trail (Red)","color":"red","trailheads":[],"hideInListView": true,
+            "SW": [
+                43.046413,
+                -77.461532
+              ],
+              "NE": [
+                43.105032,
+                -77.392751
+              ]
+        },
+        "crescenttr_white": {"name":"Crescent Trail (White)","color":"black","trailheads":[],"hideInListView": true,
+            "SW": [
+                43.034866,
+                -77.464245
+              ],
+              "NE": [
+                43.104094,
+                -77.38653
+              ]
+        },
+        "crescenttr_yellow": {"name":"Crescent Trail (Yellow)","color":"yellow","trailheads":[],"hideInListView": true,
+            "SW": [
+                43.044898,
+                -77.446091
+              ],
+              "NE": [
+                43.095319,
+                -77.371976
+              ]
+        }
     },
     "points": [
         {"type": "parking", "loc": [43.104032, -77.407654], "comments": "Hamilton Rd (N end)"},

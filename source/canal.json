@@ -373,6 +373,15 @@
 {"type":"poi","name":"Footbridge","loc":[43.133008,-77.622898]},
 {"type":"scenic","name":"Footbridge","loc":[43.197811,-77.620465]},
 {"type":"poi","name":"Footbridge","loc":[43.1221,-77.639921]},
-{"type":"poi","name":"Construction","loc":[43.110751,-77.616022]}
+{"type":"poi","name":"Construction","loc":[43.110751,-77.616022]},
+
+    { "type": "campsite", "name": "#7 Abe Yellow/Red", "loc": [43.183800, -77.517267] },
+    { "type": "campsite", "name": "#6/8 Bay Lookout", "loc": [43.174383, -77.523600] },
+    { "type": "campsite", "name": "#5 Tryon Parking Lot", "loc": [43.167700, -77.535833] },
+    { "type": "campsite", "name": "#4 Butlers Herd Paths", "loc": [43.153033, -77.524533] },
+    { "type": "campsite", "name": "#3 Sand Hill", "loc": [43.150283, -77.519783] },
+    { "type": "campsite", "name": "#1 The Wall", "loc": [43.142767, -77.509950] },
+    { "type": "campsite", "name": "#2 Elevator", "loc": [43.139683, -77.511750] }
+
   ]
 }
