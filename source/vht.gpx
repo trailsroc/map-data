@@ -2,11 +2,10 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-12-04T18:34:28.757Z</time>
+        <time>2017-10-24T02:13:44.969Z</time>
     </metadata>
     <wpt lon="-77.410896" lat="42.982776">
         <name>poi:Victor Hiking Trails Kiosk</name>
-        <desc></desc>
     </wpt>
     <wpt lon="-77.469571" lat="43.001739">
         <name>parking</name>
@@ -18,24 +17,60 @@
         <name>vht_lehigh_blackdiamond</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.481999" lat="43.002825"></rtept>
         <rtept lon="-77.477867" lat="43.002470"></rtept>
         <rtept lon="-77.471910" lat="43.001928"></rtept>
-        <rtept lon="-77.469321" lat="43.001706"></rtept>
+        <rtept lon="-77.469617" lat="43.001753"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.469617" lat="43.001753"></rtept>
         <rtept lon="-77.468444" lat="43.001647"></rtept>
         <rtept lon="-77.463390" lat="43.001169"></rtept>
         <rtept lon="-77.459681" lat="43.000836"></rtept>
         <rtept lon="-77.456740" lat="43.000573"></rtept>
-        <rtept lon="-77.454246" lat="43.000326"></rtept>
+        <rtept lon="-77.454605" lat="43.000336"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.454605" lat="43.000336"></rtept>
         <rtept lon="-77.453562" lat="43.000311"></rtept>
+        <rtept lon="-77.452452" lat="43.000302"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.452452" lat="43.000302"></rtept>
         <rtept lon="-77.449292" lat="43.000353"></rtept>
         <rtept lon="-77.446686" lat="43.000349"></rtept>
         <rtept lon="-77.445598" lat="43.000284"></rtept>
         <rtept lon="-77.443726" lat="43.000020"></rtept>
+        <rtept lon="-77.442446" lat="42.999746"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.442446" lat="42.999746"></rtept>
         <rtept lon="-77.441897" lat="42.999623"></rtept>
         <rtept lon="-77.439798" lat="42.998837"></rtept>
@@ -45,17 +80,35 @@
         <name>vht_lehigh_blackdiamond</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.437084" lat="42.995305"></rtept>
         <rtept lon="-77.437148" lat="42.995414"></rtept>
+        <rtept lon="-77.438951" lat="42.996499"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.438951" lat="42.996499"></rtept>
         <rtept lon="-77.438595" lat="42.996774"></rtept>
         <rtept lon="-77.438563" lat="42.996902"></rtept>
         <rtept lon="-77.438594" lat="42.997020"></rtept>
         <rtept lon="-77.438705" lat="42.997133"></rtept>
         <rtept lon="-77.439075" lat="42.997418"></rtept>
+        <rtept lon="-77.439193" lat="42.997603"></rtept>
+    </rte>
+    <rte>
+        <name>vht_lehigh_blackdiamond</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.439193" lat="42.997603"></rtept>
         <rtept lon="-77.439189" lat="42.997746"></rtept>
         <rtept lon="-77.438849" lat="42.998183"></rtept>

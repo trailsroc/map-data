@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2015-03-25T12:25:35.755Z</time>
+        <time>2017-10-23T22:54:32.187Z</time>
     </metadata>
     <wpt lon="-77.360412" lat="42.631890">
         <name>Angel Falls, Conklin Gully</name>
@@ -1430,7 +1430,7 @@
         <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1458,6 +1458,20 @@
             <trkpt lon="-77.358749" lat="42.624580">
                 <ele>472.200000</ele>
             </trkpt>
+            <trkpt lon="-77.358627" lat="42.624614">
+                <ele>472.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_blue</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.358627" lat="42.624614">
                 <ele>472.000000</ele>
             </trkpt>
@@ -1587,6 +1601,20 @@
             <trkpt lon="-77.360298" lat="42.630013">
                 <ele>353.600000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_blue</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.360298" lat="42.630013">
+                <ele>353.600000</ele>
+            </trkpt>
             <trkpt lon="-77.360313" lat="42.630024">
                 <ele>353.600000</ele>
             </trkpt>
@@ -1686,7 +1714,21 @@
             <trkpt lon="-77.360802" lat="42.631294">
                 <ele>344.000000</ele>
             </trkpt>
-            <trkpt lon="-77.359947" lat="42.632030">
+            <trkpt lon="-77.360091" lat="42.631900">
+                <ele>303.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_blue</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.360091" lat="42.631900">
                 <ele>303.700000</ele>
             </trkpt>
             <trkpt lon="-77.359932" lat="42.632053">
@@ -1956,6 +1998,20 @@
             <trkpt lon="-77.356384" lat="42.631733">
                 <ele>346.300000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_blue</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.356384" lat="42.631733">
+                <ele>346.300000</ele>
+            </trkpt>
             <trkpt lon="-77.356400" lat="42.631756">
                 <ele>346.300000</ele>
             </trkpt>
@@ -2019,6 +2075,20 @@
             <trkpt lon="-77.356407" lat="42.632996">
                 <ele>348.100000</ele>
             </trkpt>
+            <trkpt lon="-77.356392" lat="42.633083">
+                <ele>347.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_blue</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.356392" lat="42.633083">
                 <ele>347.800000</ele>
             </trkpt>
@@ -2100,7 +2170,7 @@
         <desc>{"source": "Exploring High Tor"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2281,6 +2351,20 @@
             <trkpt lon="-77.392768" lat="42.618541">
                 <ele>225.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Exploring High Tor"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.392768" lat="42.618541">
+                <ele>225.400000</ele>
+            </trkpt>
             <trkpt lon="-77.392814" lat="42.618621">
                 <ele>225.400000</ele>
             </trkpt>
@@ -2366,7 +2450,7 @@
         <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2415,7 +2499,21 @@
             <trkpt lon="-77.368713" lat="42.613544">
                 <ele>552.800000</ele>
             </trkpt>
-            <trkpt lon="-77.368637" lat="42.613617">
+            <trkpt lon="-77.368656" lat="42.613582">
+                <ele>552.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.368656" lat="42.613582">
                 <ele>552.100000</ele>
             </trkpt>
             <trkpt lon="-77.368607" lat="42.613663">
@@ -2580,8 +2678,19 @@
             <trkpt lon="-77.364113" lat="42.617409">
                 <ele>533.400000</ele>
             </trkpt>
-            <trkpt lon="-77.364025" lat="42.617396">
-                <ele>533.100000</ele>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.364113" lat="42.617409">
+                <ele>533.400000</ele>
             </trkpt>
             <trkpt lon="-77.364058" lat="42.617493">
                 <ele>533.000000</ele>
@@ -2604,6 +2713,20 @@
             <trkpt lon="-77.361904" lat="42.620946">
                 <ele>502.800000</ele>
             </trkpt>
+            <trkpt lon="-77.361753" lat="42.621282">
+                <ele>498.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.361753" lat="42.621282">
                 <ele>498.000000</ele>
             </trkpt>
@@ -2683,7 +2806,7 @@
         <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3023,6 +3146,20 @@
             <trkpt lon="-77.336067" lat="42.622623">
                 <ele>483.900000</ele>
             </trkpt>
+            <trkpt lon="-77.336151" lat="42.622623">
+                <ele>483.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.336151" lat="42.622623">
                 <ele>483.100000</ele>
             </trkpt>
@@ -4172,6 +4309,20 @@
             <trkpt lon="-77.357651" lat="42.626722">
                 <ele>428.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_fltbht</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.357651" lat="42.626722">
+                <ele>428.000000</ele>
+            </trkpt>
             <trkpt lon="-77.358034" lat="42.626662">
                 <ele>429.000000</ele>
             </trkpt>
@@ -4293,7 +4444,7 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.364025" lat="42.617396">
+            <trkpt lon="-77.364106" lat="42.617408">
                 <ele>533.100000</ele>
             </trkpt>
             <trkpt lon="-77.363705" lat="42.617498">
@@ -4335,6 +4486,20 @@
             <trkpt lon="-77.358272" lat="42.616443">
                 <ele>474.900000</ele>
             </trkpt>
+            <trkpt lon="-77.358038" lat="42.616318">
+                <ele>473.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.358038" lat="42.616318">
                 <ele>473.500000</ele>
             </trkpt>
@@ -4432,7 +4597,7 @@
         <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4652,7 +4817,21 @@
             <trkpt lon="-77.363922" lat="42.613262">
                 <ele>518.700000</ele>
             </trkpt>
-            <trkpt lon="-77.364006" lat="42.613125">
+            <trkpt lon="-77.363981" lat="42.613179">
+                <ele>518.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.363981" lat="42.613179">
                 <ele>518.000000</ele>
             </trkpt>
             <trkpt lon="-77.364021" lat="42.613045">
@@ -4778,7 +4957,21 @@
             <trkpt lon="-77.364182" lat="42.609283">
                 <ele>479.300000</ele>
             </trkpt>
-            <trkpt lon="-77.364151" lat="42.609184">
+            <trkpt lon="-77.364106" lat="42.609120">
+                <ele>477.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.364106" lat="42.609120">
                 <ele>477.600000</ele>
             </trkpt>
             <trkpt lon="-77.364037" lat="42.609024">
@@ -5134,7 +5327,21 @@
             <trkpt lon="-77.362534" lat="42.602348">
                 <ele>445.400000</ele>
             </trkpt>
-            <trkpt lon="-77.362534" lat="42.602383">
+            <trkpt lon="-77.362443" lat="42.602570">
+                <ele>445.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.362443" lat="42.602570">
                 <ele>445.500000</ele>
             </trkpt>
             <trkpt lon="-77.362419" lat="42.602695">
@@ -6299,7 +6506,7 @@
         <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6354,6 +6561,20 @@
             <trkpt lon="-77.342331" lat="42.621040">
                 <ele>520.300000</ele>
             </trkpt>
+            <trkpt lon="-77.341629" lat="42.621342">
+                <ele>512.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.341629" lat="42.621342">
                 <ele>512.800000</ele>
             </trkpt>
@@ -6658,7 +6879,7 @@
         <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6740,6 +6961,20 @@
             <trkpt lon="-77.367000" lat="42.634872">
                 <ele>229.500000</ele>
             </trkpt>
+            <trkpt lon="-77.366984" lat="42.634921">
+                <ele>229.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.366984" lat="42.634921">
                 <ele>229.400000</ele>
             </trkpt>
@@ -7470,13 +7705,25 @@
         <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.364057" lat="42.609094"></trkpt>
             <trkpt lon="-77.363454" lat="42.609209"></trkpt>
             <trkpt lon="-77.362939" lat="42.609960"></trkpt>
+            <trkpt lon="-77.362260" lat="42.611619"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "hand drawn"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.362260" lat="42.611619"></trkpt>
             <trkpt lon="-77.361727" lat="42.611867"></trkpt>
             <trkpt lon="-77.360946" lat="42.612085"></trkpt>
@@ -7494,7 +7741,7 @@
         <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7508,6 +7755,19 @@
             <trkpt lon="-77.365295" lat="42.613314"></trkpt>
             <trkpt lon="-77.364477" lat="42.613265"></trkpt>
             <trkpt lon="-77.364225" lat="42.613173"></trkpt>
+            <trkpt lon="-77.363955" lat="42.613188"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>hitor_unnamed</name>
+        <desc>{"source": "hand drawn"}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.363955" lat="42.613188"></trkpt>
             <trkpt lon="-77.363814" lat="42.613209"></trkpt>
             <trkpt lon="-77.363518" lat="42.613400"></trkpt>
             <trkpt lon="-77.363209" lat="42.613668"></trkpt>

@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-12-05T14:56:43.903Z</time>
+        <time>2017-10-23T21:57:28.321Z</time>
     </metadata>
     <wpt lon="-77.384341" lat="42.968810">
         <name>parking</name>
@@ -30,7 +30,7 @@
         <name>auburntr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -42,13 +42,100 @@
             <trkpt lon="-77.464300" lat="43.005600"></trkpt>
             <trkpt lon="-77.459000" lat="43.003700"></trkpt>
             <trkpt lon="-77.453600" lat="43.001900"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.453600" lat="43.001900"></trkpt>
             <trkpt lon="-77.451900" lat="43.001300"></trkpt>
             <trkpt lon="-77.450377" lat="43.000574"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.450377" lat="43.000574"></trkpt>
+            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
             <trkpt lon="-77.446000" lat="42.998500"></trkpt>
+            <trkpt lon="-77.442915" lat="42.996973"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.442915" lat="42.996973"></trkpt>
             <trkpt lon="-77.442200" lat="42.996600"></trkpt>
+            <trkpt lon="-77.441373" lat="42.996075"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.441373" lat="42.996075"></trkpt>
             <trkpt lon="-77.440000" lat="42.995100"></trkpt>
             <trkpt lon="-77.436800" lat="42.992800"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.436800" lat="42.992800"></trkpt>
+            <trkpt lon="-77.429390" lat="42.987522"></trkpt>
+            <trkpt lon="-77.426386" lat="42.985415"></trkpt>
             <trkpt lon="-77.424400" lat="42.983900"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.421368" lat="42.980985"></trkpt>
+            <trkpt lon="-77.416930" lat="42.980980"></trkpt>
+            <trkpt lon="-77.416600" lat="42.980900"></trkpt>
+            <trkpt lon="-77.416450" lat="42.980770"></trkpt>
+            <trkpt lon="-77.416470" lat="42.980680"></trkpt>
+            <trkpt lon="-77.416400" lat="42.980600"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -59,15 +146,32 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.421500" lat="42.981000"></trkpt>
-            <trkpt lon="-77.416930" lat="42.980980"></trkpt>
-            <trkpt lon="-77.416600" lat="42.980900"></trkpt>
-            <trkpt lon="-77.416450" lat="42.980770"></trkpt>
-            <trkpt lon="-77.416470" lat="42.980680"></trkpt>
             <trkpt lon="-77.416400" lat="42.980600"></trkpt>
+            <trkpt lon="-77.415100" lat="42.981300"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.415100" lat="42.981300"></trkpt>
             <trkpt lon="-77.412800" lat="42.980700"></trkpt>
             <trkpt lon="-77.410400" lat="42.980000"></trkpt>
+            <trkpt lon="-77.409700" lat="42.980000"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.409700" lat="42.980000"></trkpt>
             <trkpt lon="-77.409700" lat="42.979700"></trkpt>
             <trkpt lon="-77.409800" lat="42.979200"></trkpt>
@@ -81,13 +185,24 @@
         <name>auburntr_shoulder</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.384304" lat="42.968840"></trkpt>
             <trkpt lon="-77.383814" lat="42.968823"></trkpt>
             <trkpt lon="-77.382910" lat="42.968840"></trkpt>
+            <trkpt lon="-77.382010" lat="42.969100"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_shoulder</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.382010" lat="42.969100"></trkpt>
             <trkpt lon="-77.381700" lat="42.969100"></trkpt>
             <trkpt lon="-77.380600" lat="42.969000"></trkpt>
@@ -100,7 +215,7 @@
         <name>auburntr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -109,6 +224,17 @@
             <trkpt lon="-77.375900" lat="42.967100"></trkpt>
             <trkpt lon="-77.374700" lat="42.966800"></trkpt>
             <trkpt lon="-77.368384" lat="42.964267"></trkpt>
+            <trkpt lon="-77.366259" lat="42.963515"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.366259" lat="42.963515"></trkpt>
             <trkpt lon="-77.365961" lat="42.963500"></trkpt>
             <trkpt lon="-77.364797" lat="42.963053"></trkpt>
@@ -122,7 +248,7 @@
         <name>auburntr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -133,12 +259,34 @@
             <trkpt lon="-77.404100" lat="42.972900"></trkpt>
             <trkpt lon="-77.403320" lat="42.972760"></trkpt>
             <trkpt lon="-77.402610" lat="42.972530"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.402610" lat="42.972530"></trkpt>
             <trkpt lon="-77.399220" lat="42.971360"></trkpt>
             <trkpt lon="-77.396900" lat="42.970500"></trkpt>
             <trkpt lon="-77.395900" lat="42.970200"></trkpt>
             <trkpt lon="-77.393800" lat="42.969600"></trkpt>
             <trkpt lon="-77.393100" lat="42.969500"></trkpt>
             <trkpt lon="-77.391600" lat="42.969260"></trkpt>
+            <trkpt lon="-77.390160" lat="42.969090"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.390160" lat="42.969090"></trkpt>
             <trkpt lon="-77.386000" lat="42.968600"></trkpt>
             <trkpt lon="-77.384350" lat="42.968390"></trkpt>
@@ -149,7 +297,7 @@
         <name>auburntr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -160,6 +308,17 @@
             <trkpt lon="-77.470348" lat="43.015383"></trkpt>
             <trkpt lon="-77.471150" lat="43.016237"></trkpt>
             <trkpt lon="-77.471812" lat="43.016821"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.471812" lat="43.016821"></trkpt>
             <trkpt lon="-77.472841" lat="43.017596"></trkpt>
             <trkpt lon="-77.473513" lat="43.017951"></trkpt>
             <trkpt lon="-77.474905" lat="43.018542"></trkpt>
@@ -169,6 +328,17 @@
             <trkpt lon="-77.480939" lat="43.023185"></trkpt>
             <trkpt lon="-77.481282" lat="43.023642"></trkpt>
             <trkpt lon="-77.481712" lat="43.024579"></trkpt>
+            <trkpt lon="-77.482371" lat="43.026797"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.482371" lat="43.026797"></trkpt>
             <trkpt lon="-77.482549" lat="43.027499"></trkpt>
             <trkpt lon="-77.482523" lat="43.028236"></trkpt>
@@ -181,6 +351,17 @@
             <trkpt lon="-77.483350" lat="43.033413"></trkpt>
             <trkpt lon="-77.484698" lat="43.035084"></trkpt>
             <trkpt lon="-77.485417" lat="43.036037"></trkpt>
+            <trkpt lon="-77.487000" lat="43.038172"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.487000" lat="43.038172"></trkpt>
             <trkpt lon="-77.490230" lat="43.042362"></trkpt>
         </trkseg>

@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2014-12-15T03:22:54.941Z</time>
+        <time>2017-10-23T22:58:23.667Z</time>
     </metadata>
     <wpt lon="-77.529223" lat="43.183771">
         <name>Parking</name>
@@ -76,7 +76,7 @@
         <name>ibaywest_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -89,9 +89,35 @@
             <trkpt lon="-77.532181" lat="43.185585">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532181" lat="43.185585">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.532234" lat="43.185627">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.532318" lat="43.185661">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.532318" lat="43.185661">
                 <ele>0.000000</ele>
             </trkpt>
@@ -137,6 +163,19 @@
             <trkpt lon="-77.533722" lat="43.185734">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.533768" lat="43.185764">
                 <ele>0.000000</ele>
             </trkpt>
@@ -282,7 +321,17 @@
             <trkpt lon="-77.539711" lat="43.185299">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.539726" lat="43.185307">
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.539711" lat="43.185299">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.539833" lat="43.185341">
@@ -324,6 +373,19 @@
             <trkpt lon="-77.539162" lat="43.185730">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.538536" lat="43.185883">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.538536" lat="43.185883">
                 <ele>0.000000</ele>
             </trkpt>
@@ -447,7 +509,7 @@
         <name>ibaywest_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -463,6 +525,19 @@
             <trkpt lon="-77.531097" lat="43.188644">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.531181" lat="43.188553">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.531181" lat="43.188553">
                 <ele>0.000000</ele>
             </trkpt>
@@ -490,6 +565,19 @@
             <trkpt lon="-77.531517" lat="43.188293">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.531586" lat="43.188263">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.531586" lat="43.188263">
                 <ele>0.000000</ele>
             </trkpt>
@@ -559,6 +647,19 @@
             <trkpt lon="-77.531517" lat="43.187939">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531517" lat="43.187939">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.531532" lat="43.187916">
                 <ele>0.000000</ele>
             </trkpt>
@@ -604,7 +705,7 @@
         <name>ibaywest_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -626,6 +727,19 @@
             <trkpt lon="-77.530945" lat="43.187813">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.530777" lat="43.187752">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.530777" lat="43.187752">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1082,7 +1196,7 @@
         <name>ibaywest_orange</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1119,6 +1233,19 @@
             <trkpt lon="-77.532440" lat="43.186306">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.532463" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_orange</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.532463" lat="43.186329">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1167,6 +1294,19 @@
             <trkpt lon="-77.533768" lat="43.185764">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_orange</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.533844" lat="43.185875">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1176,6 +1316,19 @@
             <trkpt lon="-77.533913" lat="43.186005">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.533951" lat="43.186028">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_orange</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.533951" lat="43.186028">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1290,7 +1443,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1348,6 +1501,19 @@
             <trkpt lon="-77.537056" lat="43.185936">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537056" lat="43.185936">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536972" lat="43.185986">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1378,6 +1544,19 @@
             <trkpt lon="-77.536026" lat="43.185959">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536003" lat="43.185970">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536003" lat="43.185970">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1456,7 +1635,20 @@
             <trkpt lon="-77.533943" lat="43.186905">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.533859" lat="43.186825">
+            <trkpt lon="-77.533875" lat="43.186843">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533875" lat="43.186843">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.533836" lat="43.186783">
@@ -1471,6 +1663,19 @@
             <trkpt lon="-77.533859" lat="43.186630">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.533897" lat="43.186600">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1711,7 +1916,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1730,6 +1935,19 @@
             <trkpt lon="-77.532249" lat="43.186508">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.532227" lat="43.186546">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.532227" lat="43.186546">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1790,7 +2008,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1800,7 +2018,20 @@
             <trkpt lon="-77.531540" lat="43.187370">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.531677" lat="43.187408">
+            <trkpt lon="-77.531641" lat="43.187405">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531641" lat="43.187405">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.531776" lat="43.187458">
@@ -1943,7 +2174,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1965,6 +2196,19 @@
             <trkpt lon="-77.532928" lat="43.184216">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.532928" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.532928" lat="43.184223">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2076,6 +2320,19 @@
             <trkpt lon="-77.531395" lat="43.185223">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531395" lat="43.185223">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.531425" lat="43.185265">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2091,6 +2348,19 @@
             <trkpt lon="-77.531532" lat="43.186169">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.531593" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.531593" lat="43.186329">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2204,7 +2474,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2241,12 +2511,41 @@
             <trkpt lon="-77.531578" lat="43.185242">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.531402" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531402" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.531197" lat="43.185207">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.531044" lat="43.185230">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.530991" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.530991" lat="43.185253">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2487,7 +2786,7 @@
         <name>ibaywest_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2519,6 +2818,22 @@
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.531227" lat="43.186399">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531597" lat="43.186332">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531597" lat="43.186332">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.531761" lat="43.186341">
@@ -2632,6 +2947,19 @@
             <trkpt lon="-77.532425" lat="43.183426">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.532486" lat="43.183399">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.532486" lat="43.183399">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2749,7 +3077,7 @@
         <name>ibaywest_purple</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2781,6 +3109,22 @@
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.530464" lat="43.184341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530069" lat="43.184265">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530069" lat="43.184265">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.529907" lat="43.184238">
@@ -2828,6 +3172,19 @@
             <trkpt lon="-77.529251" lat="43.184704">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.529175" lat="43.184681">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.529175" lat="43.184681">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2891,13 +3248,26 @@
         <name>ibaywest_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.537704" lat="43.185398">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.538055" lat="43.185368">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.538055" lat="43.185368">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2973,11 +3343,11 @@
         <name>ibaywest_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.533897" lat="43.186600">
+            <trkpt lon="-77.533897" lat="43.186596">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.533890" lat="43.186531">
@@ -3091,6 +3461,19 @@
             <trkpt lon="-77.533897" lat="43.186600">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ibaywest_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.533897" lat="43.186600">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3121,7 +3504,7 @@
             <trkpt lon="-77.534561" lat="43.186096">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.534744" lat="43.186188">
+            <trkpt lon="-77.534709" lat="43.186180">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.534698" lat="43.186214">

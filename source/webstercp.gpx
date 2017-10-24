@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2014-12-15T03:04:44.106Z</time>
+        <time>2017-10-24T02:18:57.758Z</time>
     </metadata>
     <wpt lon="-77.456538" lat="43.250269">
         <name>Cattaraugus</name>
@@ -150,7 +150,7 @@
         <name>webstercp_midnight</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -244,6 +244,19 @@
             <trkpt lon="-77.460951" lat="43.243139">
                 <ele>105.500000</ele>
             </trkpt>
+            <trkpt lon="-77.461079" lat="43.243074">
+                <ele>105.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_midnight</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.461079" lat="43.243074">
                 <ele>105.700000</ele>
             </trkpt>
@@ -394,7 +407,20 @@
             <trkpt lon="-77.462008" lat="43.244123">
                 <ele>103.400000</ele>
             </trkpt>
-            <trkpt lon="-77.462036" lat="43.244266">
+            <trkpt lon="-77.462029" lat="43.244246">
+                <ele>103.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_midnight</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462029" lat="43.244246">
                 <ele>103.100000</ele>
             </trkpt>
             <trkpt lon="-77.462031" lat="43.244288">
@@ -446,7 +472,7 @@
         <name>webstercp_orchard</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -519,6 +545,19 @@
             <trkpt lon="-77.452420" lat="43.256600">
                 <ele>81.600000</ele>
             </trkpt>
+            <trkpt lon="-77.452400" lat="43.256560">
+                <ele>81.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_orchard</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.452400" lat="43.256560">
                 <ele>81.800000</ele>
             </trkpt>
@@ -606,13 +645,26 @@
         <name>webstercp_orchard</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.452393" lat="43.256542">
                 <ele>81.800000</ele>
             </trkpt>
+            <trkpt lon="-77.452377" lat="43.256561">
+                <ele>81.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_orchard</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.452377" lat="43.256561">
                 <ele>81.800000</ele>
             </trkpt>
@@ -700,7 +752,7 @@
         <name>webstercp_ridge</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -743,6 +795,19 @@
             <trkpt lon="-77.454063" lat="43.252918">
                 <ele>93.400000</ele>
             </trkpt>
+            <trkpt lon="-77.454063" lat="43.252960">
+                <ele>93.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.454063" lat="43.252960">
                 <ele>93.400000</ele>
             </trkpt>
@@ -803,6 +868,19 @@
             <trkpt lon="-77.454346" lat="43.254044">
                 <ele>92.900000</ele>
             </trkpt>
+            <trkpt lon="-77.454346" lat="43.254131">
+                <ele>92.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.454346" lat="43.254131">
                 <ele>92.900000</ele>
             </trkpt>
@@ -914,7 +992,7 @@
         <name>webstercp_ridge</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1029,6 +1107,19 @@
             <trkpt lon="-77.453520" lat="43.253010">
                 <ele>87.000000</ele>
             </trkpt>
+            <trkpt lon="-77.453509" lat="43.253058">
+                <ele>86.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.453509" lat="43.253058">
                 <ele>86.900000</ele>
             </trkpt>
@@ -1225,7 +1316,7 @@
         <name>webstercp_ryans</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1325,6 +1416,19 @@
             <trkpt lon="-77.456108" lat="43.250744">
                 <ele>90.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.456108" lat="43.250744">
+                <ele>90.000000</ele>
+            </trkpt>
             <trkpt lon="-77.456030" lat="43.250732">
                 <ele>89.800000</ele>
             </trkpt>
@@ -1334,6 +1438,19 @@
             <trkpt lon="-77.455928" lat="43.250781">
                 <ele>89.800000</ele>
             </trkpt>
+            <trkpt lon="-77.455874" lat="43.250808">
+                <ele>89.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.455874" lat="43.250808">
                 <ele>89.600000</ele>
             </trkpt>
@@ -1391,7 +1508,7 @@
         <name>webstercp_ryans</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1419,6 +1536,19 @@
             <trkpt lon="-77.454830" lat="43.252660">
                 <ele>92.800000</ele>
             </trkpt>
+            <trkpt lon="-77.454889" lat="43.252717">
+                <ele>92.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.454889" lat="43.252717">
                 <ele>92.200000</ele>
             </trkpt>
@@ -1470,12 +1600,16 @@
             <trkpt lon="-77.455480" lat="43.251965">
                 <ele>96.000000</ele>
             </trkpt>
-            <trkpt lon="-77.455480" lat="43.251961">
-                <ele>96.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.455481" lat="43.251961">
-                <ele>96.000000</ele>
-            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.455484" lat="43.251957">
                 <ele>96.000000</ele>
             </trkpt>
@@ -1617,6 +1751,19 @@
             <trkpt lon="-77.457420" lat="43.251339">
                 <ele>88.700000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.457420" lat="43.251339">
+                <ele>88.700000</ele>
+            </trkpt>
             <trkpt lon="-77.457420" lat="43.251339">
                 <ele>88.700000</ele>
             </trkpt>
@@ -1641,17 +1788,21 @@
             <trkpt lon="-77.457939" lat="43.251252">
                 <ele>89.200000</ele>
             </trkpt>
-            <trkpt lon="-77.457941" lat="43.251251">
+            <trkpt lon="-77.458031" lat="43.251240">
                 <ele>89.200000</ele>
             </trkpt>
-            <trkpt lon="-77.457941" lat="43.251244">
-                <ele>89.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.457939" lat="43.251241">
-                <ele>89.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.457939" lat="43.251240">
-                <ele>89.300000</ele>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.458031" lat="43.251240">
+                <ele>89.200000</ele>
             </trkpt>
             <trkpt lon="-77.458274" lat="43.251238">
                 <ele>90.400000</ele>
@@ -1704,7 +1855,7 @@
         <name>webstercp_ryans</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1840,7 +1991,20 @@
             <trkpt lon="-77.454880" lat="43.250836">
                 <ele>95.400000</ele>
             </trkpt>
-            <trkpt lon="-77.454880" lat="43.250956">
+            <trkpt lon="-77.454887" lat="43.250896">
+                <ele>95.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_ryans</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.454887" lat="43.250896">
                 <ele>95.700000</ele>
             </trkpt>
             <trkpt lon="-77.454848" lat="43.251101">
@@ -2022,7 +2186,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2089,6 +2253,19 @@
             <trkpt lon="-77.457108" lat="43.245524">
                 <ele>101.900000</ele>
             </trkpt>
+            <trkpt lon="-77.457179" lat="43.245521">
+                <ele>101.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.457179" lat="43.245521">
                 <ele>101.900000</ele>
             </trkpt>
@@ -2161,6 +2338,19 @@
             <trkpt lon="-77.459837" lat="43.245876">
                 <ele>100.200000</ele>
             </trkpt>
+            <trkpt lon="-77.459858" lat="43.245903">
+                <ele>100.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.459858" lat="43.245903">
                 <ele>100.100000</ele>
             </trkpt>
@@ -2247,52 +2437,6 @@
             </trkpt>
             <trkpt lon="-77.461438" lat="43.244636">
                 <ele>103.400000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>webstercp_unnamed</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.461448" lat="43.244631">
-                <ele>98.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.461559" lat="43.244677">
-                <ele>99.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.461890" lat="43.244824">
-                <ele>98.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.461918" lat="43.244824">
-                <ele>98.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462130" lat="43.244977">
-                <ele>98.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.462167" lat="43.245024">
-                <ele>98.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.462193" lat="43.245115">
-                <ele>98.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.462187" lat="43.245239">
-                <ele>98.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.462190" lat="43.245259">
-                <ele>98.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.462264" lat="43.245400">
-                <ele>97.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.462459" lat="43.245544">
-                <ele>96.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.462490" lat="43.245566">
-                <ele>95.400000</ele>
             </trkpt>
         </trkseg>
     </trk>
@@ -2497,7 +2641,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2549,6 +2693,19 @@
             <trkpt lon="-77.448189" lat="43.257992">
                 <ele>78.900000</ele>
             </trkpt>
+            <trkpt lon="-77.448143" lat="43.257996">
+                <ele>78.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.448143" lat="43.257996">
                 <ele>78.900000</ele>
             </trkpt>
@@ -2993,7 +3150,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3024,7 +3181,20 @@
             <trkpt lon="-77.447975" lat="43.252960">
                 <ele>95.700000</ele>
             </trkpt>
-            <trkpt lon="-77.447838" lat="43.252995">
+            <trkpt lon="-77.447796" lat="43.252992">
+                <ele>95.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.447796" lat="43.252992">
                 <ele>95.500000</ele>
             </trkpt>
             <trkpt lon="-77.447624" lat="43.252987">
@@ -3062,184 +3232,6 @@
             </trkpt>
             <trkpt lon="-77.447021" lat="43.252987">
                 <ele>93.700000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>webstercp_unnamed</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.458519" lat="43.248432">
-                <ele>92.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.458473" lat="43.248383">
-                <ele>92.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.458450" lat="43.248360">
-                <ele>92.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.458412" lat="43.248291">
-                <ele>92.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.458412" lat="43.248249">
-                <ele>92.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.458450" lat="43.248196">
-                <ele>92.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.458466" lat="43.248184">
-                <ele>92.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.458466" lat="43.248096">
-                <ele>93.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.458740" lat="43.247646">
-                <ele>96.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.458740" lat="43.247578">
-                <ele>96.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459084" lat="43.247265">
-                <ele>97.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.459091" lat="43.247238">
-                <ele>96.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459145" lat="43.247162">
-                <ele>95.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459259" lat="43.247105">
-                <ele>95.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459282" lat="43.247055">
-                <ele>95.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459282" lat="43.247028">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459274" lat="43.247021">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459274" lat="43.247017">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459267" lat="43.247009">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459267" lat="43.247005">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459274" lat="43.246998">
-                <ele>95.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459290" lat="43.246994">
-                <ele>95.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459297" lat="43.246986">
-                <ele>95.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.459381" lat="43.246964">
-                <ele>96.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.459396" lat="43.246952">
-                <ele>96.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.459419" lat="43.246944">
-                <ele>96.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459526" lat="43.246941">
-                <ele>97.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.459602" lat="43.246880">
-                <ele>97.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459610" lat="43.246868">
-                <ele>97.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459610" lat="43.246841">
-                <ele>97.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459602" lat="43.246838">
-                <ele>97.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.459602" lat="43.246822">
-                <ele>97.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.459511" lat="43.246632">
-                <ele>99.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.459511" lat="43.246601">
-                <ele>99.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.459450" lat="43.246529">
-                <ele>99.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.459450" lat="43.246521">
-                <ele>99.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.459442" lat="43.246506">
-                <ele>99.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.459442" lat="43.246479">
-                <ele>99.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.459457" lat="43.246464">
-                <ele>99.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.459473" lat="43.246426">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.459473" lat="43.246403">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.459566" lat="43.246323">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.459667" lat="43.246289">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.459805" lat="43.246282">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.459977" lat="43.246311">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.460246" lat="43.246419">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.460463" lat="43.246574">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.461058" lat="43.246715">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.461725" lat="43.246457">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462351" lat="43.246477">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462517" lat="43.246418">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462726" lat="43.246284">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462862" lat="43.246047">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462780" lat="43.245831">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462617" lat="43.245632">
-                <ele>99.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.462491" lat="43.245575">
-                <ele>99.600000</ele>
             </trkpt>
         </trkseg>
     </trk>
@@ -3511,7 +3503,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3632,92 +3624,6 @@
             <trkpt lon="-77.454329" lat="43.246267">
                 <ele>101.700000</ele>
             </trkpt>
-            <trkpt lon="-77.454451" lat="43.246201">
-                <ele>101.800000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>webstercp_unnamed</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.457242" lat="43.245508">
-                <ele>100.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.456986" lat="43.245931">
-                <ele>100.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.456963" lat="43.245931">
-                <ele>100.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.456933" lat="43.245934">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456795" lat="43.245988">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456773" lat="43.246026">
-                <ele>100.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.456383" lat="43.246259">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456361" lat="43.246259">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456330" lat="43.246251">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456300" lat="43.246236">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456193" lat="43.246144">
-                <ele>101.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.456162" lat="43.246125">
-                <ele>101.000000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>webstercp_unnamed</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.456162" lat="43.246125">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.456086" lat="43.246083">
-                <ele>101.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.455598" lat="43.245946">
-                <ele>101.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.455560" lat="43.245950">
-                <ele>101.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.455430" lat="43.245950">
-                <ele>101.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.455224" lat="43.245992">
-                <ele>101.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.455079" lat="43.245980">
-                <ele>101.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.454896" lat="43.246026">
-                <ele>101.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.454780" lat="43.246012">
-                <ele>101.200000</ele>
-            </trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -3813,6 +3719,19 @@
             <trkpt lon="-77.448360" lat="43.256980">
                 <ele>83.000000</ele>
             </trkpt>
+            <trkpt lon="-77.448330" lat="43.256970">
+                <ele>83.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.448330" lat="43.256970">
                 <ele>83.100000</ele>
             </trkpt>
@@ -4015,7 +3934,20 @@
             <trkpt lon="-77.451900" lat="43.252690">
                 <ele>93.200000</ele>
             </trkpt>
-            <trkpt lon="-77.452160" lat="43.252540">
+            <trkpt lon="-77.452065" lat="43.252609">
+                <ele>90.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.452065" lat="43.252609">
                 <ele>90.200000</ele>
             </trkpt>
             <trkpt lon="-77.452270" lat="43.252520">
@@ -4161,7 +4093,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4345,6 +4277,19 @@
             <trkpt lon="-77.462840" lat="43.255230">
                 <ele>91.800000</ele>
             </trkpt>
+            <trkpt lon="-77.462830" lat="43.255280">
+                <ele>91.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.462830" lat="43.255280">
                 <ele>91.500000</ele>
             </trkpt>
@@ -4603,7 +4548,7 @@
             <trkpt lon="-77.460070" lat="43.257840">
                 <ele>88.000000</ele>
             </trkpt>
-            <trkpt lon="-77.459740" lat="43.257830">
+            <trkpt lon="-77.459785" lat="43.257880">
                 <ele>88.000000</ele>
             </trkpt>
             <trkpt lon="-77.459710" lat="43.257820">
@@ -4730,6 +4675,19 @@
             <trkpt lon="-77.458190" lat="43.256730">
                 <ele>89.400000</ele>
             </trkpt>
+            <trkpt lon="-77.458180" lat="43.256650">
+                <ele>89.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.458180" lat="43.256650">
                 <ele>89.100000</ele>
             </trkpt>
@@ -4874,6 +4832,19 @@
             <trkpt lon="-77.456790" lat="43.255520">
                 <ele>88.900000</ele>
             </trkpt>
+            <trkpt lon="-77.456780" lat="43.255500">
+                <ele>89.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.456780" lat="43.255500">
                 <ele>89.000000</ele>
             </trkpt>
@@ -5067,7 +5038,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5077,8 +5048,31 @@
             <trkpt lon="-77.456125" lat="43.248594"></trkpt>
             <trkpt lon="-77.456753" lat="43.248667"></trkpt>
             <trkpt lon="-77.457223" lat="43.248660"></trkpt>
-            <trkpt lon="-77.457707" lat="43.248586"></trkpt>
+            <trkpt lon="-77.457693" lat="43.248594"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.457693" lat="43.248594"></trkpt>
             <trkpt lon="-77.458202" lat="43.248464"></trkpt>
+            <trkpt lon="-77.458524" lat="43.248416"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.458524" lat="43.248416"></trkpt>
             <trkpt lon="-77.458815" lat="43.248404"></trkpt>
             <trkpt lon="-77.459587" lat="43.248435"></trkpt>
         </trkseg>
@@ -5087,7 +5081,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5139,6 +5133,19 @@
             <trkpt lon="-77.462579" lat="43.254556">
                 <ele>92.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462579" lat="43.254556">
+                <ele>92.500000</ele>
+            </trkpt>
             <trkpt lon="-77.462568" lat="43.254537">
                 <ele>92.500000</ele>
             </trkpt>
@@ -5157,6 +5164,19 @@
             <trkpt lon="-77.462370" lat="43.254297">
                 <ele>92.600000</ele>
             </trkpt>
+            <trkpt lon="-77.462297" lat="43.254178">
+                <ele>92.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.462297" lat="43.254178">
                 <ele>92.700000</ele>
             </trkpt>
@@ -5234,6 +5254,17 @@
                 <ele>92.400000</ele>
             </trkpt>
             <trkpt lon="-77.455390" lat="43.251785"></trkpt>
+            <trkpt lon="-77.455471" lat="43.251964"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.455471" lat="43.251964"></trkpt>
             <trkpt lon="-77.455443" lat="43.252314"></trkpt>
             <trkpt lon="-77.455348" lat="43.252517"></trkpt>
@@ -5733,7 +5764,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5743,7 +5774,20 @@
             <trkpt lon="-77.454399" lat="43.254067">
                 <ele>90.200000</ele>
             </trkpt>
-            <trkpt lon="-77.454502" lat="43.253685">
+            <trkpt lon="-77.454550" lat="43.253594">
+                <ele>90.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.454550" lat="43.253594">
                 <ele>90.600000</ele>
             </trkpt>
             <trkpt lon="-77.454687" lat="43.253443">
@@ -5752,6 +5796,19 @@
             <trkpt lon="-77.454846" lat="43.252778">
                 <ele>85.600000</ele>
             </trkpt>
+            <trkpt lon="-77.454898" lat="43.252721">
+                <ele>91.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.454898" lat="43.252721">
                 <ele>91.900000</ele>
             </trkpt>
@@ -5887,7 +5944,20 @@
             <trkpt lon="-77.455640" lat="43.254800">
                 <ele>85.500000</ele>
             </trkpt>
-            <trkpt lon="-77.455660" lat="43.254810">
+            <trkpt lon="-77.455652" lat="43.254779">
+                <ele>85.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.455652" lat="43.254779">
                 <ele>85.300000</ele>
             </trkpt>
             <trkpt lon="-77.455670" lat="43.254830">
@@ -5935,7 +6005,7 @@
         <name>webstercp_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6026,7 +6096,20 @@
             <trkpt lon="-77.458046" lat="43.251191">
                 <ele>91.200000</ele>
             </trkpt>
-            <trkpt lon="-77.458036" lat="43.251248">
+            <trkpt lon="-77.458036" lat="43.251239">
+                <ele>91.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.458036" lat="43.251239">
                 <ele>91.400000</ele>
             </trkpt>
             <trkpt lon="-77.458012" lat="43.251263">
@@ -6354,7 +6437,7 @@
         <name>webstercp_valley</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6430,6 +6513,19 @@
             <trkpt lon="-77.451070" lat="43.254520">
                 <ele>92.700000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.451070" lat="43.254520">
+                <ele>92.700000</ele>
+            </trkpt>
             <trkpt lon="-77.451140" lat="43.254350">
                 <ele>93.200000</ele>
             </trkpt>
@@ -6493,7 +6589,20 @@
             <trkpt lon="-77.452330" lat="43.253070">
                 <ele>94.400000</ele>
             </trkpt>
-            <trkpt lon="-77.452540" lat="43.252940">
+            <trkpt lon="-77.452484" lat="43.252973">
+                <ele>92.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.452484" lat="43.252973">
                 <ele>92.300000</ele>
             </trkpt>
             <trkpt lon="-77.452580" lat="43.252900">
@@ -6532,13 +6641,10 @@
         <name>webstercp_valley</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.451073" lat="43.254539">
-                <ele>92.600000</ele>
-            </trkpt>
             <trkpt lon="-77.451057" lat="43.254524">
                 <ele>92.600000</ele>
             </trkpt>
@@ -6650,6 +6756,19 @@
             <trkpt lon="-77.448761" lat="43.253155">
                 <ele>94.400000</ele>
             </trkpt>
+            <trkpt lon="-77.448722" lat="43.253157">
+                <ele>92.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.448722" lat="43.253157">
                 <ele>92.000000</ele>
             </trkpt>
@@ -6788,6 +6907,19 @@
             <trkpt lon="-77.449485" lat="43.252057">
                 <ele>93.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.449485" lat="43.252057">
+                <ele>93.800000</ele>
+            </trkpt>
             <trkpt lon="-77.449620" lat="43.252076">
                 <ele>93.800000</ele>
             </trkpt>
@@ -6878,6 +7010,19 @@
             <trkpt lon="-77.451255" lat="43.252298">
                 <ele>91.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.451255" lat="43.252298">
+                <ele>91.000000</ele>
+            </trkpt>
             <trkpt lon="-77.451276" lat="43.252297">
                 <ele>90.800000</ele>
             </trkpt>
@@ -6962,6 +7107,19 @@
             <trkpt lon="-77.451955" lat="43.251781">
                 <ele>92.600000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.451955" lat="43.251781">
+                <ele>92.600000</ele>
+            </trkpt>
             <trkpt lon="-77.452103" lat="43.251848">
                 <ele>91.800000</ele>
             </trkpt>
@@ -6995,6 +7153,19 @@
             <trkpt lon="-77.452408" lat="43.252155">
                 <ele>92.600000</ele>
             </trkpt>
+            <trkpt lon="-77.452485" lat="43.252189">
+                <ele>92.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.452485" lat="43.252189">
                 <ele>92.600000</ele>
             </trkpt>
@@ -7046,7 +7217,7 @@
         <name>webstercp_west</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7131,7 +7302,20 @@
             <trkpt lon="-77.463780" lat="43.247140">
                 <ele>99.000000</ele>
             </trkpt>
-            <trkpt lon="-77.463840" lat="43.247240">
+            <trkpt lon="-77.463830" lat="43.247237">
+                <ele>98.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.463830" lat="43.247237">
                 <ele>98.800000</ele>
             </trkpt>
             <trkpt lon="-77.463840" lat="43.247260">
@@ -7278,7 +7462,20 @@
             <trkpt lon="-77.463070" lat="43.250730">
                 <ele>93.500000</ele>
             </trkpt>
-            <trkpt lon="-77.463070" lat="43.250800">
+            <trkpt lon="-77.462962" lat="43.250918">
+                <ele>93.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462962" lat="43.250918">
                 <ele>93.200000</ele>
             </trkpt>
             <trkpt lon="-77.462680" lat="43.251230">
@@ -7302,7 +7499,20 @@
             <trkpt lon="-77.462650" lat="43.251460">
                 <ele>86.500000</ele>
             </trkpt>
-            <trkpt lon="-77.462650" lat="43.251670">
+            <trkpt lon="-77.462654" lat="43.251588">
+                <ele>86.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462654" lat="43.251588">
                 <ele>86.200000</ele>
             </trkpt>
             <trkpt lon="-77.462660" lat="43.251690">
@@ -7419,7 +7629,7 @@
         <name>webstercp_west</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7441,6 +7651,22 @@
             <trkpt lon="-77.463148" lat="43.253342">
                 <ele>83.700000</ele>
             </trkpt>
+            <trkpt lon="-77.463039" lat="43.253408">
+                <ele>85.328748</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.463039" lat="43.253408">
+                <ele>85.328748</ele>
+            </trkpt>
             <trkpt lon="-77.462865" lat="43.253460">
                 <ele>87.500000</ele>
             </trkpt>
@@ -7450,6 +7676,19 @@
             <trkpt lon="-77.462624" lat="43.253725">
                 <ele>93.100000</ele>
             </trkpt>
+            <trkpt lon="-77.462570" lat="43.253729">
+                <ele>93.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.462570" lat="43.253729">
                 <ele>93.200000</ele>
             </trkpt>
@@ -7491,6 +7730,345 @@
             </trkpt>
             <trkpt lon="-77.459259" lat="43.253834">
                 <ele>92.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.461448" lat="43.244631">
+                <ele>98.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.461559" lat="43.244677">
+                <ele>99.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.461890" lat="43.244824">
+                <ele>98.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.461918" lat="43.244824">
+                <ele>98.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462130" lat="43.244977">
+                <ele>98.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.462167" lat="43.245024">
+                <ele>98.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.462193" lat="43.245115">
+                <ele>98.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.462187" lat="43.245239">
+                <ele>98.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.462190" lat="43.245259">
+                <ele>98.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.462264" lat="43.245400">
+                <ele>97.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.462459" lat="43.245544">
+                <ele>96.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.462490" lat="43.245566">
+                <ele>95.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.462491" lat="43.245575">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462617" lat="43.245632">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462780" lat="43.245831">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462862" lat="43.246047">
+                <ele>99.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462862" lat="43.246047">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462726" lat="43.246284">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462517" lat="43.246418">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462351" lat="43.246477">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.461725" lat="43.246457">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.461058" lat="43.246715">
+                <ele>99.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.461058" lat="43.246715">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.460463" lat="43.246574">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.460246" lat="43.246419">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459977" lat="43.246311">
+                <ele>99.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459977" lat="43.246311">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459805" lat="43.246282">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459667" lat="43.246289">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459566" lat="43.246323">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459473" lat="43.246403">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459473" lat="43.246426">
+                <ele>99.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.459457" lat="43.246464">
+                <ele>99.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.459442" lat="43.246479">
+                <ele>99.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.459442" lat="43.246506">
+                <ele>99.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.459450" lat="43.246521">
+                <ele>99.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.459450" lat="43.246529">
+                <ele>99.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.459511" lat="43.246601">
+                <ele>99.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.459511" lat="43.246632">
+                <ele>99.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.459602" lat="43.246822">
+                <ele>97.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459602" lat="43.246838">
+                <ele>97.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459610" lat="43.246841">
+                <ele>97.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459610" lat="43.246868">
+                <ele>97.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459602" lat="43.246880">
+                <ele>97.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459526" lat="43.246941">
+                <ele>97.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.459419" lat="43.246944">
+                <ele>96.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459396" lat="43.246952">
+                <ele>96.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.459381" lat="43.246964">
+                <ele>96.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.459297" lat="43.246986">
+                <ele>95.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.459290" lat="43.246994">
+                <ele>95.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.459274" lat="43.246998">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459267" lat="43.247005">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459267" lat="43.247009">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459274" lat="43.247017">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459274" lat="43.247021">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459282" lat="43.247028">
+                <ele>95.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.459282" lat="43.247055">
+                <ele>95.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.459259" lat="43.247105">
+                <ele>95.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.459145" lat="43.247162">
+                <ele>95.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.459091" lat="43.247238">
+                <ele>96.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.459084" lat="43.247265">
+                <ele>97.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.458740" lat="43.247578">
+                <ele>96.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.458740" lat="43.247646">
+                <ele>96.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.458466" lat="43.248096">
+                <ele>93.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.458466" lat="43.248184">
+                <ele>92.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.458450" lat="43.248196">
+                <ele>92.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.458412" lat="43.248249">
+                <ele>92.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.458412" lat="43.248291">
+                <ele>92.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.458450" lat="43.248360">
+                <ele>92.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.458473" lat="43.248383">
+                <ele>92.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.458519" lat="43.248432">
+                <ele>92.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.457185" lat="43.245531">
+                <ele>100.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.456986" lat="43.245931">
+                <ele>100.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.456963" lat="43.245931">
+                <ele>100.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.456933" lat="43.245934">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456795" lat="43.245988">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456773" lat="43.246026">
+                <ele>100.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.456383" lat="43.246259">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456361" lat="43.246259">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456330" lat="43.246251">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456300" lat="43.246236">
+                <ele>101.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>webstercp_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.456300" lat="43.246236">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456193" lat="43.246144">
+                <ele>101.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.456162" lat="43.246125">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456162" lat="43.246125">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.456086" lat="43.246083">
+                <ele>101.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.455598" lat="43.245946">
+                <ele>101.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.455560" lat="43.245950">
+                <ele>101.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.455430" lat="43.245950">
+                <ele>101.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.455224" lat="43.245992">
+                <ele>101.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.455079" lat="43.245980">
+                <ele>101.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.454896" lat="43.246026">
+                <ele>101.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.454780" lat="43.246012">
+                <ele>101.200000</ele>
             </trkpt>
         </trkseg>
     </trk>

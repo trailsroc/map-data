@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-06-20T04:37:46.798Z</time>
+        <time>2017-10-23T22:39:04.281Z</time>
     </metadata>
     <wpt lon="-77.384069" lat="43.071299">
         <name>White Brook Nature Area</name>
@@ -168,13 +168,25 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.433565" lat="43.038573"></trkpt>
             <trkpt lon="-77.432840" lat="43.039947"></trkpt>
             <trkpt lon="-77.432126" lat="43.041624"></trkpt>
+            <trkpt lon="-77.432031" lat="43.041900"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.432031" lat="43.041900"></trkpt>
             <trkpt lon="-77.431425" lat="43.044050"></trkpt>
             <trkpt lon="-77.431437" lat="43.044496"></trkpt>
             <trkpt lon="-77.431859" lat="43.045294"></trkpt>
@@ -184,11 +196,22 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.392111" lat="43.071969"></trkpt>
+            <trkpt lon="-77.392062" lat="43.071081"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.392062" lat="43.071081"></trkpt>
             <trkpt lon="-77.391801" lat="43.071070"></trkpt>
             <trkpt lon="-77.391499" lat="43.070959"></trkpt>
@@ -200,7 +223,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -618,6 +641,19 @@
             <trkpt lon="-77.416583" lat="43.063053">
                 <ele>219.600000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.416583" lat="43.063053">
+                <ele>219.600000</ele>
+            </trkpt>
             <trkpt lon="-77.416299" lat="43.063010">
                 <ele>220.200000</ele>
             </trkpt>
@@ -669,6 +705,19 @@
             <trkpt lon="-77.415249" lat="43.061760">
                 <ele>208.000000</ele>
             </trkpt>
+            <trkpt lon="-77.415237" lat="43.061743">
+                <ele>208.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.415237" lat="43.061743">
                 <ele>208.000000</ele>
             </trkpt>
@@ -780,7 +829,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -814,6 +863,19 @@
             <trkpt lon="-77.421830" lat="43.059277">
                 <ele>219.600000</ele>
             </trkpt>
+            <trkpt lon="-77.421877" lat="43.059261">
+                <ele>219.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.421877" lat="43.059261">
                 <ele>219.800000</ele>
             </trkpt>
@@ -883,7 +945,20 @@
             <trkpt lon="-77.422070" lat="43.056903">
                 <ele>247.000000</ele>
             </trkpt>
-            <trkpt lon="-77.422035" lat="43.056881">
+            <trkpt lon="-77.422011" lat="43.056836">
+                <ele>247.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.422011" lat="43.056836">
                 <ele>247.000000</ele>
             </trkpt>
             <trkpt lon="-77.421947" lat="43.056706">
@@ -1369,6 +1444,22 @@
             <trkpt lon="-77.427477" lat="43.045457">
                 <ele>245.400000</ele>
             </trkpt>
+            <trkpt lon="-77.427773" lat="43.045409">
+                <ele>244.630427</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.427773" lat="43.045409">
+                <ele>244.630427</ele>
+            </trkpt>
             <trkpt lon="-77.428336" lat="43.045381">
                 <ele>243.200000</ele>
             </trkpt>
@@ -1399,7 +1490,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1502,6 +1593,19 @@
             <trkpt lon="-77.439112" lat="43.038671">
                 <ele>233.400000</ele>
             </trkpt>
+            <trkpt lon="-77.439253" lat="43.038822">
+                <ele>230.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.439253" lat="43.038822">
                 <ele>230.600000</ele>
             </trkpt>
@@ -1811,7 +1915,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1874,6 +1978,22 @@
             </trkpt>
             <trkpt lon="-77.463061" lat="43.055905">
                 <ele>177.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.463087" lat="43.056439">
+                <ele>176.710891</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.463087" lat="43.056439">
+                <ele>176.710891</ele>
             </trkpt>
             <trkpt lon="-77.463166" lat="43.056831">
                 <ele>176.200000</ele>
@@ -1968,6 +2088,19 @@
             <trkpt lon="-77.459826" lat="43.057377">
                 <ele>181.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459826" lat="43.057377">
+                <ele>181.400000</ele>
+            </trkpt>
             <trkpt lon="-77.459465" lat="43.057630">
                 <ele>184.600000</ele>
             </trkpt>
@@ -1980,6 +2113,19 @@
             <trkpt lon="-77.459412" lat="43.057636">
                 <ele>185.200000</ele>
             </trkpt>
+            <trkpt lon="-77.459397" lat="43.057631">
+                <ele>185.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.459397" lat="43.057631">
                 <ele>185.600000</ele>
             </trkpt>
@@ -2175,6 +2321,22 @@
             <trkpt lon="-77.460096" lat="43.060906">
                 <ele>195.800000</ele>
             </trkpt>
+            <trkpt lon="-77.459993" lat="43.060997">
+                <ele>194.277945</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459993" lat="43.060997">
+                <ele>194.277945</ele>
+            </trkpt>
             <trkpt lon="-77.459866" lat="43.061250">
                 <ele>190.800000</ele>
             </trkpt>
@@ -2358,6 +2520,19 @@
             <trkpt lon="-77.460746" lat="43.063614">
                 <ele>198.600000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.460746" lat="43.063614">
+                <ele>198.600000</ele>
+            </trkpt>
             <trkpt lon="-77.460760" lat="43.063627">
                 <ele>197.800000</ele>
             </trkpt>
@@ -2369,6 +2544,22 @@
             </trkpt>
             <trkpt lon="-77.462272" lat="43.063426">
                 <ele>178.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.462497" lat="43.063549">
+                <ele>177.848624</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462497" lat="43.063549">
+                <ele>177.848624</ele>
             </trkpt>
             <trkpt lon="-77.462826" lat="43.063706">
                 <ele>176.800000</ele>
@@ -2397,7 +2588,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2452,6 +2643,19 @@
             <trkpt lon="-77.386920" lat="43.086960">
                 <ele>147.400000</ele>
             </trkpt>
+            <trkpt lon="-77.386910" lat="43.086940">
+                <ele>147.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.386910" lat="43.086940">
                 <ele>147.300000</ele>
             </trkpt>
@@ -2530,6 +2734,19 @@
             <trkpt lon="-77.392150" lat="43.088210">
                 <ele>141.900000</ele>
             </trkpt>
+            <trkpt lon="-77.392410" lat="43.088380">
+                <ele>141.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.392410" lat="43.088380">
                 <ele>141.900000</ele>
             </trkpt>
@@ -2680,7 +2897,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2759,6 +2976,38 @@
             <trkpt lon="-77.398060" lat="43.072090">
                 <ele>147.200000</ele>
             </trkpt>
+            <trkpt lon="-77.398146" lat="43.072097">
+                <ele>147.249101</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.398146" lat="43.072097">
+                <ele>147.249101</ele>
+            </trkpt>
+            <trkpt lon="-77.398619" lat="43.072129">
+                <ele>147.518819</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.398619" lat="43.072129">
+                <ele>147.518819</ele>
+            </trkpt>
             <trkpt lon="-77.399990" lat="43.072200">
                 <ele>148.300000</ele>
             </trkpt>
@@ -2783,6 +3032,19 @@
             <trkpt lon="-77.400990" lat="43.072970">
                 <ele>149.100000</ele>
             </trkpt>
+            <trkpt lon="-77.401020" lat="43.072960">
+                <ele>149.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.401020" lat="43.072960">
                 <ele>149.200000</ele>
             </trkpt>
@@ -2824,6 +3086,22 @@
             </trkpt>
             <trkpt lon="-77.401540" lat="43.071480">
                 <ele>148.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.401596" lat="43.071363">
+                <ele>148.725654</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.401596" lat="43.071363">
+                <ele>148.725654</ele>
             </trkpt>
             <trkpt lon="-77.401660" lat="43.071160">
                 <ele>148.600000</ele>
@@ -3008,6 +3286,19 @@
             <trkpt lon="-77.401700" lat="43.067330">
                 <ele>151.200000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.401700" lat="43.067330">
+                <ele>151.200000</ele>
+            </trkpt>
             <trkpt lon="-77.401730" lat="43.067350">
                 <ele>151.100000</ele>
             </trkpt>
@@ -3029,6 +3320,19 @@
             <trkpt lon="-77.402530" lat="43.067360">
                 <ele>150.900000</ele>
             </trkpt>
+            <trkpt lon="-77.402600" lat="43.067430">
+                <ele>150.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.402600" lat="43.067430">
                 <ele>150.800000</ele>
             </trkpt>
@@ -3058,6 +3362,22 @@
             </trkpt>
             <trkpt lon="-77.403800" lat="43.067720">
                 <ele>151.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.404793" lat="43.067686">
+                <ele>152.213349</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.404793" lat="43.067686">
+                <ele>152.213349</ele>
             </trkpt>
             <trkpt lon="-77.405610" lat="43.067660">
                 <ele>152.800000</ele>
@@ -3132,6 +3452,17 @@
             <trkpt lon="-77.400923" lat="43.088310"></trkpt>
             <trkpt lon="-77.402014" lat="43.086690"></trkpt>
             <trkpt lon="-77.402120" lat="43.085851"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.402120" lat="43.085851"></trkpt>
             <trkpt lon="-77.402127" lat="43.085830">
                 <ele>153.600000</ele>
             </trkpt>
@@ -3183,6 +3514,19 @@
             <trkpt lon="-77.400044" lat="43.086070">
                 <ele>140.300000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.400044" lat="43.086070">
+                <ele>140.300000</ele>
+            </trkpt>
             <trkpt lon="-77.399734" lat="43.085889">
                 <ele>140.300000</ele>
             </trkpt>
@@ -3231,7 +3575,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3343,6 +3687,19 @@
             <trkpt lon="-77.391170" lat="43.079670">
                 <ele>147.400000</ele>
             </trkpt>
+            <trkpt lon="-77.391140" lat="43.079640">
+                <ele>147.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.391140" lat="43.079640">
                 <ele>147.500000</ele>
             </trkpt>
@@ -3628,6 +3985,19 @@
             <trkpt lon="-77.383580" lat="43.075270">
                 <ele>143.100000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.383580" lat="43.075270">
+                <ele>143.100000</ele>
+            </trkpt>
             <trkpt lon="-77.383580" lat="43.075190">
                 <ele>143.600000</ele>
             </trkpt>
@@ -3694,6 +4064,19 @@
             <trkpt lon="-77.382030" lat="43.072100">
                 <ele>142.400000</ele>
             </trkpt>
+            <trkpt lon="-77.381890" lat="43.072080">
+                <ele>142.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.381890" lat="43.072080">
                 <ele>142.400000</ele>
             </trkpt>
@@ -3860,78 +4243,175 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.371976" lat="43.075207"></trkpt>
-            <trkpt lon="-77.372584" lat="43.075106"></trkpt>
-            <trkpt lon="-77.375546" lat="43.076185"></trkpt>
-            <trkpt lon="-77.378650" lat="43.077304"></trkpt>
-            <trkpt lon="-77.382722" lat="43.078903"></trkpt>
-            <trkpt lon="-77.385669" lat="43.080011"></trkpt>
-            <trkpt lon="-77.389383" lat="43.081496"></trkpt>
-            <trkpt lon="-77.393289" lat="43.083054"></trkpt>
-            <trkpt lon="-77.394269" lat="43.083761"></trkpt>
-            <trkpt lon="-77.394245" lat="43.083941"></trkpt>
-            <trkpt lon="-77.397200" lat="43.085114"></trkpt>
-            <trkpt lon="-77.397320" lat="43.085250">
+            <trkpt lon="-77.432125" lat="43.095319"></trkpt>
+            <trkpt lon="-77.431637" lat="43.095125"></trkpt>
+            <trkpt lon="-77.431168" lat="43.094729"></trkpt>
+            <trkpt lon="-77.430141" lat="43.094101"></trkpt>
+            <trkpt lon="-77.428508" lat="43.093660"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.428508" lat="43.093660"></trkpt>
+            <trkpt lon="-77.428369" lat="43.093612"></trkpt>
+            <trkpt lon="-77.428082" lat="43.093749"></trkpt>
+            <trkpt lon="-77.426897" lat="43.093112"></trkpt>
+            <trkpt lon="-77.425619" lat="43.092463"></trkpt>
+            <trkpt lon="-77.425308" lat="43.092222"></trkpt>
+            <trkpt lon="-77.424347" lat="43.091798"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.424347" lat="43.091798"></trkpt>
+            <trkpt lon="-77.422296" lat="43.090778"></trkpt>
+            <trkpt lon="-77.421194" lat="43.090322"></trkpt>
+            <trkpt lon="-77.420032" lat="43.090298"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.420032" lat="43.090298"></trkpt>
+            <trkpt lon="-77.419440" lat="43.090235"></trkpt>
+            <trkpt lon="-77.417007" lat="43.090159"></trkpt>
+            <trkpt lon="-77.414118" lat="43.090149"></trkpt>
+            <trkpt lon="-77.413574" lat="43.090085"></trkpt>
+            <trkpt lon="-77.412342" lat="43.090061"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.412342" lat="43.090061"></trkpt>
+            <trkpt lon="-77.411104" lat="43.090040"></trkpt>
+            <trkpt lon="-77.410114" lat="43.089895"></trkpt>
+            <trkpt lon="-77.408719" lat="43.089641"></trkpt>
+            <trkpt lon="-77.408324" lat="43.089512"></trkpt>
+            <trkpt lon="-77.406274" lat="43.088619"></trkpt>
+            <trkpt lon="-77.403661" lat="43.087594"></trkpt>
+            <trkpt lon="-77.402541" lat="43.087199"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.402541" lat="43.087199"></trkpt>
+            <trkpt lon="-77.402280" lat="43.087158"></trkpt>
+            <trkpt lon="-77.399808" lat="43.086287"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.399808" lat="43.086287"></trkpt>
+            <trkpt lon="-77.399760" lat="43.086290">
+                <ele>140.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.399440" lat="43.086190">
                 <ele>140.400000</ele>
             </trkpt>
-            <trkpt lon="-77.397320" lat="43.085270">
-                <ele>140.400000</ele>
+            <trkpt lon="-77.398540" lat="43.085800">
+                <ele>140.600000</ele>
             </trkpt>
-            <trkpt lon="-77.397330" lat="43.085300">
+            <trkpt lon="-77.398540" lat="43.085790">
+                <ele>140.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.397800" lat="43.085530">
+                <ele>140.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.397320" lat="43.085320">
                 <ele>140.400000</ele>
             </trkpt>
             <trkpt lon="-77.397330" lat="43.085310">
                 <ele>140.400000</ele>
             </trkpt>
-            <trkpt lon="-77.397320" lat="43.085320">
+            <trkpt lon="-77.397330" lat="43.085300">
                 <ele>140.400000</ele>
             </trkpt>
-            <trkpt lon="-77.397800" lat="43.085530">
-                <ele>140.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.398540" lat="43.085790">
-                <ele>140.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.398540" lat="43.085800">
-                <ele>140.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.399440" lat="43.086190">
+            <trkpt lon="-77.397320" lat="43.085270">
                 <ele>140.400000</ele>
             </trkpt>
-            <trkpt lon="-77.399760" lat="43.086290">
-                <ele>140.500000</ele>
+            <trkpt lon="-77.397320" lat="43.085250">
+                <ele>140.400000</ele>
             </trkpt>
-            <trkpt lon="-77.399808" lat="43.086287"></trkpt>
-            <trkpt lon="-77.402280" lat="43.087158"></trkpt>
-            <trkpt lon="-77.402541" lat="43.087199"></trkpt>
-            <trkpt lon="-77.403661" lat="43.087594"></trkpt>
-            <trkpt lon="-77.406274" lat="43.088619"></trkpt>
-            <trkpt lon="-77.408324" lat="43.089512"></trkpt>
-            <trkpt lon="-77.408719" lat="43.089641"></trkpt>
-            <trkpt lon="-77.410114" lat="43.089895"></trkpt>
-            <trkpt lon="-77.411104" lat="43.090040"></trkpt>
-            <trkpt lon="-77.413574" lat="43.090085"></trkpt>
-            <trkpt lon="-77.414118" lat="43.090149"></trkpt>
-            <trkpt lon="-77.417007" lat="43.090159"></trkpt>
-            <trkpt lon="-77.419440" lat="43.090235"></trkpt>
-            <trkpt lon="-77.420032" lat="43.090298"></trkpt>
-            <trkpt lon="-77.421194" lat="43.090322"></trkpt>
-            <trkpt lon="-77.422296" lat="43.090778"></trkpt>
-            <trkpt lon="-77.424347" lat="43.091798"></trkpt>
-            <trkpt lon="-77.425308" lat="43.092222"></trkpt>
-            <trkpt lon="-77.425619" lat="43.092463"></trkpt>
-            <trkpt lon="-77.426897" lat="43.093112"></trkpt>
-            <trkpt lon="-77.428082" lat="43.093749"></trkpt>
-            <trkpt lon="-77.428369" lat="43.093612"></trkpt>
-            <trkpt lon="-77.428508" lat="43.093660"></trkpt>
-            <trkpt lon="-77.430141" lat="43.094101"></trkpt>
-            <trkpt lon="-77.431168" lat="43.094729"></trkpt>
-            <trkpt lon="-77.431637" lat="43.095125"></trkpt>
-            <trkpt lon="-77.432125" lat="43.095319"></trkpt>
+            <trkpt lon="-77.397200" lat="43.085114"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.397200" lat="43.085114"></trkpt>
+            <trkpt lon="-77.394245" lat="43.083941"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.394245" lat="43.083941"></trkpt>
+            <trkpt lon="-77.394269" lat="43.083761"></trkpt>
+            <trkpt lon="-77.393289" lat="43.083054"></trkpt>
+            <trkpt lon="-77.389383" lat="43.081496"></trkpt>
+            <trkpt lon="-77.385669" lat="43.080011"></trkpt>
+            <trkpt lon="-77.382722" lat="43.078903"></trkpt>
+            <trkpt lon="-77.378650" lat="43.077304"></trkpt>
+            <trkpt lon="-77.375546" lat="43.076185"></trkpt>
+            <trkpt lon="-77.372584" lat="43.075106"></trkpt>
+            <trkpt lon="-77.371976" lat="43.075207"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -4004,11 +4484,23 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.465674" lat="43.064468"></trkpt>
+            <trkpt lon="-77.467519" lat="43.064548"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.467519" lat="43.064548"></trkpt>
             <trkpt lon="-77.468882" lat="43.063864"></trkpt>
             <trkpt lon="-77.469516" lat="43.063975"></trkpt>
@@ -4024,7 +4516,31 @@
             <trkpt lon="-77.475774" lat="43.062034"></trkpt>
             <trkpt lon="-77.475361" lat="43.061546"></trkpt>
             <trkpt lon="-77.475976" lat="43.061260"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.475976" lat="43.061260"></trkpt>
             <trkpt lon="-77.477004" lat="43.061971"></trkpt>
+            <trkpt lon="-77.477512" lat="43.062416"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.477512" lat="43.062416"></trkpt>
             <trkpt lon="-77.478405" lat="43.062468"></trkpt>
             <trkpt lon="-77.480579" lat="43.062392"></trkpt>
@@ -4036,7 +4552,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4079,6 +4595,19 @@
             <trkpt lon="-77.405930" lat="43.105150">
                 <ele>149.000000</ele>
             </trkpt>
+            <trkpt lon="-77.405290" lat="43.105180">
+                <ele>146.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.405290" lat="43.105180">
                 <ele>146.100000</ele>
             </trkpt>
@@ -4163,6 +4692,19 @@
             <trkpt lon="-77.402110" lat="43.105090">
                 <ele>143.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.402110" lat="43.105090">
+                <ele>143.000000</ele>
+            </trkpt>
             <trkpt lon="-77.402130" lat="43.105130">
                 <ele>143.000000</ele>
             </trkpt>
@@ -4241,6 +4783,19 @@
             <trkpt lon="-77.397770" lat="43.104250">
                 <ele>163.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.397770" lat="43.104250">
+                <ele>163.800000</ele>
+            </trkpt>
             <trkpt lon="-77.397720" lat="43.104220">
                 <ele>164.100000</ele>
             </trkpt>
@@ -4250,11 +4805,40 @@
             <trkpt lon="-77.397380" lat="43.104070">
                 <ele>164.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.397380" lat="43.104070">
+                <ele>164.400000</ele>
+            </trkpt>
             <trkpt lon="-77.397300" lat="43.104060">
                 <ele>164.300000</ele>
             </trkpt>
             <trkpt lon="-77.397260" lat="43.104060">
                 <ele>164.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.396723" lat="43.104088">
+                <ele>164.178037</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.396723" lat="43.104088">
+                <ele>164.178037</ele>
             </trkpt>
             <trkpt lon="-77.395940" lat="43.104130">
                 <ele>164.000000</ele>
@@ -4264,6 +4848,22 @@
             </trkpt>
             <trkpt lon="-77.395530" lat="43.104030">
                 <ele>164.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.394789" lat="43.103884">
+                <ele>164.422138</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.394789" lat="43.103884">
+                <ele>164.422138</ele>
             </trkpt>
             <trkpt lon="-77.394580" lat="43.103840">
                 <ele>164.400000</ele>
@@ -4307,6 +4907,19 @@
             <trkpt lon="-77.393970" lat="43.102640">
                 <ele>165.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.393970" lat="43.102640">
+                <ele>165.800000</ele>
+            </trkpt>
             <trkpt lon="-77.393250" lat="43.101960">
                 <ele>165.200000</ele>
             </trkpt>
@@ -4328,6 +4941,19 @@
             <trkpt lon="-77.392810" lat="43.101890">
                 <ele>164.200000</ele>
             </trkpt>
+            <trkpt lon="-77.392780" lat="43.101890">
+                <ele>164.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.392780" lat="43.101890">
                 <ele>164.100000</ele>
             </trkpt>
@@ -4357,6 +4983,22 @@
             </trkpt>
             <trkpt lon="-77.391510" lat="43.100940">
                 <ele>163.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.391413" lat="43.100880">
+                <ele>163.321480</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.391413" lat="43.100880">
+                <ele>163.321480</ele>
             </trkpt>
             <trkpt lon="-77.391140" lat="43.100710">
                 <ele>163.100000</ele>
@@ -4473,7 +5115,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4613,6 +5255,22 @@
                 <ele>234.400000</ele>
             </trkpt>
             <trkpt lon="-77.442846" lat="43.043057">
+                <ele>234.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.442462" lat="43.043502">
+                <ele>234.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.442462" lat="43.043502">
                 <ele>234.800000</ele>
             </trkpt>
             <trkpt lon="-77.442319" lat="43.043680">
@@ -4768,7 +5426,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4841,7 +5499,20 @@
             <trkpt lon="-77.387020" lat="43.093510">
                 <ele>150.000000</ele>
             </trkpt>
-            <trkpt lon="-77.387060" lat="43.093380">
+            <trkpt lon="-77.387051" lat="43.093411">
+                <ele>149.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.387051" lat="43.093411">
                 <ele>149.800000</ele>
             </trkpt>
             <trkpt lon="-77.387060" lat="43.093350">
@@ -4889,6 +5560,19 @@
             <trkpt lon="-77.386800" lat="43.091840">
                 <ele>147.800000</ele>
             </trkpt>
+            <trkpt lon="-77.386690" lat="43.091800">
+                <ele>147.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.386690" lat="43.091800">
                 <ele>147.900000</ele>
             </trkpt>
@@ -4952,6 +5636,22 @@
             <trkpt lon="-77.386560" lat="43.090330">
                 <ele>146.900000</ele>
             </trkpt>
+            <trkpt lon="-77.386506" lat="43.090277">
+                <ele>146.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.386506" lat="43.090277">
+                <ele>146.900000</ele>
+            </trkpt>
             <trkpt lon="-77.386450" lat="43.090200">
                 <ele>146.900000</ele>
             </trkpt>
@@ -4965,6 +5665,17 @@
             <trkpt lon="-77.386148" lat="43.089527"></trkpt>
             <trkpt lon="-77.385885" lat="43.088955"></trkpt>
             <trkpt lon="-77.385796" lat="43.088902"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.385796" lat="43.088902"></trkpt>
             <trkpt lon="-77.385703" lat="43.088614"></trkpt>
             <trkpt lon="-77.385546" lat="43.088492"></trkpt>
             <trkpt lon="-77.385626" lat="43.088321"></trkpt>
@@ -4975,7 +5686,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5015,6 +5726,19 @@
             <trkpt lon="-77.450266" lat="43.044202">
                 <ele>219.000000</ele>
             </trkpt>
+            <trkpt lon="-77.450344" lat="43.044230">
+                <ele>221.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.450344" lat="43.044230">
                 <ele>221.200000</ele>
             </trkpt>
@@ -5126,6 +5850,19 @@
             <trkpt lon="-77.452997" lat="43.040018">
                 <ele>206.000000</ele>
             </trkpt>
+            <trkpt lon="-77.453158" lat="43.040153">
+                <ele>205.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.453158" lat="43.040153">
                 <ele>205.000000</ele>
             </trkpt>
@@ -5345,7 +6082,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5748,6 +6485,19 @@
             <trkpt lon="-77.460993" lat="43.045763">
                 <ele>238.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.460993" lat="43.045763">
+                <ele>238.800000</ele>
+            </trkpt>
             <trkpt lon="-77.460969" lat="43.045887">
                 <ele>239.552848</ele>
             </trkpt>
@@ -5787,9 +6537,35 @@
             <trkpt lon="-77.459670" lat="43.046546">
                 <ele>240.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459670" lat="43.046546">
+                <ele>240.800000</ele>
+            </trkpt>
             <trkpt lon="-77.459647" lat="43.046557">
                 <ele>241.000000</ele>
             </trkpt>
+            <trkpt lon="-77.459412" lat="43.046801">
+                <ele>246.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.459412" lat="43.046801">
                 <ele>246.400000</ele>
             </trkpt>
@@ -5850,6 +6626,19 @@
             <trkpt lon="-77.459324" lat="43.047657">
                 <ele>254.000000</ele>
             </trkpt>
+            <trkpt lon="-77.459309" lat="43.047673">
+                <ele>254.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.459309" lat="43.047673">
                 <ele>254.200000</ele>
             </trkpt>
@@ -5940,7 +6729,7 @@
         <name>crescenttr_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6118,6 +6907,19 @@
             <trkpt lon="-77.460147" lat="43.050284">
                 <ele>208.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.460147" lat="43.050284">
+                <ele>208.400000</ele>
+            </trkpt>
             <trkpt lon="-77.460099" lat="43.050302">
                 <ele>209.000000</ele>
             </trkpt>
@@ -6196,6 +6998,19 @@
             <trkpt lon="-77.457434" lat="43.050520">
                 <ele>213.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.457434" lat="43.050520">
+                <ele>213.000000</ele>
+            </trkpt>
             <trkpt lon="-77.457414" lat="43.050691">
                 <ele>209.000000</ele>
             </trkpt>
@@ -6205,6 +7020,19 @@
             <trkpt lon="-77.457367" lat="43.050763">
                 <ele>208.400000</ele>
             </trkpt>
+            <trkpt lon="-77.457125" lat="43.050899">
+                <ele>210.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.457125" lat="43.050899">
                 <ele>210.000000</ele>
             </trkpt>
@@ -6319,6 +7147,19 @@
             <trkpt lon="-77.459506" lat="43.051793">
                 <ele>196.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459506" lat="43.051793">
+                <ele>196.800000</ele>
+            </trkpt>
             <trkpt lon="-77.460030" lat="43.051922">
                 <ele>195.000000</ele>
             </trkpt>
@@ -6358,6 +7199,19 @@
             <trkpt lon="-77.462065" lat="43.052486">
                 <ele>178.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.462065" lat="43.052486">
+                <ele>178.400000</ele>
+            </trkpt>
             <trkpt lon="-77.463198" lat="43.052589">
                 <ele>172.600000</ele>
             </trkpt>
@@ -6376,7 +7230,7 @@
         <name>crescenttr_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6410,6 +7264,19 @@
             <trkpt lon="-77.400581" lat="43.075035">
                 <ele>138.999374</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.400581" lat="43.075035">
+                <ele>138.999374</ele>
+            </trkpt>
             <trkpt lon="-77.400513" lat="43.074871">
                 <ele>139.619873</ele>
             </trkpt>
@@ -6418,6 +7285,22 @@
             </trkpt>
             <trkpt lon="-77.401054" lat="43.074059">
                 <ele>137.189453</ele>
+            </trkpt>
+            <trkpt lon="-77.401132" lat="43.073600">
+                <ele>137.869928</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.401132" lat="43.073600">
+                <ele>137.869928</ele>
             </trkpt>
             <trkpt lon="-77.401054" lat="43.073006">
                 <ele>138.749313</ele>
@@ -6431,7 +7314,7 @@
         <name>crescenttr_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6440,6 +7323,22 @@
             </trkpt>
             <trkpt lon="-77.440598" lat="43.049671">
                 <ele>219.489029</ele>
+            </trkpt>
+            <trkpt lon="-77.439761" lat="43.049774">
+                <ele>222.932159</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.439761" lat="43.049774">
+                <ele>222.932159</ele>
             </trkpt>
             <trkpt lon="-77.439415" lat="43.049828">
                 <ele>224.368546</ele>
@@ -6495,6 +7394,22 @@
             <trkpt lon="-77.439209" lat="43.052872">
                 <ele>218.747452</ele>
             </trkpt>
+            <trkpt lon="-77.439208" lat="43.052950">
+                <ele>218.653239</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.439208" lat="43.052950">
+                <ele>218.653239</ele>
+            </trkpt>
             <trkpt lon="-77.439209" lat="43.053116">
                 <ele>218.452118</ele>
             </trkpt>
@@ -6537,7 +7452,7 @@
         <name>crescenttr_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6559,12 +7474,38 @@
             <trkpt lon="-77.424400" lat="43.063034">
                 <ele>174.827545</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.424400" lat="43.063034">
+                <ele>174.827545</ele>
+            </trkpt>
             <trkpt lon="-77.424583" lat="43.062508">
                 <ele>178.556595</ele>
             </trkpt>
             <trkpt lon="-77.424667" lat="43.062443">
                 <ele>179.822830</ele>
             </trkpt>
+            <trkpt lon="-77.424667" lat="43.062332">
+                <ele>181.424789</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.424667" lat="43.062332">
                 <ele>181.424789</ele>
             </trkpt>
@@ -6616,6 +7557,19 @@
             <trkpt lon="-77.424561" lat="43.059525">
                 <ele>191.066833</ele>
             </trkpt>
+            <trkpt lon="-77.424507" lat="43.059505">
+                <ele>192.242325</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.424507" lat="43.059505">
                 <ele>192.242325</ele>
             </trkpt>
@@ -6700,7 +7654,7 @@
         <name>crescenttr_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6743,6 +7697,19 @@
             <trkpt lon="-77.426102" lat="43.066376">
                 <ele>179.273209</ele>
             </trkpt>
+            <trkpt lon="-77.425957" lat="43.066368">
+                <ele>180.384521</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.425957" lat="43.066368">
                 <ele>180.384521</ele>
             </trkpt>
@@ -6802,11 +7769,23 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.397781" lat="43.104240"></trkpt>
+            <trkpt lon="-77.398949" lat="43.104088"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.398949" lat="43.104088"></trkpt>
             <trkpt lon="-77.401441" lat="43.104106"></trkpt>
             <trkpt lon="-77.401863" lat="43.104225"></trkpt>
@@ -6818,12 +7797,25 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.393720" lat="43.105857"></trkpt>
             <trkpt lon="-77.393770" lat="43.106633"></trkpt>
+            <trkpt lon="-77.393353" lat="43.107322"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.393353" lat="43.107322"></trkpt>
             <trkpt lon="-77.393078" lat="43.107752"></trkpt>
             <trkpt lon="-77.392917" lat="43.108085"></trkpt>
             <trkpt lon="-77.392225" lat="43.107910"></trkpt>
@@ -6848,8 +7840,32 @@
             <trkpt lon="-77.393197" lat="43.105437"></trkpt>
             <trkpt lon="-77.393120" lat="43.105251"></trkpt>
             <trkpt lon="-77.392773" lat="43.105039"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.392773" lat="43.105039"></trkpt>
             <trkpt lon="-77.392259" lat="43.105119"></trkpt>
             <trkpt lon="-77.391064" lat="43.105102"></trkpt>
+            <trkpt lon="-77.390357" lat="43.105132"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.390357" lat="43.105132"></trkpt>
             <trkpt lon="-77.389137" lat="43.105214"></trkpt>
             <trkpt lon="-77.387992" lat="43.105324"></trkpt>
@@ -6860,7 +7876,7 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6868,6 +7884,18 @@
             <trkpt lon="-77.396544" lat="43.103484"></trkpt>
             <trkpt lon="-77.395278" lat="43.103333"></trkpt>
             <trkpt lon="-77.395137" lat="43.102497"></trkpt>
+            <trkpt lon="-77.395118" lat="43.101889"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.395118" lat="43.101889"></trkpt>
             <trkpt lon="-77.394485" lat="43.101860"></trkpt>
             <trkpt lon="-77.394063" lat="43.102064"></trkpt>
@@ -6903,9 +7931,6 @@
             <trkpt lon="-77.378361" lat="43.073205"></trkpt>
             <trkpt lon="-77.378162" lat="43.072906"></trkpt>
             <trkpt lon="-77.378117" lat="43.072187"></trkpt>
-            <trkpt lon="-77.379899" lat="43.072054"></trkpt>
-            <trkpt lon="-77.381106" lat="43.072158"></trkpt>
-            <trkpt lon="-77.381933" lat="43.072102"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -6917,11 +7942,38 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
+            <trkpt lon="-77.378117" lat="43.072187"></trkpt>
+            <trkpt lon="-77.379899" lat="43.072054"></trkpt>
+            <trkpt lon="-77.381106" lat="43.072158"></trkpt>
+            <trkpt lon="-77.381886" lat="43.072083"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.439274" lat="43.038830"></trkpt>
             <trkpt lon="-77.438241" lat="43.039605"></trkpt>
             <trkpt lon="-77.438123" lat="43.040166"></trkpt>
             <trkpt lon="-77.437476" lat="43.040895"></trkpt>
             <trkpt lon="-77.436789" lat="43.041716"></trkpt>
+            <trkpt lon="-77.436378" lat="43.042489"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.436378" lat="43.042489"></trkpt>
             <trkpt lon="-77.436743" lat="43.042644"></trkpt>
             <trkpt lon="-77.437150" lat="43.042654"></trkpt>
@@ -7004,7 +8056,7 @@
         <name>crescenttr_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7017,11 +8069,43 @@
             <trkpt lon="-77.461545" lat="43.051752">
                 <ele>161.807037</ele>
             </trkpt>
+            <trkpt lon="-77.461550" lat="43.051673">
+                <ele>162.074162</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.461550" lat="43.051673">
+                <ele>162.074162</ele>
+            </trkpt>
             <trkpt lon="-77.461540" lat="43.051460">
                 <ele>162.793350</ele>
             </trkpt>
             <trkpt lon="-77.461266" lat="43.051197">
                 <ele>162.621063</ele>
+            </trkpt>
+            <trkpt lon="-77.460949" lat="43.051082">
+                <ele>165.482091</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.460949" lat="43.051082">
+                <ele>165.482091</ele>
             </trkpt>
             <trkpt lon="-77.460716" lat="43.051006">
                 <ele>167.544846</ele>
@@ -7041,6 +8125,19 @@
             <trkpt lon="-77.460655" lat="43.050468">
                 <ele>180.356552</ele>
             </trkpt>
+            <trkpt lon="-77.460724" lat="43.050304">
+                <ele>181.813461</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.460724" lat="43.050304">
                 <ele>181.813461</ele>
             </trkpt>
@@ -7083,6 +8180,19 @@
             <trkpt lon="-77.459922" lat="43.048083">
                 <ele>221.398666</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459922" lat="43.048083">
+                <ele>221.398666</ele>
+            </trkpt>
             <trkpt lon="-77.459968" lat="43.047802">
                 <ele>228.162247</ele>
             </trkpt>
@@ -7095,6 +8205,19 @@
             <trkpt lon="-77.460212" lat="43.047588">
                 <ele>231.176865</ele>
             </trkpt>
+            <trkpt lon="-77.460479" lat="43.047528">
+                <ele>226.585678</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.460479" lat="43.047528">
                 <ele>226.585678</ele>
             </trkpt>
@@ -7120,7 +8243,7 @@
         <desc>Manual entry west end</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7151,6 +8274,20 @@
             <trkpt lon="-77.419510" lat="43.060959">
                 <ele>199.974380</ele>
             </trkpt>
+            <trkpt lon="-77.419731" lat="43.060936">
+                <ele>200.190689</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry west end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.419731" lat="43.060936">
                 <ele>200.190689</ele>
             </trkpt>
@@ -7187,6 +8324,34 @@
             <trkpt lon="-77.421978" lat="43.062431">
                 <ele>195.332016</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry west end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.421978" lat="43.062431">
+                <ele>195.332016</ele>
+            </trkpt>
+            <trkpt lon="-77.423556" lat="43.062283">
+                <ele>194.522303</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry west end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.423556" lat="43.062283">
                 <ele>194.522303</ele>
             </trkpt>
@@ -7256,18 +8421,43 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.385793" lat="43.088904"></trkpt>
             <trkpt lon="-77.385126" lat="43.089189"></trkpt>
+            <trkpt lon="-77.384815" lat="43.089201"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.384815" lat="43.089201"></trkpt>
             <trkpt lon="-77.384406" lat="43.089252"></trkpt>
             <trkpt lon="-77.383782" lat="43.089560"></trkpt>
             <trkpt lon="-77.383305" lat="43.089383"></trkpt>
             <trkpt lon="-77.381244" lat="43.089652"></trkpt>
             <trkpt lon="-77.380204" lat="43.089710"></trkpt>
             <trkpt lon="-77.379782" lat="43.089971"></trkpt>
+            <trkpt lon="-77.378602" lat="43.090331"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.378602" lat="43.090331"></trkpt>
             <trkpt lon="-77.377621" lat="43.090803"></trkpt>
             <trkpt lon="-77.376600" lat="43.091183"></trkpt>
@@ -7290,12 +8480,24 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.386722" lat="43.091808"></trkpt>
             <trkpt lon="-77.385609" lat="43.091879"></trkpt>
+            <trkpt lon="-77.384808" lat="43.091672"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.384808" lat="43.091672"></trkpt>
             <trkpt lon="-77.384337" lat="43.091369"></trkpt>
             <trkpt lon="-77.384425" lat="43.089745"></trkpt>
@@ -7307,12 +8509,25 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.385938" lat="43.093413"></trkpt>
             <trkpt lon="-77.385687" lat="43.092958"></trkpt>
+            <trkpt lon="-77.385331" lat="43.092852"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.385331" lat="43.092852"></trkpt>
             <trkpt lon="-77.385203" lat="43.092817"></trkpt>
             <trkpt lon="-77.384858" lat="43.092518"></trkpt>
             <trkpt lon="-77.383819" lat="43.092348"></trkpt>
@@ -7342,11 +8557,23 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.387023" lat="43.093413"></trkpt>
+            <trkpt lon="-77.385940" lat="43.093398"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.385940" lat="43.093398"></trkpt>
             <trkpt lon="-77.385729" lat="43.093582"></trkpt>
             <trkpt lon="-77.385176" lat="43.093724"></trkpt>
@@ -7354,13 +8581,61 @@
             <trkpt lon="-77.382947" lat="43.093729"></trkpt>
             <trkpt lon="-77.381899" lat="43.093695"></trkpt>
             <trkpt lon="-77.381085" lat="43.093641"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.381085" lat="43.093641"></trkpt>
             <trkpt lon="-77.380919" lat="43.093781"></trkpt>
+            <trkpt lon="-77.380095" lat="43.093820"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.380095" lat="43.093820"></trkpt>
             <trkpt lon="-77.380089" lat="43.093190"></trkpt>
             <trkpt lon="-77.379790" lat="43.093100"></trkpt>
-            <trkpt lon="-77.378812" lat="43.093119"></trkpt>
+            <trkpt lon="-77.378705" lat="43.093076"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.378705" lat="43.093076"></trkpt>
             <trkpt lon="-77.378593" lat="43.092953"></trkpt>
             <trkpt lon="-77.378342" lat="43.090900"></trkpt>
+            <trkpt lon="-77.378617" lat="43.090286"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.378617" lat="43.090286"></trkpt>
             <trkpt lon="-77.378643" lat="43.089814"></trkpt>
             <trkpt lon="-77.379031" lat="43.089206"></trkpt>
@@ -7370,6 +8645,18 @@
             <trkpt lon="-77.376597" lat="43.088923"></trkpt>
             <trkpt lon="-77.376149" lat="43.089098"></trkpt>
             <trkpt lon="-77.375878" lat="43.089508"></trkpt>
+            <trkpt lon="-77.376245" lat="43.090136"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_green</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.376245" lat="43.090136"></trkpt>
             <trkpt lon="-77.376962" lat="43.090318"></trkpt>
             <trkpt lon="-77.377672" lat="43.090182"></trkpt>
@@ -7426,7 +8713,7 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7434,6 +8721,18 @@
             <trkpt lon="-77.394479" lat="43.104095"></trkpt>
             <trkpt lon="-77.394334" lat="43.104770"></trkpt>
             <trkpt lon="-77.394087" lat="43.104936"></trkpt>
+            <trkpt lon="-77.392767" lat="43.105032"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_red</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.392767" lat="43.105032"></trkpt>
             <trkpt lon="-77.392751" lat="43.101907"></trkpt>
         </trkseg>
@@ -7606,7 +8905,7 @@
         <name>crescenttr_white</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7640,9 +8939,35 @@
             <trkpt lon="-77.446846" lat="43.038948">
                 <ele>204.221024</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.446846" lat="43.038948">
+                <ele>204.221024</ele>
+            </trkpt>
             <trkpt lon="-77.446655" lat="43.038925">
                 <ele>204.484680</ele>
             </trkpt>
+            <trkpt lon="-77.446083" lat="43.039005">
+                <ele>205.280991</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.446083" lat="43.039005">
                 <ele>205.280991</ele>
             </trkpt>
@@ -7969,7 +9294,7 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7977,6 +9302,19 @@
             <trkpt lon="-77.390874" lat="43.101478"></trkpt>
             <trkpt lon="-77.391104" lat="43.101171"></trkpt>
             <trkpt lon="-77.391364" lat="43.100978"></trkpt>
+            <trkpt lon="-77.391414" lat="43.100877"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_white</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.391414" lat="43.100877"></trkpt>
             <trkpt lon="-77.391486" lat="43.100737"></trkpt>
             <trkpt lon="-77.391537" lat="43.100380"></trkpt>
             <trkpt lon="-77.392040" lat="43.100075"></trkpt>
@@ -8047,7 +9385,7 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -8058,6 +9396,18 @@
             <trkpt lon="-77.440786" lat="43.044995"></trkpt>
             <trkpt lon="-77.440119" lat="43.045213"></trkpt>
             <trkpt lon="-77.439356" lat="43.045456"></trkpt>
+            <trkpt lon="-77.438930" lat="43.045500"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_white</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.438930" lat="43.045500"></trkpt>
             <trkpt lon="-77.438535" lat="43.045337"></trkpt>
             <trkpt lon="-77.437367" lat="43.045188"></trkpt>
@@ -8117,7 +9467,7 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.453193" lat="43.040147"></trkpt>
+            <trkpt lon="-77.453151" lat="43.040156"></trkpt>
             <trkpt lon="-77.453065" lat="43.040206"></trkpt>
             <trkpt lon="-77.452740" lat="43.040767"></trkpt>
             <trkpt lon="-77.452569" lat="43.041468"></trkpt>
@@ -8181,6 +9531,7 @@
         </extensions>
         <trkseg>
             <trkpt lon="-77.461732" lat="43.052138"></trkpt>
+            <trkpt lon="-77.460895" lat="43.051794"></trkpt>
             <trkpt lon="-77.460541" lat="43.051652"></trkpt>
             <trkpt lon="-77.459788" lat="43.051625"></trkpt>
             <trkpt lon="-77.459504" lat="43.051799"></trkpt>
@@ -8190,7 +9541,7 @@
         <name>crescenttr_yellow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -8248,6 +9599,19 @@
             <trkpt lon="-77.441003" lat="43.049644">
                 <ele>223.661789</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.441003" lat="43.049644">
+                <ele>223.661789</ele>
+            </trkpt>
             <trkpt lon="-77.442238" lat="43.049740">
                 <ele>217.868790</ele>
             </trkpt>
@@ -8276,16 +9640,52 @@
         <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.421864" lat="43.059263"></trkpt>
             <trkpt lon="-77.423527" lat="43.059349"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.423527" lat="43.059349"></trkpt>
             <trkpt lon="-77.423605" lat="43.060508"></trkpt>
             <trkpt lon="-77.423772" lat="43.060889"></trkpt>
             <trkpt lon="-77.423424" lat="43.061761"></trkpt>
             <trkpt lon="-77.423560" lat="43.062268"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.423560" lat="43.062268"></trkpt>
+            <trkpt lon="-77.423102" lat="43.063052"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.423102" lat="43.063052"></trkpt>
             <trkpt lon="-77.422491" lat="43.063471"></trkpt>
         </trkseg>
@@ -8295,7 +9695,7 @@
         <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -8335,6 +9735,20 @@
             <trkpt lon="-77.422462" lat="43.063454">
                 <ele>172.695023</ele>
             </trkpt>
+            <trkpt lon="-77.422462" lat="43.063499">
+                <ele>171.880356</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.422462" lat="43.063499">
                 <ele>171.880356</ele>
             </trkpt>
@@ -8383,12 +9797,40 @@
             <trkpt lon="-77.424263" lat="43.064022">
                 <ele>182.026764</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.424263" lat="43.064022">
+                <ele>182.026764</ele>
+            </trkpt>
             <trkpt lon="-77.424362" lat="43.064095">
                 <ele>181.424210</ele>
             </trkpt>
             <trkpt lon="-77.424438" lat="43.064293">
                 <ele>179.787094</ele>
             </trkpt>
+            <trkpt lon="-77.424660" lat="43.064606">
+                <ele>179.824677</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.424660" lat="43.064606">
                 <ele>179.824677</ele>
             </trkpt>
@@ -8413,7 +9855,21 @@
             <trkpt lon="-77.424706" lat="43.066174">
                 <ele>191.190323</ele>
             </trkpt>
-            <trkpt lon="-77.424850" lat="43.066296">
+            <trkpt lon="-77.424826" lat="43.066282">
+                <ele>192.572815</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.424826" lat="43.066282">
                 <ele>192.572815</ele>
             </trkpt>
             <trkpt lon="-77.424988" lat="43.066422">
@@ -8422,9 +9878,35 @@
             <trkpt lon="-77.425049" lat="43.066502">
                 <ele>194.710251</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.425049" lat="43.066502">
+                <ele>194.710251</ele>
+            </trkpt>
             <trkpt lon="-77.424879" lat="43.066841"></trkpt>
             <trkpt lon="-77.425032" lat="43.067257"></trkpt>
             <trkpt lon="-77.424097" lat="43.067564"></trkpt>
+            <trkpt lon="-77.423367" lat="43.067410"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_yellow</name>
+        <desc>Manual entry in northern end</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.423367" lat="43.067410"></trkpt>
             <trkpt lon="-77.423053" lat="43.067116"></trkpt>
             <trkpt lon="-77.422800" lat="43.066442"></trkpt>
@@ -8434,6 +9916,31 @@
             <trkpt lon="-77.423207" lat="43.068149"></trkpt>
             <trkpt lon="-77.424666" lat="43.068494"></trkpt>
             <trkpt lon="-77.425755" lat="43.068481"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>crescenttr_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.459813" lat="43.057350"></trkpt>
+            <trkpt lon="-77.459649" lat="43.057201"></trkpt>
+            <trkpt lon="-77.459321" lat="43.057074"></trkpt>
+            <trkpt lon="-77.459088" lat="43.057096"></trkpt>
+            <trkpt lon="-77.458703" lat="43.057134"></trkpt>
+            <trkpt lon="-77.458528" lat="43.057054"></trkpt>
+            <trkpt lon="-77.458297" lat="43.057075"></trkpt>
+            <trkpt lon="-77.458099" lat="43.057164"></trkpt>
+            <trkpt lon="-77.457922" lat="43.057208"></trkpt>
+            <trkpt lon="-77.457704" lat="43.057153"></trkpt>
+            <trkpt lon="-77.457493" lat="43.057161"></trkpt>
+            <trkpt lon="-77.457391" lat="43.057242"></trkpt>
+            <trkpt lon="-77.457386" lat="43.057350"></trkpt>
+            <trkpt lon="-77.457231" lat="43.057409"></trkpt>
+            <trkpt lon="-77.457133" lat="43.057592"></trkpt>
         </trkseg>
     </trk>
 </gpx>

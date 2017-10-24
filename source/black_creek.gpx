@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2015-02-17T18:02:26.358Z</time>
+        <time>2017-10-23T22:06:30.012Z</time>
     </metadata>
     <wpt lon="-77.819081" lat="43.070141">
         <name>Restroom</name>
@@ -141,7 +141,7 @@
         <name>black_cr_bluebird,black_cr_wetland</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.815158" lat="43.065680"></rtept>
@@ -157,6 +157,15 @@
         <rtept lon="-77.814162" lat="43.064701"></rtept>
         <rtept lon="-77.814159" lat="43.064565"></rtept>
         <rtept lon="-77.814155" lat="43.064439"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_bluebird,black_cr_wetland</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.814155" lat="43.064439"></rtept>
         <rtept lon="-77.814038" lat="43.064415"></rtept>
         <rtept lon="-77.813810" lat="43.064416"></rtept>
         <rtept lon="-77.813687" lat="43.064399"></rtept>
@@ -169,17 +178,34 @@
         <name>black_cr_creek</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.812434" lat="43.082828"></rtept>
         <rtept lon="-77.812613" lat="43.082873"></rtept>
+        <rtept lon="-77.812849" lat="43.082860"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.812849" lat="43.082860"></rtept>
         <rtept lon="-77.812937" lat="43.082733"></rtept>
         <rtept lon="-77.813317" lat="43.082444"></rtept>
         <rtept lon="-77.813925" lat="43.082187"></rtept>
         <rtept lon="-77.814050" lat="43.082177"></rtept>
         <rtept lon="-77.814250" lat="43.082333"></rtept>
+        <rtept lon="-77.814334" lat="43.082582"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.814334" lat="43.082582"></rtept>
         <rtept lon="-77.815029" lat="43.082374"></rtept>
         <rtept lon="-77.815205" lat="43.082095"></rtept>
@@ -222,9 +248,6 @@
         <rtept lon="-77.825308" lat="43.074511"></rtept>
         <rtept lon="-77.825481" lat="43.074365"></rtept>
         <rtept lon="-77.825546" lat="43.074361"></rtept>
-        <rtept lon="-77.825523" lat="43.074156"></rtept>
-        <rtept lon="-77.825423" lat="43.074099"></rtept>
-        <rtept lon="-77.825306" lat="43.073956"></rtept>
     </rte>
     <rte>
         <name>black_cr_creek</name>
@@ -247,17 +270,53 @@
         <rtept lon="-77.798444" lat="43.080563"></rtept>
         <rtept lon="-77.798319" lat="43.080689"></rtept>
         <rtept lon="-77.798250" lat="43.080882"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.798250" lat="43.080882"></rtept>
         <rtept lon="-77.798122" lat="43.081244"></rtept>
+        <rtept lon="-77.798143" lat="43.081488"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.798143" lat="43.081488"></rtept>
         <rtept lon="-77.797768" lat="43.082193"></rtept>
         <rtept lon="-77.797575" lat="43.082334"></rtept>
         <rtept lon="-77.797542" lat="43.082603"></rtept>
+        <rtept lon="-77.797339" lat="43.083572"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.797339" lat="43.083572"></rtept>
         <rtept lon="-77.797092" lat="43.084199"></rtept>
         <rtept lon="-77.797100" lat="43.084895"></rtept>
         <rtept lon="-77.797237" lat="43.085123"></rtept>
         <rtept lon="-77.797505" lat="43.085354"></rtept>
         <rtept lon="-77.798476" lat="43.085625"></rtept>
+        <rtept lon="-77.798752" lat="43.085850"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.798752" lat="43.085850"></rtept>
         <rtept lon="-77.798958" lat="43.086230"></rtept>
         <rtept lon="-77.799023" lat="43.086557"></rtept>
@@ -267,6 +326,15 @@
         <rtept lon="-77.800175" lat="43.087598"></rtept>
         <rtept lon="-77.801030" lat="43.087662"></rtept>
         <rtept lon="-77.801555" lat="43.087803"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.801555" lat="43.087803"></rtept>
         <rtept lon="-77.802563" lat="43.087668"></rtept>
         <rtept lon="-77.803465" lat="43.087717"></rtept>
         <rtept lon="-77.804282" lat="43.087439"></rtept>
@@ -275,83 +343,37 @@
         <rtept lon="-77.804299" lat="43.086688"></rtept>
         <rtept lon="-77.804484" lat="43.086197"></rtept>
         <rtept lon="-77.804757" lat="43.085811"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.804757" lat="43.085811"></rtept>
         <rtept lon="-77.804832" lat="43.085718"></rtept>
+        <rtept lon="-77.804978" lat="43.085521"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.804978" lat="43.085521"></rtept>
         <rtept lon="-77.805271" lat="43.085127"></rtept>
         <rtept lon="-77.806226" lat="43.084560"></rtept>
         <rtept lon="-77.806937" lat="43.084303"></rtept>
         <rtept lon="-77.807550" lat="43.084241"></rtept>
         <rtept lon="-77.808127" lat="43.084062"></rtept>
-        <rtept lon="-77.808175" lat="43.084009"></rtept>
-        <rtept lon="-77.808106" lat="43.083820"></rtept>
-        <rtept lon="-77.808172" lat="43.083327"></rtept>
-        <rtept lon="-77.808120" lat="43.083136"></rtept>
-        <rtept lon="-77.808189" lat="43.082998"></rtept>
-        <rtept lon="-77.808580" lat="43.082939"></rtept>
-        <rtept lon="-77.808919" lat="43.083003"></rtept>
-        <rtept lon="-77.809214" lat="43.082983"></rtept>
-        <rtept lon="-77.809370" lat="43.082905"></rtept>
-        <rtept lon="-77.809627" lat="43.082666"></rtept>
-        <rtept lon="-77.810279" lat="43.082354"></rtept>
-        <rtept lon="-77.810980" lat="43.082414"></rtept>
-        <rtept lon="-77.811463" lat="43.082701"></rtept>
-        <rtept lon="-77.811731" lat="43.082788"></rtept>
-        <rtept lon="-77.812429" lat="43.082826"></rtept>
-    </rte>
-    <rte>
-        <name>black_cr_creek</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <rtept lon="-77.825306" lat="43.073956"></rtept>
-        <rtept lon="-77.825099" lat="43.073703"></rtept>
-        <rtept lon="-77.825099" lat="43.073703"></rtept>
-        <rtept lon="-77.824919" lat="43.073639"></rtept>
-        <rtept lon="-77.824704" lat="43.073646"></rtept>
-        <rtept lon="-77.824451" lat="43.073582"></rtept>
-        <rtept lon="-77.824164" lat="43.073605"></rtept>
-        <rtept lon="-77.823858" lat="43.073557"></rtept>
-        <rtept lon="-77.823750" lat="43.073503"></rtept>
-        <rtept lon="-77.823750" lat="43.073503"></rtept>
-        <rtept lon="-77.823631" lat="43.073306"></rtept>
-        <rtept lon="-77.823626" lat="43.072973"></rtept>
-        <rtept lon="-77.823626" lat="43.072973"></rtept>
-        <rtept lon="-77.823621" lat="43.072552"></rtept>
-        <rtept lon="-77.823461" lat="43.072234"></rtept>
-        <rtept lon="-77.823354" lat="43.072156"></rtept>
-        <rtept lon="-77.823390" lat="43.072110"></rtept>
-        <rtept lon="-77.823717" lat="43.072048"></rtept>
-        <rtept lon="-77.823785" lat="43.071856"></rtept>
-        <rtept lon="-77.823975" lat="43.071647"></rtept>
-        <rtept lon="-77.823639" lat="43.071138"></rtept>
-        <rtept lon="-77.823834" lat="43.070706"></rtept>
-        <rtept lon="-77.823698" lat="43.070593"></rtept>
-        <rtept lon="-77.823358" lat="43.070590"></rtept>
-        <rtept lon="-77.822504" lat="43.070786"></rtept>
-        <rtept lon="-77.821976" lat="43.070855"></rtept>
-        <rtept lon="-77.821703" lat="43.071017"></rtept>
-        <rtept lon="-77.821339" lat="43.071146"></rtept>
-        <rtept lon="-77.821137" lat="43.071480"></rtept>
-        <rtept lon="-77.821094" lat="43.071557"></rtept>
-        <rtept lon="-77.821003" lat="43.071614"></rtept>
-        <rtept lon="-77.820359" lat="43.072056"></rtept>
-        <rtept lon="-77.820226" lat="43.072043"></rtept>
-        <rtept lon="-77.820226" lat="43.072043"></rtept>
-        <rtept lon="-77.819887" lat="43.071989"></rtept>
-        <rtept lon="-77.819812" lat="43.071919"></rtept>
-        <rtept lon="-77.819818" lat="43.070736"></rtept>
-        <rtept lon="-77.819865" lat="43.070484"></rtept>
-        <rtept lon="-77.819802" lat="43.070383"></rtept>
-        <rtept lon="-77.819624" lat="43.070277"></rtept>
-        <rtept lon="-77.818932" lat="43.070220"></rtept>
     </rte>
     <rte>
         <name>black_cr_ridge</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.818935" lat="43.070217"></rtept>
@@ -359,14 +381,41 @@
         <rtept lon="-77.818783" lat="43.069373"></rtept>
         <rtept lon="-77.818560" lat="43.069297"></rtept>
         <rtept lon="-77.818489" lat="43.069272"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.818489" lat="43.069272"></rtept>
         <rtept lon="-77.817567" lat="43.069316"></rtept>
         <rtept lon="-77.816588" lat="43.069269"></rtept>
         <rtept lon="-77.816298" lat="43.069312"></rtept>
         <rtept lon="-77.815589" lat="43.069284"></rtept>
         <rtept lon="-77.815215" lat="43.069350"></rtept>
         <rtept lon="-77.815160" lat="43.069328"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.815160" lat="43.069328"></rtept>
         <rtept lon="-77.814335" lat="43.069407"></rtept>
         <rtept lon="-77.814220" lat="43.069443"></rtept>
+        <rtept lon="-77.814097" lat="43.069467"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.814097" lat="43.069467"></rtept>
         <rtept lon="-77.813972" lat="43.069480"></rtept>
         <rtept lon="-77.813710" lat="43.069507"></rtept>
@@ -385,7 +434,16 @@
         <rtept lon="-77.807180" lat="43.072582"></rtept>
         <rtept lon="-77.806592" lat="43.072950"></rtept>
         <rtept lon="-77.806399" lat="43.073162"></rtept>
-        <rtept lon="-77.806233" lat="43.073361"></rtept>
+        <rtept lon="-77.806346" lat="43.073299"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.806346" lat="43.073299"></rtept>
         <rtept lon="-77.805889" lat="43.073764"></rtept>
         <rtept lon="-77.805259" lat="43.074341"></rtept>
         <rtept lon="-77.804549" lat="43.074936"></rtept>
@@ -395,9 +453,45 @@
         <rtept lon="-77.802403" lat="43.077076"></rtept>
         <rtept lon="-77.801748" lat="43.077656"></rtept>
         <rtept lon="-77.801426" lat="43.078113"></rtept>
-        <rtept lon="-77.800773" lat="43.078621"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.801426" lat="43.078113"></rtept>
+        <rtept lon="-77.800612" lat="43.078688"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.800612" lat="43.078688"></rtept>
+        <rtept lon="-77.800154" lat="43.078882"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.800154" lat="43.078882"></rtept>
         <rtept lon="-77.799426" lat="43.078995"></rtept>
+        <rtept lon="-77.798478" lat="43.078994"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_ridge</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.798478" lat="43.078994"></rtept>
         <rtept lon="-77.798444" lat="43.080563"></rtept>
     </rte>
@@ -544,11 +638,29 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.808264" lat="43.081188"></rtept>
         <rtept lon="-77.808329" lat="43.081658"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.808329" lat="43.081658"></rtept>
+        <rtept lon="-77.808194" lat="43.082552"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.808194" lat="43.082552"></rtept>
         <rtept lon="-77.808318" lat="43.082732"></rtept>
         <rtept lon="-77.808189" lat="43.082998"></rtept>
@@ -635,11 +747,29 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.804978" lat="43.085521"></rtept>
         <rtept lon="-77.804520" lat="43.085239"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.804520" lat="43.085239"></rtept>
+        <rtept lon="-77.804048" lat="43.085106"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.804048" lat="43.085106"></rtept>
         <rtept lon="-77.805346" lat="43.084119"></rtept>
         <rtept lon="-77.803629" lat="43.084370"></rtept>
@@ -648,10 +778,19 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.804053" lat="43.078857"></rtept>
+        <rtept lon="-77.804203" lat="43.078677"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.804203" lat="43.078677"></rtept>
         <rtept lon="-77.804686" lat="43.078622"></rtept>
         <rtept lon="-77.805266" lat="43.078598"></rtept>
@@ -672,41 +811,112 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.803586" lat="43.080734"></rtept>
         <rtept lon="-77.803570" lat="43.080561"></rtept>
-        <rtept lon="-77.803447" lat="43.080416"></rtept>
+        <rtept lon="-77.803465" lat="43.080407"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803465" lat="43.080407"></rtept>
         <rtept lon="-77.803651" lat="43.080130"></rtept>
         <rtept lon="-77.804016" lat="43.079730"></rtept>
         <rtept lon="-77.804193" lat="43.079472"></rtept>
         <rtept lon="-77.804402" lat="43.079346"></rtept>
         <rtept lon="-77.804461" lat="43.079131"></rtept>
         <rtept lon="-77.804053" lat="43.078857"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.804053" lat="43.078857"></rtept>
         <rtept lon="-77.803318" lat="43.078951"></rtept>
         <rtept lon="-77.803055" lat="43.078994"></rtept>
         <rtept lon="-77.802680" lat="43.078768"></rtept>
         <rtept lon="-77.802665" lat="43.078762"></rtept>
-        <rtept lon="-77.802082" lat="43.078514"></rtept>
-        <rtept lon="-77.802069" lat="43.078509"></rtept>
+        <rtept lon="-77.802214" lat="43.078561"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.802214" lat="43.078561"></rtept>
         <rtept lon="-77.801425" lat="43.078118"></rtept>
     </rte>
     <rte>
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.801875" lat="43.086794"></rtept>
         <rtept lon="-77.802181" lat="43.086274"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.802181" lat="43.086274"></rtept>
+        <rtept lon="-77.802338" lat="43.086137"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.802338" lat="43.086137"></rtept>
         <rtept lon="-77.802514" lat="43.085984"></rtept>
         <rtept lon="-77.803372" lat="43.085725"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803372" lat="43.085725"></rtept>
+        <rtept lon="-77.803567" lat="43.085410"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.803567" lat="43.085410"></rtept>
         <rtept lon="-77.803737" lat="43.085122"></rtept>
         <rtept lon="-77.803780" lat="43.084628"></rtept>
+        <rtept lon="-77.803629" lat="43.084370"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.803629" lat="43.084370"></rtept>
         <rtept lon="-77.803404" lat="43.083962"></rtept>
         <rtept lon="-77.803490" lat="43.083069"></rtept>
@@ -716,10 +926,20 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.812613" lat="43.082873"></rtept>
+        <rtept lon="-77.812688" lat="43.083132"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.812688" lat="43.083132"></rtept>
         <rtept lon="-77.812742" lat="43.083302"></rtept>
         <rtept lon="-77.812643" lat="43.083359"></rtept>
         <rtept lon="-77.812441" lat="43.083392"></rtept>
@@ -731,6 +951,15 @@
         <rtept lon="-77.811888" lat="43.084096"></rtept>
         <rtept lon="-77.811822" lat="43.084290"></rtept>
         <rtept lon="-77.811720" lat="43.084359"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.811720" lat="43.084359"></rtept>
         <rtept lon="-77.811324" lat="43.084286"></rtept>
         <rtept lon="-77.810951" lat="43.084331"></rtept>
         <rtept lon="-77.810890" lat="43.084307"></rtept>
@@ -739,6 +968,15 @@
         <rtept lon="-77.811385" lat="43.083652"></rtept>
         <rtept lon="-77.812167" lat="43.083304"></rtept>
         <rtept lon="-77.812680" lat="43.083129"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.812680" lat="43.083129"></rtept>
         <rtept lon="-77.812807" lat="43.082999"></rtept>
         <rtept lon="-77.812849" lat="43.082860"></rtept>
     </rte>
@@ -746,7 +984,7 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.802180" lat="43.080697"></rtept>
@@ -754,17 +992,75 @@
         <rtept lon="-77.802829" lat="43.080552"></rtept>
         <rtept lon="-77.803039" lat="43.080749"></rtept>
         <rtept lon="-77.803586" lat="43.080734"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803586" lat="43.080734"></rtept>
         <rtept lon="-77.803855" lat="43.080734"></rtept>
         <rtept lon="-77.804488" lat="43.080922"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.804488" lat="43.080922"></rtept>
+        <rtept lon="-77.804777" lat="43.081180"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.804777" lat="43.081180"></rtept>
         <rtept lon="-77.804769" lat="43.081521"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.804769" lat="43.081521"></rtept>
         <rtept lon="-77.804767" lat="43.081596"></rtept>
+        <rtept lon="-77.804695" lat="43.081737"></rtept>
+        <rtept lon="-77.804526" lat="43.081871"></rtept>
         <rtept lon="-77.804316" lat="43.081948"></rtept>
+        <rtept lon="-77.804075" lat="43.082174"></rtept>
+        <rtept lon="-77.803898" lat="43.082334"></rtept>
         <rtept lon="-77.803651" lat="43.082512"></rtept>
+        <rtept lon="-77.803315" lat="43.082571"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.803315" lat="43.082571"></rtept>
         <rtept lon="-77.802996" lat="43.082583"></rtept>
         <rtept lon="-77.802739" lat="43.082497"></rtept>
         <rtept lon="-77.802514" lat="43.082270"></rtept>
+        <rtept lon="-77.802240" lat="43.082179"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.802240" lat="43.082179"></rtept>
         <rtept lon="-77.801837" lat="43.081951"></rtept>
     </rte>
@@ -801,7 +1097,7 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.808329" lat="43.081658"></rtept>
@@ -810,11 +1106,38 @@
         <rtept lon="-77.809831" lat="43.081325"></rtept>
         <rtept lon="-77.810855" lat="43.081317"></rtept>
         <rtept lon="-77.811402" lat="43.081133"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.811402" lat="43.081133"></rtept>
         <rtept lon="-77.811783" lat="43.081098"></rtept>
         <rtept lon="-77.812379" lat="43.080859"></rtept>
         <rtept lon="-77.812475" lat="43.080659"></rtept>
         <rtept lon="-77.812540" lat="43.080342"></rtept>
         <rtept lon="-77.813301" lat="43.079828"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.813301" lat="43.079828"></rtept>
+        <rtept lon="-77.813339" lat="43.079472"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.813339" lat="43.079472"></rtept>
         <rtept lon="-77.813328" lat="43.078563"></rtept>
         <rtept lon="-77.813210" lat="43.078485"></rtept>
@@ -829,10 +1152,20 @@
         <name>black_cr_wetland</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.815160" lat="43.069328"></rtept>
+        <rtept lon="-77.815139" lat="43.069028"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_wetland</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.815139" lat="43.069028"></rtept>
         <rtept lon="-77.815138" lat="43.068974"></rtept>
         <rtept lon="-77.815223" lat="43.068722"></rtept>
         <rtept lon="-77.816276" lat="43.067763"></rtept>
@@ -847,18 +1180,11 @@
         <name>black_cr_wetland</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.798624" lat="43.073397"></rtept>
-        <rtept lon="-77.798356" lat="43.073991"></rtept>
-        <rtept lon="-77.798356" lat="43.073991"></rtept>
-        <rtept lon="-77.798315" lat="43.074255"></rtept>
-        <rtept lon="-77.798499" lat="43.074818"></rtept>
-        <rtept lon="-77.798642" lat="43.074981"></rtept>
-        <rtept lon="-77.799243" lat="43.075134"></rtept>
-        <rtept lon="-77.799454" lat="43.075351"></rtept>
-        <rtept lon="-77.799510" lat="43.075412"></rtept>
+        <rtept lon="-77.799461" lat="43.075361"></rtept>
+        <rtept lon="-77.799524" lat="43.075447"></rtept>
         <rtept lon="-77.799452" lat="43.075524"></rtept>
         <rtept lon="-77.799206" lat="43.075544"></rtept>
         <rtept lon="-77.798925" lat="43.075541"></rtept>
@@ -879,35 +1205,128 @@
         <rtept lon="-77.798478" lat="43.078994"></rtept>
     </rte>
     <rte>
-        <name>black_cr_wetland</name>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.808127" lat="43.084062"></rtept>
+        <rtept lon="-77.808175" lat="43.084009"></rtept>
+        <rtept lon="-77.808106" lat="43.083820"></rtept>
+        <rtept lon="-77.808172" lat="43.083327"></rtept>
+        <rtept lon="-77.808120" lat="43.083136"></rtept>
+        <rtept lon="-77.808189" lat="43.082998"></rtept>
+        <rtept lon="-77.808580" lat="43.082939"></rtept>
+        <rtept lon="-77.808919" lat="43.083003"></rtept>
+        <rtept lon="-77.809214" lat="43.082983"></rtept>
+        <rtept lon="-77.809370" lat="43.082905"></rtept>
+        <rtept lon="-77.809627" lat="43.082666"></rtept>
+        <rtept lon="-77.810279" lat="43.082354"></rtept>
+        <rtept lon="-77.810980" lat="43.082414"></rtept>
+        <rtept lon="-77.811463" lat="43.082701"></rtept>
+        <rtept lon="-77.811731" lat="43.082788"></rtept>
+        <rtept lon="-77.812429" lat="43.082826"></rtept>
+        <rtept lon="-77.812434" lat="43.082828"></rtept>
+        <rtept lon="-77.812613" lat="43.082873"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.825546" lat="43.074361"></rtept>
+        <rtept lon="-77.825523" lat="43.074156"></rtept>
+        <rtept lon="-77.825423" lat="43.074099"></rtept>
+        <rtept lon="-77.825306" lat="43.073956"></rtept>
+        <rtept lon="-77.825306" lat="43.073956"></rtept>
+        <rtept lon="-77.825099" lat="43.073703"></rtept>
+        <rtept lon="-77.825099" lat="43.073703"></rtept>
+        <rtept lon="-77.824919" lat="43.073639"></rtept>
+        <rtept lon="-77.824704" lat="43.073646"></rtept>
+        <rtept lon="-77.824451" lat="43.073582"></rtept>
+        <rtept lon="-77.824164" lat="43.073605"></rtept>
+        <rtept lon="-77.823858" lat="43.073557"></rtept>
+        <rtept lon="-77.823750" lat="43.073503"></rtept>
+        <rtept lon="-77.823750" lat="43.073503"></rtept>
+        <rtept lon="-77.823631" lat="43.073306"></rtept>
+        <rtept lon="-77.823626" lat="43.072973"></rtept>
+        <rtept lon="-77.823626" lat="43.072973"></rtept>
+        <rtept lon="-77.823621" lat="43.072552"></rtept>
+        <rtept lon="-77.823461" lat="43.072234"></rtept>
+        <rtept lon="-77.823354" lat="43.072156"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.823354" lat="43.072156"></rtept>
+        <rtept lon="-77.823390" lat="43.072110"></rtept>
+        <rtept lon="-77.823717" lat="43.072048"></rtept>
+        <rtept lon="-77.823785" lat="43.071856"></rtept>
+        <rtept lon="-77.823975" lat="43.071647"></rtept>
+        <rtept lon="-77.823639" lat="43.071138"></rtept>
+        <rtept lon="-77.823834" lat="43.070706"></rtept>
+        <rtept lon="-77.823698" lat="43.070593"></rtept>
+        <rtept lon="-77.823465" lat="43.070587"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.823465" lat="43.070587"></rtept>
+        <rtept lon="-77.823358" lat="43.070590"></rtept>
+        <rtept lon="-77.822504" lat="43.070786"></rtept>
+        <rtept lon="-77.821976" lat="43.070855"></rtept>
+        <rtept lon="-77.821703" lat="43.071017"></rtept>
+        <rtept lon="-77.821339" lat="43.071146"></rtept>
+        <rtept lon="-77.821137" lat="43.071480"></rtept>
+        <rtept lon="-77.821094" lat="43.071557"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.803956" lat="43.067886"></rtept>
-        <rtept lon="-77.803415" lat="43.067773"></rtept>
-        <rtept lon="-77.803229" lat="43.067813"></rtept>
-        <rtept lon="-77.803162" lat="43.068016"></rtept>
-        <rtept lon="-77.803240" lat="43.068687"></rtept>
-        <rtept lon="-77.803184" lat="43.068960"></rtept>
-        <rtept lon="-77.803104" lat="43.069089"></rtept>
-        <rtept lon="-77.802597" lat="43.069222"></rtept>
-        <rtept lon="-77.802277" lat="43.069410"></rtept>
-        <rtept lon="-77.801911" lat="43.069972"></rtept>
-        <rtept lon="-77.801353" lat="43.070194"></rtept>
-        <rtept lon="-77.800895" lat="43.070315"></rtept>
-        <rtept lon="-77.800555" lat="43.070700"></rtept>
-        <rtept lon="-77.800267" lat="43.071039"></rtept>
-        <rtept lon="-77.799959" lat="43.071517"></rtept>
-        <rtept lon="-77.799834" lat="43.071562"></rtept>
-        <rtept lon="-77.798793" lat="43.071606"></rtept>
-        <rtept lon="-77.798667" lat="43.071650"></rtept>
-        <rtept lon="-77.798629" lat="43.072033"></rtept>
-        <rtept lon="-77.798225" lat="43.072645"></rtept>
-        <rtept lon="-77.798149" lat="43.072981"></rtept>
-        <rtept lon="-77.798452" lat="43.073110"></rtept>
-        <rtept lon="-77.798624" lat="43.073397"></rtept>
+        <rtept lon="-77.821094" lat="43.071557"></rtept>
+        <rtept lon="-77.821003" lat="43.071614"></rtept>
+        <rtept lon="-77.820359" lat="43.072056"></rtept>
+        <rtept lon="-77.820178" lat="43.072039"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.820157" lat="43.072040"></rtept>
+        <rtept lon="-77.819887" lat="43.071989"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_creek</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.819887" lat="43.071989"></rtept>
+        <rtept lon="-77.819812" lat="43.071919"></rtept>
+        <rtept lon="-77.819818" lat="43.070736"></rtept>
+        <rtept lon="-77.819865" lat="43.070484"></rtept>
+        <rtept lon="-77.819802" lat="43.070383"></rtept>
+        <rtept lon="-77.819624" lat="43.070277"></rtept>
+        <rtept lon="-77.818932" lat="43.070220"></rtept>
     </rte>
     <rte>
         <name>black_cr_wetland</name>
@@ -946,12 +1365,53 @@
         <rtept lon="-77.805091" lat="43.067999"></rtept>
         <rtept lon="-77.804527" lat="43.067852"></rtept>
         <rtept lon="-77.803956" lat="43.067886"></rtept>
+        <rtept lon="-77.803956" lat="43.067886"></rtept>
+        <rtept lon="-77.803415" lat="43.067773"></rtept>
+        <rtept lon="-77.803229" lat="43.067813"></rtept>
+        <rtept lon="-77.803162" lat="43.068016"></rtept>
+        <rtept lon="-77.803240" lat="43.068687"></rtept>
+        <rtept lon="-77.803184" lat="43.068960"></rtept>
+        <rtept lon="-77.803104" lat="43.069089"></rtept>
+        <rtept lon="-77.802597" lat="43.069222"></rtept>
+        <rtept lon="-77.802277" lat="43.069410"></rtept>
+        <rtept lon="-77.801911" lat="43.069972"></rtept>
+        <rtept lon="-77.801353" lat="43.070194"></rtept>
+        <rtept lon="-77.800895" lat="43.070315"></rtept>
+        <rtept lon="-77.800555" lat="43.070700"></rtept>
+        <rtept lon="-77.800267" lat="43.071039"></rtept>
+        <rtept lon="-77.799959" lat="43.071517"></rtept>
+        <rtept lon="-77.799834" lat="43.071562"></rtept>
+        <rtept lon="-77.798793" lat="43.071606"></rtept>
+        <rtept lon="-77.798688" lat="43.071635"></rtept>
+    </rte>
+    <rte>
+        <name>black_cr_wetland</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.798688" lat="43.071635"></rtept>
+        <rtept lon="-77.798629" lat="43.072033"></rtept>
+        <rtept lon="-77.798225" lat="43.072645"></rtept>
+        <rtept lon="-77.798149" lat="43.072981"></rtept>
+        <rtept lon="-77.798452" lat="43.073110"></rtept>
+        <rtept lon="-77.798624" lat="43.073397"></rtept>
+        <rtept lon="-77.798624" lat="43.073397"></rtept>
+        <rtept lon="-77.798356" lat="43.073991"></rtept>
+        <rtept lon="-77.798356" lat="43.073991"></rtept>
+        <rtept lon="-77.798315" lat="43.074255"></rtept>
+        <rtept lon="-77.798499" lat="43.074818"></rtept>
+        <rtept lon="-77.798642" lat="43.074981"></rtept>
+        <rtept lon="-77.799243" lat="43.075134"></rtept>
+        <rtept lon="-77.799454" lat="43.075351"></rtept>
+        <rtept lon="-77.799461" lat="43.075361"></rtept>
     </rte>
     <trk>
         <name>black_cr_bluebird</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -965,6 +1425,17 @@
             <trkpt lon="-77.815563" lat="43.061648"></trkpt>
             <trkpt lon="-77.815563" lat="43.061804"></trkpt>
             <trkpt lon="-77.815500" lat="43.062108"></trkpt>
+            <trkpt lon="-77.815439" lat="43.062217"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_bluebird</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.815439" lat="43.062217"></trkpt>
             <trkpt lon="-77.815427" lat="43.062308"></trkpt>
             <trkpt lon="-77.815498" lat="43.062355"></trkpt>
@@ -1005,11 +1476,33 @@
             <trkpt lon="-77.815508" lat="43.063542"></trkpt>
             <trkpt lon="-77.815626" lat="43.063569"></trkpt>
             <trkpt lon="-77.815803" lat="43.063611"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_bluebird</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.815803" lat="43.063611"></trkpt>
             <trkpt lon="-77.815875" lat="43.063752"></trkpt>
             <trkpt lon="-77.815946" lat="43.063849"></trkpt>
             <trkpt lon="-77.815985" lat="43.063973"></trkpt>
             <trkpt lon="-77.815943" lat="43.064092"></trkpt>
             <trkpt lon="-77.815907" lat="43.064273"></trkpt>
+            <trkpt lon="-77.815918" lat="43.064428"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_bluebird</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.815918" lat="43.064428"></trkpt>
             <trkpt lon="-77.815977" lat="43.064528"></trkpt>
             <trkpt lon="-77.815971" lat="43.064608"></trkpt>
@@ -1029,7 +1522,7 @@
         <name>black_cr_hickory</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1054,6 +1547,17 @@
             <trkpt lon="-77.800453" lat="43.061614"></trkpt>
             <trkpt lon="-77.800464" lat="43.061725"></trkpt>
             <trkpt lon="-77.800427" lat="43.061861"></trkpt>
+            <trkpt lon="-77.800405" lat="43.061991"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_hickory</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.800405" lat="43.061991"></trkpt>
             <trkpt lon="-77.800311" lat="43.062109"></trkpt>
             <trkpt lon="-77.800279" lat="43.062338"></trkpt>
@@ -1125,7 +1629,7 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.825483" lat="43.074342"></trkpt>
+            <trkpt lon="-77.825550" lat="43.074353"></trkpt>
             <trkpt lon="-77.825786" lat="43.074340"></trkpt>
             <trkpt lon="-77.826091" lat="43.074448"></trkpt>
             <trkpt lon="-77.826874" lat="43.074558"></trkpt>
@@ -1214,7 +1718,7 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1224,6 +1728,18 @@
             <trkpt lon="-77.800708" lat="43.080109"></trkpt>
             <trkpt lon="-77.801012" lat="43.080208"></trkpt>
             <trkpt lon="-77.801337" lat="43.080296"></trkpt>
+            <trkpt lon="-77.801398" lat="43.080480"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.801398" lat="43.080480"></trkpt>
             <trkpt lon="-77.801423" lat="43.080566"></trkpt>
             <trkpt lon="-77.801356" lat="43.080776"></trkpt>
             <trkpt lon="-77.801771" lat="43.080850"></trkpt>
@@ -1253,7 +1769,7 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1267,11 +1783,34 @@
             <trkpt lon="-77.812043" lat="43.061043"></trkpt>
             <trkpt lon="-77.811782" lat="43.061142"></trkpt>
             <trkpt lon="-77.811371" lat="43.061209"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.811371" lat="43.061209"></trkpt>
             <trkpt lon="-77.811034" lat="43.061135"></trkpt>
             <trkpt lon="-77.810587" lat="43.061031"></trkpt>
             <trkpt lon="-77.810195" lat="43.061121"></trkpt>
             <trkpt lon="-77.809825" lat="43.061170"></trkpt>
             <trkpt lon="-77.809589" lat="43.061135"></trkpt>
+            <trkpt lon="-77.809353" lat="43.061042"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.809353" lat="43.061042"></trkpt>
             <trkpt lon="-77.809128" lat="43.060960"></trkpt>
             <trkpt lon="-77.808876" lat="43.060808"></trkpt>
             <trkpt lon="-77.807598" lat="43.060708"></trkpt>
@@ -1281,12 +1820,23 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.818938" lat="43.070230"></trkpt>
             <trkpt lon="-77.818449" lat="43.070881"></trkpt>
+            <trkpt lon="-77.818180" lat="43.070957"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.818180" lat="43.070957"></trkpt>
             <trkpt lon="-77.817857" lat="43.070790"></trkpt>
         </trkseg>
@@ -1295,7 +1845,7 @@
         <name>black_cr_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1305,6 +1855,17 @@
             <trkpt lon="-77.815790" lat="43.071955"></trkpt>
             <trkpt lon="-77.815804" lat="43.072069"></trkpt>
             <trkpt lon="-77.816008" lat="43.072159"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.816008" lat="43.072159"></trkpt>
             <trkpt lon="-77.815960" lat="43.072288"></trkpt>
             <trkpt lon="-77.815603" lat="43.072482"></trkpt>
             <trkpt lon="-77.815393" lat="43.073223"></trkpt>
@@ -1313,8 +1874,30 @@
             <trkpt lon="-77.816566" lat="43.073208"></trkpt>
             <trkpt lon="-77.816617" lat="43.073135"></trkpt>
             <trkpt lon="-77.816903" lat="43.072434"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.816903" lat="43.072434"></trkpt>
             <trkpt lon="-77.817499" lat="43.071850"></trkpt>
-            <trkpt lon="-77.818125" lat="43.071761"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.817499" lat="43.071850"></trkpt>
+            <trkpt lon="-77.818095" lat="43.071788"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -1976,7 +2559,7 @@
     <trk>
         <name>black_cr_blue</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2085,7 +2668,17 @@
             <trkpt lon="-77.805797" lat="43.073264"></trkpt>
             <trkpt lon="-77.805858" lat="43.073280"></trkpt>
             <trkpt lon="-77.806210" lat="43.073259"></trkpt>
-            <trkpt lon="-77.806469" lat="43.073326"></trkpt>
+            <trkpt lon="-77.806364" lat="43.073305"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_blue</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.806364" lat="43.073305"></trkpt>
             <trkpt lon="-77.806661" lat="43.073319"></trkpt>
             <trkpt lon="-77.806643" lat="43.073320"></trkpt>
             <trkpt lon="-77.806722" lat="43.073313"></trkpt>
@@ -2236,7 +2829,7 @@
     <trk>
         <name>black_cr_orange</name>
         <extensions>Yellow<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2273,8 +2866,17 @@
             <trkpt lon="-77.814881" lat="43.068980"></trkpt>
             <trkpt lon="-77.815022" lat="43.069030"></trkpt>
             <trkpt lon="-77.815101" lat="43.069033"></trkpt>
-            <trkpt lon="-77.815074" lat="43.069033"></trkpt>
-            <trkpt lon="-77.815393" lat="43.068991"></trkpt>
+            <trkpt lon="-77.815138" lat="43.069028"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.815138" lat="43.069028"></trkpt>
             <trkpt lon="-77.815358" lat="43.068998"></trkpt>
             <trkpt lon="-77.815493" lat="43.068956"></trkpt>
             <trkpt lon="-77.815546" lat="43.068925"></trkpt>
@@ -2287,6 +2889,16 @@
             <trkpt lon="-77.817526" lat="43.069102"></trkpt>
             <trkpt lon="-77.817508" lat="43.069104"></trkpt>
             <trkpt lon="-77.818439" lat="43.069246"></trkpt>
+            <trkpt lon="-77.818608" lat="43.069322"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.818608" lat="43.069322"></trkpt>
             <trkpt lon="-77.818624" lat="43.069337"></trkpt>
             <trkpt lon="-77.818633" lat="43.069353"></trkpt>
@@ -2315,6 +2927,16 @@
             <trkpt lon="-77.817906" lat="43.070772"></trkpt>
             <trkpt lon="-77.817884" lat="43.070784"></trkpt>
             <trkpt lon="-77.817865" lat="43.070788"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.817865" lat="43.070788"></trkpt>
             <trkpt lon="-77.817813" lat="43.070781"></trkpt>
             <trkpt lon="-77.817784" lat="43.070769"></trkpt>
             <trkpt lon="-77.817799" lat="43.070776"></trkpt>
@@ -2340,6 +2962,16 @@
             <trkpt lon="-77.816933" lat="43.070769"></trkpt>
             <trkpt lon="-77.816694" lat="43.070866"></trkpt>
             <trkpt lon="-77.816438" lat="43.071094"></trkpt>
+            <trkpt lon="-77.816380" lat="43.071195"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.816380" lat="43.071195"></trkpt>
             <trkpt lon="-77.816367" lat="43.071209"></trkpt>
             <trkpt lon="-77.816330" lat="43.071233"></trkpt>
@@ -2412,6 +3044,16 @@
             <trkpt lon="-77.817889" lat="43.072126"></trkpt>
             <trkpt lon="-77.817919" lat="43.072095"></trkpt>
             <trkpt lon="-77.818103" lat="43.071803"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.818103" lat="43.071803"></trkpt>
             <trkpt lon="-77.818126" lat="43.071741"></trkpt>
             <trkpt lon="-77.818137" lat="43.071724"></trkpt>
             <trkpt lon="-77.818151" lat="43.071712"></trkpt>
@@ -2435,7 +3077,7 @@
     <trk>
         <name>black_cr_orange</name>
         <extensions>Yellow<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2587,6 +3229,16 @@
             <trkpt lon="-77.820163" lat="43.072203"></trkpt>
             <trkpt lon="-77.820152" lat="43.072137"></trkpt>
             <trkpt lon="-77.820152" lat="43.072142"></trkpt>
+            <trkpt lon="-77.820159" lat="43.072037"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>black_cr_orange</name>
+        <extensions>Yellow<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.820159" lat="43.072037"></trkpt>
             <trkpt lon="-77.820162" lat="43.072038"></trkpt>
             <trkpt lon="-77.820164" lat="43.072032"></trkpt>

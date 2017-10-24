@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-06-01T15:10:12.266Z</time>
+        <time>2017-10-23T22:44:57.702Z</time>
     </metadata>
     <rte>
         <name>border:ellison</name>
@@ -110,10 +110,19 @@
         <name>ellison_butlers_gap</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.525142" lat="43.153097"></rtept>
+        <rtept lon="-77.524582" lat="43.152954"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_butlers_gap</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.524582" lat="43.152954"></rtept>
         <rtept lon="-77.524411" lat="43.152954"></rtept>
         <rtept lon="-77.524250" lat="43.152954"></rtept>
@@ -127,6 +136,15 @@
         <rtept lon="-77.522220" lat="43.153039"></rtept>
         <rtept lon="-77.522058" lat="43.153059"></rtept>
         <rtept lon="-77.521752" lat="43.153209"></rtept>
+        <rtept lon="-77.521483" lat="43.153222"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_butlers_gap</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.521483" lat="43.153222"></rtept>
         <rtept lon="-77.520728" lat="43.153085"></rtept>
         <rtept lon="-77.520558" lat="43.153032"></rtept>
@@ -149,34 +167,18 @@
         <name>ellison_coyote_den</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.518375" lat="43.148061"></rtept>
         <rtept lon="-77.518213" lat="43.147698"></rtept>
-        <rtept lon="-77.517825" lat="43.147202"></rtept>
-        <rtept lon="-77.517694" lat="43.146761"></rtept>
-        <rtept lon="-77.517707" lat="43.146320"></rtept>
-        <rtept lon="-77.517745" lat="43.145812"></rtept>
-        <rtept lon="-77.517709" lat="43.145387"></rtept>
-        <rtept lon="-77.517687" lat="43.145055"></rtept>
-        <rtept lon="-77.517554" lat="43.144729"></rtept>
-        <rtept lon="-77.517493" lat="43.144390"></rtept>
-        <rtept lon="-77.517003" lat="43.144084"></rtept>
-        <rtept lon="-77.516450" lat="43.143906"></rtept>
-        <rtept lon="-77.516072" lat="43.143913"></rtept>
-        <rtept lon="-77.515663" lat="43.143926"></rtept>
-        <rtept lon="-77.515471" lat="43.143895"></rtept>
-        <rtept lon="-77.515006" lat="43.143936"></rtept>
-        <rtept lon="-77.514784" lat="43.143990"></rtept>
-        <rtept lon="-77.514171" lat="43.143907"></rtept>
-        <rtept lon="-77.513574" lat="43.143667"></rtept>
+        <rtept lon="-77.517916" lat="43.147331"></rtept>
     </rte>
     <rte>
         <name>ellison_indian_landing</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.514605" lat="43.150700"></rtept>
@@ -193,7 +195,16 @@
         <rtept lon="-77.516022" lat="43.149051"></rtept>
         <rtept lon="-77.516185" lat="43.149105"></rtept>
         <rtept lon="-77.516325" lat="43.149167"></rtept>
-        <rtept lon="-77.516524" lat="43.149253"></rtept>
+        <rtept lon="-77.516429" lat="43.149236"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_indian_landing</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.516429" lat="43.149236"></rtept>
         <rtept lon="-77.516545" lat="43.149434"></rtept>
         <rtept lon="-77.516633" lat="43.149701"></rtept>
         <rtept lon="-77.516685" lat="43.149904"></rtept>
@@ -208,15 +219,219 @@
         <rtept lon="-77.519306" lat="43.150113"></rtept>
         <rtept lon="-77.519545" lat="43.150091"></rtept>
         <rtept lon="-77.519841" lat="43.150225"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_indian_landing</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.519841" lat="43.150225"></rtept>
         <rtept lon="-77.520079" lat="43.150359"></rtept>
         <rtept lon="-77.520379" lat="43.150508"></rtept>
         <rtept lon="-77.520671" lat="43.150657"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.517916" lat="43.147331"></rtept>
+        <rtept lon="-77.517694" lat="43.146761"></rtept>
+        <rtept lon="-77.517707" lat="43.146320"></rtept>
+        <rtept lon="-77.517745" lat="43.145812"></rtept>
+        <rtept lon="-77.517709" lat="43.145387"></rtept>
+        <rtept lon="-77.517687" lat="43.145055"></rtept>
+        <rtept lon="-77.517554" lat="43.144729"></rtept>
+        <rtept lon="-77.517493" lat="43.144390"></rtept>
+        <rtept lon="-77.517003" lat="43.144084"></rtept>
+        <rtept lon="-77.516450" lat="43.143906"></rtept>
+        <rtept lon="-77.516072" lat="43.143913"></rtept>
+        <rtept lon="-77.515663" lat="43.143926"></rtept>
+        <rtept lon="-77.515471" lat="43.143895"></rtept>
+        <rtept lon="-77.515006" lat="43.143936"></rtept>
+        <rtept lon="-77.514784" lat="43.143990"></rtept>
+        <rtept lon="-77.514171" lat="43.143907"></rtept>
+        <rtept lon="-77.513574" lat="43.143667"></rtept>
+        <rtept lon="-77.513573" lat="43.143665"></rtept>
+        <rtept lon="-77.513535" lat="43.143639"></rtept>
+        <rtept lon="-77.513298" lat="43.143501"></rtept>
+        <rtept lon="-77.513275" lat="43.143475"></rtept>
+        <rtept lon="-77.513268" lat="43.143452"></rtept>
+        <rtept lon="-77.513298" lat="43.143349"></rtept>
+        <rtept lon="-77.513298" lat="43.143318"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.513298" lat="43.143318"></rtept>
+        <rtept lon="-77.513290" lat="43.143291"></rtept>
+        <rtept lon="-77.513290" lat="43.143265"></rtept>
+        <rtept lon="-77.513260" lat="43.143173"></rtept>
+        <rtept lon="-77.513260" lat="43.143143"></rtept>
+        <rtept lon="-77.513268" lat="43.143108"></rtept>
+        <rtept lon="-77.513367" lat="43.142986"></rtept>
+        <rtept lon="-77.513405" lat="43.142963"></rtept>
+        <rtept lon="-77.513412" lat="43.142952"></rtept>
+        <rtept lon="-77.513481" lat="43.142887"></rtept>
+        <rtept lon="-77.513527" lat="43.142799"></rtept>
+        <rtept lon="-77.513550" lat="43.142693"></rtept>
+        <rtept lon="-77.513550" lat="43.142647"></rtept>
+        <rtept lon="-77.513535" lat="43.142612"></rtept>
+        <rtept lon="-77.513382" lat="43.142418"></rtept>
+        <rtept lon="-77.513367" lat="43.142372"></rtept>
+        <rtept lon="-77.513367" lat="43.142330"></rtept>
+        <rtept lon="-77.513412" lat="43.142277"></rtept>
+        <rtept lon="-77.513420" lat="43.142262"></rtept>
+        <rtept lon="-77.513428" lat="43.142254"></rtept>
+        <rtept lon="-77.513428" lat="43.142242"></rtept>
+        <rtept lon="-77.513435" lat="43.142231"></rtept>
+        <rtept lon="-77.513451" lat="43.142216"></rtept>
+        <rtept lon="-77.513519" lat="43.142174"></rtept>
+        <rtept lon="-77.513550" lat="43.142136"></rtept>
+        <rtept lon="-77.513550" lat="43.142097"></rtept>
+        <rtept lon="-77.513557" lat="43.142075"></rtept>
+        <rtept lon="-77.513557" lat="43.142021"></rtept>
+        <rtept lon="-77.513565" lat="43.141998"></rtept>
+        <rtept lon="-77.513557" lat="43.141972"></rtept>
+        <rtept lon="-77.513565" lat="43.141949"></rtept>
+        <rtept lon="-77.513565" lat="43.141876"></rtept>
+        <rtept lon="-77.513535" lat="43.141819"></rtept>
+        <rtept lon="-77.513397" lat="43.141731"></rtept>
+        <rtept lon="-77.513069" lat="43.141628"></rtept>
+        <rtept lon="-77.513046" lat="43.141628"></rtept>
+        <rtept lon="-77.513016" lat="43.141632"></rtept>
+        <rtept lon="-77.512627" lat="43.141582"></rtept>
+        <rtept lon="-77.512573" lat="43.141560"></rtept>
+        <rtept lon="-77.512390" lat="43.141407"></rtept>
+        <rtept lon="-77.512367" lat="43.141373"></rtept>
+        <rtept lon="-77.512360" lat="43.141354"></rtept>
+        <rtept lon="-77.512360" lat="43.141308"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.512360" lat="43.141308"></rtept>
+        <rtept lon="-77.512398" lat="43.141247"></rtept>
+        <rtept lon="-77.512398" lat="43.141212"></rtept>
+        <rtept lon="-77.512383" lat="43.141197"></rtept>
+        <rtept lon="-77.512367" lat="43.141190"></rtept>
+        <rtept lon="-77.512329" lat="43.141163"></rtept>
+        <rtept lon="-77.512283" lat="43.141098"></rtept>
+        <rtept lon="-77.512268" lat="43.141056"></rtept>
+        <rtept lon="-77.512215" lat="43.140984"></rtept>
+        <rtept lon="-77.512184" lat="43.140892"></rtept>
+        <rtept lon="-77.512184" lat="43.140858"></rtept>
+        <rtept lon="-77.512085" lat="43.140705"></rtept>
+        <rtept lon="-77.512070" lat="43.140659"></rtept>
+        <rtept lon="-77.512070" lat="43.140640"></rtept>
+        <rtept lon="-77.512054" lat="43.140625"></rtept>
+        <rtept lon="-77.512039" lat="43.140602"></rtept>
+        <rtept lon="-77.511917" lat="43.140507"></rtept>
+        <rtept lon="-77.511902" lat="43.140488"></rtept>
+        <rtept lon="-77.511803" lat="43.140450"></rtept>
+        <rtept lon="-77.511658" lat="43.140339"></rtept>
+        <rtept lon="-77.511627" lat="43.140297"></rtept>
+        <rtept lon="-77.511604" lat="43.140236"></rtept>
+        <rtept lon="-77.511604" lat="43.140217"></rtept>
+        <rtept lon="-77.511597" lat="43.140202"></rtept>
+        <rtept lon="-77.511597" lat="43.140133"></rtept>
+        <rtept lon="-77.511604" lat="43.140118"></rtept>
+        <rtept lon="-77.511604" lat="43.140091"></rtept>
+        <rtept lon="-77.511589" lat="43.140049"></rtept>
+        <rtept lon="-77.511589" lat="43.140007"></rtept>
+        <rtept lon="-77.511597" lat="43.139984"></rtept>
+        <rtept lon="-77.511612" lat="43.139965"></rtept>
+        <rtept lon="-77.511653" lat="43.139825"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.511653" lat="43.139825"></rtept>
+        <rtept lon="-77.511660" lat="43.139822"></rtept>
+        <rtept lon="-77.511689" lat="43.139614"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.511689" lat="43.139614"></rtept>
+        <rtept lon="-77.511559" lat="43.139362"></rtept>
+        <rtept lon="-77.511414" lat="43.139221"></rtept>
+        <rtept lon="-77.511368" lat="43.139122"></rtept>
+        <rtept lon="-77.511368" lat="43.139011"></rtept>
+        <rtept lon="-77.511360" lat="43.138985"></rtept>
+        <rtept lon="-77.511360" lat="43.138962"></rtept>
+        <rtept lon="-77.511353" lat="43.138943"></rtept>
+        <rtept lon="-77.511360" lat="43.138920"></rtept>
+        <rtept lon="-77.511360" lat="43.138901"></rtept>
+        <rtept lon="-77.511375" lat="43.138863"></rtept>
+        <rtept lon="-77.511375" lat="43.138847"></rtept>
+        <rtept lon="-77.511383" lat="43.138828"></rtept>
+        <rtept lon="-77.511383" lat="43.138805"></rtept>
+        <rtept lon="-77.511398" lat="43.138760"></rtept>
+        <rtept lon="-77.511398" lat="43.138668"></rtept>
+        <rtept lon="-77.511482" lat="43.138474"></rtept>
+        <rtept lon="-77.511513" lat="43.138435"></rtept>
+        <rtept lon="-77.511520" lat="43.138416"></rtept>
+        <rtept lon="-77.511559" lat="43.138374"></rtept>
+        <rtept lon="-77.511574" lat="43.138348"></rtept>
+        <rtept lon="-77.511597" lat="43.138325"></rtept>
+        <rtept lon="-77.511765" lat="43.138062"></rtept>
+        <rtept lon="-77.511940" lat="43.137951"></rtept>
+        <rtept lon="-77.511948" lat="43.137939"></rtept>
+        <rtept lon="-77.511948" lat="43.137932"></rtept>
+        <rtept lon="-77.511963" lat="43.137909"></rtept>
+        <rtept lon="-77.512215" lat="43.137783"></rtept>
+        <rtept lon="-77.512360" lat="43.137642"></rtept>
+        <rtept lon="-77.512367" lat="43.137615"></rtept>
+        <rtept lon="-77.512657" lat="43.137257"></rtept>
+        <rtept lon="-77.512680" lat="43.137238"></rtept>
+        <rtept lon="-77.512703" lat="43.137165"></rtept>
+        <rtept lon="-77.512703" lat="43.137123"></rtept>
+        <rtept lon="-77.512711" lat="43.137108"></rtept>
+        <rtept lon="-77.512711" lat="43.137024"></rtept>
+        <rtept lon="-77.512733" lat="43.136951"></rtept>
+        <rtept lon="-77.513090" lat="43.136662"></rtept>
+    </rte>
+    <rte>
+        <name>ellison_coyote_den</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.513090" lat="43.136662"></rtept>
+        <rtept lon="-77.513191" lat="43.136578"></rtept>
+        <rtept lon="-77.513222" lat="43.136478"></rtept>
+        <rtept lon="-77.513405" lat="43.136185"></rtept>
+        <rtept lon="-77.513420" lat="43.136135"></rtept>
+        <rtept lon="-77.513420" lat="43.136108"></rtept>
+        <rtept lon="-77.513428" lat="43.136086"></rtept>
     </rte>
     <trk>
         <name>ellison_bridle</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -227,6 +442,17 @@
             <trkpt lon="-77.514388" lat="43.148696"></trkpt>
             <trkpt lon="-77.514253" lat="43.148459"></trkpt>
             <trkpt lon="-77.514284" lat="43.148405"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_bridle</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.514284" lat="43.148405"></trkpt>
             <trkpt lon="-77.514378" lat="43.148413"></trkpt>
             <trkpt lon="-77.514709" lat="43.148493"></trkpt>
             <trkpt lon="-77.515150" lat="43.148521"></trkpt>
@@ -234,6 +460,17 @@
             <trkpt lon="-77.515715" lat="43.148526"></trkpt>
             <trkpt lon="-77.516082" lat="43.148629"></trkpt>
             <trkpt lon="-77.516389" lat="43.148706"></trkpt>
+            <trkpt lon="-77.516510" lat="43.148764"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_bridle</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.516510" lat="43.148764"></trkpt>
             <trkpt lon="-77.516787" lat="43.148738"></trkpt>
             <trkpt lon="-77.516944" lat="43.148495"></trkpt>
@@ -244,6 +481,17 @@
             <trkpt lon="-77.518470" lat="43.148712"></trkpt>
             <trkpt lon="-77.518885" lat="43.148522"></trkpt>
             <trkpt lon="-77.519100" lat="43.148416"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_bridle</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.519100" lat="43.148416"></trkpt>
             <trkpt lon="-77.519356" lat="43.148399"></trkpt>
             <trkpt lon="-77.519681" lat="43.148435"></trkpt>
             <trkpt lon="-77.520234" lat="43.148515"></trkpt>
@@ -252,7 +500,18 @@
             <trkpt lon="-77.520927" lat="43.149735"></trkpt>
             <trkpt lon="-77.521109" lat="43.150176"></trkpt>
             <trkpt lon="-77.521261" lat="43.150362"></trkpt>
-            <trkpt lon="-77.521580" lat="43.150432"></trkpt>
+            <trkpt lon="-77.521522" lat="43.150383"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_bridle</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.521522" lat="43.150383"></trkpt>
             <trkpt lon="-77.522061" lat="43.150267"></trkpt>
             <trkpt lon="-77.522563" lat="43.150284"></trkpt>
             <trkpt lon="-77.523606" lat="43.150717"></trkpt>
@@ -352,7 +611,7 @@
         <name>ellison_indian_landing</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -379,7 +638,29 @@
             <trkpt lon="-77.524903" lat="43.152627"></trkpt>
             <trkpt lon="-77.525067" lat="43.152839"></trkpt>
             <trkpt lon="-77.525158" lat="43.153074"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_indian_landing</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.525158" lat="43.153074"></trkpt>
             <trkpt lon="-77.525149" lat="43.153263"></trkpt>
+            <trkpt lon="-77.525038" lat="43.153443"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_indian_landing</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.525038" lat="43.153443"></trkpt>
             <trkpt lon="-77.525038" lat="43.153443"></trkpt>
             <trkpt lon="-77.524895" lat="43.153419"></trkpt>
@@ -447,7 +728,7 @@
         </extensions>
         <trkseg>
             <trkpt lon="-77.521491" lat="43.150399"></trkpt>
-            <trkpt lon="-77.520820" lat="43.150783"></trkpt>
+            <trkpt lon="-77.520987" lat="43.150888"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -492,6 +773,17 @@
             <trkpt lon="-77.513982" lat="43.145870"></trkpt>
             <trkpt lon="-77.514823" lat="43.145604"></trkpt>
             <trkpt lon="-77.514923" lat="43.145540"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.514923" lat="43.145540"></trkpt>
             <trkpt lon="-77.514923" lat="43.145468"></trkpt>
             <trkpt lon="-77.514788" lat="43.144913"></trkpt>
             <trkpt lon="-77.514808" lat="43.144607"></trkpt>
@@ -530,7 +822,7 @@
         <name>ellison_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -546,6 +838,17 @@
             <trkpt lon="-77.515861" lat="43.145975"></trkpt>
             <trkpt lon="-77.516181" lat="43.145791"></trkpt>
             <trkpt lon="-77.516463" lat="43.145601"></trkpt>
+            <trkpt lon="-77.516621" lat="43.145472"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.516621" lat="43.145472"></trkpt>
             <trkpt lon="-77.516736" lat="43.145261"></trkpt>
             <trkpt lon="-77.516769" lat="43.145075"></trkpt>
@@ -667,7 +970,7 @@
         <name>ellison_overlook</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -741,10 +1044,32 @@
             <trkpt lon="-77.510124" lat="43.142128"></trkpt>
             <trkpt lon="-77.509933" lat="43.142109"></trkpt>
             <trkpt lon="-77.509834" lat="43.142120"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_overlook</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.509834" lat="43.142120"></trkpt>
             <trkpt lon="-77.509750" lat="43.142120"></trkpt>
             <trkpt lon="-77.509720" lat="43.142124"></trkpt>
             <trkpt lon="-77.509644" lat="43.142124"></trkpt>
             <trkpt lon="-77.509537" lat="43.142155"></trkpt>
+            <trkpt lon="-77.509476" lat="43.142139"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_overlook</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.509476" lat="43.142139"></trkpt>
             <trkpt lon="-77.509460" lat="43.142143"></trkpt>
             <trkpt lon="-77.509422" lat="43.142136"></trkpt>
@@ -791,7 +1116,7 @@
         <name>ellison_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -861,6 +1186,17 @@
             <trkpt lon="-77.512939" lat="43.137318"></trkpt>
             <trkpt lon="-77.512955" lat="43.137299"></trkpt>
             <trkpt lon="-77.512978" lat="43.137295"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ellison_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.512978" lat="43.137295"></trkpt>
             <trkpt lon="-77.513145" lat="43.137367"></trkpt>
             <trkpt lon="-77.513168" lat="43.137383"></trkpt>
             <trkpt lon="-77.513191" lat="43.137409"></trkpt>
@@ -904,141 +1240,6 @@
             <trkpt lon="-77.511711" lat="43.139847"></trkpt>
             <trkpt lon="-77.511688" lat="43.139839"></trkpt>
             <trkpt lon="-77.511657" lat="43.139828"></trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>ellison_coyote_den</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.513573" lat="43.143665"></trkpt>
-            <trkpt lon="-77.513535" lat="43.143639"></trkpt>
-            <trkpt lon="-77.513298" lat="43.143501"></trkpt>
-            <trkpt lon="-77.513275" lat="43.143475"></trkpt>
-            <trkpt lon="-77.513268" lat="43.143452"></trkpt>
-            <trkpt lon="-77.513298" lat="43.143349"></trkpt>
-            <trkpt lon="-77.513298" lat="43.143318"></trkpt>
-            <trkpt lon="-77.513290" lat="43.143291"></trkpt>
-            <trkpt lon="-77.513290" lat="43.143265"></trkpt>
-            <trkpt lon="-77.513260" lat="43.143173"></trkpt>
-            <trkpt lon="-77.513260" lat="43.143143"></trkpt>
-            <trkpt lon="-77.513268" lat="43.143108"></trkpt>
-            <trkpt lon="-77.513367" lat="43.142986"></trkpt>
-            <trkpt lon="-77.513405" lat="43.142963"></trkpt>
-            <trkpt lon="-77.513412" lat="43.142952"></trkpt>
-            <trkpt lon="-77.513481" lat="43.142887"></trkpt>
-            <trkpt lon="-77.513527" lat="43.142799"></trkpt>
-            <trkpt lon="-77.513550" lat="43.142693"></trkpt>
-            <trkpt lon="-77.513550" lat="43.142647"></trkpt>
-            <trkpt lon="-77.513535" lat="43.142612"></trkpt>
-            <trkpt lon="-77.513382" lat="43.142418"></trkpt>
-            <trkpt lon="-77.513367" lat="43.142372"></trkpt>
-            <trkpt lon="-77.513367" lat="43.142330"></trkpt>
-            <trkpt lon="-77.513412" lat="43.142277"></trkpt>
-            <trkpt lon="-77.513420" lat="43.142262"></trkpt>
-            <trkpt lon="-77.513428" lat="43.142254"></trkpt>
-            <trkpt lon="-77.513428" lat="43.142242"></trkpt>
-            <trkpt lon="-77.513435" lat="43.142231"></trkpt>
-            <trkpt lon="-77.513451" lat="43.142216"></trkpt>
-            <trkpt lon="-77.513519" lat="43.142174"></trkpt>
-            <trkpt lon="-77.513550" lat="43.142136"></trkpt>
-            <trkpt lon="-77.513550" lat="43.142097"></trkpt>
-            <trkpt lon="-77.513557" lat="43.142075"></trkpt>
-            <trkpt lon="-77.513557" lat="43.142021"></trkpt>
-            <trkpt lon="-77.513565" lat="43.141998"></trkpt>
-            <trkpt lon="-77.513557" lat="43.141972"></trkpt>
-            <trkpt lon="-77.513565" lat="43.141949"></trkpt>
-            <trkpt lon="-77.513565" lat="43.141876"></trkpt>
-            <trkpt lon="-77.513535" lat="43.141819"></trkpt>
-            <trkpt lon="-77.513397" lat="43.141731"></trkpt>
-            <trkpt lon="-77.513069" lat="43.141628"></trkpt>
-            <trkpt lon="-77.513046" lat="43.141628"></trkpt>
-            <trkpt lon="-77.513016" lat="43.141632"></trkpt>
-            <trkpt lon="-77.512627" lat="43.141582"></trkpt>
-            <trkpt lon="-77.512573" lat="43.141560"></trkpt>
-            <trkpt lon="-77.512390" lat="43.141407"></trkpt>
-            <trkpt lon="-77.512367" lat="43.141373"></trkpt>
-            <trkpt lon="-77.512360" lat="43.141354"></trkpt>
-            <trkpt lon="-77.512360" lat="43.141308"></trkpt>
-            <trkpt lon="-77.512398" lat="43.141247"></trkpt>
-            <trkpt lon="-77.512398" lat="43.141212"></trkpt>
-            <trkpt lon="-77.512383" lat="43.141197"></trkpt>
-            <trkpt lon="-77.512367" lat="43.141190"></trkpt>
-            <trkpt lon="-77.512329" lat="43.141163"></trkpt>
-            <trkpt lon="-77.512283" lat="43.141098"></trkpt>
-            <trkpt lon="-77.512268" lat="43.141056"></trkpt>
-            <trkpt lon="-77.512215" lat="43.140984"></trkpt>
-            <trkpt lon="-77.512184" lat="43.140892"></trkpt>
-            <trkpt lon="-77.512184" lat="43.140858"></trkpt>
-            <trkpt lon="-77.512085" lat="43.140705"></trkpt>
-            <trkpt lon="-77.512070" lat="43.140659"></trkpt>
-            <trkpt lon="-77.512070" lat="43.140640"></trkpt>
-            <trkpt lon="-77.512054" lat="43.140625"></trkpt>
-            <trkpt lon="-77.512039" lat="43.140602"></trkpt>
-            <trkpt lon="-77.511917" lat="43.140507"></trkpt>
-            <trkpt lon="-77.511902" lat="43.140488"></trkpt>
-            <trkpt lon="-77.511803" lat="43.140450"></trkpt>
-            <trkpt lon="-77.511658" lat="43.140339"></trkpt>
-            <trkpt lon="-77.511627" lat="43.140297"></trkpt>
-            <trkpt lon="-77.511604" lat="43.140236"></trkpt>
-            <trkpt lon="-77.511604" lat="43.140217"></trkpt>
-            <trkpt lon="-77.511597" lat="43.140202"></trkpt>
-            <trkpt lon="-77.511597" lat="43.140133"></trkpt>
-            <trkpt lon="-77.511604" lat="43.140118"></trkpt>
-            <trkpt lon="-77.511604" lat="43.140091"></trkpt>
-            <trkpt lon="-77.511589" lat="43.140049"></trkpt>
-            <trkpt lon="-77.511589" lat="43.140007"></trkpt>
-            <trkpt lon="-77.511597" lat="43.139984"></trkpt>
-            <trkpt lon="-77.511612" lat="43.139965"></trkpt>
-            <trkpt lon="-77.511653" lat="43.139825"></trkpt>
-            <trkpt lon="-77.511660" lat="43.139822"></trkpt>
-            <trkpt lon="-77.511703" lat="43.139671"></trkpt>
-            <trkpt lon="-77.511559" lat="43.139362"></trkpt>
-            <trkpt lon="-77.511414" lat="43.139221"></trkpt>
-            <trkpt lon="-77.511368" lat="43.139122"></trkpt>
-            <trkpt lon="-77.511368" lat="43.139011"></trkpt>
-            <trkpt lon="-77.511360" lat="43.138985"></trkpt>
-            <trkpt lon="-77.511360" lat="43.138962"></trkpt>
-            <trkpt lon="-77.511353" lat="43.138943"></trkpt>
-            <trkpt lon="-77.511360" lat="43.138920"></trkpt>
-            <trkpt lon="-77.511360" lat="43.138901"></trkpt>
-            <trkpt lon="-77.511375" lat="43.138863"></trkpt>
-            <trkpt lon="-77.511375" lat="43.138847"></trkpt>
-            <trkpt lon="-77.511383" lat="43.138828"></trkpt>
-            <trkpt lon="-77.511383" lat="43.138805"></trkpt>
-            <trkpt lon="-77.511398" lat="43.138760"></trkpt>
-            <trkpt lon="-77.511398" lat="43.138668"></trkpt>
-            <trkpt lon="-77.511482" lat="43.138474"></trkpt>
-            <trkpt lon="-77.511513" lat="43.138435"></trkpt>
-            <trkpt lon="-77.511520" lat="43.138416"></trkpt>
-            <trkpt lon="-77.511559" lat="43.138374"></trkpt>
-            <trkpt lon="-77.511574" lat="43.138348"></trkpt>
-            <trkpt lon="-77.511597" lat="43.138325"></trkpt>
-            <trkpt lon="-77.511765" lat="43.138062"></trkpt>
-            <trkpt lon="-77.511940" lat="43.137951"></trkpt>
-            <trkpt lon="-77.511948" lat="43.137939"></trkpt>
-            <trkpt lon="-77.511948" lat="43.137932"></trkpt>
-            <trkpt lon="-77.511963" lat="43.137909"></trkpt>
-            <trkpt lon="-77.512215" lat="43.137783"></trkpt>
-            <trkpt lon="-77.512360" lat="43.137642"></trkpt>
-            <trkpt lon="-77.512367" lat="43.137615"></trkpt>
-            <trkpt lon="-77.512657" lat="43.137257"></trkpt>
-            <trkpt lon="-77.512680" lat="43.137238"></trkpt>
-            <trkpt lon="-77.512703" lat="43.137165"></trkpt>
-            <trkpt lon="-77.512703" lat="43.137123"></trkpt>
-            <trkpt lon="-77.512711" lat="43.137108"></trkpt>
-            <trkpt lon="-77.512711" lat="43.137024"></trkpt>
-            <trkpt lon="-77.512733" lat="43.136951"></trkpt>
-            <trkpt lon="-77.513176" lat="43.136600"></trkpt>
-            <trkpt lon="-77.513191" lat="43.136578"></trkpt>
-            <trkpt lon="-77.513222" lat="43.136478"></trkpt>
-            <trkpt lon="-77.513405" lat="43.136185"></trkpt>
-            <trkpt lon="-77.513420" lat="43.136135"></trkpt>
-            <trkpt lon="-77.513420" lat="43.136108"></trkpt>
-            <trkpt lon="-77.513428" lat="43.136086"></trkpt>
         </trkseg>
     </trk>
     <trk>

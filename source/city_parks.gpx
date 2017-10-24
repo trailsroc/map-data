@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-12-17T02:52:32.356Z</time>
+        <time>2017-10-23T22:24:49.059Z</time>
     </metadata>
     <wpt lon="-77.573261" lat="43.139613">
         <name>scenic:City Overlook</name>
@@ -122,27 +122,99 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.565841" lat="43.141117"></rtept>
         <rtept lon="-77.565700" lat="43.141116"></rtept>
         <rtept lon="-77.565543" lat="43.141064"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.565543" lat="43.141064"></rtept>
         <rtept lon="-77.565409" lat="43.140979"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.565409" lat="43.140979"></rtept>
+        <rtept lon="-77.565277" lat="43.140978"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565277" lat="43.140978"></rtept>
         <rtept lon="-77.565144" lat="43.141040"></rtept>
         <rtept lon="-77.564983" lat="43.141086"></rtept>
         <rtept lon="-77.564897" lat="43.141125"></rtept>
         <rtept lon="-77.564768" lat="43.141195"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.564768" lat="43.141195"></rtept>
+        <rtept lon="-77.564576" lat="43.141233"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564576" lat="43.141233"></rtept>
         <rtept lon="-77.564468" lat="43.141291"></rtept>
         <rtept lon="-77.564329" lat="43.141342"></rtept>
         <rtept lon="-77.564167" lat="43.141352"></rtept>
         <rtept lon="-77.563937" lat="43.141386"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.563937" lat="43.141386"></rtept>
         <rtept lon="-77.563869" lat="43.141239"></rtept>
+        <rtept lon="-77.563861" lat="43.141102"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.563861" lat="43.141102"></rtept>
         <rtept lon="-77.563695" lat="43.141000"></rtept>
         <rtept lon="-77.563539" lat="43.140993"></rtept>
+        <rtept lon="-77.563396" lat="43.141038"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.563396" lat="43.141038"></rtept>
         <rtept lon="-77.563357" lat="43.141010"></rtept>
         <rtept lon="-77.563395" lat="43.140929"></rtept>
@@ -151,8 +223,26 @@
         <rtept lon="-77.563845" lat="43.140548"></rtept>
         <rtept lon="-77.563942" lat="43.140459"></rtept>
         <rtept lon="-77.564114" lat="43.140302"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.564114" lat="43.140302"></rtept>
         <rtept lon="-77.564053" lat="43.140169"></rtept>
         <rtept lon="-77.563931" lat="43.140040"></rtept>
+        <rtept lon="-77.563870" lat="43.139989"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.563870" lat="43.139989"></rtept>
         <rtept lon="-77.563804" lat="43.139935"></rtept>
         <rtept lon="-77.563821" lat="43.139809"></rtept>
@@ -162,18 +252,47 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.569977" lat="43.141303"></rtept>
         <rtept lon="-77.569817" lat="43.140901"></rtept>
         <rtept lon="-77.569661" lat="43.140863"></rtept>
+        <rtept lon="-77.569312" lat="43.140769"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.569312" lat="43.140769"></rtept>
         <rtept lon="-77.569194" lat="43.140748"></rtept>
+        <rtept lon="-77.569073" lat="43.140707"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.569073" lat="43.140707"></rtept>
         <rtept lon="-77.568883" lat="43.140624"></rtept>
         <rtept lon="-77.568712" lat="43.140499"></rtept>
         <rtept lon="-77.568572" lat="43.140358"></rtept>
         <rtept lon="-77.568433" lat="43.140241"></rtept>
         <rtept lon="-77.568223" lat="43.140185"></rtept>
+        <rtept lon="-77.568064" lat="43.140166"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.568064" lat="43.140166"></rtept>
         <rtept lon="-77.568289" lat="43.140047"></rtept>
         <rtept lon="-77.568485" lat="43.139963"></rtept>
@@ -184,7 +303,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.565409" lat="43.140979"></rtept>
@@ -194,6 +313,15 @@
         <rtept lon="-77.565667" lat="43.140712"></rtept>
         <rtept lon="-77.565732" lat="43.140665"></rtept>
         <rtept lon="-77.565839" lat="43.140657"></rtept>
+        <rtept lon="-77.565966" lat="43.140726"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565966" lat="43.140726"></rtept>
         <rtept lon="-77.566053" lat="43.140806"></rtept>
         <rtept lon="-77.566062" lat="43.140882"></rtept>
@@ -228,7 +356,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.565581" lat="43.140806"></rtept>
@@ -249,12 +377,39 @@
         <rtept lon="-77.565311" lat="43.140096"></rtept>
         <rtept lon="-77.565329" lat="43.140056"></rtept>
         <rtept lon="-77.565415" lat="43.140015"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.565415" lat="43.140015"></rtept>
         <rtept lon="-77.565353" lat="43.139962"></rtept>
+        <rtept lon="-77.565319" lat="43.139845"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565319" lat="43.139845"></rtept>
         <rtept lon="-77.565217" lat="43.139874"></rtept>
         <rtept lon="-77.565083" lat="43.139874"></rtept>
         <rtept lon="-77.564999" lat="43.139899"></rtept>
         <rtept lon="-77.564946" lat="43.139927"></rtept>
+        <rtept lon="-77.564911" lat="43.139960"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564911" lat="43.139960"></rtept>
         <rtept lon="-77.564814" lat="43.139915"></rtept>
         <rtept lon="-77.564723" lat="43.139890"></rtept>
@@ -273,12 +428,39 @@
         </extensions>
         <rtept lon="-77.564151" lat="43.139867"></rtept>
         <rtept lon="-77.564291" lat="43.139950"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.564291" lat="43.139950"></rtept>
         <rtept lon="-77.564342" lat="43.139980"></rtept>
         <rtept lon="-77.564404" lat="43.140021"></rtept>
         <rtept lon="-77.564479" lat="43.140050"></rtept>
         <rtept lon="-77.564514" lat="43.140068"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.564514" lat="43.140068"></rtept>
         <rtept lon="-77.564562" lat="43.140093"></rtept>
         <rtept lon="-77.564640" lat="43.140124"></rtept>
+        <rtept lon="-77.564720" lat="43.140209"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564720" lat="43.140209"></rtept>
         <rtept lon="-77.564787" lat="43.140279"></rtept>
         <rtept lon="-77.564847" lat="43.140316"></rtept>
@@ -297,7 +479,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.565415" lat="43.140015"></rtept>
@@ -307,6 +489,15 @@
         <rtept lon="-77.565740" lat="43.139918"></rtept>
         <rtept lon="-77.565837" lat="43.139894"></rtept>
         <rtept lon="-77.565920" lat="43.139876"></rtept>
+        <rtept lon="-77.566006" lat="43.139884"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.566006" lat="43.139884"></rtept>
         <rtept lon="-77.566095" lat="43.139894"></rtept>
         <rtept lon="-77.566172" lat="43.139892"></rtept>
@@ -335,12 +526,39 @@
         <rtept lon="-77.567440" lat="43.140248"></rtept>
         <rtept lon="-77.567333" lat="43.140326"></rtept>
         <rtept lon="-77.567319" lat="43.140354"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567319" lat="43.140354"></rtept>
+        <rtept lon="-77.567284" lat="43.140426"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.567284" lat="43.140426"></rtept>
         <rtept lon="-77.567204" lat="43.140491"></rtept>
         <rtept lon="-77.567146" lat="43.140577"></rtept>
         <rtept lon="-77.567089" lat="43.140673"></rtept>
         <rtept lon="-77.567054" lat="43.140722"></rtept>
         <rtept lon="-77.567023" lat="43.140779"></rtept>
+        <rtept lon="-77.567007" lat="43.140835"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.567007" lat="43.140835"></rtept>
         <rtept lon="-77.567001" lat="43.140855"></rtept>
         <rtept lon="-77.567012" lat="43.140934"></rtept>
@@ -352,29 +570,128 @@
         <rtept lon="-77.566421" lat="43.141187"></rtept>
         <rtept lon="-77.566185" lat="43.141211"></rtept>
         <rtept lon="-77.566015" lat="43.141249"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.566015" lat="43.141249"></rtept>
+        <rtept lon="-77.565841" lat="43.141117"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565841" lat="43.141117"></rtept>
         <rtept lon="-77.565966" lat="43.141023"></rtept>
         <rtept lon="-77.566062" lat="43.140882"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.566062" lat="43.140882"></rtept>
         <rtept lon="-77.566233" lat="43.140828"></rtept>
         <rtept lon="-77.566413" lat="43.140778"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.566413" lat="43.140778"></rtept>
         <rtept lon="-77.566459" lat="43.140765"></rtept>
+        <rtept lon="-77.566603" lat="43.140726"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.566603" lat="43.140726"></rtept>
         <rtept lon="-77.566759" lat="43.140608"></rtept>
         <rtept lon="-77.566941" lat="43.140452"></rtept>
         <rtept lon="-77.567006" lat="43.140287"></rtept>
         <rtept lon="-77.567057" lat="43.140218"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567057" lat="43.140218"></rtept>
         <rtept lon="-77.567161" lat="43.140076"></rtept>
         <rtept lon="-77.567215" lat="43.139872"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567215" lat="43.139872"></rtept>
+        <rtept lon="-77.567322" lat="43.139802"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.567322" lat="43.139802"></rtept>
         <rtept lon="-77.567456" lat="43.139708"></rtept>
         <rtept lon="-77.567585" lat="43.139559"></rtept>
+        <rtept lon="-77.567794" lat="43.139426"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.567794" lat="43.139426"></rtept>
         <rtept lon="-77.567783" lat="43.139528"></rtept>
         <rtept lon="-77.567740" lat="43.139637"></rtept>
         <rtept lon="-77.567708" lat="43.139802"></rtept>
         <rtept lon="-77.567697" lat="43.139857"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567697" lat="43.139857"></rtept>
         <rtept lon="-77.567676" lat="43.139958"></rtept>
         <rtept lon="-77.567768" lat="43.140037"></rtept>
+        <rtept lon="-77.567870" lat="43.140074"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.567870" lat="43.140074"></rtept>
         <rtept lon="-77.567939" lat="43.140100"></rtept>
         <rtept lon="-77.568064" lat="43.140166"></rtept>
@@ -398,12 +715,21 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.564911" lat="43.139960"></rtept>
         <rtept lon="-77.564779" lat="43.139982"></rtept>
         <rtept lon="-77.564640" lat="43.140017"></rtept>
+        <rtept lon="-77.564514" lat="43.140068"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564514" lat="43.140068"></rtept>
         <rtept lon="-77.564392" lat="43.140129"></rtept>
         <rtept lon="-77.564368" lat="43.140148"></rtept>
@@ -479,28 +805,6 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <rtept lon="-77.565841" lat="43.141117"></rtept>
-        <rtept lon="-77.566088" lat="43.141115"></rtept>
-        <rtept lon="-77.566310" lat="43.141039"></rtept>
-        <rtept lon="-77.566365" lat="43.140944"></rtept>
-    </rte>
-    <rte>
-        <name>cobbs_singletrack</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <rtept lon="-77.566365" lat="43.140944"></rtept>
-        <rtept lon="-77.566413" lat="43.140778"></rtept>
-    </rte>
-    <rte>
-        <name>cobbs_singletrack</name>
-        <extensions>
-            <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
@@ -511,11 +815,20 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.565277" lat="43.140978"></rtept>
         <rtept lon="-77.564547" lat="43.141043"></rtept>
+        <rtept lon="-77.564398" lat="43.141080"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564398" lat="43.141080"></rtept>
         <rtept lon="-77.564307" lat="43.141102"></rtept>
         <rtept lon="-77.563999" lat="43.141115"></rtept>
@@ -559,7 +872,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.576788" lat="43.137406"></rtept>
@@ -576,6 +889,15 @@
         <rtept lon="-77.576294" lat="43.138377"></rtept>
         <rtept lon="-77.576184" lat="43.138432"></rtept>
         <rtept lon="-77.576093" lat="43.138475"></rtept>
+        <rtept lon="-77.576042" lat="43.138516"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.576042" lat="43.138516"></rtept>
         <rtept lon="-77.576319" lat="43.138759"></rtept>
     </rte>
@@ -641,7 +963,7 @@
     <rte>
         <name>cobbs_reservoir_loop</name>
         <extensions>Green<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.574110" lat="43.138944"></rtept>
@@ -662,6 +984,14 @@
         <rtept lon="-77.570829" lat="43.139804"></rtept>
         <rtept lon="-77.570624" lat="43.139823"></rtept>
         <rtept lon="-77.570386" lat="43.139818"></rtept>
+        <rtept lon="-77.570215" lat="43.139772"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_reservoir_loop</name>
+        <extensions>Green<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.570215" lat="43.139772"></rtept>
         <rtept lon="-77.569995" lat="43.139694"></rtept>
         <rtept lon="-77.569786" lat="43.139564"></rtept>
@@ -692,6 +1022,14 @@
         <rtept lon="-77.574640" lat="43.137984"></rtept>
         <rtept lon="-77.574665" lat="43.138023"></rtept>
         <rtept lon="-77.574736" lat="43.138022"></rtept>
+        <rtept lon="-77.574775" lat="43.138140"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_reservoir_loop</name>
+        <extensions>Green<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.574775" lat="43.138140"></rtept>
         <rtept lon="-77.574787" lat="43.138202"></rtept>
         <rtept lon="-77.574728" lat="43.138246"></rtept>
@@ -728,10 +1066,19 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.568245" lat="43.138581"></rtept>
+        <rtept lon="-77.568764" lat="43.138909"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.568764" lat="43.138909"></rtept>
         <rtept lon="-77.568022" lat="43.138946"></rtept>
     </rte>
@@ -739,13 +1086,22 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.563889" lat="43.139747"></rtept>
         <rtept lon="-77.563933" lat="43.139810"></rtept>
         <rtept lon="-77.563996" lat="43.139825"></rtept>
         <rtept lon="-77.564092" lat="43.139872"></rtept>
+        <rtept lon="-77.564151" lat="43.139867"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.564151" lat="43.139867"></rtept>
         <rtept lon="-77.564436" lat="43.139629"></rtept>
         <rtept lon="-77.564493" lat="43.139526"></rtept>
@@ -754,10 +1110,28 @@
         <rtept lon="-77.564854" lat="43.139152"></rtept>
         <rtept lon="-77.565026" lat="43.139042"></rtept>
         <rtept lon="-77.565118" lat="43.138914"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.565118" lat="43.138914"></rtept>
         <rtept lon="-77.565240" lat="43.138928"></rtept>
         <rtept lon="-77.565372" lat="43.138907"></rtept>
         <rtept lon="-77.565595" lat="43.138917"></rtept>
         <rtept lon="-77.565803" lat="43.138868"></rtept>
+        <rtept lon="-77.565949" lat="43.138896"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565949" lat="43.138896"></rtept>
         <rtept lon="-77.566217" lat="43.138886"></rtept>
         <rtept lon="-77.566458" lat="43.138810"></rtept>
@@ -768,11 +1142,38 @@
         <rtept lon="-77.567335" lat="43.138898"></rtept>
         <rtept lon="-77.567600" lat="43.138952"></rtept>
         <rtept lon="-77.567944" lat="43.139027"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567944" lat="43.139027"></rtept>
         <rtept lon="-77.568022" lat="43.138946"></rtept>
         <rtept lon="-77.568057" lat="43.138910"></rtept>
         <rtept lon="-77.568111" lat="43.138769"></rtept>
         <rtept lon="-77.568245" lat="43.138581"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.568245" lat="43.138581"></rtept>
         <rtept lon="-77.568384" lat="43.138541"></rtept>
+        <rtept lon="-77.568594" lat="43.138409"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.568594" lat="43.138409"></rtept>
         <rtept lon="-77.568738" lat="43.138220"></rtept>
         <rtept lon="-77.568873" lat="43.137879"></rtept>
@@ -786,12 +1187,21 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.566015" lat="43.141249"></rtept>
         <rtept lon="-77.565881" lat="43.141317"></rtept>
         <rtept lon="-77.565472" lat="43.141547"></rtept>
+        <rtept lon="-77.565281" lat="43.141174"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.565281" lat="43.141174"></rtept>
         <rtept lon="-77.564768" lat="43.141195"></rtept>
     </rte>
@@ -799,7 +1209,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.576958" lat="43.137380"></rtept>
@@ -812,6 +1222,15 @@
         <rtept lon="-77.577000" lat="43.138261"></rtept>
         <rtept lon="-77.576818" lat="43.138456"></rtept>
         <rtept lon="-77.576319" lat="43.138759"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.576319" lat="43.138759"></rtept>
         <rtept lon="-77.576250" lat="43.138801"></rtept>
         <rtept lon="-77.576153" lat="43.138989"></rtept>
         <rtept lon="-77.575981" lat="43.139185"></rtept>
@@ -819,6 +1238,15 @@
         <rtept lon="-77.575397" lat="43.139743"></rtept>
         <rtept lon="-77.575075" lat="43.139831"></rtept>
         <rtept lon="-77.574484" lat="43.139848"></rtept>
+        <rtept lon="-77.573952" lat="43.140052"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.573952" lat="43.140052"></rtept>
         <rtept lon="-77.573933" lat="43.140291"></rtept>
         <rtept lon="-77.573775" lat="43.140742"></rtept>
@@ -828,11 +1256,20 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.576042" lat="43.138516"></rtept>
         <rtept lon="-77.575795" lat="43.138867"></rtept>
+        <rtept lon="-77.575530" lat="43.138818"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.575530" lat="43.138818"></rtept>
         <rtept lon="-77.575422" lat="43.138760"></rtept>
         <rtept lon="-77.575470" lat="43.138607"></rtept>
@@ -846,7 +1283,7 @@
         <name>cobbs_singletrack</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.569645" lat="43.137732"></rtept>
@@ -854,10 +1291,37 @@
         <rtept lon="-77.569150" lat="43.138095"></rtept>
         <rtept lon="-77.569045" lat="43.138262"></rtept>
         <rtept lon="-77.568941" lat="43.138498"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.568941" lat="43.138498"></rtept>
+        <rtept lon="-77.568764" lat="43.138909"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.568764" lat="43.138909"></rtept>
         <rtept lon="-77.568633" lat="43.139213"></rtept>
         <rtept lon="-77.568966" lat="43.139712"></rtept>
-        <rtept lon="-77.569014" lat="43.139774"></rtept>
+        <rtept lon="-77.569043" lat="43.139815"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.569043" lat="43.139815"></rtept>
         <rtept lon="-77.569218" lat="43.140032"></rtept>
         <rtept lon="-77.569317" lat="43.140126"></rtept>
         <rtept lon="-77.569496" lat="43.140131"></rtept>
@@ -865,6 +1329,20 @@
         <rtept lon="-77.569914" lat="43.140063"></rtept>
         <rtept lon="-77.570155" lat="43.139982"></rtept>
         <rtept lon="-77.570253" lat="43.139858"></rtept>
+    </rte>
+    <rte>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.565841" lat="43.141117"></rtept>
+        <rtept lon="-77.566088" lat="43.141115"></rtept>
+        <rtept lon="-77.566310" lat="43.141039"></rtept>
+        <rtept lon="-77.566365" lat="43.140944"></rtept>
+        <rtept lon="-77.566365" lat="43.140944"></rtept>
+        <rtept lon="-77.566413" lat="43.140778"></rtept>
     </rte>
     <trk>
         <name>border:cobbs</name>
@@ -1001,6 +1479,19 @@
             <trkpt lon="-77.573006" lat="43.140350">
                 <ele>167.600000</ele>
             </trkpt>
+            <trkpt lon="-77.573170" lat="43.140122">
+                <ele>167.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>cobbs_singletrack</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.573170" lat="43.140122">
                 <ele>167.800000</ele>
             </trkpt>

@@ -60,7 +60,6 @@ def get_bounds(track_or_route, existing_data)
             lons.push(existing_data["NE"][1])
         end
     end
-
     collect_coords(track_or_route, lats, lons)
 
     lats.count > 0 ? {"SW" => [lats.min, lons.min], "NE" => [lats.max, lons.max]} : {}

@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-06-01T15:09:28.378Z</time>
+        <time>2017-10-24T02:13:06.434Z</time>
     </metadata>
     <trk>
         <name>border:tryon</name>
@@ -302,7 +302,7 @@
         <name>tryon_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -441,6 +441,19 @@
             <trkpt lon="-77.535856" lat="43.165951">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535854" lat="43.165959">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535854" lat="43.165959">
                 <ele>0.000000</ele>
             </trkpt>
@@ -693,7 +706,7 @@
         <name>tryon_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1168,6 +1181,19 @@
             <trkpt lon="-77.535716" lat="43.164688">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535716" lat="43.164688">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.535738" lat="43.164673">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1273,6 +1299,19 @@
             <trkpt lon="-77.537365" lat="43.164201">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537365" lat="43.164201">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.537409" lat="43.164176">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1342,7 +1381,7 @@
         <name>tryon_blue</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1427,6 +1466,19 @@
             <trkpt lon="-77.537684" lat="43.163560">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537706" lat="43.163581">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537706" lat="43.163581">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1577,6 +1629,19 @@
             <trkpt lon="-77.538298" lat="43.164609">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.538298" lat="43.164609">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.538330" lat="43.164651">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1628,6 +1693,19 @@
             <trkpt lon="-77.537950" lat="43.165188">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537930" lat="43.165206">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_blue</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537930" lat="43.165206">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1767,7 +1845,7 @@
         <name>tryon_green</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1795,6 +1873,19 @@
             <trkpt lon="-77.537406" lat="43.162239">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537358" lat="43.162203">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537358" lat="43.162203">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1834,6 +1925,16 @@
             <trkpt lon="-77.537363" lat="43.161842">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537363" lat="43.161842">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1891,6 +1992,19 @@
             <trkpt lon="-77.537232" lat="43.161479">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537263" lat="43.161482">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537263" lat="43.161482">
                 <ele>0.000000</ele>
             </trkpt>
@@ -1954,9 +2068,32 @@
             <trkpt lon="-77.537521" lat="43.161803">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537521" lat="43.161803">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.537363" lat="43.161842">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537518" lat="43.161805">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2005,7 +2142,7 @@
         <name>tryon_green</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2054,6 +2191,32 @@
             <trkpt lon="-77.537262" lat="43.162636">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537262" lat="43.162636">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537383" lat="43.162588">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537383" lat="43.162588">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2078,6 +2241,19 @@
             <trkpt lon="-77.537672" lat="43.162944">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537680" lat="43.162969">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_green</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537680" lat="43.162969">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2223,7 +2399,7 @@
         <name>tryon_orange</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2320,6 +2496,19 @@
             <trkpt lon="-77.536388" lat="43.169151">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536362" lat="43.169231">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_orange</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536362" lat="43.169231">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2534,6 +2723,19 @@
             <trkpt lon="-77.536540" lat="43.168377">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_orange</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536540" lat="43.168377">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536479" lat="43.168353">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2585,7 +2787,7 @@
         <name>tryon_purple</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2694,6 +2896,19 @@
             <trkpt lon="-77.535891" lat="43.171669">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535891" lat="43.171669">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.535986" lat="43.171705">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2733,6 +2948,19 @@
             <trkpt lon="-77.536568" lat="43.172007">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536568" lat="43.172007">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536616" lat="43.172019">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2742,6 +2970,19 @@
             <trkpt lon="-77.536931" lat="43.171990">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536959" lat="43.171990">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536959" lat="43.171990">
                 <ele>0.000000</ele>
             </trkpt>
@@ -2970,6 +3211,19 @@
             <trkpt lon="-77.538233" lat="43.170601">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.538233" lat="43.170601">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.538213" lat="43.170585">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3045,6 +3299,19 @@
             <trkpt lon="-77.537500" lat="43.171013">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537489" lat="43.171043">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_purple</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537489" lat="43.171043">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3528,7 +3795,7 @@
         <name>tryon_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3649,6 +3916,19 @@
             <trkpt lon="-77.535110" lat="43.170480">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535110" lat="43.170480">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.535052" lat="43.170436">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3679,7 +3959,7 @@
         <name>tryon_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3710,6 +3990,19 @@
             <trkpt lon="-77.535133" lat="43.170437">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535133" lat="43.170437">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.535139" lat="43.170441">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3734,6 +4027,19 @@
             <trkpt lon="-77.536163" lat="43.170840">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536283" lat="43.170927">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536283" lat="43.170927">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3911,7 +4217,7 @@
         <name>tryon_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3957,6 +4263,19 @@
             <trkpt lon="-77.536255" lat="43.170246">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536255" lat="43.170246">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536255" lat="43.170246">
                 <ele>0.000000</ele>
             </trkpt>
@@ -3966,6 +4285,19 @@
             <trkpt lon="-77.536283" lat="43.170379">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536298" lat="43.170388">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536298" lat="43.170388">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4177,12 +4509,16 @@
             <trkpt lon="-77.536263" lat="43.170231">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.536255" lat="43.170246">
-                <ele>0.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.536255" lat="43.170307">
-                <ele>0.000000</ele>
-            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536283" lat="43.170379">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4225,6 +4561,19 @@
             <trkpt lon="-77.536368" lat="43.170644">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536368" lat="43.170644">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536365" lat="43.170651">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4249,21 +4598,32 @@
             <trkpt lon="-77.535240" lat="43.170283">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.535255" lat="43.170198">
-                <ele>0.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.535232" lat="43.170233">
-                <ele>0.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.535230" lat="43.170245">
-                <ele>0.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.535232" lat="43.170264">
-                <ele>0.000000</ele>
-            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535240" lat="43.170283">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535255" lat="43.170198">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535255" lat="43.170198">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4294,7 +4654,7 @@
         <name>tryon_red</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4370,6 +4730,19 @@
             <trkpt lon="-77.535030" lat="43.167361">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535030" lat="43.167361">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.534992" lat="43.167377">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4382,6 +4755,19 @@
             <trkpt lon="-77.534879" lat="43.167560">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.534887" lat="43.167595">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.534887" lat="43.167595">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4409,6 +4795,19 @@
             <trkpt lon="-77.535875" lat="43.167875">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535915" lat="43.167937">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535915" lat="43.167937">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4508,6 +4907,19 @@
             <trkpt lon="-77.533633" lat="43.169408">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533633" lat="43.169408">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.533610" lat="43.169459">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4523,6 +4935,19 @@
             <trkpt lon="-77.533619" lat="43.169530">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.533615" lat="43.169545">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.533615" lat="43.169545">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4571,6 +4996,16 @@
             <trkpt lon="-77.534233" lat="43.170191">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.534233" lat="43.170191">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4598,6 +5033,19 @@
             <trkpt lon="-77.535222" lat="43.170207">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535255" lat="43.170198">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_red</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535255" lat="43.170198">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4670,7 +5118,7 @@
         <name>tryon_white</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4743,6 +5191,19 @@
             <trkpt lon="-77.535076" lat="43.169925">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.535076" lat="43.169925">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.535241" lat="43.169918">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4764,6 +5225,19 @@
             <trkpt lon="-77.535918" lat="43.169806">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535981" lat="43.169808">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535981" lat="43.169808">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4794,6 +5268,19 @@
             <trkpt lon="-77.536315" lat="43.169558">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536315" lat="43.169558">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536324" lat="43.169518">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4803,6 +5290,19 @@
             <trkpt lon="-77.536390" lat="43.169426">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536445" lat="43.169402">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536445" lat="43.169402">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4830,7 +5330,20 @@
             <trkpt lon="-77.536632" lat="43.169289">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.536603" lat="43.169217">
+            <trkpt lon="-77.536601" lat="43.169145">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536601" lat="43.169145">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.536583" lat="43.168896">
@@ -4839,7 +5352,20 @@
             <trkpt lon="-77.536615" lat="43.168813">
                 <ele>0.000000</ele>
             </trkpt>
-            <trkpt lon="-77.536564" lat="43.168445">
+            <trkpt lon="-77.536547" lat="43.168375">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536547" lat="43.168375">
                 <ele>0.000000</ele>
             </trkpt>
             <trkpt lon="-77.536490" lat="43.168272">
@@ -4848,6 +5374,19 @@
             <trkpt lon="-77.536126" lat="43.167996">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.535915" lat="43.167937">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.535915" lat="43.167937">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4875,6 +5414,19 @@
             <trkpt lon="-77.536267" lat="43.167481">
                 <ele>0.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536267" lat="43.167481">
+                <ele>0.000000</ele>
+            </trkpt>
             <trkpt lon="-77.536324" lat="43.167467">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4887,6 +5439,19 @@
             <trkpt lon="-77.536454" lat="43.167508">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.536653" lat="43.167536">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.536653" lat="43.167536">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4908,6 +5473,19 @@
             <trkpt lon="-77.537255" lat="43.167337">
                 <ele>0.000000</ele>
             </trkpt>
+            <trkpt lon="-77.537932" lat="43.167356">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_white</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537932" lat="43.167356">
                 <ele>0.000000</ele>
             </trkpt>
@@ -4977,7 +5555,7 @@
         <name>tryon_connector</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5146,6 +5724,19 @@
             <trkpt lon="-77.537491" lat="43.172718">
                 <ele>102.500000</ele>
             </trkpt>
+            <trkpt lon="-77.537498" lat="43.172726">
+                <ele>102.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>tryon_connector</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.537498" lat="43.172726">
                 <ele>102.800000</ele>
             </trkpt>

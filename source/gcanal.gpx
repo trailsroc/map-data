@@ -2,18 +2,27 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-01-13T05:37:27.698Z</time>
+        <time>2017-10-23T22:45:32.853Z</time>
     </metadata>
     <rte>
         <name>gcanal_unnamed</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.740900" lat="43.190376"></rtept>
         <rtept lon="-77.741401" lat="43.190302"></rtept>
         <rtept lon="-77.741966" lat="43.190238"></rtept>
+        <rtept lon="-77.742428" lat="43.190182"></rtept>
+    </rte>
+    <rte>
+        <name>gcanal_unnamed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.742428" lat="43.190182"></rtept>
         <rtept lon="-77.742429" lat="43.189992"></rtept>
         <rtept lon="-77.742438" lat="43.189785"></rtept>
@@ -138,7 +147,18 @@
             <trkpt lon="-77.742370" lat="43.196205"></trkpt>
             <trkpt lon="-77.742244" lat="43.196018"></trkpt>
             <trkpt lon="-77.742114" lat="43.195935"></trkpt>
-            <trkpt lon="-77.741866" lat="43.195558"></trkpt>
+            <trkpt lon="-77.741894" lat="43.195657"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gcanal_deer_run</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.741894" lat="43.195657"></trkpt>
             <trkpt lon="-77.741703" lat="43.195133"></trkpt>
             <trkpt lon="-77.741591" lat="43.194997"></trkpt>
             <trkpt lon="-77.741413" lat="43.194950"></trkpt>
@@ -157,6 +177,17 @@
             <trkpt lon="-77.738881" lat="43.193235"></trkpt>
             <trkpt lon="-77.738703" lat="43.193248"></trkpt>
             <trkpt lon="-77.738612" lat="43.193290"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gcanal_deer_run</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.738612" lat="43.193290"></trkpt>
             <trkpt lon="-77.738519" lat="43.193557"></trkpt>
             <trkpt lon="-77.738537" lat="43.193982"></trkpt>
             <trkpt lon="-77.738344" lat="43.194130"></trkpt>
@@ -168,6 +199,17 @@
             <trkpt lon="-77.737868" lat="43.196250"></trkpt>
             <trkpt lon="-77.737835" lat="43.196881"></trkpt>
             <trkpt lon="-77.737794" lat="43.197353"></trkpt>
+            <trkpt lon="-77.737727" lat="43.197526"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gcanal_deer_run</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.737727" lat="43.197526"></trkpt>
             <trkpt lon="-77.737585" lat="43.197543"></trkpt>
             <trkpt lon="-77.737408" lat="43.197527"></trkpt>
@@ -283,7 +325,7 @@
         <name>gcanal_west</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -291,6 +333,17 @@
             <trkpt lon="-77.739946" lat="43.198778"></trkpt>
             <trkpt lon="-77.740358" lat="43.198927"></trkpt>
             <trkpt lon="-77.741721" lat="43.199157"></trkpt>
+            <trkpt lon="-77.743552" lat="43.199157"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gcanal_west</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.743552" lat="43.199157"></trkpt>
             <trkpt lon="-77.744204" lat="43.199157"></trkpt>
             <trkpt lon="-77.744670" lat="43.199524"></trkpt>

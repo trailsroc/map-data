@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-01-15T19:22:43.075Z</time>
+        <time>2017-10-23T22:20:53.300Z</time>
     </metadata>
     <wpt lon="-78.021728" lat="43.227844">
         <name>parking</name>
@@ -142,6 +142,24 @@
         <rtept lon="-77.638805" lat="43.121491"></rtept>
         <rtept lon="-77.638435" lat="43.121489"></rtept>
         <rtept lon="-77.638070" lat="43.121486"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.638070" lat="43.121486"></rtept>
+        <rtept lon="-77.636890" lat="43.121451"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.636890" lat="43.121451"></rtept>
         <rtept lon="-77.636635" lat="43.121457"></rtept>
         <rtept lon="-77.636265" lat="43.121489"></rtept>
@@ -161,10 +179,28 @@
         <rtept lon="-77.632467" lat="43.122761"></rtept>
         <rtept lon="-77.632209" lat="43.123031"></rtept>
         <rtept lon="-77.631982" lat="43.123290"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.631982" lat="43.123290"></rtept>
         <rtept lon="-77.631991" lat="43.123416"></rtept>
         <rtept lon="-77.631931" lat="43.123880"></rtept>
         <rtept lon="-77.631839" lat="43.124111"></rtept>
         <rtept lon="-77.631725" lat="43.124206"></rtept>
+        <rtept lon="-77.631610" lat="43.124273"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.631610" lat="43.124273"></rtept>
         <rtept lon="-77.631568" lat="43.124435"></rtept>
         <rtept lon="-77.631525" lat="43.124705"></rtept>
@@ -172,6 +208,15 @@
         <rtept lon="-77.631628" lat="43.125274"></rtept>
         <rtept lon="-77.631710" lat="43.125732"></rtept>
         <rtept lon="-77.631812" lat="43.125865"></rtept>
+        <rtept lon="-77.631868" lat="43.126051"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.631868" lat="43.126051"></rtept>
         <rtept lon="-77.631968" lat="43.126207"></rtept>
         <rtept lon="-77.632120" lat="43.126368"></rtept>
@@ -187,6 +232,15 @@
         <rtept lon="-77.633374" lat="43.129411"></rtept>
         <rtept lon="-77.633276" lat="43.129947"></rtept>
         <rtept lon="-77.633182" lat="43.130155"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.633182" lat="43.130155"></rtept>
         <rtept lon="-77.633170" lat="43.130286"></rtept>
         <rtept lon="-77.633117" lat="43.130398"></rtept>
         <rtept lon="-77.633004" lat="43.130552"></rtept>
@@ -194,9 +248,27 @@
         <rtept lon="-77.632746" lat="43.130844"></rtept>
         <rtept lon="-77.632519" lat="43.130936"></rtept>
         <rtept lon="-77.632326" lat="43.130931"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.632326" lat="43.130931"></rtept>
         <rtept lon="-77.631996" lat="43.131106"></rtept>
         <rtept lon="-77.631655" lat="43.131263"></rtept>
         <rtept lon="-77.630914" lat="43.131588"></rtept>
+        <rtept lon="-77.629934" lat="43.131869"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.629934" lat="43.131869"></rtept>
         <rtept lon="-77.629658" lat="43.131919"></rtept>
         <rtept lon="-77.629048" lat="43.132006"></rtept>
@@ -210,6 +282,15 @@
         <rtept lon="-77.625380" lat="43.132140"></rtept>
         <rtept lon="-77.625136" lat="43.132167"></rtept>
         <rtept lon="-77.624695" lat="43.132151"></rtept>
+        <rtept lon="-77.624135" lat="43.132122"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.624135" lat="43.132122"></rtept>
         <rtept lon="-77.623686" lat="43.132074"></rtept>
         <rtept lon="-77.623578" lat="43.132120"></rtept>
@@ -228,7 +309,7 @@
         <name>gv_riverway_east</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.621107" lat="43.132652"></rtept>
@@ -242,18 +323,63 @@
         <rtept lon="-77.618992" lat="43.134430"></rtept>
         <rtept lon="-77.618506" lat="43.135372"></rtept>
         <rtept lon="-77.618102" lat="43.136053"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.618102" lat="43.136053"></rtept>
         <rtept lon="-77.616971" lat="43.137982"></rtept>
         <rtept lon="-77.615951" lat="43.139668"></rtept>
         <rtept lon="-77.615443" lat="43.140334"></rtept>
         <rtept lon="-77.614852" lat="43.141105"></rtept>
         <rtept lon="-77.614672" lat="43.141260"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.614672" lat="43.141260"></rtept>
+        <rtept lon="-77.614207" lat="43.141664"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.614207" lat="43.141664"></rtept>
         <rtept lon="-77.614065" lat="43.141880"></rtept>
         <rtept lon="-77.613861" lat="43.142217"></rtept>
         <rtept lon="-77.613733" lat="43.142352"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.613733" lat="43.142352"></rtept>
         <rtept lon="-77.613318" lat="43.142750"></rtept>
         <rtept lon="-77.613110" lat="43.142897"></rtept>
         <rtept lon="-77.612498" lat="43.143491"></rtept>
+        <rtept lon="-77.612304" lat="43.143752"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.612304" lat="43.143752"></rtept>
         <rtept lon="-77.612180" lat="43.143968"></rtept>
         <rtept lon="-77.611916" lat="43.144323"></rtept>
@@ -262,6 +388,15 @@
         <rtept lon="-77.611185" lat="43.145536"></rtept>
         <rtept lon="-77.610974" lat="43.145848"></rtept>
         <rtept lon="-77.610815" lat="43.145976"></rtept>
+        <rtept lon="-77.610393" lat="43.146464"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.610393" lat="43.146464"></rtept>
         <rtept lon="-77.610280" lat="43.146638"></rtept>
         <rtept lon="-77.610032" lat="43.147076"></rtept>
@@ -274,6 +409,15 @@
         <rtept lon="-77.609034" lat="43.148565"></rtept>
         <rtept lon="-77.608589" lat="43.149276"></rtept>
         <rtept lon="-77.608427" lat="43.149532"></rtept>
+        <rtept lon="-77.608394" lat="43.149645"></rtept>
+    </rte>
+    <rte>
+        <name>gv_riverway_east</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.608394" lat="43.149645"></rtept>
         <rtept lon="-77.608410" lat="43.149721"></rtept>
         <rtept lon="-77.608390" lat="43.150071"></rtept>
@@ -300,7 +444,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -318,15 +462,48 @@
             <trkpt lon="-78.022718" lat="43.230356"></trkpt>
             <trkpt lon="-78.021519" lat="43.228880"></trkpt>
             <trkpt lon="-78.021344" lat="43.228734"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-78.021344" lat="43.228734"></trkpt>
             <trkpt lon="-78.021137" lat="43.228448"></trkpt>
             <trkpt lon="-78.018177" lat="43.226211"></trkpt>
             <trkpt lon="-78.016932" lat="43.225598"></trkpt>
             <trkpt lon="-78.015952" lat="43.225296"></trkpt>
             <trkpt lon="-78.013874" lat="43.224937"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-78.013874" lat="43.224937"></trkpt>
             <trkpt lon="-78.008590" lat="43.224303"></trkpt>
             <trkpt lon="-78.002053" lat="43.223569"></trkpt>
             <trkpt lon="-78.001270" lat="43.223420"></trkpt>
             <trkpt lon="-78.000375" lat="43.223135"></trkpt>
+            <trkpt lon="-77.996716" lat="43.221755"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.996716" lat="43.221755"></trkpt>
             <trkpt lon="-77.990421" lat="43.219248"></trkpt>
             <trkpt lon="-77.989354" lat="43.218737"></trkpt>
@@ -338,6 +515,28 @@
             <trkpt lon="-77.979999" lat="43.213940"></trkpt>
             <trkpt lon="-77.979000" lat="43.213893"></trkpt>
             <trkpt lon="-77.968158" lat="43.214286"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.968158" lat="43.214286"></trkpt>
+            <trkpt lon="-77.967096" lat="43.214312"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.967096" lat="43.214312"></trkpt>
             <trkpt lon="-77.950467" lat="43.214791"></trkpt>
         </trkseg>
@@ -346,7 +545,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -354,14 +553,47 @@
             <trkpt lon="-77.949152" lat="43.214892"></trkpt>
             <trkpt lon="-77.948144" lat="43.215075"></trkpt>
             <trkpt lon="-77.943444" lat="43.216438"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.943444" lat="43.216438"></trkpt>
             <trkpt lon="-77.941766" lat="43.216950"></trkpt>
             <trkpt lon="-77.941159" lat="43.217061"></trkpt>
             <trkpt lon="-77.939819" lat="43.217158"></trkpt>
             <trkpt lon="-77.939230" lat="43.217118"></trkpt>
             <trkpt lon="-77.938040" lat="43.216920"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.938040" lat="43.216920"></trkpt>
             <trkpt lon="-77.937809" lat="43.216857"></trkpt>
             <trkpt lon="-77.937331" lat="43.216668"></trkpt>
             <trkpt lon="-77.935620" lat="43.215741"></trkpt>
+            <trkpt lon="-77.935274" lat="43.215587"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.935274" lat="43.215587"></trkpt>
             <trkpt lon="-77.933757" lat="43.214854"></trkpt>
             <trkpt lon="-77.932545" lat="43.214535"></trkpt>
@@ -380,6 +612,17 @@
             <trkpt lon="-77.898031" lat="43.212068"></trkpt>
             <trkpt lon="-77.896572" lat="43.212008"></trkpt>
             <trkpt lon="-77.895218" lat="43.211777"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.895218" lat="43.211777"></trkpt>
             <trkpt lon="-77.894731" lat="43.211671"></trkpt>
             <trkpt lon="-77.893283" lat="43.211227"></trkpt>
             <trkpt lon="-77.892266" lat="43.210771"></trkpt>
@@ -397,6 +640,17 @@
             <trkpt lon="-77.874071" lat="43.203308"></trkpt>
             <trkpt lon="-77.873502" lat="43.203221"></trkpt>
             <trkpt lon="-77.872525" lat="43.203028"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.872525" lat="43.203028"></trkpt>
             <trkpt lon="-77.871471" lat="43.202657"></trkpt>
             <trkpt lon="-77.868258" lat="43.201290"></trkpt>
             <trkpt lon="-77.857926" lat="43.196909"></trkpt>
@@ -410,7 +664,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -436,6 +690,17 @@
             <trkpt lon="-77.828568" lat="43.196499"></trkpt>
             <trkpt lon="-77.827173" lat="43.196264"></trkpt>
             <trkpt lon="-77.823619" lat="43.196173"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.823619" lat="43.196173"></trkpt>
             <trkpt lon="-77.823244" lat="43.196158"></trkpt>
             <trkpt lon="-77.815275" lat="43.195926"></trkpt>
             <trkpt lon="-77.808360" lat="43.195738"></trkpt>
@@ -443,16 +708,49 @@
             <trkpt lon="-77.804634" lat="43.195603"></trkpt>
             <trkpt lon="-77.803733" lat="43.195436"></trkpt>
             <trkpt lon="-77.803216" lat="43.195262"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.803216" lat="43.195262"></trkpt>
             <trkpt lon="-77.802479" lat="43.194965"></trkpt>
             <trkpt lon="-77.802021" lat="43.194716"></trkpt>
             <trkpt lon="-77.801115" lat="43.194142"></trkpt>
             <trkpt lon="-77.800864" lat="43.194027"></trkpt>
+            <trkpt lon="-77.800138" lat="43.193910"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.800138" lat="43.193910"></trkpt>
             <trkpt lon="-77.800170" lat="43.193705"></trkpt>
             <trkpt lon="-77.800074" lat="43.193651"></trkpt>
             <trkpt lon="-77.800089" lat="43.193585"></trkpt>
             <trkpt lon="-77.799981" lat="43.193476"></trkpt>
             <trkpt lon="-77.799735" lat="43.193195"></trkpt>
+            <trkpt lon="-77.799282" lat="43.192812"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.799282" lat="43.192812"></trkpt>
             <trkpt lon="-77.798983" lat="43.192717"></trkpt>
             <trkpt lon="-77.796100" lat="43.190845"></trkpt>
@@ -469,13 +767,24 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.781881" lat="43.190878"></trkpt>
             <trkpt lon="-77.778232" lat="43.191633"></trkpt>
             <trkpt lon="-77.777548" lat="43.191621"></trkpt>
+            <trkpt lon="-77.773750" lat="43.191164"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.773750" lat="43.191164"></trkpt>
             <trkpt lon="-77.770741" lat="43.190747"></trkpt>
             <trkpt lon="-77.769371" lat="43.190366"></trkpt>
@@ -486,16 +795,71 @@
             <trkpt lon="-77.762579" lat="43.188029"></trkpt>
             <trkpt lon="-77.755198" lat="43.187466"></trkpt>
             <trkpt lon="-77.753671" lat="43.187711"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.753671" lat="43.187711"></trkpt>
+            <trkpt lon="-77.753076" lat="43.187791"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.753076" lat="43.187791"></trkpt>
             <trkpt lon="-77.747701" lat="43.188528"></trkpt>
             <trkpt lon="-77.745401" lat="43.188824"></trkpt>
+            <trkpt lon="-77.737927" lat="43.189875"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.737927" lat="43.189875"></trkpt>
             <trkpt lon="-77.736394" lat="43.189923"></trkpt>
             <trkpt lon="-77.735613" lat="43.189861"></trkpt>
             <trkpt lon="-77.734594" lat="43.189707"></trkpt>
             <trkpt lon="-77.733392" lat="43.189330"></trkpt>
             <trkpt lon="-77.732351" lat="43.188942"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.732351" lat="43.188942"></trkpt>
             <trkpt lon="-77.731885" lat="43.188660"></trkpt>
+            <trkpt lon="-77.731630" lat="43.188465"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.731630" lat="43.188465"></trkpt>
             <trkpt lon="-77.730785" lat="43.187857"></trkpt>
             <trkpt lon="-77.730618" lat="43.187791"></trkpt>
@@ -514,6 +878,17 @@
             <trkpt lon="-77.716060" lat="43.183817"></trkpt>
             <trkpt lon="-77.713037" lat="43.184471"></trkpt>
             <trkpt lon="-77.711395" lat="43.185084"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.711395" lat="43.185084"></trkpt>
             <trkpt lon="-77.711249" lat="43.185041"></trkpt>
             <trkpt lon="-77.711079" lat="43.184866"></trkpt>
             <trkpt lon="-77.710943" lat="43.184812"></trkpt>
@@ -527,7 +902,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -554,7 +929,29 @@
             <trkpt lon="-77.682346" lat="43.172846"></trkpt>
             <trkpt lon="-77.682028" lat="43.172728"></trkpt>
             <trkpt lon="-77.681549" lat="43.172479"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.681549" lat="43.172479"></trkpt>
             <trkpt lon="-77.680673" lat="43.172042"></trkpt>
+            <trkpt lon="-77.679969" lat="43.171416"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.679969" lat="43.171416"></trkpt>
             <trkpt lon="-77.679701" lat="43.171110"></trkpt>
             <trkpt lon="-77.679578" lat="43.170713"></trkpt>
@@ -566,8 +963,19 @@
             <trkpt lon="-77.677493" lat="43.167446"></trkpt>
             <trkpt lon="-77.677065" lat="43.166180"></trkpt>
             <trkpt lon="-77.677016" lat="43.165440"></trkpt>
-            <trkpt lon="-77.676862" lat="43.164863"></trkpt>
-            <trkpt lon="-77.676870" lat="43.164569"></trkpt>
+            <trkpt lon="-77.676902" lat="43.164858"></trkpt>
+            <trkpt lon="-77.676891" lat="43.164678"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.676891" lat="43.164678"></trkpt>
             <trkpt lon="-77.676782" lat="43.164183"></trkpt>
             <trkpt lon="-77.676270" lat="43.163537"></trkpt>
             <trkpt lon="-77.675694" lat="43.162038"></trkpt>
@@ -580,12 +988,24 @@
             <trkpt lon="-77.673320" lat="43.154742"></trkpt>
             <trkpt lon="-77.672191" lat="43.151247"></trkpt>
             <trkpt lon="-77.671967" lat="43.150738"></trkpt>
-            <trkpt lon="-77.671908" lat="43.150451"></trkpt>
-            <trkpt lon="-77.671928" lat="43.150351"></trkpt>
-            <trkpt lon="-77.672030" lat="43.150169"></trkpt>
-            <trkpt lon="-77.672030" lat="43.149812"></trkpt>
-            <trkpt lon="-77.671890" lat="43.149650"></trkpt>
-            <trkpt lon="-77.671553" lat="43.149360"></trkpt>
+            <trkpt lon="-77.671954" lat="43.150426"></trkpt>
+            <trkpt lon="-77.671974" lat="43.150326"></trkpt>
+            <trkpt lon="-77.672060" lat="43.150207"></trkpt>
+            <trkpt lon="-77.672089" lat="43.149990"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.672089" lat="43.149990"></trkpt>
+            <trkpt lon="-77.672060" lat="43.149764"></trkpt>
+            <trkpt lon="-77.671922" lat="43.149654"></trkpt>
+            <trkpt lon="-77.671733" lat="43.149498"></trkpt>
             <trkpt lon="-77.671509" lat="43.148986"></trkpt>
             <trkpt lon="-77.671502" lat="43.148621"></trkpt>
             <trkpt lon="-77.671347" lat="43.148121"></trkpt>
@@ -607,6 +1027,17 @@
             <trkpt lon="-77.666725" lat="43.140829"></trkpt>
             <trkpt lon="-77.666481" lat="43.140509"></trkpt>
             <trkpt lon="-77.666299" lat="43.140200"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.666299" lat="43.140200"></trkpt>
             <trkpt lon="-77.666005" lat="43.139691"></trkpt>
             <trkpt lon="-77.665873" lat="43.139396"></trkpt>
             <trkpt lon="-77.665461" lat="43.139120"></trkpt>
@@ -618,8 +1049,30 @@
             <trkpt lon="-77.659896" lat="43.132246"></trkpt>
             <trkpt lon="-77.659504" lat="43.131831"></trkpt>
             <trkpt lon="-77.659245" lat="43.131457"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.659245" lat="43.131457"></trkpt>
             <trkpt lon="-77.658645" lat="43.130869"></trkpt>
             <trkpt lon="-77.658260" lat="43.130433"></trkpt>
+            <trkpt lon="-77.657940" lat="43.129836"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.657940" lat="43.129836"></trkpt>
             <trkpt lon="-77.657215" lat="43.129023"></trkpt>
             <trkpt lon="-77.655463" lat="43.127844"></trkpt>
@@ -630,14 +1083,47 @@
             <trkpt lon="-77.652029" lat="43.126038"></trkpt>
             <trkpt lon="-77.651568" lat="43.125852"></trkpt>
             <trkpt lon="-77.650059" lat="43.125120"></trkpt>
-            <trkpt lon="-77.647060" lat="43.123600"></trkpt>
+            <trkpt lon="-77.647123" lat="43.123633"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.647123" lat="43.123633"></trkpt>
             <trkpt lon="-77.646118" lat="43.123161"></trkpt>
             <trkpt lon="-77.645734" lat="43.122959"></trkpt>
             <trkpt lon="-77.645272" lat="43.122627"></trkpt>
-            <trkpt lon="-77.645200" lat="43.122445"></trkpt>
+            <trkpt lon="-77.645200" lat="43.122404"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.645200" lat="43.122404"></trkpt>
             <trkpt lon="-77.645200" lat="43.122309"></trkpt>
             <trkpt lon="-77.645277" lat="43.122136"></trkpt>
             <trkpt lon="-77.645438" lat="43.122025"></trkpt>
+            <trkpt lon="-77.645438" lat="43.121932"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.645438" lat="43.121932"></trkpt>
             <trkpt lon="-77.645293" lat="43.121764"></trkpt>
             <trkpt lon="-77.644855" lat="43.121398"></trkpt>
@@ -671,10 +1157,43 @@
         <trkseg>
             <trkpt lon="-77.639829" lat="43.122611"></trkpt>
             <trkpt lon="-77.639753" lat="43.121498"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.639753" lat="43.121498"></trkpt>
             <trkpt lon="-77.640000" lat="43.121276"></trkpt>
+            <trkpt lon="-77.640164" lat="43.121073"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.640164" lat="43.121073"></trkpt>
             <trkpt lon="-77.640100" lat="43.120933"></trkpt>
             <trkpt lon="-77.639944" lat="43.120801"></trkpt>
+            <trkpt lon="-77.638721" lat="43.120195"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.638721" lat="43.120195"></trkpt>
             <trkpt lon="-77.638338" lat="43.120079"></trkpt>
             <trkpt lon="-77.638194" lat="43.119814"></trkpt>
@@ -682,16 +1201,60 @@
             <trkpt lon="-77.637607" lat="43.119484"></trkpt>
             <trkpt lon="-77.637278" lat="43.119206"></trkpt>
             <trkpt lon="-77.636250" lat="43.118703"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.636250" lat="43.118703"></trkpt>
             <trkpt lon="-77.635853" lat="43.118442"></trkpt>
             <trkpt lon="-77.635678" lat="43.118254"></trkpt>
             <trkpt lon="-77.635404" lat="43.118116"></trkpt>
             <trkpt lon="-77.634598" lat="43.117840"></trkpt>
             <trkpt lon="-77.634290" lat="43.117779"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.634290" lat="43.117779"></trkpt>
             <trkpt lon="-77.633878" lat="43.117646"></trkpt>
             <trkpt lon="-77.633233" lat="43.117250"></trkpt>
             <trkpt lon="-77.632322" lat="43.116782"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.632322" lat="43.116782"></trkpt>
             <trkpt lon="-77.632139" lat="43.116572"></trkpt>
             <trkpt lon="-77.631939" lat="43.116476"></trkpt>
+            <trkpt lon="-77.631609" lat="43.116369"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.631609" lat="43.116369"></trkpt>
             <trkpt lon="-77.630940" lat="43.115956"></trkpt>
             <trkpt lon="-77.630516" lat="43.115703"></trkpt>
@@ -705,7 +1268,7 @@
         <name>ecanal_detour</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -717,6 +1280,17 @@
             <trkpt lon="-77.622527" lat="43.114407"></trkpt>
             <trkpt lon="-77.616265" lat="43.114614"></trkpt>
             <trkpt lon="-77.607499" lat="43.114902"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.607499" lat="43.114902"></trkpt>
             <trkpt lon="-77.607440" lat="43.114051"></trkpt>
             <trkpt lon="-77.607523" lat="43.113794"></trkpt>
             <trkpt lon="-77.607690" lat="43.113474"></trkpt>
@@ -726,15 +1300,48 @@
             <trkpt lon="-77.606552" lat="43.112389"></trkpt>
             <trkpt lon="-77.605651" lat="43.112516"></trkpt>
             <trkpt lon="-77.605245" lat="43.112766"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.605245" lat="43.112766"></trkpt>
             <trkpt lon="-77.604970" lat="43.112687"></trkpt>
             <trkpt lon="-77.604731" lat="43.112418"></trkpt>
             <trkpt lon="-77.604755" lat="43.112210"></trkpt>
+            <trkpt lon="-77.604914" lat="43.111997"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.604914" lat="43.111997"></trkpt>
             <trkpt lon="-77.606682" lat="43.111949"></trkpt>
             <trkpt lon="-77.607153" lat="43.111853"></trkpt>
             <trkpt lon="-77.607262" lat="43.111687"></trkpt>
             <trkpt lon="-77.607364" lat="43.111395"></trkpt>
             <trkpt lon="-77.607362" lat="43.110797"></trkpt>
+            <trkpt lon="-77.607466" lat="43.110669"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.607466" lat="43.110669"></trkpt>
             <trkpt lon="-77.609606" lat="43.109992"></trkpt>
             <trkpt lon="-77.610161" lat="43.109595"></trkpt>
@@ -745,7 +1352,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -758,26 +1365,114 @@
             <trkpt lon="-77.601895" lat="43.106514"></trkpt>
             <trkpt lon="-77.601362" lat="43.106242"></trkpt>
             <trkpt lon="-77.599751" lat="43.105722"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.599751" lat="43.105722"></trkpt>
+            <trkpt lon="-77.598670" lat="43.105408"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.598670" lat="43.105408"></trkpt>
             <trkpt lon="-77.596411" lat="43.104711"></trkpt>
             <trkpt lon="-77.592714" lat="43.103640"></trkpt>
             <trkpt lon="-77.590092" lat="43.102883"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.590092" lat="43.102883"></trkpt>
             <trkpt lon="-77.588992" lat="43.102539"></trkpt>
             <trkpt lon="-77.588410" lat="43.102284"></trkpt>
+            <trkpt lon="-77.586101" lat="43.101631"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.586101" lat="43.101631"></trkpt>
             <trkpt lon="-77.584708" lat="43.101314"></trkpt>
             <trkpt lon="-77.582663" lat="43.100794"></trkpt>
             <trkpt lon="-77.581118" lat="43.100264"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.581118" lat="43.100264"></trkpt>
             <trkpt lon="-77.580766" lat="43.100056"></trkpt>
             <trkpt lon="-77.580439" lat="43.099796"></trkpt>
+            <trkpt lon="-77.579235" lat="43.099408"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.579235" lat="43.099408"></trkpt>
             <trkpt lon="-77.574871" lat="43.098047"></trkpt>
             <trkpt lon="-77.571968" lat="43.097269"></trkpt>
             <trkpt lon="-77.570872" lat="43.096940"></trkpt>
             <trkpt lon="-77.569997" lat="43.096481"></trkpt>
             <trkpt lon="-77.568865" lat="43.096105"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.568865" lat="43.096105"></trkpt>
             <trkpt lon="-77.568530" lat="43.095822"></trkpt>
             <trkpt lon="-77.568341" lat="43.095780"></trkpt>
+            <trkpt lon="-77.568052" lat="43.095940"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.568052" lat="43.095940"></trkpt>
             <trkpt lon="-77.567445" lat="43.095937"></trkpt>
             <trkpt lon="-77.565575" lat="43.095185"></trkpt>
@@ -788,6 +1483,17 @@
             <trkpt lon="-77.552004" lat="43.092683"></trkpt>
             <trkpt lon="-77.550782" lat="43.092461"></trkpt>
             <trkpt lon="-77.549710" lat="43.092449"></trkpt>
+            <trkpt lon="-77.548337" lat="43.092616"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.548337" lat="43.092616"></trkpt>
             <trkpt lon="-77.547928" lat="43.092439"></trkpt>
             <trkpt lon="-77.545563" lat="43.091550"></trkpt>
@@ -802,7 +1508,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -811,6 +1517,17 @@
             <trkpt lon="-77.540139" lat="43.090935"></trkpt>
             <trkpt lon="-77.539070" lat="43.090774"></trkpt>
             <trkpt lon="-77.538397" lat="43.090931"></trkpt>
+            <trkpt lon="-77.538180" lat="43.090946"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.538180" lat="43.090946"></trkpt>
             <trkpt lon="-77.537008" lat="43.090670"></trkpt>
             <trkpt lon="-77.535428" lat="43.090609"></trkpt>
@@ -821,6 +1538,17 @@
             <trkpt lon="-77.529440" lat="43.091758"></trkpt>
             <trkpt lon="-77.527404" lat="43.092573"></trkpt>
             <trkpt lon="-77.526786" lat="43.092939"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.526786" lat="43.092939"></trkpt>
             <trkpt lon="-77.526380" lat="43.093001"></trkpt>
             <trkpt lon="-77.526075" lat="43.093129"></trkpt>
             <trkpt lon="-77.525739" lat="43.093041"></trkpt>
@@ -829,9 +1557,31 @@
             <trkpt lon="-77.524785" lat="43.092982"></trkpt>
             <trkpt lon="-77.523523" lat="43.093339"></trkpt>
             <trkpt lon="-77.523213" lat="43.093510"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.523213" lat="43.093510"></trkpt>
             <trkpt lon="-77.523062" lat="43.093479"></trkpt>
             <trkpt lon="-77.522439" lat="43.093549"></trkpt>
-            <trkpt lon="-77.521912" lat="43.093654"></trkpt>
+            <trkpt lon="-77.521791" lat="43.093680"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.521791" lat="43.093680"></trkpt>
             <trkpt lon="-77.519410" lat="43.094192"></trkpt>
             <trkpt lon="-77.518431" lat="43.094267"></trkpt>
             <trkpt lon="-77.517280" lat="43.094206"></trkpt>
@@ -840,6 +1590,17 @@
             <trkpt lon="-77.514804" lat="43.093109"></trkpt>
             <trkpt lon="-77.514579" lat="43.092898"></trkpt>
             <trkpt lon="-77.514504" lat="43.092788"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.514504" lat="43.092788"></trkpt>
             <trkpt lon="-77.514257" lat="43.092723"></trkpt>
             <trkpt lon="-77.514164" lat="43.092703"></trkpt>
             <trkpt lon="-77.513191" lat="43.092171"></trkpt>
@@ -847,18 +1608,73 @@
             <trkpt lon="-77.511586" lat="43.090284"></trkpt>
             <trkpt lon="-77.510934" lat="43.089567"></trkpt>
             <trkpt lon="-77.510826" lat="43.089217"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.510826" lat="43.089217"></trkpt>
             <trkpt lon="-77.510478" lat="43.088886"></trkpt>
             <trkpt lon="-77.507688" lat="43.085522"></trkpt>
+            <trkpt lon="-77.505852" lat="43.083210"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.505852" lat="43.083210"></trkpt>
             <trkpt lon="-77.504966" lat="43.082305"></trkpt>
             <trkpt lon="-77.503974" lat="43.081614"></trkpt>
             <trkpt lon="-77.502702" lat="43.080758"></trkpt>
             <trkpt lon="-77.501957" lat="43.080139"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.501957" lat="43.080139"></trkpt>
             <trkpt lon="-77.501499" lat="43.079803"></trkpt>
             <trkpt lon="-77.499473" lat="43.078526"></trkpt>
             <trkpt lon="-77.498816" lat="43.078167"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.498816" lat="43.078167"></trkpt>
             <trkpt lon="-77.498533" lat="43.077895"></trkpt>
             <trkpt lon="-77.493240" lat="43.074251"></trkpt>
+            <trkpt lon="-77.492929" lat="43.073831"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.492929" lat="43.073831"></trkpt>
             <trkpt lon="-77.489572" lat="43.069070"></trkpt>
             <trkpt lon="-77.487620" lat="43.066304"></trkpt>
@@ -876,7 +1692,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -887,8 +1703,30 @@
             <trkpt lon="-77.471946" lat="43.064688"></trkpt>
             <trkpt lon="-77.471118" lat="43.065386"></trkpt>
             <trkpt lon="-77.468752" lat="43.068567"></trkpt>
-            <trkpt lon="-77.464469" lat="43.074390"></trkpt>
+            <trkpt lon="-77.464323" lat="43.074555"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.464323" lat="43.074555"></trkpt>
             <trkpt lon="-77.464180" lat="43.074809"></trkpt>
+            <trkpt lon="-77.461310" lat="43.078698"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.461310" lat="43.078698"></trkpt>
             <trkpt lon="-77.460897" lat="43.079236"></trkpt>
             <trkpt lon="-77.460185" lat="43.080733"></trkpt>
@@ -901,15 +1739,48 @@
             <trkpt lon="-77.456006" lat="43.088667"></trkpt>
             <trkpt lon="-77.455924" lat="43.089435"></trkpt>
             <trkpt lon="-77.455744" lat="43.095764"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.455744" lat="43.095764"></trkpt>
             <trkpt lon="-77.455807" lat="43.096959"></trkpt>
             <trkpt lon="-77.456344" lat="43.099178"></trkpt>
             <trkpt lon="-77.456436" lat="43.099783"></trkpt>
             <trkpt lon="-77.456408" lat="43.099908"></trkpt>
             <trkpt lon="-77.456340" lat="43.100173"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.456340" lat="43.100173"></trkpt>
             <trkpt lon="-77.456319" lat="43.100903"></trkpt>
             <trkpt lon="-77.456249" lat="43.101033"></trkpt>
             <trkpt lon="-77.456033" lat="43.101414"></trkpt>
             <trkpt lon="-77.455144" lat="43.102427"></trkpt>
+            <trkpt lon="-77.454287" lat="43.103146"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.454287" lat="43.103146"></trkpt>
             <trkpt lon="-77.453187" lat="43.103613"></trkpt>
             <trkpt lon="-77.452030" lat="43.103942"></trkpt>
@@ -933,7 +1804,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -941,14 +1812,47 @@
             <trkpt lon="-77.441705" lat="43.101740"></trkpt>
             <trkpt lon="-77.441497" lat="43.101622"></trkpt>
             <trkpt lon="-77.439129" lat="43.100723"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.439129" lat="43.100723"></trkpt>
             <trkpt lon="-77.438703" lat="43.100545"></trkpt>
             <trkpt lon="-77.436951" lat="43.099831"></trkpt>
             <trkpt lon="-77.436672" lat="43.099673"></trkpt>
             <trkpt lon="-77.435314" lat="43.098940"></trkpt>
             <trkpt lon="-77.434071" lat="43.098123"></trkpt>
             <trkpt lon="-77.433742" lat="43.097917"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.433742" lat="43.097917"></trkpt>
             <trkpt lon="-77.432732" lat="43.097273"></trkpt>
             <trkpt lon="-77.430781" lat="43.096033"></trkpt>
+            <trkpt lon="-77.428888" lat="43.094870"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.428888" lat="43.094870"></trkpt>
             <trkpt lon="-77.427027" lat="43.093871"></trkpt>
             <trkpt lon="-77.424349" lat="43.092422"></trkpt>
@@ -965,6 +1869,17 @@
             <trkpt lon="-77.401819" lat="43.087692"></trkpt>
             <trkpt lon="-77.401652" lat="43.087585"></trkpt>
             <trkpt lon="-77.401057" lat="43.087346"></trkpt>
+            <trkpt lon="-77.400527" lat="43.087138"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.400527" lat="43.087138"></trkpt>
             <trkpt lon="-77.400004" lat="43.086972"></trkpt>
             <trkpt lon="-77.397873" lat="43.086135"></trkpt>
@@ -999,7 +1914,7 @@
         <name>ecanal_main</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1019,6 +1934,17 @@
             <trkpt lon="-77.320656" lat="43.077386"></trkpt>
             <trkpt lon="-77.320539" lat="43.077417"></trkpt>
             <trkpt lon="-77.320374" lat="43.077696"></trkpt>
+            <trkpt lon="-77.320204" lat="43.077739"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.320204" lat="43.077739"></trkpt>
             <trkpt lon="-77.320030" lat="43.077680"></trkpt>
             <trkpt lon="-77.320050" lat="43.077377"></trkpt>
@@ -1443,14 +2369,27 @@
         <name>ecanal_access</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.647139" lat="43.123631"></trkpt>
             <trkpt lon="-77.647036" lat="43.123435"></trkpt>
             <trkpt lon="-77.646745" lat="43.123162"></trkpt>
-            <trkpt lon="-77.646625" lat="43.122843"></trkpt>
+            <trkpt lon="-77.646648" lat="43.123054"></trkpt>
+            <trkpt lon="-77.646673" lat="43.122897"></trkpt>
+            <trkpt lon="-77.646606" lat="43.122763"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_access</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.646606" lat="43.122763"></trkpt>
             <trkpt lon="-77.646454" lat="43.122565"></trkpt>
             <trkpt lon="-77.646161" lat="43.122391"></trkpt>
             <trkpt lon="-77.645788" lat="43.122364"></trkpt>
@@ -1811,7 +2750,7 @@
         <name>ecanal_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1824,8 +2763,30 @@
             <trkpt lon="-77.601608" lat="43.105560"></trkpt>
             <trkpt lon="-77.601018" lat="43.105502"></trkpt>
             <trkpt lon="-77.599682" lat="43.105014"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.599682" lat="43.105014"></trkpt>
             <trkpt lon="-77.599020" lat="43.104903"></trkpt>
             <trkpt lon="-77.588618" lat="43.101632"></trkpt>
+            <trkpt lon="-77.580756" lat="43.099200"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>ecanal_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.580756" lat="43.099200"></trkpt>
             <trkpt lon="-77.580280" lat="43.099155"></trkpt>
             <trkpt lon="-77.572270" lat="43.096520"></trkpt>
@@ -1837,7 +2798,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1845,6 +2806,17 @@
             <trkpt lon="-77.872773" lat="42.726218"></trkpt>
             <trkpt lon="-77.872945" lat="42.726448"></trkpt>
             <trkpt lon="-77.875115" lat="42.727566"></trkpt>
+            <trkpt lon="-77.875441" lat="42.728110"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.875441" lat="42.728110"></trkpt>
             <trkpt lon="-77.875584" lat="42.728059"></trkpt>
             <trkpt lon="-77.875743" lat="42.728030"></trkpt>
@@ -1856,17 +2828,65 @@
             <trkpt lon="-77.880039" lat="42.730429"></trkpt>
             <trkpt lon="-77.880423" lat="42.730972"></trkpt>
             <trkpt lon="-77.882268" lat="42.735950"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.882268" lat="42.735950"></trkpt>
             <trkpt lon="-77.882408" lat="42.736724"></trkpt>
             <trkpt lon="-77.882408" lat="42.737545"></trkpt>
             <trkpt lon="-77.882414" lat="42.738892"></trkpt>
             <trkpt lon="-77.882524" lat="42.739597"></trkpt>
             <trkpt lon="-77.882469" lat="42.740151"></trkpt>
             <trkpt lon="-77.882172" lat="42.740292"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.882172" lat="42.740292"></trkpt>
             <trkpt lon="-77.882264" lat="42.740629"></trkpt>
             <trkpt lon="-77.882019" lat="42.741656"></trkpt>
             <trkpt lon="-77.880970" lat="42.744547"></trkpt>
             <trkpt lon="-77.876785" lat="42.756317"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.876785" lat="42.756317"></trkpt>
             <trkpt lon="-77.873287" lat="42.766140"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.873287" lat="42.766140"></trkpt>
+            <trkpt lon="-77.872550" lat="42.769151"></trkpt>
+            <trkpt lon="-77.871179" lat="42.773907"></trkpt>
+            <trkpt lon="-77.870298" lat="42.776976"></trkpt>
+            <trkpt lon="-77.870144" lat="42.777118"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -1877,10 +2897,6 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.873287" lat="42.766140"></trkpt>
-            <trkpt lon="-77.872550" lat="42.769151"></trkpt>
-            <trkpt lon="-77.871179" lat="42.773907"></trkpt>
-            <trkpt lon="-77.870298" lat="42.776976"></trkpt>
             <trkpt lon="-77.870144" lat="42.777118"></trkpt>
             <trkpt lon="-77.869956" lat="42.778515"></trkpt>
             <trkpt lon="-77.868980" lat="42.781958"></trkpt>
@@ -1901,6 +2917,17 @@
             <trkpt lon="-77.854756" lat="42.810518"></trkpt>
             <trkpt lon="-77.852043" lat="42.816515"></trkpt>
             <trkpt lon="-77.851536" lat="42.818244"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.851536" lat="42.818244"></trkpt>
             <trkpt lon="-77.851751" lat="42.822884"></trkpt>
             <trkpt lon="-77.850776" lat="42.828186"></trkpt>
             <trkpt lon="-77.850661" lat="42.828300"></trkpt>
@@ -1910,7 +2937,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1931,6 +2958,17 @@
             <trkpt lon="-77.848346" lat="42.857703"></trkpt>
             <trkpt lon="-77.850905" lat="42.862636"></trkpt>
             <trkpt lon="-77.851022" lat="42.863148"></trkpt>
+            <trkpt lon="-77.850981" lat="42.864560"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.850981" lat="42.864560"></trkpt>
             <trkpt lon="-77.850648" lat="42.867861"></trkpt>
             <trkpt lon="-77.850444" lat="42.868190"></trkpt>
@@ -1963,7 +3001,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1989,6 +3027,17 @@
             <trkpt lon="-77.790414" lat="42.904955"></trkpt>
             <trkpt lon="-77.789003" lat="42.908172"></trkpt>
             <trkpt lon="-77.788356" lat="42.909394"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.788356" lat="42.909394"></trkpt>
             <trkpt lon="-77.788032" lat="42.909920"></trkpt>
             <trkpt lon="-77.787527" lat="42.911511"></trkpt>
             <trkpt lon="-77.787449" lat="42.912107"></trkpt>
@@ -1997,6 +3046,17 @@
             <trkpt lon="-77.787156" lat="42.913362"></trkpt>
             <trkpt lon="-77.785455" lat="42.915642"></trkpt>
             <trkpt lon="-77.785031" lat="42.916105"></trkpt>
+            <trkpt lon="-77.784406" lat="42.917385"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.784406" lat="42.917385"></trkpt>
             <trkpt lon="-77.783700" lat="42.918838"></trkpt>
             <trkpt lon="-77.783263" lat="42.919315"></trkpt>
@@ -2008,6 +3068,28 @@
             <trkpt lon="-77.775831" lat="42.922886"></trkpt>
             <trkpt lon="-77.776318" lat="42.925029"></trkpt>
             <trkpt lon="-77.776560" lat="42.925798"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.776560" lat="42.925798"></trkpt>
+            <trkpt lon="-77.776427" lat="42.928517"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.776427" lat="42.928517"></trkpt>
             <trkpt lon="-77.775956" lat="42.932724"></trkpt>
             <trkpt lon="-77.775871" lat="42.933204"></trkpt>
@@ -2025,7 +3107,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2066,6 +3148,17 @@
             <trkpt lon="-77.735814" lat="42.980249"></trkpt>
             <trkpt lon="-77.735437" lat="42.980872"></trkpt>
             <trkpt lon="-77.732770" lat="42.984504"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.732770" lat="42.984504"></trkpt>
             <trkpt lon="-77.732549" lat="42.985601"></trkpt>
             <trkpt lon="-77.732508" lat="42.986673"></trkpt>
             <trkpt lon="-77.732854" lat="42.987813"></trkpt>
@@ -2080,7 +3173,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2094,7 +3187,29 @@
             <trkpt lon="-77.747171" lat="43.017171"></trkpt>
             <trkpt lon="-77.747283" lat="43.017716"></trkpt>
             <trkpt lon="-77.747181" lat="43.018281"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.747181" lat="43.018281"></trkpt>
             <trkpt lon="-77.746942" lat="43.018846"></trkpt>
+            <trkpt lon="-77.746683" lat="43.019464"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.746683" lat="43.019464"></trkpt>
             <trkpt lon="-77.746168" lat="43.020118"></trkpt>
             <trkpt lon="-77.745520" lat="43.020663"></trkpt>
@@ -2103,6 +3218,17 @@
             <trkpt lon="-77.743170" lat="43.022023"></trkpt>
             <trkpt lon="-77.738838" lat="43.026381"></trkpt>
             <trkpt lon="-77.737839" lat="43.027962"></trkpt>
+            <trkpt lon="-77.737763" lat="43.028782"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.737763" lat="43.028782"></trkpt>
             <trkpt lon="-77.737946" lat="43.029778"></trkpt>
             <trkpt lon="-77.738832" lat="43.031570"></trkpt>
@@ -2113,6 +3239,17 @@
             <trkpt lon="-77.734844" lat="43.038048"></trkpt>
             <trkpt lon="-77.734766" lat="43.038300"></trkpt>
             <trkpt lon="-77.734822" lat="43.038536"></trkpt>
+            <trkpt lon="-77.734866" lat="43.038822"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.734866" lat="43.038822"></trkpt>
             <trkpt lon="-77.734676" lat="43.039078"></trkpt>
             <trkpt lon="-77.734289" lat="43.039363"></trkpt>
@@ -2126,7 +3263,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2142,6 +3279,17 @@
             <trkpt lon="-77.718889" lat="43.066723"></trkpt>
             <trkpt lon="-77.714904" lat="43.070628"></trkpt>
             <trkpt lon="-77.708782" lat="43.076577"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.708782" lat="43.076577"></trkpt>
             <trkpt lon="-77.694511" lat="43.090541"></trkpt>
             <trkpt lon="-77.691338" lat="43.093567"></trkpt>
         </trkseg>
@@ -2150,12 +3298,23 @@
         <name>gv_greenway_detour</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.691338" lat="43.093567"></trkpt>
             <trkpt lon="-77.681793" lat="43.092994"></trkpt>
+            <trkpt lon="-77.681575" lat="43.093049"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.681575" lat="43.093049"></trkpt>
             <trkpt lon="-77.681129" lat="43.093917"></trkpt>
             <trkpt lon="-77.680517" lat="43.094769"></trkpt>
@@ -2166,7 +3325,18 @@
             <trkpt lon="-77.677350" lat="43.100348"></trkpt>
             <trkpt lon="-77.677203" lat="43.101692"></trkpt>
             <trkpt lon="-77.677229" lat="43.103617"></trkpt>
-            <trkpt lon="-77.677021" lat="43.105188"></trkpt>
+            <trkpt lon="-77.676968" lat="43.105398"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway_detour</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.676968" lat="43.105398"></trkpt>
             <trkpt lon="-77.676959" lat="43.105484"></trkpt>
             <trkpt lon="-77.676693" lat="43.106433"></trkpt>
             <trkpt lon="-77.676284" lat="43.107318"></trkpt>
@@ -2178,7 +3348,7 @@
         <name>gv_greenway</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2190,6 +3360,17 @@
             <trkpt lon="-77.663491" lat="43.112611"></trkpt>
             <trkpt lon="-77.658141" lat="43.114694"></trkpt>
             <trkpt lon="-77.656808" lat="43.115188"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.656808" lat="43.115188"></trkpt>
             <trkpt lon="-77.654685" lat="43.116007"></trkpt>
             <trkpt lon="-77.654302" lat="43.116187"></trkpt>
             <trkpt lon="-77.652805" lat="43.117226"></trkpt>
@@ -2197,6 +3378,17 @@
             <trkpt lon="-77.652328" lat="43.117893"></trkpt>
             <trkpt lon="-77.652161" lat="43.118014"></trkpt>
             <trkpt lon="-77.651773" lat="43.118410"></trkpt>
+            <trkpt lon="-77.647029" lat="43.121194"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_greenway</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.647029" lat="43.121194"></trkpt>
             <trkpt lon="-77.646204" lat="43.121288"></trkpt>
             <trkpt lon="-77.645694" lat="43.121256"></trkpt>
@@ -2378,13 +3570,23 @@
     <trk>
         <name>gv_riverway_south</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.639824" lat="43.122622"></trkpt>
             <trkpt lon="-77.639153" lat="43.122604"></trkpt>
             <trkpt lon="-77.638669" lat="43.122621"></trkpt>
+            <trkpt lon="-77.638003" lat="43.122702"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.638003" lat="43.122702"></trkpt>
             <trkpt lon="-77.637877" lat="43.122613"></trkpt>
             <trkpt lon="-77.637714" lat="43.122580"></trkpt>
@@ -2406,6 +3608,16 @@
             <trkpt lon="-77.633259" lat="43.124697"></trkpt>
             <trkpt lon="-77.633273" lat="43.124786"></trkpt>
             <trkpt lon="-77.633331" lat="43.124827"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.633331" lat="43.124827"></trkpt>
             <trkpt lon="-77.633360" lat="43.125206"></trkpt>
             <trkpt lon="-77.633246" lat="43.125407"></trkpt>
             <trkpt lon="-77.633283" lat="43.125670"></trkpt>
@@ -2419,11 +3631,31 @@
             <trkpt lon="-77.634358" lat="43.127423"></trkpt>
             <trkpt lon="-77.634499" lat="43.127565"></trkpt>
             <trkpt lon="-77.634674" lat="43.127700"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.634674" lat="43.127700"></trkpt>
             <trkpt lon="-77.634880" lat="43.127993"></trkpt>
             <trkpt lon="-77.635011" lat="43.128245"></trkpt>
             <trkpt lon="-77.635050" lat="43.128456"></trkpt>
             <trkpt lon="-77.635112" lat="43.128621"></trkpt>
             <trkpt lon="-77.635249" lat="43.128846"></trkpt>
+            <trkpt lon="-77.635307" lat="43.128975"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.635307" lat="43.128975"></trkpt>
             <trkpt lon="-77.635330" lat="43.129066"></trkpt>
             <trkpt lon="-77.635300" lat="43.129504"></trkpt>
@@ -2433,9 +3665,29 @@
             <trkpt lon="-77.634887" lat="43.130924"></trkpt>
             <trkpt lon="-77.634730" lat="43.131089"></trkpt>
             <trkpt lon="-77.634642" lat="43.131166"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.634642" lat="43.131166"></trkpt>
             <trkpt lon="-77.633803" lat="43.131920"></trkpt>
             <trkpt lon="-77.633636" lat="43.132044"></trkpt>
             <trkpt lon="-77.632636" lat="43.132464"></trkpt>
+            <trkpt lon="-77.632083" lat="43.132735"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.632083" lat="43.132735"></trkpt>
             <trkpt lon="-77.631722" lat="43.132795"></trkpt>
             <trkpt lon="-77.631565" lat="43.132854"></trkpt>
@@ -2469,7 +3721,7 @@
     <trk>
         <name>gv_riverway_south</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2478,16 +3730,56 @@
             <trkpt lon="-77.621677" lat="43.134717"></trkpt>
             <trkpt lon="-77.621018" lat="43.135578"></trkpt>
             <trkpt lon="-77.620058" lat="43.136844"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.620058" lat="43.136844"></trkpt>
             <trkpt lon="-77.620026" lat="43.136885"></trkpt>
             <trkpt lon="-77.618866" lat="43.138412"></trkpt>
             <trkpt lon="-77.618323" lat="43.139155"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618323" lat="43.139155"></trkpt>
             <trkpt lon="-77.617580" lat="43.140225"></trkpt>
             <trkpt lon="-77.615788" lat="43.142428"></trkpt>
+            <trkpt lon="-77.615662" lat="43.142581"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.615662" lat="43.142581"></trkpt>
             <trkpt lon="-77.615040" lat="43.143176"></trkpt>
             <trkpt lon="-77.614354" lat="43.143771"></trkpt>
             <trkpt lon="-77.614029" lat="43.144114"></trkpt>
             <trkpt lon="-77.613328" lat="43.145078"></trkpt>
+            <trkpt lon="-77.613257" lat="43.145190"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.613257" lat="43.145190"></trkpt>
             <trkpt lon="-77.612422" lat="43.146626"></trkpt>
             <trkpt lon="-77.611853" lat="43.147476"></trkpt>
@@ -2503,6 +3795,16 @@
             <trkpt lon="-77.609850" lat="43.151480"></trkpt>
             <trkpt lon="-77.609875" lat="43.151535"></trkpt>
             <trkpt lon="-77.609901" lat="43.151622"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.609901" lat="43.151622"></trkpt>
             <trkpt lon="-77.609943" lat="43.151755"></trkpt>
             <trkpt lon="-77.609958" lat="43.152072"></trkpt>
             <trkpt lon="-77.610043" lat="43.152256"></trkpt>
@@ -2512,6 +3814,16 @@
             <trkpt lon="-77.609826" lat="43.152831"></trkpt>
             <trkpt lon="-77.609785" lat="43.152927"></trkpt>
             <trkpt lon="-77.609809" lat="43.153088"></trkpt>
+            <trkpt lon="-77.609809" lat="43.153106"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_south</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.609809" lat="43.153106"></trkpt>
             <trkpt lon="-77.609720" lat="43.153186"></trkpt>
             <trkpt lon="-77.609641" lat="43.153269"></trkpt>
@@ -2527,7 +3839,7 @@
     <trk>
         <name>gv_riverway_maplewood</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2560,6 +3872,16 @@
             <trkpt lon="-77.626699" lat="43.175403"></trkpt>
             <trkpt lon="-77.626930" lat="43.175507"></trkpt>
             <trkpt lon="-77.627004" lat="43.175525"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.627004" lat="43.175525"></trkpt>
             <trkpt lon="-77.627122" lat="43.175534"></trkpt>
             <trkpt lon="-77.627241" lat="43.175526"></trkpt>
             <trkpt lon="-77.627371" lat="43.175544"></trkpt>
@@ -2572,14 +3894,54 @@
             <trkpt lon="-77.628433" lat="43.177349"></trkpt>
             <trkpt lon="-77.628434" lat="43.177492"></trkpt>
             <trkpt lon="-77.628405" lat="43.177697"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.628405" lat="43.177697"></trkpt>
             <trkpt lon="-77.628478" lat="43.178014"></trkpt>
+            <trkpt lon="-77.628619" lat="43.178355"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.628619" lat="43.178355"></trkpt>
             <trkpt lon="-77.628685" lat="43.178501"></trkpt>
             <trkpt lon="-77.628758" lat="43.178613"></trkpt>
             <trkpt lon="-77.628863" lat="43.178712"></trkpt>
             <trkpt lon="-77.628915" lat="43.178815"></trkpt>
             <trkpt lon="-77.629019" lat="43.179178"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.629019" lat="43.179178"></trkpt>
             <trkpt lon="-77.629678" lat="43.180844"></trkpt>
+            <trkpt lon="-77.629700" lat="43.180973"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.629700" lat="43.180973"></trkpt>
             <trkpt lon="-77.629720" lat="43.181016"></trkpt>
             <trkpt lon="-77.629749" lat="43.181070"></trkpt>
@@ -2587,6 +3949,16 @@
             <trkpt lon="-77.629748" lat="43.181958"></trkpt>
             <trkpt lon="-77.629658" lat="43.182760"></trkpt>
             <trkpt lon="-77.629468" lat="43.183362"></trkpt>
+            <trkpt lon="-77.629446" lat="43.183477"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.629446" lat="43.183477"></trkpt>
             <trkpt lon="-77.629408" lat="43.183956"></trkpt>
             <trkpt lon="-77.629384" lat="43.184251"></trkpt>
@@ -2606,7 +3978,7 @@
     <trk>
         <name>gv_riverway_maplewood</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2637,6 +4009,16 @@
             <trkpt lon="-77.621455" lat="43.194157"></trkpt>
             <trkpt lon="-77.621508" lat="43.194608"></trkpt>
             <trkpt lon="-77.621523" lat="43.195088"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.621523" lat="43.195088"></trkpt>
             <trkpt lon="-77.621453" lat="43.195109"></trkpt>
             <trkpt lon="-77.621365" lat="43.195160"></trkpt>
             <trkpt lon="-77.621322" lat="43.195207"></trkpt>
@@ -2655,6 +4037,16 @@
             <trkpt lon="-77.621750" lat="43.197084"></trkpt>
             <trkpt lon="-77.621910" lat="43.197381"></trkpt>
             <trkpt lon="-77.622035" lat="43.197669"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.622035" lat="43.197669"></trkpt>
             <trkpt lon="-77.622071" lat="43.197781"></trkpt>
             <trkpt lon="-77.622111" lat="43.197824"></trkpt>
             <trkpt lon="-77.622141" lat="43.197825"></trkpt>
@@ -2666,6 +4058,16 @@
             <trkpt lon="-77.622917" lat="43.197776"></trkpt>
             <trkpt lon="-77.622993" lat="43.197718"></trkpt>
             <trkpt lon="-77.623064" lat="43.197668"></trkpt>
+            <trkpt lon="-77.623219" lat="43.197603"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.623219" lat="43.197603"></trkpt>
             <trkpt lon="-77.623406" lat="43.197726"></trkpt>
             <trkpt lon="-77.623522" lat="43.197846"></trkpt>
@@ -2684,6 +4086,16 @@
             <trkpt lon="-77.625664" lat="43.199628"></trkpt>
             <trkpt lon="-77.625791" lat="43.199765"></trkpt>
             <trkpt lon="-77.625868" lat="43.200068"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_maplewood</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.625868" lat="43.200068"></trkpt>
             <trkpt lon="-77.625819" lat="43.200284"></trkpt>
             <trkpt lon="-77.626026" lat="43.200780"></trkpt>
             <trkpt lon="-77.626223" lat="43.201310"></trkpt>
@@ -2699,7 +4111,7 @@
     <trk>
         <name>gv_riverway_north</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2724,6 +4136,16 @@
             <trkpt lon="-77.620010" lat="43.221167"></trkpt>
             <trkpt lon="-77.619531" lat="43.221680"></trkpt>
             <trkpt lon="-77.619374" lat="43.221952"></trkpt>
+            <trkpt lon="-77.619103" lat="43.222371"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_north</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.619103" lat="43.222371"></trkpt>
             <trkpt lon="-77.618903" lat="43.222551"></trkpt>
             <trkpt lon="-77.618651" lat="43.222861"></trkpt>
@@ -2754,7 +4176,7 @@
     <trk>
         <name>gv_riverway_north</name>
         <extensions>Blue<gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2813,6 +4235,16 @@
             <trkpt lon="-77.615491" lat="43.242723"></trkpt>
             <trkpt lon="-77.615083" lat="43.243629"></trkpt>
             <trkpt lon="-77.614719" lat="43.244431"></trkpt>
+            <trkpt lon="-77.613797" lat="43.246063"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_north</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.613797" lat="43.246063"></trkpt>
             <trkpt lon="-77.613703" lat="43.246359"></trkpt>
             <trkpt lon="-77.613620" lat="43.246514"></trkpt>
@@ -2916,6 +4348,17 @@
             <trkpt lon="-77.628007" lat="43.177980"></trkpt>
             <trkpt lon="-77.628071" lat="43.177876"></trkpt>
             <trkpt lon="-77.628214" lat="43.177865"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.628214" lat="43.177865"></trkpt>
             <trkpt lon="-77.628228" lat="43.177784"></trkpt>
             <trkpt lon="-77.628301" lat="43.177729"></trkpt>
             <trkpt lon="-77.628401" lat="43.177690"></trkpt>
@@ -2940,11 +4383,22 @@
         <name>gv_riverway_other</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.617173" lat="43.161359"></trkpt>
+            <trkpt lon="-77.614734" lat="43.163292"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>gv_riverway_other</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.614734" lat="43.163292"></trkpt>
             <trkpt lon="-77.613372" lat="43.163023"></trkpt>
             <trkpt lon="-77.613215" lat="43.163123"></trkpt>

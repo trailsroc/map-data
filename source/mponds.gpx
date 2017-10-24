@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-07-20T04:03:20.646Z</time>
+        <time>2017-10-24T01:40:04.646Z</time>
     </metadata>
     <rte>
         <name>mponds_birdsong</name>
@@ -30,13 +30,31 @@
         <name>mponds_birdsong</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.579700" lat="43.019431"></rtept>
         <rtept lon="-77.582537" lat="43.019473"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_birdsong</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.582537" lat="43.019473"></rtept>
         <rtept lon="-77.582502" lat="43.019941"></rtept>
         <rtept lon="-77.582350" lat="43.020618"></rtept>
+        <rtept lon="-77.582139" lat="43.021360"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_birdsong</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.582139" lat="43.021360"></rtept>
         <rtept lon="-77.581362" lat="43.021302"></rtept>
         <rtept lon="-77.580650" lat="43.021255"></rtept>
@@ -47,7 +65,7 @@
         <name>mponds_birdsong</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.579518" lat="43.021204"></rtept>
@@ -116,6 +134,15 @@
         <rtept lon="-77.578528" lat="43.018781"></rtept>
         <rtept lon="-77.578634" lat="43.018776"></rtept>
         <rtept lon="-77.578688" lat="43.018762"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_birdsong</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.578688" lat="43.018762"></rtept>
         <rtept lon="-77.578729" lat="43.018790"></rtept>
         <rtept lon="-77.578815" lat="43.018902"></rtept>
         <rtept lon="-77.578846" lat="43.018921"></rtept>
@@ -130,7 +157,7 @@
         <name>mponds_fern_valley</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.569298" lat="43.038043">
@@ -142,6 +169,17 @@
         <rtept lon="-77.570840" lat="43.038790">
             <ele>219.100000</ele>
         </rtept>
+        <rtept lon="-77.571187" lat="43.038938">
+            <ele>220.300000</ele>
+        </rtept>
+    </rte>
+    <rte>
+        <name>mponds_fern_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.571187" lat="43.038938">
             <ele>220.300000</ele>
         </rtept>
@@ -256,9 +294,31 @@
         <rtept lon="-77.574561" lat="43.034856">
             <ele>205.500000</ele>
         </rtept>
+    </rte>
+    <rte>
+        <name>mponds_fern_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.574561" lat="43.034856">
+            <ele>205.500000</ele>
+        </rtept>
         <rtept lon="-77.574071" lat="43.034649">
             <ele>211.700000</ele>
         </rtept>
+        <rtept lon="-77.573939" lat="43.034532">
+            <ele>211.000000</ele>
+        </rtept>
+    </rte>
+    <rte>
+        <name>mponds_fern_valley</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.573939" lat="43.034532">
             <ele>211.000000</ele>
         </rtept>
@@ -378,7 +438,7 @@
         <name>mponds_quaker</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.570222" lat="43.002351"></rtept>
@@ -387,16 +447,62 @@
         <rtept lon="-77.569829" lat="43.002869"></rtept>
         <rtept lon="-77.569346" lat="43.003222"></rtept>
         <rtept lon="-77.569021" lat="43.003673"></rtept>
-        <rtept lon="-77.568695" lat="43.003994"></rtept>
+        <rtept lon="-77.568716" lat="43.003966"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.568716" lat="43.003966"></rtept>
         <rtept lon="-77.568526" lat="43.005212"></rtept>
         <rtept lon="-77.568598" lat="43.005591"></rtept>
         <rtept lon="-77.569259" lat="43.007604"></rtept>
+        <rtept lon="-77.569690" lat="43.008852"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.569690" lat="43.008852"></rtept>
         <rtept lon="-77.570057" lat="43.010095"></rtept>
-        <rtept lon="-77.570804" lat="43.011866"></rtept>
+        <rtept lon="-77.570601" lat="43.011496"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.570601" lat="43.011496"></rtept>
         <rtept lon="-77.571013" lat="43.012219"></rtept>
+        <rtept lon="-77.571106" lat="43.012334"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.571106" lat="43.012334"></rtept>
         <rtept lon="-77.571257" lat="43.012408"></rtept>
         <rtept lon="-77.572127" lat="43.012875"></rtept>
+        <rtept lon="-77.572630" lat="43.013156"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.572630" lat="43.013156"></rtept>
         <rtept lon="-77.573198" lat="43.013490"></rtept>
         <rtept lon="-77.573665" lat="43.013921"></rtept>
@@ -407,16 +513,35 @@
         <name>mponds_quaker</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.578085" lat="43.016097"></rtept>
         <rtept lon="-77.578265" lat="43.016050"></rtept>
         <rtept lon="-77.578373" lat="43.015913"></rtept>
-        <rtept lon="-77.578474" lat="43.015603"></rtept>
+        <rtept lon="-77.578575" lat="43.015414"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.578575" lat="43.015414"></rtept>
         <rtept lon="-77.578869" lat="43.014930"></rtept>
         <rtept lon="-77.578445" lat="43.011446"></rtept>
         <rtept lon="-77.577992" lat="43.011036"></rtept>
+        <rtept lon="-77.577857" lat="43.010873"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.577857" lat="43.010873"></rtept>
         <rtept lon="-77.577690" lat="43.010500"></rtept>
         <rtept lon="-77.577367" lat="43.009370"></rtept>
         <rtept lon="-77.576583" lat="43.008298"></rtept>
@@ -450,10 +575,20 @@
         <name>mponds_quaker,mponds_swamp</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.575567" lat="43.015766"></rtept>
+        <rtept lon="-77.575932" lat="43.016108"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_quaker,mponds_swamp</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.575932" lat="43.016108"></rtept>
         <rtept lon="-77.576101" lat="43.016187"></rtept>
         <rtept lon="-77.576690" lat="43.016144"></rtept>
         <rtept lon="-77.577424" lat="43.016108"></rtept>
@@ -463,7 +598,7 @@
         <name>mponds_swamp</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.578085" lat="43.016097"></rtept>
@@ -473,6 +608,15 @@
         <rtept lon="-77.578882" lat="43.016417"></rtept>
         <rtept lon="-77.579043" lat="43.016437"></rtept>
         <rtept lon="-77.579223" lat="43.016490"></rtept>
+        <rtept lon="-77.579385" lat="43.016595"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_swamp</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.579385" lat="43.016595"></rtept>
         <rtept lon="-77.579412" lat="43.016910"></rtept>
         <rtept lon="-77.579403" lat="43.017206"></rtept>
@@ -541,16 +685,24 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.575999" lat="43.016101"></rtept>
-        <rtept lon="-77.575824" lat="43.016113"></rtept>
+        <rtept lon="-77.575892" lat="43.016113"></rtept>
         <rtept lon="-77.575608" lat="43.016178"></rtept>
         <rtept lon="-77.575432" lat="43.016261"></rtept>
         <rtept lon="-77.575188" lat="43.016341"></rtept>
         <rtept lon="-77.574984" lat="43.016395"></rtept>
         <rtept lon="-77.574780" lat="43.016392"></rtept>
+        <rtept lon="-77.574489" lat="43.016289"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.574489" lat="43.016289"></rtept>
         <rtept lon="-77.574227" lat="43.015918"></rtept>
         <rtept lon="-77.573857" lat="43.015467"></rtept>
@@ -558,13 +710,22 @@
         <rtept lon="-77.573488" lat="43.015078"></rtept>
         <rtept lon="-77.573354" lat="43.015060"></rtept>
         <rtept lon="-77.573172" lat="43.015099"></rtept>
+    </rte>
+    <rte>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.573172" lat="43.015099"></rtept>
         <rtept lon="-77.571989" lat="43.015327"></rtept>
     </rte>
     <rte>
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <rtept lon="-77.560441" lat="43.020583"></rtept>
@@ -596,6 +757,17 @@
         <rtept lon="-77.561240" lat="43.018620">
             <ele>218.600000</ele>
         </rtept>
+        <rtept lon="-77.561180" lat="43.018530">
+            <ele>220.900000</ele>
+        </rtept>
+    </rte>
+    <rte>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.561180" lat="43.018530">
             <ele>220.900000</ele>
         </rtept>
@@ -689,6 +861,17 @@
         <rtept lon="-77.557070" lat="43.015950">
             <ele>230.000000</ele>
         </rtept>
+        <rtept lon="-77.556910" lat="43.015830">
+            <ele>229.100000</ele>
+        </rtept>
+    </rte>
+    <rte>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
         <rtept lon="-77.556910" lat="43.015830">
             <ele>229.100000</ele>
         </rtept>
@@ -833,22 +1016,10 @@
         <name>mponds_bathtub</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.573740" lat="43.022110">
-                <ele>213.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.573490" lat="43.022350">
-                <ele>213.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.573300" lat="43.022710">
-                <ele>214.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.573260" lat="43.022920">
-                <ele>215.200000</ele>
-            </trkpt>
             <trkpt lon="-77.572960" lat="43.023320">
                 <ele>215.900000</ele>
             </trkpt>
@@ -864,7 +1035,20 @@
             <trkpt lon="-77.573442" lat="43.023730">
                 <ele>216.900000</ele>
             </trkpt>
-            <trkpt lon="-77.573763" lat="43.023807">
+            <trkpt lon="-77.573711" lat="43.023787">
+                <ele>218.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573711" lat="43.023787">
                 <ele>218.200000</ele>
             </trkpt>
             <trkpt lon="-77.573858" lat="43.023895">
@@ -888,9 +1072,48 @@
             <trkpt lon="-77.572650" lat="43.025760">
                 <ele>211.000000</ele>
             </trkpt>
-            <trkpt lon="-77.572006" lat="43.025711">
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.572650" lat="43.025760">
+                <ele>211.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.572154" lat="43.025760">
                 <ele>211.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.572154" lat="43.025760">
+                <ele>211.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.571605" lat="43.025306">
+                <ele>208.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.571605" lat="43.025306">
                 <ele>208.300000</ele>
             </trkpt>
@@ -912,6 +1135,19 @@
             <trkpt lon="-77.572466" lat="43.023357">
                 <ele>207.948494</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.572466" lat="43.023357">
+                <ele>207.948494</ele>
+            </trkpt>
             <trkpt lon="-77.572486" lat="43.022494">
                 <ele>207.922872</ele>
             </trkpt>
@@ -930,19 +1166,13 @@
             <trkpt lon="-77.573337" lat="43.021673">
                 <ele>207.889803</ele>
             </trkpt>
-            <trkpt lon="-77.573495" lat="43.021840">
-                <ele>207.888027</ele>
-            </trkpt>
-            <trkpt lon="-77.573682" lat="43.021975">
-                <ele>207.886338</ele>
-            </trkpt>
         </trkseg>
     </trk>
     <trk>
         <name>mponds_eesker,mponds_nmeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -961,6 +1191,19 @@
             <trkpt lon="-77.554290" lat="43.026970">
                 <ele>237.700000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker,mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554290" lat="43.026970">
+                <ele>237.700000</ele>
+            </trkpt>
             <trkpt lon="-77.553758" lat="43.026690">
                 <ele>235.900000</ele>
             </trkpt>
@@ -973,6 +1216,19 @@
             <trkpt lon="-77.552611" lat="43.026840">
                 <ele>235.400000</ele>
             </trkpt>
+            <trkpt lon="-77.551890" lat="43.026830">
+                <ele>235.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker,mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.551890" lat="43.026830">
                 <ele>235.500000</ele>
             </trkpt>
@@ -992,7 +1248,7 @@
         <desc>{"advisories": ["oneWaySkiing"]}</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1020,6 +1276,20 @@
             <trkpt lon="-77.548290" lat="43.026450">
                 <ele>237.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.548290" lat="43.026450">
+                <ele>237.500000</ele>
+            </trkpt>
             <trkpt lon="-77.548290" lat="43.026290">
                 <ele>237.500000</ele>
             </trkpt>
@@ -1038,6 +1308,23 @@
             <trkpt lon="-77.549482" lat="43.026513">
                 <ele>239.800000</ele>
             </trkpt>
+            <trkpt lon="-77.549784" lat="43.026562">
+                <ele>239.225171</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.549784" lat="43.026562">
+                <ele>239.225171</ele>
+            </trkpt>
             <trkpt lon="-77.550010" lat="43.026590">
                 <ele>238.800000</ele>
             </trkpt>
@@ -1050,11 +1337,42 @@
             <trkpt lon="-77.552258" lat="43.026538">
                 <ele>235.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.552258" lat="43.026538">
+                <ele>235.500000</ele>
+            </trkpt>
             <trkpt lon="-77.552429" lat="43.026536">
                 <ele>235.500000</ele>
             </trkpt>
             <trkpt lon="-77.552559" lat="43.026496">
                 <ele>235.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.554108" lat="43.026293">
+                <ele>240.916965</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554108" lat="43.026293">
+                <ele>240.916965</ele>
             </trkpt>
             <trkpt lon="-77.554445" lat="43.026244">
                 <ele>242.100000</ele>
@@ -1062,6 +1380,20 @@
             <trkpt lon="-77.554570" lat="43.026150">
                 <ele>242.700000</ele>
             </trkpt>
+            <trkpt lon="-77.554720" lat="43.026090">
+                <ele>243.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.554720" lat="43.026090">
                 <ele>243.400000</ele>
             </trkpt>
@@ -1104,6 +1436,20 @@
             <trkpt lon="-77.557880" lat="43.022960">
                 <ele>227.800000</ele>
             </trkpt>
+            <trkpt lon="-77.557820" lat="43.022790">
+                <ele>228.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.557820" lat="43.022790">
                 <ele>228.200000</ele>
             </trkpt>
@@ -1182,6 +1528,20 @@
             <trkpt lon="-77.556060" lat="43.019220">
                 <ele>246.300000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556060" lat="43.019220">
+                <ele>246.300000</ele>
+            </trkpt>
             <trkpt lon="-77.556060" lat="43.019100">
                 <ele>245.900000</ele>
             </trkpt>
@@ -1227,7 +1587,21 @@
             <trkpt lon="-77.555390" lat="43.016160">
                 <ele>231.000000</ele>
             </trkpt>
-            <trkpt lon="-77.555460" lat="43.016010">
+            <trkpt lon="-77.555474" lat="43.015971">
+                <ele>230.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555474" lat="43.015971">
                 <ele>230.900000</ele>
             </trkpt>
             <trkpt lon="-77.555700" lat="43.015690">
@@ -1245,6 +1619,20 @@
             <trkpt lon="-77.556110" lat="43.015490">
                 <ele>235.200000</ele>
             </trkpt>
+            <trkpt lon="-77.556020" lat="43.015362">
+                <ele>235.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.556020" lat="43.015362">
                 <ele>235.800000</ele>
             </trkpt>
@@ -1347,6 +1735,20 @@
             <trkpt lon="-77.562860" lat="43.011940">
                 <ele>223.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.562860" lat="43.011940">
+                <ele>223.400000</ele>
+            </trkpt>
             <trkpt lon="-77.562818" lat="43.011620">
                 <ele>220.100000</ele>
             </trkpt>
@@ -1362,7 +1764,7 @@
             <trkpt lon="-77.563101" lat="43.010368">
                 <ele>210.300000</ele>
             </trkpt>
-            <trkpt lon="-77.563260" lat="43.010210">
+            <trkpt lon="-77.563301" lat="43.010096">
                 <ele>210.000000</ele>
             </trkpt>
         </trkseg>
@@ -1397,7 +1799,21 @@
             <trkpt lon="-77.564221" lat="43.011521">
                 <ele>215.000000</ele>
             </trkpt>
-            <trkpt lon="-77.564909" lat="43.012284">
+            <trkpt lon="-77.564839" lat="43.012177">
+                <ele>219.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564839" lat="43.012177">
                 <ele>219.500000</ele>
             </trkpt>
             <trkpt lon="-77.565129" lat="43.012614">
@@ -1427,6 +1843,20 @@
             <trkpt lon="-77.565257" lat="43.015043">
                 <ele>218.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.565257" lat="43.015043">
+                <ele>218.800000</ele>
+            </trkpt>
             <trkpt lon="-77.565111" lat="43.015123">
                 <ele>217.800000</ele>
             </trkpt>
@@ -1439,6 +1869,20 @@
             <trkpt lon="-77.564274" lat="43.014939">
                 <ele>214.400000</ele>
             </trkpt>
+            <trkpt lon="-77.564062" lat="43.014870">
+                <ele>212.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.564062" lat="43.014870">
                 <ele>212.900000</ele>
             </trkpt>
@@ -1457,6 +1901,20 @@
             <trkpt lon="-77.563666" lat="43.016409">
                 <ele>210.900000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563666" lat="43.016409">
+                <ele>210.900000</ele>
+            </trkpt>
             <trkpt lon="-77.563550" lat="43.016280">
                 <ele>211.500000</ele>
             </trkpt>
@@ -1472,6 +1930,20 @@
             <trkpt lon="-77.563157" lat="43.015665">
                 <ele>216.500000</ele>
             </trkpt>
+            <trkpt lon="-77.561499" lat="43.015094">
+                <ele>224.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.561499" lat="43.015094">
                 <ele>224.100000</ele>
             </trkpt>
@@ -1541,21 +2013,52 @@
             <trkpt lon="-77.557630" lat="43.015620">
                 <ele>223.300000</ele>
             </trkpt>
-            <trkpt lon="-77.557570" lat="43.015720">
+            <trkpt lon="-77.557556" lat="43.015759">
                 <ele>224.500000</ele>
             </trkpt>
-            <trkpt lon="-77.557140" lat="43.015740">
+            <trkpt lon="-77.557475" lat="43.015800">
+                <ele>225.048155</ele>
+            </trkpt>
+            <trkpt lon="-77.557160" lat="43.015824">
                 <ele>226.800000</ele>
             </trkpt>
-            <trkpt lon="-77.556970" lat="43.015780">
+            <trkpt lon="-77.556922" lat="43.015839">
                 <ele>228.000000</ele>
             </trkpt>
-            <trkpt lon="-77.556880" lat="43.015840">
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556917" lat="43.015845">
                 <ele>228.000000</ele>
             </trkpt>
-            <trkpt lon="-77.556450" lat="43.015890">
+            <trkpt lon="-77.556619" lat="43.015920">
+                <ele>228.809578</ele>
+            </trkpt>
+            <trkpt lon="-77.556350" lat="43.015930">
                 <ele>229.500000</ele>
             </trkpt>
+            <trkpt lon="-77.556270" lat="43.016000">
+                <ele>230.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.556270" lat="43.016000">
                 <ele>230.200000</ele>
             </trkpt>
@@ -1596,15 +2099,51 @@
                 <ele>236.800000</ele>
             </trkpt>
             <trkpt lon="-77.558502" lat="43.018007"></trkpt>
-            <trkpt lon="-77.558694" lat="43.018608"></trkpt>
+            <trkpt lon="-77.558684" lat="43.018639"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558684" lat="43.018639"></trkpt>
             <trkpt lon="-77.558859" lat="43.018830"></trkpt>
             <trkpt lon="-77.559150" lat="43.019106"></trkpt>
             <trkpt lon="-77.559764" lat="43.019884"></trkpt>
             <trkpt lon="-77.560098" lat="43.020157"></trkpt>
-            <trkpt lon="-77.560387" lat="43.020550"></trkpt>
+            <trkpt lon="-77.560401" lat="43.020565"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.560401" lat="43.020565"></trkpt>
             <trkpt lon="-77.560674" lat="43.020718"></trkpt>
             <trkpt lon="-77.560800" lat="43.020815"></trkpt>
             <trkpt lon="-77.560938" lat="43.020886"></trkpt>
+            <trkpt lon="-77.561066" lat="43.020908"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.561066" lat="43.020908"></trkpt>
             <trkpt lon="-77.561159" lat="43.020896"></trkpt>
             <trkpt lon="-77.562762" lat="43.020424"></trkpt>
@@ -1639,6 +2178,20 @@
             <trkpt lon="-77.561446" lat="43.021362">
                 <ele>213.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561446" lat="43.021362">
+                <ele>213.000000</ele>
+            </trkpt>
             <trkpt lon="-77.561456" lat="43.021462">
                 <ele>213.500000</ele>
             </trkpt>
@@ -1663,10 +2216,41 @@
             <trkpt lon="-77.560924" lat="43.022476">
                 <ele>215.500000</ele>
             </trkpt>
+            <trkpt lon="-77.560776" lat="43.022462">
+                <ele>215.658502</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.560776" lat="43.022462">
+                <ele>215.658502</ele>
+            </trkpt>
             <trkpt lon="-77.560552" lat="43.022431">
                 <ele>215.900000</ele>
             </trkpt>
-            <trkpt lon="-77.560044" lat="43.022496">
+            <trkpt lon="-77.559956" lat="43.022541">
+                <ele>216.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_eesker</name>
+        <desc>{"advisories": ["oneWaySkiing"]}</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.559956" lat="43.022541">
                 <ele>216.600000</ele>
             </trkpt>
             <trkpt lon="-77.559710" lat="43.022629">
@@ -1783,11 +2367,11 @@
         <name>mponds_grasslands</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.574108" lat="43.023857">
+            <trkpt lon="-77.573962" lat="43.023872">
                 <ele>223.000000</ele>
             </trkpt>
             <trkpt lon="-77.574678" lat="43.024146">
@@ -1802,6 +2386,19 @@
             <trkpt lon="-77.575698" lat="43.024586">
                 <ele>225.100000</ele>
             </trkpt>
+            <trkpt lon="-77.575798" lat="43.024706">
+                <ele>225.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.575798" lat="43.024706">
                 <ele>225.500000</ele>
             </trkpt>
@@ -1829,7 +2426,20 @@
             <trkpt lon="-77.578515" lat="43.024346">
                 <ele>227.500000</ele>
             </trkpt>
-            <trkpt lon="-77.578853" lat="43.024345">
+            <trkpt lon="-77.579031" lat="43.024325">
+                <ele>227.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.579031" lat="43.024325">
                 <ele>227.500000</ele>
             </trkpt>
             <trkpt lon="-77.579148" lat="43.024316">
@@ -1841,6 +2451,19 @@
             <trkpt lon="-77.579658" lat="43.024456">
                 <ele>223.600000</ele>
             </trkpt>
+            <trkpt lon="-77.579968" lat="43.024596">
+                <ele>222.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.579968" lat="43.024596">
                 <ele>222.600000</ele>
             </trkpt>
@@ -1856,6 +2479,19 @@
             <trkpt lon="-77.579958" lat="43.025466">
                 <ele>216.500000</ele>
             </trkpt>
+            <trkpt lon="-77.579823" lat="43.025615">
+                <ele>215.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.579823" lat="43.025615">
                 <ele>215.800000</ele>
             </trkpt>
@@ -1900,76 +2536,6 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.579000" lat="43.026688">
-                <ele>218.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.579001" lat="43.026546">
-                <ele>219.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.578336" lat="43.026621">
-                <ele>221.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.577706" lat="43.026611">
-                <ele>223.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.577580" lat="43.026630">
-                <ele>223.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.577460" lat="43.026620">
-                <ele>222.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.577330" lat="43.026650">
-                <ele>222.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.577220" lat="43.026600">
-                <ele>222.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.577150" lat="43.026510">
-                <ele>222.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.577003" lat="43.026419">
-                <ele>222.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.576853" lat="43.026409">
-                <ele>221.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.576549" lat="43.026583">
-                <ele>220.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.576319" lat="43.026593">
-                <ele>219.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.576011" lat="43.026548">
-                <ele>219.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.575893" lat="43.026434">
-                <ele>219.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.575810" lat="43.026170">
-                <ele>218.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.575860" lat="43.025670">
-                <ele>219.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.575810" lat="43.025410">
-                <ele>220.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.575863" lat="43.025068">
-                <ele>220.635703</ele>
-            </trkpt>
-            <trkpt lon="-77.575802" lat="43.024714">
-                <ele>220.700000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>mponds_grasslands</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
             <trkpt lon="-77.577595" lat="43.030847">
                 <ele>213.900000</ele>
             </trkpt>
@@ -2000,6 +2566,22 @@
             <trkpt lon="-77.579316" lat="43.030765">
                 <ele>210.300000</ele>
             </trkpt>
+            <trkpt lon="-77.579723" lat="43.029848">
+                <ele>212.770146</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.579723" lat="43.029848">
+                <ele>212.770146</ele>
+            </trkpt>
             <trkpt lon="-77.579902" lat="43.029468">
                 <ele>213.800000</ele>
             </trkpt>
@@ -2015,6 +2597,19 @@
             <trkpt lon="-77.580825" lat="43.026683">
                 <ele>212.100000</ele>
             </trkpt>
+            <trkpt lon="-77.580749" lat="43.026573">
+                <ele>212.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.580749" lat="43.026573">
                 <ele>212.500000</ele>
             </trkpt>
@@ -2052,6 +2647,19 @@
             <trkpt lon="-77.577516" lat="43.029228">
                 <ele>220.700000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.577516" lat="43.029228">
+                <ele>220.700000</ele>
+            </trkpt>
             <trkpt lon="-77.577396" lat="43.029158">
                 <ele>220.300000</ele>
             </trkpt>
@@ -2064,52 +2672,13 @@
             <trkpt lon="-77.576492" lat="43.028881">
                 <ele>215.300000</ele>
             </trkpt>
-            <trkpt lon="-77.576627" lat="43.028723">
-                <ele>216.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.576710" lat="43.028480">
-                <ele>216.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.576720" lat="43.028270">
-                <ele>217.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.576870" lat="43.028240">
-                <ele>217.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.577960" lat="43.028400">
-                <ele>218.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.578160" lat="43.028280">
-                <ele>218.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.578103" lat="43.027970">
-                <ele>219.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.578120" lat="43.027820">
-                <ele>220.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.578100" lat="43.027630">
-                <ele>220.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.578290" lat="43.026960">
-                <ele>220.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.578380" lat="43.026840">
-                <ele>220.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.578800" lat="43.026790">
-                <ele>220.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.578990" lat="43.026700">
-                <ele>219.600000</ele>
-            </trkpt>
         </trkseg>
     </trk>
     <trk>
         <name>mponds_nmeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2146,6 +2715,22 @@
             <trkpt lon="-77.553850" lat="43.030440">
                 <ele>225.400000</ele>
             </trkpt>
+            <trkpt lon="-77.553761" lat="43.030629">
+                <ele>225.649733</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.553761" lat="43.030629">
+                <ele>225.649733</ele>
+            </trkpt>
             <trkpt lon="-77.553220" lat="43.031180">
                 <ele>226.500000</ele>
             </trkpt>
@@ -2164,6 +2749,19 @@
             <trkpt lon="-77.552320" lat="43.031390">
                 <ele>229.000000</ele>
             </trkpt>
+            <trkpt lon="-77.552080" lat="43.031530">
+                <ele>229.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.552080" lat="43.031530">
                 <ele>229.200000</ele>
             </trkpt>
@@ -2188,10 +2786,50 @@
             <trkpt lon="-77.552610" lat="43.032120">
                 <ele>222.900000</ele>
             </trkpt>
+            <trkpt lon="-77.553344" lat="43.032118">
+                <ele>220.214078</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.553344" lat="43.032118">
+                <ele>220.214078</ele>
+            </trkpt>
+            <trkpt lon="-77.555616" lat="43.032130">
+                <ele>211.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.555616" lat="43.032130">
                 <ele>211.900000</ele>
             </trkpt>
             <trkpt lon="-77.555699" lat="43.032217"></trkpt>
+            <trkpt lon="-77.555724" lat="43.033255"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.555724" lat="43.033255"></trkpt>
             <trkpt lon="-77.555597" lat="43.033346"></trkpt>
             <trkpt lon="-77.555586" lat="43.033519"></trkpt>
@@ -2205,16 +2843,55 @@
             <trkpt lon="-77.553902" lat="43.033180"></trkpt>
             <trkpt lon="-77.553763" lat="43.033161"></trkpt>
             <trkpt lon="-77.553391" lat="43.033195"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.553391" lat="43.033195"></trkpt>
             <trkpt lon="-77.553305" lat="43.033274"></trkpt>
             <trkpt lon="-77.553171" lat="43.033500"></trkpt>
             <trkpt lon="-77.553073" lat="43.033600"></trkpt>
             <trkpt lon="-77.552825" lat="43.033752"></trkpt>
             <trkpt lon="-77.552175" lat="43.033785"></trkpt>
+            <trkpt lon="-77.551176" lat="43.033792"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.551176" lat="43.033792"></trkpt>
             <trkpt lon="-77.550658" lat="43.033776">
                 <ele>225.300000</ele>
             </trkpt>
             <trkpt lon="-77.550160" lat="43.033510">
                 <ele>225.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.549843" lat="43.033444">
+                <ele>226.079123</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.549843" lat="43.033444">
+                <ele>226.079123</ele>
             </trkpt>
             <trkpt lon="-77.549340" lat="43.033300">
                 <ele>226.700000</ele>
@@ -2222,7 +2899,20 @@
             <trkpt lon="-77.549210" lat="43.033230">
                 <ele>227.600000</ele>
             </trkpt>
-            <trkpt lon="-77.548936" lat="43.032998">
+            <trkpt lon="-77.548961" lat="43.033024">
+                <ele>230.400000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.548961" lat="43.033024">
                 <ele>230.400000</ele>
             </trkpt>
             <trkpt lon="-77.548825" lat="43.032855">
@@ -2233,6 +2923,22 @@
             </trkpt>
             <trkpt lon="-77.548750" lat="43.032290">
                 <ele>234.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.548891" lat="43.031892">
+                <ele>235.207861</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.548891" lat="43.031892">
+                <ele>235.207861</ele>
             </trkpt>
             <trkpt lon="-77.548960" lat="43.031500">
                 <ele>235.600000</ele>
@@ -2248,6 +2954,22 @@
             </trkpt>
             <trkpt lon="-77.549220" lat="43.030660">
                 <ele>232.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.549371" lat="43.030504">
+                <ele>231.560348</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_nmeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.549371" lat="43.030504">
+                <ele>231.560348</ele>
             </trkpt>
             <trkpt lon="-77.549620" lat="43.030270">
                 <ele>230.100000</ele>
@@ -2297,7 +3019,7 @@
         <name>mponds_pine_woods</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2334,6 +3056,19 @@
             <trkpt lon="-77.548347" lat="43.034698">
                 <ele>237.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_pine_woods</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.548347" lat="43.034698">
+                <ele>237.800000</ele>
+            </trkpt>
             <trkpt lon="-77.548179" lat="43.034938">
                 <ele>238.000000</ele>
             </trkpt>
@@ -2358,6 +3093,19 @@
             <trkpt lon="-77.548084" lat="43.036233">
                 <ele>239.000000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_pine_woods</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.548084" lat="43.036233">
+                <ele>239.000000</ele>
+            </trkpt>
             <trkpt lon="-77.548280" lat="43.036313">
                 <ele>237.700000</ele>
             </trkpt>
@@ -2367,6 +3115,19 @@
             <trkpt lon="-77.549360" lat="43.036343">
                 <ele>230.100000</ele>
             </trkpt>
+            <trkpt lon="-77.549751" lat="43.036315">
+                <ele>228.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_pine_woods</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.549751" lat="43.036315">
                 <ele>228.300000</ele>
             </trkpt>
@@ -2394,6 +3155,19 @@
             <trkpt lon="-77.555060" lat="43.036233">
                 <ele>215.100000</ele>
             </trkpt>
+            <trkpt lon="-77.555199" lat="43.036278">
+                <ele>214.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_pine_woods</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.555199" lat="43.036278">
                 <ele>214.700000</ele>
             </trkpt>
@@ -2450,6 +3224,19 @@
             <trkpt lon="-77.551368" lat="43.035099">
                 <ele>227.800000</ele>
             </trkpt>
+            <trkpt lon="-77.551231" lat="43.035087">
+                <ele>228.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_pine_woods</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.551231" lat="43.035087">
                 <ele>228.300000</ele>
             </trkpt>
@@ -2530,11 +3317,22 @@
         <name>mponds_quaker</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
             <trkpt lon="-77.571104" lat="43.012341"></trkpt>
+            <trkpt lon="-77.571948" lat="43.013733"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_quaker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.571948" lat="43.013733"></trkpt>
             <trkpt lon="-77.572032" lat="43.013979"></trkpt>
             <trkpt lon="-77.572008" lat="43.014873"></trkpt>
@@ -2596,7 +3394,7 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2612,7 +3410,20 @@
             <trkpt lon="-77.567057" lat="43.011263">
                 <ele>217.000000</ele>
             </trkpt>
-            <trkpt lon="-77.566988" lat="43.010961">
+            <trkpt lon="-77.566926" lat="43.011009">
+                <ele>217.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.566926" lat="43.011009">
                 <ele>217.000000</ele>
             </trkpt>
             <trkpt lon="-77.566822" lat="43.010917">
@@ -2648,13 +3459,10 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.563871" lat="43.009649">
-                <ele>206.000000</ele>
-            </trkpt>
             <trkpt lon="-77.563460" lat="43.009700">
                 <ele>206.000000</ele>
             </trkpt>
@@ -2664,7 +3472,20 @@
             <trkpt lon="-77.563470" lat="43.008980">
                 <ele>206.000000</ele>
             </trkpt>
-            <trkpt lon="-77.563520" lat="43.008620">
+            <trkpt lon="-77.563496" lat="43.008672">
+                <ele>206.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563496" lat="43.008672">
                 <ele>206.100000</ele>
             </trkpt>
             <trkpt lon="-77.563610" lat="43.008450">
@@ -2694,7 +3515,7 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2719,6 +3540,19 @@
             <trkpt lon="-77.569266" lat="43.010819">
                 <ele>201.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.569266" lat="43.010819">
+                <ele>201.500000</ele>
+            </trkpt>
             <trkpt lon="-77.569675" lat="43.010891">
                 <ele>201.200000</ele>
             </trkpt>
@@ -2737,7 +3571,7 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2756,7 +3590,20 @@
             <trkpt lon="-77.568009" lat="43.003444">
                 <ele>198.300000</ele>
             </trkpt>
-            <trkpt lon="-77.567967" lat="43.003785">
+            <trkpt lon="-77.567990" lat="43.003827">
+                <ele>198.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.567990" lat="43.003827">
                 <ele>198.200000</ele>
             </trkpt>
             <trkpt lon="-77.567988" lat="43.004116">
@@ -2813,6 +3660,22 @@
             <trkpt lon="-77.568031" lat="43.008637">
                 <ele>201.200000</ele>
             </trkpt>
+            <trkpt lon="-77.567846" lat="43.008777">
+                <ele>201.638501</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.567846" lat="43.008777">
+                <ele>201.638501</ele>
+            </trkpt>
             <trkpt lon="-77.567733" lat="43.008914">
                 <ele>202.000000</ele>
             </trkpt>
@@ -2831,7 +3694,7 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2871,6 +3734,19 @@
             <trkpt lon="-77.567301" lat="43.001413">
                 <ele>195.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.567301" lat="43.001413">
+                <ele>195.800000</ele>
+            </trkpt>
             <trkpt lon="-77.567315" lat="43.001617">
                 <ele>195.500000</ele>
             </trkpt>
@@ -2883,7 +3759,7 @@
         <name>mponds_smeadow</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -2944,16 +3820,55 @@
             <trkpt lon="-77.562330" lat="43.004160">
                 <ele>202.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.562330" lat="43.004160">
+                <ele>202.800000</ele>
+            </trkpt>
             <trkpt lon="-77.562360" lat="43.004020">
                 <ele>203.000000</ele>
             </trkpt>
             <trkpt lon="-77.562100" lat="43.003320">
                 <ele>202.200000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.562100" lat="43.003320">
+                <ele>202.200000</ele>
+            </trkpt>
             <trkpt lon="-77.561870" lat="43.003030">
                 <ele>201.600000</ele>
             </trkpt>
-            <trkpt lon="-77.561710" lat="43.002240">
+            <trkpt lon="-77.561681" lat="43.002285">
+                <ele>199.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_smeadow</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561681" lat="43.002285">
                 <ele>199.700000</ele>
             </trkpt>
             <trkpt lon="-77.561710" lat="43.002090">
@@ -3007,7 +3922,7 @@
         <name>mponds_swamp</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3062,9 +3977,33 @@
             <trkpt lon="-77.578559" lat="43.015412">
                 <ele>206.300000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_swamp</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.578559" lat="43.015412">
+                <ele>206.300000</ele>
+            </trkpt>
             <trkpt lon="-77.578576" lat="43.015410"></trkpt>
             <trkpt lon="-77.578675" lat="43.015411"></trkpt>
             <trkpt lon="-77.578882" lat="43.015486"></trkpt>
+            <trkpt lon="-77.579687" lat="43.015566"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_swamp</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.579687" lat="43.015566"></trkpt>
             <trkpt lon="-77.579762" lat="43.015604"></trkpt>
             <trkpt lon="-77.579790" lat="43.015680"></trkpt>
@@ -3126,8 +4065,14 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.555585" lat="43.015848">
+            <trkpt lon="-77.555465" lat="43.015962">
                 <ele>231.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.555764" lat="43.016032">
+                <ele>232.209047</ele>
+            </trkpt>
+            <trkpt lon="-77.555996" lat="43.016047">
+                <ele>232.437033</ele>
             </trkpt>
             <trkpt lon="-77.556262" lat="43.016015">
                 <ele>232.700000</ele>
@@ -3170,7 +4115,7 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.560265" lat="43.021765"></trkpt>
+            <trkpt lon="-77.560230" lat="43.021750"></trkpt>
             <trkpt lon="-77.560174" lat="43.021964"></trkpt>
             <trkpt lon="-77.560028" lat="43.022391"></trkpt>
             <trkpt lon="-77.559938" lat="43.022534"></trkpt>
@@ -3559,7 +4504,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3593,6 +4538,19 @@
             <trkpt lon="-77.571148" lat="43.025959">
                 <ele>214.900000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.571148" lat="43.025959">
+                <ele>214.900000</ele>
+            </trkpt>
             <trkpt lon="-77.571210" lat="43.025910">
                 <ele>215.100000</ele>
             </trkpt>
@@ -3605,7 +4563,7 @@
             <trkpt lon="-77.571500" lat="43.025680">
                 <ele>215.400000</ele>
             </trkpt>
-            <trkpt lon="-77.571719" lat="43.025465">
+            <trkpt lon="-77.571621" lat="43.025382">
                 <ele>215.300000</ele>
             </trkpt>
         </trkseg>
@@ -3696,7 +4654,7 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.551640" lat="43.030580">
+            <trkpt lon="-77.551828" lat="43.030608">
                 <ele>232.900000</ele>
             </trkpt>
             <trkpt lon="-77.550394" lat="43.030589">
@@ -3865,7 +4823,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3881,6 +4839,19 @@
             <trkpt lon="-77.571400" lat="43.029240">
                 <ele>218.100000</ele>
             </trkpt>
+            <trkpt lon="-77.571410" lat="43.029380">
+                <ele>216.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.571410" lat="43.029380">
                 <ele>216.900000</ele>
             </trkpt>
@@ -4234,7 +5205,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4262,6 +5233,19 @@
             <trkpt lon="-77.575777" lat="43.027977">
                 <ele>213.100000</ele>
             </trkpt>
+            <trkpt lon="-77.575610" lat="43.027880">
+                <ele>212.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.575610" lat="43.027880">
                 <ele>212.900000</ele>
             </trkpt>
@@ -4304,80 +5288,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.574280" lat="43.027530">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.574320" lat="43.027630">
-                <ele>212.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.574337" lat="43.027795">
-                <ele>213.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.574358" lat="43.027910">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574417" lat="43.028105">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574390" lat="43.028260">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574180" lat="43.028370">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573940" lat="43.028390">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573780" lat="43.028420">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573730" lat="43.028550">
-                <ele>213.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573680" lat="43.028740">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573600" lat="43.028850">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573520" lat="43.028980">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573480" lat="43.029110">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573386" lat="43.029247">
-                <ele>214.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573311" lat="43.029351">
-                <ele>215.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.573331" lat="43.029451">
-                <ele>215.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.573331" lat="43.029561">
-                <ele>216.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573311" lat="43.029601">
-                <ele>216.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573301" lat="43.029701">
-                <ele>217.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.573201" lat="43.029791">
-                <ele>218.000000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>mponds_unnamed_trails</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4386,7 +5297,18 @@
             <trkpt lon="-77.553176" lat="43.032419"></trkpt>
             <trkpt lon="-77.553020" lat="43.032593"></trkpt>
             <trkpt lon="-77.552692" lat="43.032753"></trkpt>
-            <trkpt lon="-77.551952" lat="43.032901"></trkpt>
+            <trkpt lon="-77.551848" lat="43.032918"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.551848" lat="43.032918"></trkpt>
             <trkpt lon="-77.551593" lat="43.032924"></trkpt>
             <trkpt lon="-77.550715" lat="43.032938"></trkpt>
             <trkpt lon="-77.550538" lat="43.033014"></trkpt>
@@ -4499,7 +5421,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4557,6 +5479,19 @@
             <trkpt lon="-77.547660" lat="43.032890">
                 <ele>232.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.547660" lat="43.032890">
+                <ele>232.500000</ele>
+            </trkpt>
             <trkpt lon="-77.547730" lat="43.033010">
                 <ele>232.500000</ele>
             </trkpt>
@@ -4575,89 +5510,25 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.574253" lat="43.027267">
-                <ele>212.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.574280" lat="43.027530">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.574320" lat="43.027630">
-                <ele>212.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.574337" lat="43.027795">
-                <ele>213.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.574358" lat="43.027910">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574417" lat="43.028105">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574390" lat="43.028260">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574180" lat="43.028370">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573940" lat="43.028390">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573780" lat="43.028420">
-                <ele>213.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573730" lat="43.028550">
-                <ele>213.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573680" lat="43.028740">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573600" lat="43.028850">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573520" lat="43.028980">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573480" lat="43.029110">
-                <ele>214.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.573386" lat="43.029247">
-                <ele>214.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573311" lat="43.029351">
-                <ele>215.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.573331" lat="43.029451">
-                <ele>215.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.573331" lat="43.029561">
-                <ele>216.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573311" lat="43.029601">
-                <ele>216.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573301" lat="43.029701">
-                <ele>217.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.573201" lat="43.029791">
-                <ele>218.000000</ele>
-            </trkpt>
+            <trkpt lon="-77.555738" lat="43.030587"></trkpt>
+            <trkpt lon="-77.553759" lat="43.030615"></trkpt>
         </trkseg>
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.555738" lat="43.030587"></trkpt>
+            <trkpt lon="-77.553759" lat="43.030615"></trkpt>
             <trkpt lon="-77.552351" lat="43.030633"></trkpt>
-            <trkpt lon="-77.551654" lat="43.030588"></trkpt>
+            <trkpt lon="-77.551842" lat="43.030616"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -4734,7 +5605,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4780,6 +5651,19 @@
             <trkpt lon="-77.572250" lat="43.025640">
                 <ele>213.100000</ele>
             </trkpt>
+            <trkpt lon="-77.572170" lat="43.025760">
+                <ele>213.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.572170" lat="43.025760">
                 <ele>213.500000</ele>
             </trkpt>
@@ -4874,7 +5758,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4914,7 +5798,20 @@
             <trkpt lon="-77.582298" lat="43.024265">
                 <ele>213.500000</ele>
             </trkpt>
-            <trkpt lon="-77.582613" lat="43.024215">
+            <trkpt lon="-77.582641" lat="43.024195">
+                <ele>214.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.582641" lat="43.024195">
                 <ele>214.000000</ele>
             </trkpt>
             <trkpt lon="-77.582705" lat="43.024138">
@@ -4944,7 +5841,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4957,6 +5854,19 @@
             <trkpt lon="-77.547439" lat="43.036186">
                 <ele>246.700000</ele>
             </trkpt>
+            <trkpt lon="-77.546684" lat="43.035972">
+                <ele>247.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.546684" lat="43.035972">
                 <ele>247.800000</ele>
             </trkpt>
@@ -4993,7 +5903,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5003,6 +5913,28 @@
             <trkpt lon="-77.558883" lat="43.021607"></trkpt>
             <trkpt lon="-77.559393" lat="43.021502"></trkpt>
             <trkpt lon="-77.559850" lat="43.021518"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.559850" lat="43.021518"></trkpt>
+            <trkpt lon="-77.560226" lat="43.021719"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.560226" lat="43.021719"></trkpt>
             <trkpt lon="-77.560452" lat="43.021953"></trkpt>
             <trkpt lon="-77.560463" lat="43.022189"></trkpt>
@@ -5037,95 +5969,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.575849" lat="43.025080">
-                <ele>220.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.575580" lat="43.025150">
-                <ele>221.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.575330" lat="43.025150">
-                <ele>221.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.575120" lat="43.025200">
-                <ele>220.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574950" lat="43.025270">
-                <ele>219.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574710" lat="43.025150">
-                <ele>218.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.574580" lat="43.025140">
-                <ele>217.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.574460" lat="43.025230">
-                <ele>217.000000</ele>
-            </trkpt>
-            <trkpt lon="-77.574290" lat="43.025390">
-                <ele>216.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.574100" lat="43.025460">
-                <ele>215.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573940" lat="43.025470">
-                <ele>214.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.573810" lat="43.025530">
-                <ele>214.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.573720" lat="43.025610">
-                <ele>213.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.573650" lat="43.025700">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573650" lat="43.025770">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573650" lat="43.025850">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.573810" lat="43.025960">
-                <ele>212.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573930" lat="43.026090">
-                <ele>212.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.574030" lat="43.026250">
-                <ele>212.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.574070" lat="43.026360">
-                <ele>212.200000</ele>
-            </trkpt>
-            <trkpt lon="-77.574100" lat="43.026540">
-                <ele>212.300000</ele>
-            </trkpt>
-            <trkpt lon="-77.574190" lat="43.026740">
-                <ele>212.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.574200" lat="43.026840">
-                <ele>212.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574220" lat="43.026990">
-                <ele>212.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574260" lat="43.027110">
-                <ele>212.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.574250" lat="43.027260">
-                <ele>212.900000</ele>
-            </trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>mponds_unnamed_trails</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5189,6 +6033,19 @@
             <trkpt lon="-77.563150" lat="43.023187">
                 <ele>208.200000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563150" lat="43.023187">
+                <ele>208.200000</ele>
+            </trkpt>
             <trkpt lon="-77.563260" lat="43.023277">
                 <ele>207.900000</ele>
             </trkpt>
@@ -5210,7 +6067,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5247,7 +6104,20 @@
             <trkpt lon="-77.550130" lat="43.032300">
                 <ele>228.800000</ele>
             </trkpt>
-            <trkpt lon="-77.550020" lat="43.032220">
+            <trkpt lon="-77.549999" lat="43.032165">
+                <ele>229.300000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.549999" lat="43.032165">
                 <ele>229.300000</ele>
             </trkpt>
             <trkpt lon="-77.549920" lat="43.032090">
@@ -5301,7 +6171,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5326,6 +6196,19 @@
             <trkpt lon="-77.557090" lat="43.030350">
                 <ele>206.000000</ele>
             </trkpt>
+            <trkpt lon="-77.557200" lat="43.030510">
+                <ele>205.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.557200" lat="43.030510">
                 <ele>205.500000</ele>
             </trkpt>
@@ -5383,7 +6266,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5395,6 +6278,17 @@
             <trkpt lon="-77.562133" lat="43.024729"></trkpt>
             <trkpt lon="-77.562079" lat="43.025383"></trkpt>
             <trkpt lon="-77.561818" lat="43.025634"></trkpt>
+            <trkpt lon="-77.561490" lat="43.025834"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.561490" lat="43.025834"></trkpt>
             <trkpt lon="-77.561538" lat="43.026016"></trkpt>
             <trkpt lon="-77.561970" lat="43.026394"></trkpt>
@@ -5414,6 +6308,17 @@
             <trkpt lon="-77.568166" lat="43.013135"></trkpt>
             <trkpt lon="-77.568194" lat="43.013681"></trkpt>
             <trkpt lon="-77.568132" lat="43.014120"></trkpt>
+            <trkpt lon="-77.567258" lat="43.014125"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.567258" lat="43.014125"></trkpt>
             <trkpt lon="-77.567208" lat="43.012562"></trkpt>
             <trkpt lon="-77.567289" lat="43.012446"></trkpt>
@@ -5541,7 +6446,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5578,7 +6483,20 @@
             <trkpt lon="-77.556750" lat="43.011440">
                 <ele>211.500000</ele>
             </trkpt>
-            <trkpt lon="-77.556650" lat="43.011350">
+            <trkpt lon="-77.556624" lat="43.011410">
+                <ele>211.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556624" lat="43.011410">
                 <ele>211.000000</ele>
             </trkpt>
             <trkpt lon="-77.556670" lat="43.011150">
@@ -5638,7 +6556,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5675,6 +6593,19 @@
             <trkpt lon="-77.564789" lat="43.004279">
                 <ele>203.100000</ele>
             </trkpt>
+            <trkpt lon="-77.564789" lat="43.004369">
+                <ele>203.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.564789" lat="43.004369">
                 <ele>203.700000</ele>
             </trkpt>
@@ -5721,7 +6652,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5749,7 +6680,20 @@
             <trkpt lon="-77.561540" lat="43.007750">
                 <ele>204.600000</ele>
             </trkpt>
-            <trkpt lon="-77.561180" lat="43.007710">
+            <trkpt lon="-77.561322" lat="43.007711">
+                <ele>204.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561322" lat="43.007711">
                 <ele>204.700000</ele>
             </trkpt>
             <trkpt lon="-77.561050" lat="43.007750">
@@ -5867,7 +6811,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5916,6 +6860,19 @@
             <trkpt lon="-77.573384" lat="43.029242">
                 <ele>209.300000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573384" lat="43.029242">
+                <ele>209.300000</ele>
+            </trkpt>
             <trkpt lon="-77.572199" lat="43.028750">
                 <ele>219.700000</ele>
             </trkpt>
@@ -5958,7 +6915,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -5980,6 +6937,19 @@
             <trkpt lon="-77.568450" lat="43.024940">
                 <ele>199.400000</ele>
             </trkpt>
+            <trkpt lon="-77.568327" lat="43.024854">
+                <ele>198.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.568327" lat="43.024854">
                 <ele>198.900000</ele>
             </trkpt>
@@ -6052,6 +7022,19 @@
             <trkpt lon="-77.564080" lat="43.023790">
                 <ele>200.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564080" lat="43.023790">
+                <ele>200.500000</ele>
+            </trkpt>
             <trkpt lon="-77.564000" lat="43.023950">
                 <ele>200.500000</ele>
             </trkpt>
@@ -6115,7 +7098,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6287,6 +7270,19 @@
             <trkpt lon="-77.582061" lat="43.015052">
                 <ele>221.700000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.582061" lat="43.015052">
+                <ele>221.700000</ele>
+            </trkpt>
             <trkpt lon="-77.581909" lat="43.015171">
                 <ele>221.900000</ele>
             </trkpt>
@@ -6338,7 +7334,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6408,6 +7404,22 @@
             <trkpt lon="-77.564280" lat="43.038040">
                 <ele>205.900000</ele>
             </trkpt>
+            <trkpt lon="-77.564560" lat="43.037904">
+                <ele>206.638227</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564560" lat="43.037904">
+                <ele>206.638227</ele>
+            </trkpt>
             <trkpt lon="-77.564800" lat="43.037770">
                 <ele>207.300000</ele>
             </trkpt>
@@ -6448,7 +7460,7 @@
         <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6466,8 +7478,32 @@
             <trkpt lon="-77.554920" lat="43.006554"></trkpt>
             <trkpt lon="-77.554894" lat="43.006459"></trkpt>
             <trkpt lon="-77.554974" lat="43.006354"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <desc>Length: 2.407 km (1.496 mi)</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554974" lat="43.006354"></trkpt>
             <trkpt lon="-77.555301" lat="43.006263"></trkpt>
             <trkpt lon="-77.556428" lat="43.006318"></trkpt>
+            <trkpt lon="-77.556723" lat="43.006263"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <desc>Length: 2.407 km (1.496 mi)</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.556723" lat="43.006263"></trkpt>
             <trkpt lon="-77.556878" lat="43.006059"></trkpt>
             <trkpt lon="-77.557431" lat="43.006079"></trkpt>
@@ -6495,6 +7531,18 @@
             <trkpt lon="-77.557946" lat="43.002215"></trkpt>
             <trkpt lon="-77.557147" lat="43.002297"></trkpt>
             <trkpt lon="-77.557066" lat="43.002215"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <desc>Length: 2.407 km (1.496 mi)</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557066" lat="43.002215"></trkpt>
             <trkpt lon="-77.557034" lat="43.002109"></trkpt>
             <trkpt lon="-77.557109" lat="43.002003"></trkpt>
             <trkpt lon="-77.557254" lat="43.001928"></trkpt>
@@ -6503,6 +7551,18 @@
             <trkpt lon="-77.558552" lat="42.999614"></trkpt>
             <trkpt lon="-77.558788" lat="42.999265"></trkpt>
             <trkpt lon="-77.558869" lat="42.999041"></trkpt>
+            <trkpt lon="-77.558746" lat="42.998825"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <desc>Length: 2.407 km (1.496 mi)</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.558799" lat="42.998927"></trkpt>
             <trkpt lon="-77.557098" lat="42.999904"></trkpt>
             <trkpt lon="-77.556948" lat="43.000057"></trkpt>
@@ -6517,6 +7577,18 @@
             <trkpt lon="-77.556449" lat="43.001893"></trkpt>
             <trkpt lon="-77.556240" lat="43.002046"></trkpt>
             <trkpt lon="-77.556224" lat="43.002113"></trkpt>
+            <trkpt lon="-77.556256" lat="43.002266"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <desc>Length: 2.407 km (1.496 mi)</desc>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.556256" lat="43.002266"></trkpt>
             <trkpt lon="-77.556229" lat="43.002360"></trkpt>
             <trkpt lon="-77.556229" lat="43.002521"></trkpt>
@@ -6536,7 +7608,7 @@
         <name>mponds_unnamed_trails</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6642,6 +7714,19 @@
             <trkpt lon="-77.564450" lat="43.021110">
                 <ele>204.800000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564450" lat="43.021110">
+                <ele>204.800000</ele>
+            </trkpt>
             <trkpt lon="-77.565030" lat="43.020550">
                 <ele>205.000000</ele>
             </trkpt>
@@ -6672,6 +7757,19 @@
             <trkpt lon="-77.567020" lat="43.017890">
                 <ele>199.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.567020" lat="43.017890">
+                <ele>199.500000</ele>
+            </trkpt>
             <trkpt lon="-77.567170" lat="43.017780">
                 <ele>199.300000</ele>
             </trkpt>
@@ -6696,12 +7794,16 @@
             <trkpt lon="-77.568320" lat="43.015130">
                 <ele>203.900000</ele>
             </trkpt>
-            <trkpt lon="-77.569820" lat="43.015440">
-                <ele>204.400000</ele>
-            </trkpt>
-            <trkpt lon="-77.570240" lat="43.015670">
-                <ele>203.000000</ele>
-            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.570330" lat="43.015770">
                 <ele>202.300000</ele>
             </trkpt>
@@ -6929,7 +8031,20 @@
             <trkpt lon="-77.570440" lat="43.026450">
                 <ele>208.200000</ele>
             </trkpt>
-            <trkpt lon="-77.570150" lat="43.026270">
+            <trkpt lon="-77.570049" lat="43.026267">
+                <ele>205.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.570049" lat="43.026267">
                 <ele>205.800000</ele>
             </trkpt>
             <trkpt lon="-77.569790" lat="43.026170">
@@ -6947,9 +8062,16 @@
             <trkpt lon="-77.569466" lat="43.025461">
                 <ele>206.353488</ele>
             </trkpt>
-            <trkpt lon="-77.569741" lat="43.025316">
-                <ele>206.900000</ele>
-            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.571151" lat="43.025962">
                 <ele>212.700000</ele>
             </trkpt>
@@ -6968,7 +8090,7 @@
         <name>mponds_wesker</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6999,50 +8121,8 @@
             <trkpt lon="-77.571205" lat="43.028339">
                 <ele>219.500000</ele>
             </trkpt>
-            <trkpt lon="-77.571517" lat="43.028793">
+            <trkpt lon="-77.571448" lat="43.028712">
                 <ele>220.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.571861" lat="43.029029">
-                <ele>221.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.572860" lat="43.029571">
-                <ele>219.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.573364" lat="43.029922">
-                <ele>216.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.573516" lat="43.030002">
-                <ele>216.800000</ele>
-            </trkpt>
-            <trkpt lon="-77.573669" lat="43.030120">
-                <ele>216.700000</ele>
-            </trkpt>
-            <trkpt lon="-77.573814" lat="43.030197">
-                <ele>216.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.573936" lat="43.030296">
-                <ele>215.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.574050" lat="43.030418">
-                <ele>214.600000</ele>
-            </trkpt>
-            <trkpt lon="-77.574615" lat="43.030868">
-                <ele>213.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.574874" lat="43.031131">
-                <ele>214.900000</ele>
-            </trkpt>
-            <trkpt lon="-77.574966" lat="43.031257">
-                <ele>214.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.575202" lat="43.031467">
-                <ele>214.500000</ele>
-            </trkpt>
-            <trkpt lon="-77.575645" lat="43.031723">
-                <ele>216.100000</ele>
-            </trkpt>
-            <trkpt lon="-77.575758" lat="43.031823">
-                <ele>216.600000</ele>
             </trkpt>
         </trkseg>
     </trk>
@@ -7087,6 +8167,19 @@
             <trkpt lon="-77.573760" lat="43.030800">
                 <ele>220.500000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573760" lat="43.030800">
+                <ele>220.500000</ele>
+            </trkpt>
             <trkpt lon="-77.573680" lat="43.030720">
                 <ele>220.800000</ele>
             </trkpt>
@@ -7099,6 +8192,19 @@
             <trkpt lon="-77.572990" lat="43.030350">
                 <ele>220.800000</ele>
             </trkpt>
+            <trkpt lon="-77.572650" lat="43.030270">
+                <ele>220.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.572650" lat="43.030270">
                 <ele>220.800000</ele>
             </trkpt>
@@ -7117,6 +8223,19 @@
             <trkpt lon="-77.571409" lat="43.029375">
                 <ele>219.400000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.571409" lat="43.029375">
+                <ele>219.400000</ele>
+            </trkpt>
             <trkpt lon="-77.571180" lat="43.029190">
                 <ele>219.500000</ele>
             </trkpt>
@@ -7126,6 +8245,19 @@
             <trkpt lon="-77.570580" lat="43.028590">
                 <ele>216.100000</ele>
             </trkpt>
+            <trkpt lon="-77.570480" lat="43.028420">
+                <ele>215.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.570480" lat="43.028420">
                 <ele>215.200000</ele>
             </trkpt>
@@ -7147,7 +8279,7 @@
         <name>mponds_wesker</name>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -7166,6 +8298,19 @@
             <trkpt lon="-77.575717" lat="43.031944">
                 <ele>217.300000</ele>
             </trkpt>
+            <trkpt lon="-77.575782" lat="43.031833">
+                <ele>217.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.575782" lat="43.031833">
                 <ele>217.000000</ele>
             </trkpt>
@@ -7205,6 +8350,509 @@
             <trkpt lon="-77.577000" lat="43.034403">
                 <ele>205.600000</ele>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.576492" lat="43.028881">
+                <ele>215.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.576627" lat="43.028723">
+                <ele>216.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.576710" lat="43.028480">
+                <ele>216.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.576720" lat="43.028270">
+                <ele>217.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.576870" lat="43.028240">
+                <ele>217.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.577960" lat="43.028400">
+                <ele>218.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.578160" lat="43.028280">
+                <ele>218.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.578103" lat="43.027970">
+                <ele>219.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.578120" lat="43.027820">
+                <ele>220.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.578100" lat="43.027630">
+                <ele>220.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.578290" lat="43.026960">
+                <ele>220.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.578380" lat="43.026840">
+                <ele>220.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.578800" lat="43.026790">
+                <ele>220.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.578990" lat="43.026700">
+                <ele>219.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.579000" lat="43.026688">
+                <ele>218.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.579001" lat="43.026546">
+                <ele>219.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.579001" lat="43.026546">
+                <ele>219.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.578336" lat="43.026621">
+                <ele>221.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.577706" lat="43.026611">
+                <ele>223.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.577580" lat="43.026630">
+                <ele>223.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.577460" lat="43.026620">
+                <ele>222.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.577330" lat="43.026650">
+                <ele>222.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.577220" lat="43.026600">
+                <ele>222.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.577150" lat="43.026510">
+                <ele>222.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.577003" lat="43.026419">
+                <ele>222.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.576853" lat="43.026409">
+                <ele>221.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.576549" lat="43.026583">
+                <ele>220.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.576319" lat="43.026593">
+                <ele>219.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.576011" lat="43.026548">
+                <ele>219.200000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.576011" lat="43.026548">
+                <ele>219.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.575893" lat="43.026434">
+                <ele>219.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.575810" lat="43.026170">
+                <ele>218.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.575860" lat="43.025670">
+                <ele>219.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.575810" lat="43.025410">
+                <ele>220.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.575863" lat="43.025068">
+                <ele>220.635703</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_grasslands</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.575863" lat="43.025068">
+                <ele>220.635703</ele>
+            </trkpt>
+            <trkpt lon="-77.575802" lat="43.024714">
+                <ele>220.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573386" lat="43.029247">
+                <ele>214.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.573480" lat="43.029110">
+                <ele>214.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.573520" lat="43.028980">
+                <ele>214.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.573600" lat="43.028850">
+                <ele>214.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.573680" lat="43.028740">
+                <ele>214.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.573730" lat="43.028550">
+                <ele>213.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.573780" lat="43.028420">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.573940" lat="43.028390">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574180" lat="43.028370">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574390" lat="43.028260">
+                <ele>213.500000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.574390" lat="43.028260">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574417" lat="43.028105">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574358" lat="43.027910">
+                <ele>213.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574337" lat="43.027795">
+                <ele>213.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.574320" lat="43.027630">
+                <ele>212.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.574280" lat="43.027530">
+                <ele>212.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.574250" lat="43.027260">
+                <ele>212.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.574260" lat="43.027110">
+                <ele>212.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.574220" lat="43.026990">
+                <ele>212.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574200" lat="43.026840">
+                <ele>212.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574190" lat="43.026740">
+                <ele>212.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.574100" lat="43.026540">
+                <ele>212.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.574070" lat="43.026360">
+                <ele>212.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.574030" lat="43.026250">
+                <ele>212.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.573930" lat="43.026090">
+                <ele>212.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.573810" lat="43.025960">
+                <ele>212.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.573650" lat="43.025850">
+                <ele>212.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.573650" lat="43.025770">
+                <ele>212.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.573650" lat="43.025700">
+                <ele>212.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.573720" lat="43.025610">
+                <ele>213.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.573810" lat="43.025530">
+                <ele>214.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.573940" lat="43.025470">
+                <ele>214.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.574100" lat="43.025460">
+                <ele>215.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574290" lat="43.025390">
+                <ele>216.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.574460" lat="43.025230">
+                <ele>217.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.574580" lat="43.025140">
+                <ele>217.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.574710" lat="43.025150">
+                <ele>218.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.574950" lat="43.025270">
+                <ele>219.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.575120" lat="43.025200">
+                <ele>220.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.575330" lat="43.025150">
+                <ele>221.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.575580" lat="43.025150">
+                <ele>221.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.575849" lat="43.025080">
+                <ele>220.800000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573337" lat="43.021673">
+                <ele>207.889803</ele>
+            </trkpt>
+            <trkpt lon="-77.573495" lat="43.021840">
+                <ele>207.888027</ele>
+            </trkpt>
+            <trkpt lon="-77.573682" lat="43.021975">
+                <ele>207.886338</ele>
+            </trkpt>
+            <trkpt lon="-77.573740" lat="43.022110">
+                <ele>213.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_bathtub</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.573740" lat="43.022110">
+                <ele>213.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.573490" lat="43.022350">
+                <ele>213.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.573300" lat="43.022710">
+                <ele>214.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.573260" lat="43.022920">
+                <ele>215.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.572960" lat="43.023320">
+                <ele>215.900000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.571448" lat="43.028712">
+                <ele>220.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.571861" lat="43.029029">
+                <ele>221.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.572860" lat="43.029571">
+                <ele>219.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.573204" lat="43.029804">
+                <ele>216.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.573204" lat="43.029804">
+                <ele>216.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.573516" lat="43.030002">
+                <ele>216.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.573669" lat="43.030120">
+                <ele>216.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.573814" lat="43.030197">
+                <ele>216.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.573936" lat="43.030296">
+                <ele>215.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.574050" lat="43.030418">
+                <ele>214.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.574615" lat="43.030868">
+                <ele>213.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.574874" lat="43.031131">
+                <ele>214.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.574966" lat="43.031257">
+                <ele>214.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.575202" lat="43.031467">
+                <ele>214.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.575645" lat="43.031723">
+                <ele>216.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.575758" lat="43.031823">
+                <ele>216.600000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_wesker</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.569466" lat="43.025461">
+                <ele>206.353488</ele>
+            </trkpt>
+            <trkpt lon="-77.569689" lat="43.025351">
+                <ele>206.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.569689" lat="43.025351">
+                <ele>206.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.571151" lat="43.025962">
+                <ele>212.700000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561007" lat="43.020933"></trkpt>
+            <trkpt lon="-77.561067" lat="43.021035"></trkpt>
+            <trkpt lon="-77.561090" lat="43.021158"></trkpt>
+            <trkpt lon="-77.561231" lat="43.021303"></trkpt>
+            <trkpt lon="-77.561407" lat="43.021353"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.560941" lat="43.020913"></trkpt>
+            <trkpt lon="-77.560746" lat="43.020982"></trkpt>
+            <trkpt lon="-77.560507" lat="43.021195"></trkpt>
+            <trkpt lon="-77.560201" lat="43.021303"></trkpt>
+            <trkpt lon="-77.560054" lat="43.021467"></trkpt>
+            <trkpt lon="-77.559905" lat="43.021514"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.551886" lat="43.026800"></trkpt>
+            <trkpt lon="-77.552225" lat="43.026547"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554300" lat="43.026942"></trkpt>
+            <trkpt lon="-77.554533" lat="43.026705"></trkpt>
+            <trkpt lon="-77.554572" lat="43.026546"></trkpt>
+            <trkpt lon="-77.554328" lat="43.026389"></trkpt>
+            <trkpt lon="-77.554138" lat="43.026310"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>mponds_unnamed_trails</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561183" lat="43.018548"></trkpt>
+            <trkpt lon="-77.561500" lat="43.018270"></trkpt>
+            <trkpt lon="-77.561803" lat="43.018007"></trkpt>
+            <trkpt lon="-77.562125" lat="43.017667"></trkpt>
+            <trkpt lon="-77.562333" lat="43.017594"></trkpt>
+            <trkpt lon="-77.562800" lat="43.017467"></trkpt>
+            <trkpt lon="-77.563095" lat="43.017304"></trkpt>
+            <trkpt lon="-77.563328" lat="43.017122"></trkpt>
+            <trkpt lon="-77.563641" lat="43.016983"></trkpt>
+            <trkpt lon="-77.563804" lat="43.016816"></trkpt>
+            <trkpt lon="-77.563817" lat="43.016509"></trkpt>
         </trkseg>
     </trk>
 </gpx>

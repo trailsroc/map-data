@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2014-11-17T21:05:26.192Z</time>
+        <time>2017-10-24T02:26:40.725Z</time>
     </metadata>
     <trk>
         <name>border:wrnp</name>
@@ -226,7 +226,7 @@
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -253,6 +253,21 @@
                 <ele>95.790000</ele>
                 <name>84</name>
             </trkpt>
+            <trkpt lon="-77.471897" lat="43.250554">
+                <ele>93.870000</ele>
+                <name>85</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_red</name>
+        <number>35</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.471897" lat="43.250554">
                 <ele>93.870000</ele>
                 <name>85</name>
@@ -285,6 +300,21 @@
                 <ele>92.900000</ele>
                 <name>169</name>
             </trkpt>
+            <trkpt lon="-77.473715" lat="43.250794">
+                <ele>81.850000</ele>
+                <name>211</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_red</name>
+        <number>35</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.473715" lat="43.250794">
                 <ele>81.850000</ele>
                 <name>211</name>
@@ -688,6 +718,21 @@
                 <ele>86.660000</ele>
                 <name>750</name>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_red</name>
+        <number>35</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.477420" lat="43.246392">
+                <ele>86.660000</ele>
+                <name>750</name>
+            </trkpt>
             <trkpt lon="-77.477358" lat="43.246321">
                 <ele>84.730000</ele>
                 <name>756</name>
@@ -1020,6 +1065,21 @@
                 <ele>102.040000</ele>
                 <name>1166</name>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_red</name>
+        <number>35</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.473822" lat="43.245269">
+                <ele>102.040000</ele>
+                <name>1166</name>
+            </trkpt>
             <trkpt lon="-77.473803" lat="43.245201">
                 <ele>103.000000</ele>
                 <name>1171</name>
@@ -1139,7 +1199,7 @@
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1191,6 +1251,21 @@
                 <ele>100.600000</ele>
                 <name>143</name>
             </trkpt>
+            <trkpt lon="-77.470810" lat="43.245670">
+                <ele>101.560000</ele>
+                <name>156</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_blue</name>
+        <number>30</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.470810" lat="43.245670">
                 <ele>101.560000</ele>
                 <name>156</name>
@@ -1271,6 +1346,21 @@
                 <ele>91.460000</ele>
                 <name>313</name>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_blue</name>
+        <number>30</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.471197" lat="43.247840">
+                <ele>91.460000</ele>
+                <name>313</name>
+            </trkpt>
             <trkpt lon="-77.471281" lat="43.248034">
                 <ele>92.420000</ele>
                 <name>327</name>
@@ -1295,6 +1385,21 @@
                 <ele>92.900000</ele>
                 <name>425</name>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_blue</name>
+        <number>30</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.471619" lat="43.249313">
+                <ele>92.900000</ele>
+                <name>425</name>
+            </trkpt>
             <trkpt lon="-77.471617" lat="43.249324">
                 <ele>93.390000</ele>
                 <name>426</name>
@@ -1315,6 +1420,21 @@
                 <ele>95.790000</ele>
                 <name>433</name>
             </trkpt>
+            <trkpt lon="-77.471319" lat="43.249487">
+                <ele>98.190000</ele>
+                <name>447</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_blue</name>
+        <number>30</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.471319" lat="43.249487">
                 <ele>98.190000</ele>
                 <name>447</name>
@@ -1506,7 +1626,7 @@
         <number>31</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -1930,6 +2050,21 @@
                 <ele>95.310000</ele>
                 <name>362</name>
             </trkpt>
+            <trkpt lon="-77.471908" lat="43.251632">
+                <ele>95.790000</ele>
+                <name>366</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_brown</name>
+        <number>31</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.471908" lat="43.251632">
                 <ele>95.790000</ele>
                 <name>366</name>
@@ -2672,7 +2807,7 @@
         <number>33</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -3636,6 +3771,21 @@
                 <ele>93.870000</ele>
                 <name>660</name>
             </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_green</name>
+        <number>33</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.471323" lat="43.253196">
+                <ele>93.870000</ele>
+                <name>660</name>
+            </trkpt>
             <trkpt lon="-77.471252" lat="43.253114">
                 <ele>95.310000</ele>
                 <name>663</name>
@@ -3832,10 +3982,6 @@
                 <ele>100.110000</ele>
                 <name>869</name>
             </trkpt>
-            <trkpt lon="-77.471904" lat="43.251646">
-                <ele>100.110000</ele>
-                <name>870</name>
-            </trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -3843,7 +3989,7 @@
         <number>34</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -4099,7 +4245,22 @@
                 <ele>102.040000</ele>
                 <name>198</name>
             </trkpt>
-            <trkpt lon="-77.473771" lat="43.245297">
+            <trkpt lon="-77.473831" lat="43.245266">
+                <ele>101.080000</ele>
+                <name>201</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_orange</name>
+        <number>34</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.473831" lat="43.245266">
                 <ele>101.080000</ele>
                 <name>201</name>
             </trkpt>
@@ -4907,7 +5068,22 @@
                 <ele>107.320000</ele>
                 <name>1028</name>
             </trkpt>
-            <trkpt lon="-77.472444" lat="43.240894">
+            <trkpt lon="-77.472457" lat="43.240871">
+                <ele>107.320000</ele>
+                <name>1032</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_orange</name>
+        <number>34</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.472457" lat="43.240871">
                 <ele>107.320000</ele>
                 <name>1032</name>
             </trkpt>
@@ -6002,7 +6178,7 @@
         <number>37</number>
         <extensions>
             <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
@@ -6370,6 +6546,21 @@
                 <ele>99.630000</ele>
                 <name>409</name>
             </trkpt>
+            <trkpt lon="-77.472695" lat="43.247445">
+                <ele>99.150000</ele>
+                <name>410</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>wrnp_yellow</name>
+        <number>37</number>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
             <trkpt lon="-77.472695" lat="43.247445">
                 <ele>99.150000</ele>
                 <name>410</name>
