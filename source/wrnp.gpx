@@ -1,53 +1,53 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T02:26:40.725Z</time>
     </metadata>
     <trk>
-        <name>border:wrnp</name>
+        <name>border:park-wrnp</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.471205" lat="43.239060"></trkpt>
-            <trkpt lon="-77.471436" lat="43.240509"></trkpt>
-            <trkpt lon="-77.468599" lat="43.240796"></trkpt>
-            <trkpt lon="-77.468640" lat="43.241534"></trkpt>
-            <trkpt lon="-77.469914" lat="43.241515"></trkpt>
-            <trkpt lon="-77.469912" lat="43.242607"></trkpt>
-            <trkpt lon="-77.470480" lat="43.242618"></trkpt>
-            <trkpt lon="-77.470524" lat="43.242936"></trkpt>
-            <trkpt lon="-77.468625" lat="43.243093"></trkpt>
-            <trkpt lon="-77.468744" lat="43.252793"></trkpt>
-            <trkpt lon="-77.470062" lat="43.252736"></trkpt>
-            <trkpt lon="-77.470081" lat="43.253257"></trkpt>
-            <trkpt lon="-77.468722" lat="43.253294"></trkpt>
-            <trkpt lon="-77.468729" lat="43.254155"></trkpt>
-            <trkpt lon="-77.469658" lat="43.254144"></trkpt>
-            <trkpt lon="-77.469658" lat="43.254941"></trkpt>
-            <trkpt lon="-77.468694" lat="43.254963"></trkpt>
-            <trkpt lon="-77.468687" lat="43.255969"></trkpt>
-            <trkpt lon="-77.470435" lat="43.255704"></trkpt>
-            <trkpt lon="-77.471389" lat="43.255493"></trkpt>
-            <trkpt lon="-77.472615" lat="43.254112"></trkpt>
-            <trkpt lon="-77.472742" lat="43.253123"></trkpt>
-            <trkpt lon="-77.474083" lat="43.251944"></trkpt>
-            <trkpt lon="-77.475462" lat="43.249277"></trkpt>
-            <trkpt lon="-77.475965" lat="43.247942"></trkpt>
-            <trkpt lon="-77.479989" lat="43.247997"></trkpt>
-            <trkpt lon="-77.480246" lat="43.247402"></trkpt>
-            <trkpt lon="-77.478214" lat="43.247329"></trkpt>
-            <trkpt lon="-77.478895" lat="43.246030"></trkpt>
-            <trkpt lon="-77.476783" lat="43.246002"></trkpt>
-            <trkpt lon="-77.478170" lat="43.240712"></trkpt>
-            <trkpt lon="-77.478164" lat="43.238517"></trkpt>
+            <trkpt lon="-77.471205" lat="43.239060"/>
+            <trkpt lon="-77.471436" lat="43.240509"/>
+            <trkpt lon="-77.468599" lat="43.240796"/>
+            <trkpt lon="-77.468640" lat="43.241534"/>
+            <trkpt lon="-77.469914" lat="43.241515"/>
+            <trkpt lon="-77.469912" lat="43.242607"/>
+            <trkpt lon="-77.470480" lat="43.242618"/>
+            <trkpt lon="-77.470524" lat="43.242936"/>
+            <trkpt lon="-77.468625" lat="43.243093"/>
+            <trkpt lon="-77.468744" lat="43.252793"/>
+            <trkpt lon="-77.470062" lat="43.252736"/>
+            <trkpt lon="-77.470081" lat="43.253257"/>
+            <trkpt lon="-77.468722" lat="43.253294"/>
+            <trkpt lon="-77.468729" lat="43.254155"/>
+            <trkpt lon="-77.469658" lat="43.254144"/>
+            <trkpt lon="-77.469658" lat="43.254941"/>
+            <trkpt lon="-77.468694" lat="43.254963"/>
+            <trkpt lon="-77.468687" lat="43.255969"/>
+            <trkpt lon="-77.470435" lat="43.255704"/>
+            <trkpt lon="-77.471389" lat="43.255493"/>
+            <trkpt lon="-77.472615" lat="43.254112"/>
+            <trkpt lon="-77.472742" lat="43.253123"/>
+            <trkpt lon="-77.474083" lat="43.251944"/>
+            <trkpt lon="-77.475462" lat="43.249277"/>
+            <trkpt lon="-77.475965" lat="43.247942"/>
+            <trkpt lon="-77.479989" lat="43.247997"/>
+            <trkpt lon="-77.480246" lat="43.247402"/>
+            <trkpt lon="-77.478214" lat="43.247329"/>
+            <trkpt lon="-77.478895" lat="43.246030"/>
+            <trkpt lon="-77.476783" lat="43.246002"/>
+            <trkpt lon="-77.478170" lat="43.240712"/>
+            <trkpt lon="-77.478164" lat="43.238517"/>
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_white</name>
+        <name>seg:trail-wrnp-white:8edf0b79</name>
         <number>36</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -222,7 +222,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_red</name>
+        <name>seg:trail-wrnp-red:74961cef</name>
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -260,7 +260,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_red</name>
+        <name>seg:trail-wrnp-red:e92d9c8b</name>
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -307,7 +307,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_red</name>
+        <name>seg:trail-wrnp-red:4c9b3947</name>
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -721,7 +721,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_red</name>
+        <name>seg:trail-wrnp-red:af5a1342</name>
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1068,7 +1068,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_red</name>
+        <name>seg:trail-wrnp-red:dcbde3ea</name>
         <number>35</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1195,7 +1195,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_blue</name>
+        <name>seg:trail-wrnp-blue:a92ea356</name>
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1258,7 +1258,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_blue</name>
+        <name>seg:trail-wrnp-blue:f0ad2bec</name>
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1349,7 +1349,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_blue</name>
+        <name>seg:trail-wrnp-blue:636b9934</name>
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1388,7 +1388,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_blue</name>
+        <name>seg:trail-wrnp-blue:9ce0b1bd</name>
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1427,7 +1427,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_blue</name>
+        <name>seg:trail-wrnp-blue:dd48a69b</name>
         <number>30</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -1622,7 +1622,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_brown</name>
+        <name>seg:trail-wrnp-brown:b18822c8</name>
         <number>31</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -2057,7 +2057,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_brown</name>
+        <name>seg:trail-wrnp-brown:e36dc148</name>
         <number>31</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -2148,7 +2148,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_green</name>
+        <name>seg:trail-wrnp-green:c9bdc321</name>
         <number>32</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -2803,7 +2803,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_green</name>
+        <name>seg:trail-wrnp-green:f118e5f2</name>
         <number>33</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -3774,7 +3774,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_green</name>
+        <name>seg:trail-wrnp-green:fbe820c7</name>
         <number>33</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -3985,7 +3985,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_orange</name>
+        <name>seg:trail-wrnp-orange:49fdd9fc</name>
         <number>34</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -4252,7 +4252,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_orange</name>
+        <name>seg:trail-wrnp-orange:d62a8521</name>
         <number>34</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -5075,7 +5075,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_orange</name>
+        <name>seg:trail-wrnp-orange:3e8f1586</name>
         <number>34</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -6174,7 +6174,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_yellow</name>
+        <name>seg:trail-wrnp-yellow:0ef664ed</name>
         <number>37</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -6553,7 +6553,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_yellow</name>
+        <name>seg:trail-wrnp-yellow:7e2c514e</name>
         <number>37</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -6692,7 +6692,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>wrnp_yellow</name>
+        <name>seg:trail-wrnp-yellow:2513a1e9</name>
         <number>38</number>
         <extensions>
             <gpxx:TrackExtension>
@@ -6958,4 +6958,9 @@
             </trkpt>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.246995" lon="-77.468721"><name>point-parking:wrnp:2b067874</name><desc>{
+  "type": "point-parking",
+  "comments": "Main lot",
+  "name": "Parking",
+  "parkID": "park-wrnp"
+}</desc></wpt></gpx>

@@ -1,9 +1,10 @@
 {
+  "version": 2,
   "parks": {
   },
   "trails": {
-    "_prototype": { "parkId": null, "url": "http://www.victorhikingtrails.org/" },
-    "vht_lehigh_blackdiamond": {
+    "trail-vht-lehigh-blackdiamond": {
+      "url": "http://www.victorhikingtrails.org/map/trails/lehigh.php",
       "SW": [
         42.995305,
         -77.481999
@@ -15,10 +16,10 @@
       "name": "Lehigh Black Diamond Trail",
       "color": "green",
       "length": 2.5,
-      "url": "http://www.victorhikingtrails.org/map/trails/lehigh.php",
       "visibilityConstraint": "largeTrailSystem"
     },
-    "lvt_auburntr_ramp": {
+    "trail-lvt-auburntr-ramp": {
+      "url": "http://www.victorhikingtrails.org/",
       "SW": [
         43.00031,
         -77.452389
@@ -32,9 +33,6 @@
       "color": "unmarked_trail"
     }
   },
-    "points": [
-      {"parkId": "auburntr_park", "type":"poi","name":"Victor Hiking Trails Kiosk","loc":[42.982776,-77.410896]},
-      {"trailId": "vht_lehigh_blackdiamond", "type":"parking","loc":[43.001739,-77.469571]},
-      {"trailId": "vht_lehigh_blackdiamond", "type":"parking","loc":[43.00037,-77.454762]}
-    ]
+  "points": {
+  }
 }

@@ -1,71 +1,104 @@
 {
+  "version": 2,
   "parks": {
-    "fowt_finn": {
-        "name": "Finn Park",
-        "mainPin": [43.216373, -77.494022],
-        "directionsCoordinate": [43.217688, -77.501326],
-        "url": "http://www.ci.webster.ny.us/facilities.aspx?search=1&CID=4&RID=24&Page=detail",
-        "url2": "http://www.webstertrails.org/finn/finn.php",
-          "SW": [
-            43.215006,
-            -77.499533
-          ],
-          "NE": [
-            43.21796,
-            -77.49236
-          ],
-        "url": "http://www.webstertrails.org/finn/finn.php",
-        "annotationIconName": "Annotation-SmallParkBadge",
-        "visibilityConstraint": "parkBoundaries",
-        "advisories": ["websterHuntingAdvisorySmall"],
-        "hideInListView": true
+    "park-fowt-finn": {
+      "name": "Finn Park",
+      "mainPin": [
+        43.216373,
+        -77.494022
+      ],
+      "directionsCoordinate": [
+        43.217688,
+        -77.501326
+      ],
+      "url": "http://www.webstertrails.org/finn/finn.php",
+      "url2": "http://www.webstertrails.org/finn/finn.php",
+      "SW": [
+        43.215006,
+        -77.499533
+      ],
+      "NE": [
+        43.21796,
+        -77.49236
+      ],
+      "annotationIconName": "Annotation-SmallParkBadge",
+      "visibilityConstraint": "parkBoundaries",
+      "advisories": [
+        "websterHuntingAdvisorySmall"
+      ],
+      "hideInListView": true
     },
-    "fowt_hojack": {
-        "name": "Hojack Trail System",
-        "mainPin": [43.228803, -77.463891],
-        "directionsCoordinate": [43.221044, -77.444172],
-          "SW": [
-            43.217883,
-            -77.502018
-          ],
-          "NE": [
-            43.24749,
-            -77.419303
-          ],
-        "url": "http://www.webstertrails.org/hojack/hojack.php"
+    "park-fowt-hojack": {
+      "name": "Hojack Trail System",
+      "mainPin": [
+        43.228803,
+        -77.463891
+      ],
+      "directionsCoordinate": [
+        43.221044,
+        -77.444172
+      ],
+      "SW": [
+        43.217883,
+        -77.502018
+      ],
+      "NE": [
+        43.24749,
+        -77.419303
+      ],
+      "url": "http://www.webstertrails.org/hojack/hojack.php"
     },
-    "fowt_rt104": {
-        "name": "Route 104 Bike Path",
-        "mainPin": [43.214410, -77.467814],
-        "directionsCoordinate": [43.215891, -77.439351],
-        "annotationIconName": "Annotation-SmallParkBadge",
-        "visibilityConstraint": "largeTrailSystem",
-        "SW": [
-          43.213878,
-          -77.515428
-        ],
-        "NE": [
-          43.219702,
-          -77.400315
-        ],
-        "hideInListView": true
+    "park-fowt-rt104": {
+      "name": "Route 104 Bike Path",
+      "mainPin": [
+        43.21441,
+        -77.467814
+      ],
+      "directionsCoordinate": [
+        43.215891,
+        -77.439351
+      ],
+      "annotationIconName": "Annotation-SmallParkBadge",
+      "visibilityConstraint": "largeTrailSystem",
+      "SW": [
+        43.213878,
+        -77.515428
+      ],
+      "NE": [
+        43.219702,
+        -77.400315
+      ],
+      "hideInListView": true
     },
-    "fmcp": {
-        "name": "Four Mile Creek Preserve",
-        "url": "http://www.webstertrails.org/fmcp/fmcp.php",
-        "directionsCoordinate": [43.265097, -77.419662],
-        "mainPin": [43.265018, -77.411832],
-        "SW": [43.259795, -77.420403],
-        "NE": [43.267525, -77.404186],
-        "annotationIconName": "Annotation-SmallParkBadge",
-        "visibilityConstraint": "parkBoundaries",
-        "advisories": ["websterHuntingAdvisorySmall"],
-        "hideInListView": true
+    "park-fmcp": {
+      "name": "Four Mile Creek Preserve",
+      "url": "http://www.webstertrails.org/fmcp/fmcp.php",
+      "directionsCoordinate": [
+        43.265097,
+        -77.419662
+      ],
+      "mainPin": [
+        43.265018,
+        -77.411832
+      ],
+      "SW": [
+        43.259795,
+        -77.420403
+      ],
+      "NE": [
+        43.267525,
+        -77.404186
+      ],
+      "annotationIconName": "Annotation-SmallParkBadge",
+      "visibilityConstraint": "parkBoundaries",
+      "advisories": [
+        "websterHuntingAdvisorySmall"
+      ],
+      "hideInListView": true
     }
   },
   "trails": {
-    "fowt_jungar_main": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-jungar-main": {
       "name": "John Ungar Nature Trail",
       "color": "blue",
       "length": 0.35,
@@ -77,13 +110,13 @@
       "NE": [
         43.236586,
         -77.486189
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_finn_main": {
-      "parkId": "fowt_finn",
+    "trail-fowt-finn-main": {
       "name": "Finn Park Nature Trail",
       "color": "red",
-      "length": 1.30,
+      "length": 1.3,
       "url": "http://www.webstertrails.org/finn/finn.php",
       "SW": [
         43.215006,
@@ -92,10 +125,10 @@
       "NE": [
         43.21796,
         -77.49236
-      ]
+      ],
+      "parkID": "park-fowt-finn"
     },
-    "fowt_vosburg_main": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-vosburg-main": {
       "name": "Vosburg Hollow Nature Trail",
       "color": "red",
       "length": 0.35,
@@ -107,10 +140,10 @@
       "NE": [
         43.242128,
         -77.4957
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_chiyoda_loop": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-chiyoda-loop": {
       "name": "Chiyoda Trail Loop",
       "color": "pink",
       "length": 1.0,
@@ -122,10 +155,10 @@
         43.229992,
         -77.420959
       ],
-      "comments": "Paved"
+      "comments": "Paved",
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_chiyoda_connector": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-chiyoda-connector": {
       "name": "Chiyoda Trail Connector",
       "color": "sky",
       "length": 0.27,
@@ -136,10 +169,10 @@
       "NE": [
         43.226876,
         -77.424807
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fmcp_blue": {
-      "parkId": "fmcp",
+    "trail-fmcp-blue": {
       "name": "Four Mile Creek Trail",
       "color": "blue",
       "length": 0.75,
@@ -151,10 +184,10 @@
       "NE": [
         43.265625,
         -77.413068
-      ]
+      ],
+      "parkID": "park-fmcp"
     },
-    "fowt_hojack_main": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-hojack-main": {
       "name": "Hojack Trail",
       "visibilityConstraint": "largeTrailSystem",
       "color": "grass",
@@ -167,27 +200,28 @@
       "NE": [
         43.24749,
         -77.419303
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_bird_sanctuary": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-bird-sanctuary": {
       "name": "Bird Sanctuary Trail",
       "color": "dark_green",
-      "length": 0.80,
+      "length": 0.8,
       "url": "http://www.webstertrails.org/bird/bird.php",
       "SW": [
-        43.219453, -77.441243
+        43.219453,
+        -77.441243
       ],
       "NE": [
         43.225844,
         -77.428836
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_nponds_loop": {
-      "parkId": "fowt_hojack",
+    "trail-fowt-nponds-loop": {
       "name": "North Ponds Park Loop",
       "color": "yellow",
-      "length": 1.00,
+      "length": 1.0,
       "SW": [
         43.215848,
         -77.44468
@@ -195,10 +229,10 @@
       "NE": [
         43.220924,
         -77.439484
-      ]
+      ],
+      "parkID": "park-fowt-hojack"
     },
-    "fowt_rt104_path": {
-      "parkId": "fowt_rt104",
+    "trail-fowt-rt104-path": {
       "name": "Route 104 Bike Path",
       "color": "blue",
       "visibilityConstraint": "largeTrailSystem",
@@ -210,23 +244,10 @@
       "NE": [
         43.219702,
         -77.400315
-      ]
+      ],
+      "parkID": "park-fowt-rt104"
     }
   },
-  "points": [
-    {"parkId": "fowt_finn", "type": "parking", "loc": [43.217688, -77.501326], "comments": "Finn Park"},
-    {"parkId": "fowt_finn", "type": "lodge", "loc": [43.217641, -77.499576], "name": "Liberty Lodge", "comments": "Finn Park", "directionsCoordinate": [43.217688, -77.501326]},
-    {"parkId": "fowt_finn", "type": "sports", "loc": [43.217843, -77.499298], "name": "Playground", "comments": "Finn Park"},
-    {"parkId": "fowt_vosburg_main", "type": "parking", "loc": [43.242224, -77.497061], "comments": "Vosburg"},
-    {"parkId": "fowt_vosburg_main", "type": "poi", "loc": [43.241745, -77.496684], "name": "Fishing", "comments": "Vosburg", "url": "http://www.dec.ny.gov/outdoor/71612.html"},
-    {"trailId": "fowt_nponds_loop", "type": "parking", "loc": [43.221044, -77.444172], "comments": "N Ponds Orchard Rd"},
-    {"parkId": "fmcp", "type": "parking", "loc": [43.265097, -77.419662], "comments": "FMCP"},
-    {"trailId": "fowt_chiyoda_loop", "type": "parking", "loc": [43.227426, -77.421642], "directionsCoordinate": [43.225752, -77.421185], "comments": "Chiyoda"},
-    {"trailId": "fowt_chiyoda_loop", "type": "poi", "loc": [43.227836, -77.421254], "name": "Webster Recreation Center", "directionsCoordinate": [43.225752, -77.421185]},
-    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.228354, -77.421948], "name": "Ball Fields", "comments": "Chiyoda"},
-    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.228229, -77.425143], "name": "Playground", "comments": "Chiyoda"},
-    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.227705, -77.425199], "name": "Tennis/Basketball", "comments": "Chiyoda"},
-    {"trailId": "fowt_nponds_loop", "type": "poi", "loc": [43.218507, -77.441262], "name": "Fishing", "comments": "N Ponds"},
-    {"trailId": "fowt_rt104_path", "type": "parking", "loc": [43.215891, -77.439351], "comments": "N Ponds RT 104"}
-  ]
+  "points": {
+  }
 }

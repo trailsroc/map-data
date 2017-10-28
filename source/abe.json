@@ -1,23 +1,154 @@
 {
-    "parks": {
-        "abe": { "name": "Abraham Lincoln Park", "mainPin": [43.18559, -77.51451],
-            "SW": [43.17899, -77.52043], "NE": [43.19238, -77.50202],
-            "directionsCoordinate": [43.180904533483414,-77.5089955329895],
-            "url": "http://www.monroecounty.gov/parks-bayeast.php" }
+  "version": 2,
+  "parks": {
+    "park-abe": {
+      "name": "Abraham Lincoln Park",
+      "mainPin": [
+        43.18559,
+        -77.51451
+      ],
+      "SW": [
+        43.17899,
+        -77.52043
+      ],
+      "NE": [
+        43.19238,
+        -77.50202
+      ],
+      "directionsCoordinate": [
+        43.180904533483414,
+        -77.5089955329895
+      ],
+      "url": "http://www.monroecounty.gov/parks-bayeast.php"
+    }
+  },
+  "trails": {
+    "trail-abe-blue-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "Blue Trail",
+      "length": 0.65,
+      "color": "sky",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.189258,
+        -77.514917
+      ],
+      "NE": [
+        43.190646,
+        -77.510045
+      ],
+      "parkID": "park-abe"
     },
-    "trails": {
-        "_prototype": { "parkId": "abe", "url": "http://www.monroecounty.gov/parks-bayeast.php" },
-        "abe_blue_trail": {"name":"Blue Trail","length": 0.65, "color":"sky","trailheads":[],"SW":[43.189258,-77.514917],"NE":[43.190646,-77.510045]},
-        "abe_green_trail": {"name":"Green Trail","length": 0.37, "color":"grass","trailheads":[],"SW":[43.184388,-77.518699],"NE":[43.185711,-77.515025]},
-        "abe_orange_trail": {"name":"Orange Trail","length": 0.32, "color":"orange","trailheads":[],"SW":[43.187533,-77.514915],"NE":[43.189385,-77.512124]},
-        "abe_red_trail": {"name":"Red Trail","length": 0.32, "color":"red","trailheads":[],"SW":[43.186449,-77.516775],"NE":[43.188333,-77.514501]},
-        "abe_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.180725,-77.512619],"NE":[43.18934,-77.509031]},
-        "abe_white_trail": {"name":"White Trail","length": 1.45, "color":"white","trailheads":[],"SW":[43.180288,-77.517042],"NE":[43.189966,-77.510281]},
-        "abe_yellow_trail": {"name":"Yellow Trail","length": 0.4, "color":"yellow","trailheads":[],"SW":[43.18158,-77.517016],"NE":[43.183226,-77.512919]}
+    "trail-abe-green-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "Green Trail",
+      "length": 0.37,
+      "color": "grass",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.184388,
+        -77.518699
+      ],
+      "NE": [
+        43.185711,
+        -77.515025
+      ],
+      "parkID": "park-abe"
     },
-    "points": [
-        { "type": "parking", "loc": [43.180904533483414,-77.5089955329895] },
-        { "type": "sports", "name": "Play Areas", "loc": [43.1809084451994,-77.50948369503021] },
-        { "type": "shelter", "name": "Picnic Shelters", "loc": [43.18076762326655,-77.50956416130066] }
-    ]
+    "trail-abe-orange-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "Orange Trail",
+      "length": 0.32,
+      "color": "orange",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.187533,
+        -77.514915
+      ],
+      "NE": [
+        43.189385,
+        -77.512124
+      ],
+      "parkID": "park-abe"
+    },
+    "trail-abe-red-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "Red Trail",
+      "length": 0.32,
+      "color": "red",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.186449,
+        -77.516775
+      ],
+      "NE": [
+        43.188333,
+        -77.514501
+      ],
+      "parkID": "park-abe"
+    },
+    "trail-abe-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.180725,
+        -77.512619
+      ],
+      "NE": [
+        43.18934,
+        -77.509031
+      ],
+      "parkID": "park-abe"
+    },
+    "trail-abe-white-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "White Trail",
+      "length": 1.45,
+      "color": "white",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.180288,
+        -77.517042
+      ],
+      "NE": [
+        43.189966,
+        -77.510281
+      ],
+      "parkID": "park-abe"
+    },
+    "trail-abe-yellow-trail": {
+      "url": "http://www.monroecounty.gov/parks-bayeast.php",
+      "name": "Yellow Trail",
+      "length": 0.4,
+      "color": "yellow",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.18158,
+        -77.517016
+      ],
+      "NE": [
+        43.183226,
+        -77.512919
+      ],
+      "parkID": "park-abe"
+    }
+  },
+  "points": {
+  }
 }

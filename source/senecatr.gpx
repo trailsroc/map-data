@@ -1,11 +1,11 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T02:07:51.598Z</time>
     </metadata>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:b7562351</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -66,7 +66,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:76e81da3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -562,7 +562,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:62fd3f36</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -584,7 +584,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:b8a433f6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -810,7 +810,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:f9f3707c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -835,7 +835,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:97cb3500</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1856,7 +1856,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:5402b3ec</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -2073,7 +2073,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:6294a173</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3208,7 +3208,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:94569c19</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -3281,7 +3281,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:a914eed9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -4326,7 +4326,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:4d0501a7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -4876,36 +4876,36 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:eca05233</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.425057" lat="42.965949"></trkpt>
-            <trkpt lon="-77.424809" lat="42.965067"></trkpt>
-            <trkpt lon="-77.424717" lat="42.964723"></trkpt>
-            <trkpt lon="-77.424638" lat="42.963966"></trkpt>
-            <trkpt lon="-77.424490" lat="42.961707"></trkpt>
-            <trkpt lon="-77.424547" lat="42.961570"></trkpt>
-            <trkpt lon="-77.425367" lat="42.961392"></trkpt>
+            <trkpt lon="-77.425057" lat="42.965949"/>
+            <trkpt lon="-77.424809" lat="42.965067"/>
+            <trkpt lon="-77.424717" lat="42.964723"/>
+            <trkpt lon="-77.424638" lat="42.963966"/>
+            <trkpt lon="-77.424490" lat="42.961707"/>
+            <trkpt lon="-77.424547" lat="42.961570"/>
+            <trkpt lon="-77.425367" lat="42.961392"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:57c5e3ee</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.425367" lat="42.961392"></trkpt>
-            <trkpt lon="-77.425151" lat="42.960287"></trkpt>
+            <trkpt lon="-77.425367" lat="42.961392"/>
+            <trkpt lon="-77.425151" lat="42.960287"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:082edfe2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -4927,7 +4927,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:09b46733</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -5072,7 +5072,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:7da14740</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5196,7 +5196,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:d602470a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -5242,7 +5242,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:df5ad280</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -5306,7 +5306,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:2b48e4e7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -5682,7 +5682,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:04ec6333</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -5761,7 +5761,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:00c254e8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -5825,198 +5825,198 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:07d3b899</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.425156" lat="42.960260"></trkpt>
-            <trkpt lon="-77.424736" lat="42.960169"></trkpt>
-            <trkpt lon="-77.424444" lat="42.960163"></trkpt>
-            <trkpt lon="-77.424155" lat="42.960250"></trkpt>
-            <trkpt lon="-77.424071" lat="42.960206"></trkpt>
-            <trkpt lon="-77.424069" lat="42.960069"></trkpt>
-            <trkpt lon="-77.423843" lat="42.959803"></trkpt>
-            <trkpt lon="-77.423677" lat="42.959370"></trkpt>
-            <trkpt lon="-77.423881" lat="42.958773"></trkpt>
-            <trkpt lon="-77.423741" lat="42.958481"></trkpt>
-            <trkpt lon="-77.423494" lat="42.958366"></trkpt>
-            <trkpt lon="-77.423980" lat="42.957522"></trkpt>
-            <trkpt lon="-77.424126" lat="42.957333"></trkpt>
-            <trkpt lon="-77.424216" lat="42.957102"></trkpt>
-            <trkpt lon="-77.424178" lat="42.956903"></trkpt>
-            <trkpt lon="-77.424257" lat="42.956625"></trkpt>
-            <trkpt lon="-77.424726" lat="42.956426"></trkpt>
-            <trkpt lon="-77.425091" lat="42.956228"></trkpt>
-            <trkpt lon="-77.425454" lat="42.955982"></trkpt>
-            <trkpt lon="-77.425792" lat="42.955681"></trkpt>
-            <trkpt lon="-77.425848" lat="42.955483"></trkpt>
-            <trkpt lon="-77.425770" lat="42.955254"></trkpt>
-            <trkpt lon="-77.425656" lat="42.954951"></trkpt>
-            <trkpt lon="-77.425626" lat="42.954620"></trkpt>
-            <trkpt lon="-77.425716" lat="42.954427"></trkpt>
-            <trkpt lon="-77.425670" lat="42.953968"></trkpt>
-            <trkpt lon="-77.425651" lat="42.953615"></trkpt>
-            <trkpt lon="-77.425508" lat="42.953302"></trkpt>
-            <trkpt lon="-77.425382" lat="42.953199"></trkpt>
-            <trkpt lon="-77.425156" lat="42.952760"></trkpt>
-            <trkpt lon="-77.425104" lat="42.952310"></trkpt>
-            <trkpt lon="-77.425902" lat="42.951787"></trkpt>
-            <trkpt lon="-77.426622" lat="42.951635"></trkpt>
-            <trkpt lon="-77.426652" lat="42.951386"></trkpt>
-            <trkpt lon="-77.426447" lat="42.951194"></trkpt>
-            <trkpt lon="-77.425349" lat="42.951405"></trkpt>
-            <trkpt lon="-77.424859" lat="42.951320"></trkpt>
-            <trkpt lon="-77.424394" lat="42.951345"></trkpt>
+            <trkpt lon="-77.425156" lat="42.960260"/>
+            <trkpt lon="-77.424736" lat="42.960169"/>
+            <trkpt lon="-77.424444" lat="42.960163"/>
+            <trkpt lon="-77.424155" lat="42.960250"/>
+            <trkpt lon="-77.424071" lat="42.960206"/>
+            <trkpt lon="-77.424069" lat="42.960069"/>
+            <trkpt lon="-77.423843" lat="42.959803"/>
+            <trkpt lon="-77.423677" lat="42.959370"/>
+            <trkpt lon="-77.423881" lat="42.958773"/>
+            <trkpt lon="-77.423741" lat="42.958481"/>
+            <trkpt lon="-77.423494" lat="42.958366"/>
+            <trkpt lon="-77.423980" lat="42.957522"/>
+            <trkpt lon="-77.424126" lat="42.957333"/>
+            <trkpt lon="-77.424216" lat="42.957102"/>
+            <trkpt lon="-77.424178" lat="42.956903"/>
+            <trkpt lon="-77.424257" lat="42.956625"/>
+            <trkpt lon="-77.424726" lat="42.956426"/>
+            <trkpt lon="-77.425091" lat="42.956228"/>
+            <trkpt lon="-77.425454" lat="42.955982"/>
+            <trkpt lon="-77.425792" lat="42.955681"/>
+            <trkpt lon="-77.425848" lat="42.955483"/>
+            <trkpt lon="-77.425770" lat="42.955254"/>
+            <trkpt lon="-77.425656" lat="42.954951"/>
+            <trkpt lon="-77.425626" lat="42.954620"/>
+            <trkpt lon="-77.425716" lat="42.954427"/>
+            <trkpt lon="-77.425670" lat="42.953968"/>
+            <trkpt lon="-77.425651" lat="42.953615"/>
+            <trkpt lon="-77.425508" lat="42.953302"/>
+            <trkpt lon="-77.425382" lat="42.953199"/>
+            <trkpt lon="-77.425156" lat="42.952760"/>
+            <trkpt lon="-77.425104" lat="42.952310"/>
+            <trkpt lon="-77.425902" lat="42.951787"/>
+            <trkpt lon="-77.426622" lat="42.951635"/>
+            <trkpt lon="-77.426652" lat="42.951386"/>
+            <trkpt lon="-77.426447" lat="42.951194"/>
+            <trkpt lon="-77.425349" lat="42.951405"/>
+            <trkpt lon="-77.424859" lat="42.951320"/>
+            <trkpt lon="-77.424394" lat="42.951345"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:87bffa20</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.424394" lat="42.951345"></trkpt>
-            <trkpt lon="-77.424298" lat="42.951291"></trkpt>
-            <trkpt lon="-77.424083" lat="42.951082"></trkpt>
-            <trkpt lon="-77.423958" lat="42.950771"></trkpt>
-            <trkpt lon="-77.423889" lat="42.950394"></trkpt>
-            <trkpt lon="-77.423554" lat="42.950237"></trkpt>
-            <trkpt lon="-77.423121" lat="42.950381"></trkpt>
-            <trkpt lon="-77.422603" lat="42.950367"></trkpt>
-            <trkpt lon="-77.422231" lat="42.950251"></trkpt>
-            <trkpt lon="-77.421998" lat="42.950077"></trkpt>
-            <trkpt lon="-77.421395" lat="42.950014"></trkpt>
-            <trkpt lon="-77.420638" lat="42.950337"></trkpt>
-            <trkpt lon="-77.419765" lat="42.950433"></trkpt>
+            <trkpt lon="-77.424394" lat="42.951345"/>
+            <trkpt lon="-77.424298" lat="42.951291"/>
+            <trkpt lon="-77.424083" lat="42.951082"/>
+            <trkpt lon="-77.423958" lat="42.950771"/>
+            <trkpt lon="-77.423889" lat="42.950394"/>
+            <trkpt lon="-77.423554" lat="42.950237"/>
+            <trkpt lon="-77.423121" lat="42.950381"/>
+            <trkpt lon="-77.422603" lat="42.950367"/>
+            <trkpt lon="-77.422231" lat="42.950251"/>
+            <trkpt lon="-77.421998" lat="42.950077"/>
+            <trkpt lon="-77.421395" lat="42.950014"/>
+            <trkpt lon="-77.420638" lat="42.950337"/>
+            <trkpt lon="-77.419765" lat="42.950433"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:6730bcdd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.419765" lat="42.950433"></trkpt>
-            <trkpt lon="-77.419748" lat="42.950205"></trkpt>
-            <trkpt lon="-77.419789" lat="42.949992"></trkpt>
-            <trkpt lon="-77.419869" lat="42.949602"></trkpt>
-            <trkpt lon="-77.420015" lat="42.949271"></trkpt>
-            <trkpt lon="-77.420380" lat="42.948741"></trkpt>
-            <trkpt lon="-77.420697" lat="42.948615"></trkpt>
-            <trkpt lon="-77.421233" lat="42.948466"></trkpt>
-            <trkpt lon="-77.421447" lat="42.948215"></trkpt>
-            <trkpt lon="-77.421602" lat="42.947982"></trkpt>
-            <trkpt lon="-77.421570" lat="42.947758"></trkpt>
-            <trkpt lon="-77.421295" lat="42.947496"></trkpt>
-            <trkpt lon="-77.421117" lat="42.947390"></trkpt>
-            <trkpt lon="-77.421087" lat="42.947179"></trkpt>
-            <trkpt lon="-77.421141" lat="42.947010"></trkpt>
-            <trkpt lon="-77.421364" lat="42.946819"></trkpt>
-            <trkpt lon="-77.421298" lat="42.946363"></trkpt>
-            <trkpt lon="-77.421013" lat="42.945995"></trkpt>
-            <trkpt lon="-77.421079" lat="42.945625"></trkpt>
-            <trkpt lon="-77.421229" lat="42.944963"></trkpt>
-            <trkpt lon="-77.421094" lat="42.944700"></trkpt>
-            <trkpt lon="-77.421308" lat="42.944402"></trkpt>
-            <trkpt lon="-77.421265" lat="42.944007"></trkpt>
+            <trkpt lon="-77.419765" lat="42.950433"/>
+            <trkpt lon="-77.419748" lat="42.950205"/>
+            <trkpt lon="-77.419789" lat="42.949992"/>
+            <trkpt lon="-77.419869" lat="42.949602"/>
+            <trkpt lon="-77.420015" lat="42.949271"/>
+            <trkpt lon="-77.420380" lat="42.948741"/>
+            <trkpt lon="-77.420697" lat="42.948615"/>
+            <trkpt lon="-77.421233" lat="42.948466"/>
+            <trkpt lon="-77.421447" lat="42.948215"/>
+            <trkpt lon="-77.421602" lat="42.947982"/>
+            <trkpt lon="-77.421570" lat="42.947758"/>
+            <trkpt lon="-77.421295" lat="42.947496"/>
+            <trkpt lon="-77.421117" lat="42.947390"/>
+            <trkpt lon="-77.421087" lat="42.947179"/>
+            <trkpt lon="-77.421141" lat="42.947010"/>
+            <trkpt lon="-77.421364" lat="42.946819"/>
+            <trkpt lon="-77.421298" lat="42.946363"/>
+            <trkpt lon="-77.421013" lat="42.945995"/>
+            <trkpt lon="-77.421079" lat="42.945625"/>
+            <trkpt lon="-77.421229" lat="42.944963"/>
+            <trkpt lon="-77.421094" lat="42.944700"/>
+            <trkpt lon="-77.421308" lat="42.944402"/>
+            <trkpt lon="-77.421265" lat="42.944007"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:a36c78c4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.432378" lat="42.938160"></trkpt>
-            <trkpt lon="-77.432085" lat="42.938044"></trkpt>
-            <trkpt lon="-77.430790" lat="42.938084"></trkpt>
-            <trkpt lon="-77.430271" lat="42.937790"></trkpt>
-            <trkpt lon="-77.430106" lat="42.937183"></trkpt>
-            <trkpt lon="-77.430019" lat="42.936413"></trkpt>
-            <trkpt lon="-77.430200" lat="42.935684"></trkpt>
-            <trkpt lon="-77.430364" lat="42.935260"></trkpt>
-            <trkpt lon="-77.430693" lat="42.935247"></trkpt>
-            <trkpt lon="-77.430961" lat="42.935841"></trkpt>
-            <trkpt lon="-77.431257" lat="42.935914"></trkpt>
-            <trkpt lon="-77.431493" lat="42.935755"></trkpt>
-            <trkpt lon="-77.431650" lat="42.935400"></trkpt>
-            <trkpt lon="-77.432154" lat="42.934998"></trkpt>
-            <trkpt lon="-77.432562" lat="42.934299"></trkpt>
-            <trkpt lon="-77.432983" lat="42.933463"></trkpt>
-            <trkpt lon="-77.433699" lat="42.932826"></trkpt>
-            <trkpt lon="-77.434161" lat="42.932729"></trkpt>
-            <trkpt lon="-77.434725" lat="42.932319"></trkpt>
-            <trkpt lon="-77.434761" lat="42.931844"></trkpt>
-            <trkpt lon="-77.433758" lat="42.930920"></trkpt>
-            <trkpt lon="-77.433745" lat="42.930687"></trkpt>
-            <trkpt lon="-77.434651" lat="42.929609"></trkpt>
-            <trkpt lon="-77.435020" lat="42.930113"></trkpt>
-            <trkpt lon="-77.435306" lat="42.930300"></trkpt>
-            <trkpt lon="-77.436098" lat="42.930509"></trkpt>
-            <trkpt lon="-77.436653" lat="42.930413"></trkpt>
-            <trkpt lon="-77.437021" lat="42.930172"></trkpt>
-            <trkpt lon="-77.437503" lat="42.929982"></trkpt>
-            <trkpt lon="-77.438109" lat="42.930108"></trkpt>
-            <trkpt lon="-77.438612" lat="42.930593"></trkpt>
+            <trkpt lon="-77.432378" lat="42.938160"/>
+            <trkpt lon="-77.432085" lat="42.938044"/>
+            <trkpt lon="-77.430790" lat="42.938084"/>
+            <trkpt lon="-77.430271" lat="42.937790"/>
+            <trkpt lon="-77.430106" lat="42.937183"/>
+            <trkpt lon="-77.430019" lat="42.936413"/>
+            <trkpt lon="-77.430200" lat="42.935684"/>
+            <trkpt lon="-77.430364" lat="42.935260"/>
+            <trkpt lon="-77.430693" lat="42.935247"/>
+            <trkpt lon="-77.430961" lat="42.935841"/>
+            <trkpt lon="-77.431257" lat="42.935914"/>
+            <trkpt lon="-77.431493" lat="42.935755"/>
+            <trkpt lon="-77.431650" lat="42.935400"/>
+            <trkpt lon="-77.432154" lat="42.934998"/>
+            <trkpt lon="-77.432562" lat="42.934299"/>
+            <trkpt lon="-77.432983" lat="42.933463"/>
+            <trkpt lon="-77.433699" lat="42.932826"/>
+            <trkpt lon="-77.434161" lat="42.932729"/>
+            <trkpt lon="-77.434725" lat="42.932319"/>
+            <trkpt lon="-77.434761" lat="42.931844"/>
+            <trkpt lon="-77.433758" lat="42.930920"/>
+            <trkpt lon="-77.433745" lat="42.930687"/>
+            <trkpt lon="-77.434651" lat="42.929609"/>
+            <trkpt lon="-77.435020" lat="42.930113"/>
+            <trkpt lon="-77.435306" lat="42.930300"/>
+            <trkpt lon="-77.436098" lat="42.930509"/>
+            <trkpt lon="-77.436653" lat="42.930413"/>
+            <trkpt lon="-77.437021" lat="42.930172"/>
+            <trkpt lon="-77.437503" lat="42.929982"/>
+            <trkpt lon="-77.438109" lat="42.930108"/>
+            <trkpt lon="-77.438612" lat="42.930593"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:5c297a1c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.438612" lat="42.930593"></trkpt>
-            <trkpt lon="-77.439011" lat="42.930584"></trkpt>
-            <trkpt lon="-77.439599" lat="42.930097"></trkpt>
-            <trkpt lon="-77.440369" lat="42.929810"></trkpt>
-            <trkpt lon="-77.440779" lat="42.929400"></trkpt>
+            <trkpt lon="-77.438612" lat="42.930593"/>
+            <trkpt lon="-77.439011" lat="42.930584"/>
+            <trkpt lon="-77.439599" lat="42.930097"/>
+            <trkpt lon="-77.440369" lat="42.929810"/>
+            <trkpt lon="-77.440779" lat="42.929400"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:b5feeddd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.413386" lat="42.971898"></trkpt>
-            <trkpt lon="-77.413449" lat="42.971620"></trkpt>
-            <trkpt lon="-77.413517" lat="42.971336"></trkpt>
-            <trkpt lon="-77.413540" lat="42.971097"></trkpt>
-            <trkpt lon="-77.413655" lat="42.970916"></trkpt>
-            <trkpt lon="-77.413658" lat="42.970856"></trkpt>
-            <trkpt lon="-77.413487" lat="42.970876"></trkpt>
-            <trkpt lon="-77.413065" lat="42.970754"></trkpt>
-            <trkpt lon="-77.412838" lat="42.970626"></trkpt>
-            <trkpt lon="-77.412532" lat="42.970619"></trkpt>
+            <trkpt lon="-77.413386" lat="42.971898"/>
+            <trkpt lon="-77.413449" lat="42.971620"/>
+            <trkpt lon="-77.413517" lat="42.971336"/>
+            <trkpt lon="-77.413540" lat="42.971097"/>
+            <trkpt lon="-77.413655" lat="42.970916"/>
+            <trkpt lon="-77.413658" lat="42.970856"/>
+            <trkpt lon="-77.413487" lat="42.970876"/>
+            <trkpt lon="-77.413065" lat="42.970754"/>
+            <trkpt lon="-77.412838" lat="42.970626"/>
+            <trkpt lon="-77.412532" lat="42.970619"/>
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:15b3853e</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.421265" lat="42.944007"></trkpt>
-            <trkpt lon="-77.425200" lat="42.943983"></trkpt>
+            <trkpt lon="-77.421265" lat="42.944007"/>
+            <trkpt lon="-77.425200" lat="42.943983"/>
         </trkseg>
     </trk>
     <trk>
-        <name>auburntr_main,senecatr_main</name>
+        <name>seg:trail-auburntr-main,trail-senecatr-main:822720a0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -6038,34 +6038,97 @@
         </trkseg>
     </trk>
     <trk>
-        <name>senecatr_main</name>
+        <name>seg:trail-senecatr-main:7ac0cb0c</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.425200" lat="42.943983"></trkpt>
-            <trkpt lon="-77.425488" lat="42.943254"></trkpt>
-            <trkpt lon="-77.425419" lat="42.942848"></trkpt>
-            <trkpt lon="-77.425125" lat="42.942489"></trkpt>
-            <trkpt lon="-77.425001" lat="42.942245"></trkpt>
-            <trkpt lon="-77.423997" lat="42.942074"></trkpt>
-            <trkpt lon="-77.423132" lat="42.941905"></trkpt>
-            <trkpt lon="-77.422808" lat="42.941521"></trkpt>
-            <trkpt lon="-77.422511" lat="42.941188"></trkpt>
-            <trkpt lon="-77.421990" lat="42.940743"></trkpt>
-            <trkpt lon="-77.421937" lat="42.940449"></trkpt>
-            <trkpt lon="-77.422090" lat="42.940139"></trkpt>
-            <trkpt lon="-77.426442" lat="42.940064"></trkpt>
-            <trkpt lon="-77.426864" lat="42.939855"></trkpt>
-            <trkpt lon="-77.429851" lat="42.939942"></trkpt>
-            <trkpt lon="-77.430715" lat="42.939953"></trkpt>
-            <trkpt lon="-77.431586" lat="42.939861"></trkpt>
-            <trkpt lon="-77.431859" lat="42.940018"></trkpt>
-            <trkpt lon="-77.432046" lat="42.940008"></trkpt>
-            <trkpt lon="-77.431962" lat="42.938614"></trkpt>
-            <trkpt lon="-77.431962" lat="42.938614"></trkpt>
-            <trkpt lon="-77.432378" lat="42.938160"></trkpt>
+            <trkpt lon="-77.425200" lat="42.943983"/>
+            <trkpt lon="-77.425488" lat="42.943254"/>
+            <trkpt lon="-77.425419" lat="42.942848"/>
+            <trkpt lon="-77.425125" lat="42.942489"/>
+            <trkpt lon="-77.425001" lat="42.942245"/>
+            <trkpt lon="-77.423997" lat="42.942074"/>
+            <trkpt lon="-77.423132" lat="42.941905"/>
+            <trkpt lon="-77.422808" lat="42.941521"/>
+            <trkpt lon="-77.422511" lat="42.941188"/>
+            <trkpt lon="-77.421990" lat="42.940743"/>
+            <trkpt lon="-77.421937" lat="42.940449"/>
+            <trkpt lon="-77.422090" lat="42.940139"/>
+            <trkpt lon="-77.426442" lat="42.940064"/>
+            <trkpt lon="-77.426864" lat="42.939855"/>
+            <trkpt lon="-77.429851" lat="42.939942"/>
+            <trkpt lon="-77.430715" lat="42.939953"/>
+            <trkpt lon="-77.431586" lat="42.939861"/>
+            <trkpt lon="-77.431859" lat="42.940018"/>
+            <trkpt lon="-77.432046" lat="42.940008"/>
+            <trkpt lon="-77.431962" lat="42.938614"/>
+            <trkpt lon="-77.431962" lat="42.938614"/>
+            <trkpt lon="-77.432378" lat="42.938160"/>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.034185" lon="-77.442643"><name>point-parking:senecatr:8e23a429</name><desc>{
+  "type": "point-parking",
+  "directionsCoordinate": [
+    43.033143,
+    -77.439798
+  ],
+  "comments": "Square Dr",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="43.028995" lon="-77.435295"><name>point-parking:senecatr:46d7f85e</name><desc>{
+  "type": "point-parking",
+  "directionsCoordinate": [
+    43.028957,
+    -77.433653
+  ],
+  "comments": "Constellation Brands",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.995138" lon="-77.436878"><name>point-parking:senecatr:d26eace8</name><desc>{
+  "type": "point-parking",
+  "comments": "Lehigh Crossing Park",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.996655" lon="-77.4398"><name>point-poi:senecatr:d65be60d</name><desc>{
+  "type": "point-poi",
+  "name": "Lehigh Crossing Park",
+  "directionsCoordinate": [
+    42.995138,
+    -77.436878
+  ],
+  "SW": [
+    42.99278,
+    -77.444425
+  ],
+  "NE": [
+    42.999978,
+    -77.434278
+  ],
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.980988" lon="-77.42142"><name>point-parking:senecatr:50bb0ac5</name><desc>{
+  "type": "point-parking",
+  "comments": "Rawson Rd",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.970552" lon="-77.412363"><name>point-parking:senecatr:87da66cb</name><desc>{
+  "type": "point-parking",
+  "comments": "Ganondagan East",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.960777" lon="-77.425243"><name>point-parking:senecatr:7f81f114</name><desc>{
+  "type": "point-parking",
+  "comments": "Ganondagan South",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="43.025823" lon="-77.43599"><name>point-parking:senecatr:dfa32c4f</name><desc>{
+  "type": "point-parking",
+  "comments": "Valentown",
+  "name": "Parking",
+  "parkID": "park-senecatr"
+}</desc></wpt><wpt lat="42.92932" lon="-77.440644"><name>point-parking:senecatr:9a99ff68</name><desc>{
+  "type": "point-parking",
+  "name": "(Permit Required)",
+  "parkID": "park-senecatr"
+}</desc></wpt></gpx>

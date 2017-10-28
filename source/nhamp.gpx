@@ -1,762 +1,991 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T01:42:05.970Z</time>
     </metadata>
     <rte>
-        <name>nhamp_fairview</name>
+        <name>seg:trail-nhamp-fairview:83f33518</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.875258" lat="43.184848"></rtept>
-        <rtept lon="-77.875724" lat="43.184883"></rtept>
-        <rtept lon="-77.876065" lat="43.185055"></rtept>
-        <rtept lon="-77.876052" lat="43.185258"></rtept>
-        <rtept lon="-77.875988" lat="43.186301"></rtept>
-        <rtept lon="-77.878489" lat="43.186293"></rtept>
-        <rtept lon="-77.880921" lat="43.186173"></rtept>
+        <rtept lon="-77.875258" lat="43.184848"/>
+        <rtept lon="-77.875724" lat="43.184883"/>
+        <rtept lon="-77.876065" lat="43.185055"/>
+        <rtept lon="-77.876052" lat="43.185258"/>
+        <rtept lon="-77.875988" lat="43.186301"/>
+        <rtept lon="-77.878489" lat="43.186293"/>
+        <rtept lon="-77.880921" lat="43.186173"/>
     </rte>
     <rte>
-        <name>nhamp_fairview</name>
+        <name>seg:trail-nhamp-fairview:2212e6a5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.880921" lat="43.186173"></rtept>
-        <rtept lon="-77.882588" lat="43.186672"></rtept>
-        <rtept lon="-77.883235" lat="43.186784"></rtept>
+        <rtept lon="-77.880921" lat="43.186173"/>
+        <rtept lon="-77.882588" lat="43.186672"/>
+        <rtept lon="-77.883235" lat="43.186784"/>
     </rte>
     <rte>
-        <name>nhamp_fairview</name>
+        <name>seg:trail-nhamp-fairview:28227771</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.883235" lat="43.186784"></rtept>
-        <rtept lon="-77.884000" lat="43.186925"></rtept>
-        <rtept lon="-77.884919" lat="43.186977"></rtept>
+        <rtept lon="-77.883235" lat="43.186784"/>
+        <rtept lon="-77.884000" lat="43.186925"/>
+        <rtept lon="-77.884919" lat="43.186977"/>
     </rte>
     <trk>
-        <name>border:nhamp</name>
+        <name>border:park-nhamp</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.901368" lat="43.192142"></trkpt>
-            <trkpt lon="-77.894761" lat="43.192055"></trkpt>
-            <trkpt lon="-77.879559" lat="43.188430"></trkpt>
-            <trkpt lon="-77.865728" lat="43.188078"></trkpt>
-            <trkpt lon="-77.854294" lat="43.185931"></trkpt>
-            <trkpt lon="-77.854626" lat="43.179110"></trkpt>
-            <trkpt lon="-77.874641" lat="43.179554"></trkpt>
-            <trkpt lon="-77.885014" lat="43.179833"></trkpt>
-            <trkpt lon="-77.905355" lat="43.180011"></trkpt>
+            <trkpt lon="-77.901368" lat="43.192142"/>
+            <trkpt lon="-77.894761" lat="43.192055"/>
+            <trkpt lon="-77.879559" lat="43.188430"/>
+            <trkpt lon="-77.865728" lat="43.188078"/>
+            <trkpt lon="-77.854294" lat="43.185931"/>
+            <trkpt lon="-77.854626" lat="43.179110"/>
+            <trkpt lon="-77.874641" lat="43.179554"/>
+            <trkpt lon="-77.885014" lat="43.179833"/>
+            <trkpt lon="-77.905355" lat="43.180011"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:582d63bb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.863439" lat="43.179488"></trkpt>
-            <trkpt lon="-77.863408" lat="43.180049"></trkpt>
-            <trkpt lon="-77.863295" lat="43.180330"></trkpt>
-            <trkpt lon="-77.863361" lat="43.180751"></trkpt>
-            <trkpt lon="-77.863067" lat="43.181577"></trkpt>
-            <trkpt lon="-77.863192" lat="43.181691"></trkpt>
-            <trkpt lon="-77.863404" lat="43.182202"></trkpt>
-            <trkpt lon="-77.863334" lat="43.183046"></trkpt>
+            <trkpt lon="-77.863439" lat="43.179488"/>
+            <trkpt lon="-77.863408" lat="43.180049"/>
+            <trkpt lon="-77.863295" lat="43.180330"/>
+            <trkpt lon="-77.863361" lat="43.180751"/>
+            <trkpt lon="-77.863067" lat="43.181577"/>
+            <trkpt lon="-77.863192" lat="43.181691"/>
+            <trkpt lon="-77.863404" lat="43.182202"/>
+            <trkpt lon="-77.863334" lat="43.183046"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:d95b5a6c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.863334" lat="43.183046"></trkpt>
-            <trkpt lon="-77.863904" lat="43.183335"></trkpt>
-            <trkpt lon="-77.863823" lat="43.184119"></trkpt>
-            <trkpt lon="-77.863815" lat="43.184323"></trkpt>
+            <trkpt lon="-77.863334" lat="43.183046"/>
+            <trkpt lon="-77.863904" lat="43.183335"/>
+            <trkpt lon="-77.863823" lat="43.184119"/>
+            <trkpt lon="-77.863815" lat="43.184323"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:5b71d02e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.863815" lat="43.184323"></trkpt>
-            <trkpt lon="-77.863813" lat="43.184620"></trkpt>
-            <trkpt lon="-77.863950" lat="43.184809"></trkpt>
-            <trkpt lon="-77.863955" lat="43.185162"></trkpt>
+            <trkpt lon="-77.863815" lat="43.184323"/>
+            <trkpt lon="-77.863813" lat="43.184620"/>
+            <trkpt lon="-77.863950" lat="43.184809"/>
+            <trkpt lon="-77.863955" lat="43.185162"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:f809af53</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.863955" lat="43.185162"></trkpt>
-            <trkpt lon="-77.863914" lat="43.185354"></trkpt>
-            <trkpt lon="-77.863154" lat="43.185294"></trkpt>
-            <trkpt lon="-77.862242" lat="43.185611"></trkpt>
-            <trkpt lon="-77.861742" lat="43.185654"></trkpt>
+            <trkpt lon="-77.863955" lat="43.185162"/>
+            <trkpt lon="-77.863914" lat="43.185354"/>
+            <trkpt lon="-77.863154" lat="43.185294"/>
+            <trkpt lon="-77.862242" lat="43.185611"/>
+            <trkpt lon="-77.861742" lat="43.185654"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:b8624188</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.861742" lat="43.185654"></trkpt>
-            <trkpt lon="-77.860385" lat="43.185264"></trkpt>
-            <trkpt lon="-77.859832" lat="43.185111"></trkpt>
-            <trkpt lon="-77.859321" lat="43.185146"></trkpt>
-            <trkpt lon="-77.858937" lat="43.185088"></trkpt>
-            <trkpt lon="-77.858422" lat="43.184925"></trkpt>
+            <trkpt lon="-77.861742" lat="43.185654"/>
+            <trkpt lon="-77.860385" lat="43.185264"/>
+            <trkpt lon="-77.859832" lat="43.185111"/>
+            <trkpt lon="-77.859321" lat="43.185146"/>
+            <trkpt lon="-77.858937" lat="43.185088"/>
+            <trkpt lon="-77.858422" lat="43.184925"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:05e72512</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.858422" lat="43.184925"></trkpt>
-            <trkpt lon="-77.858486" lat="43.184760"></trkpt>
-            <trkpt lon="-77.858354" lat="43.184365"></trkpt>
-            <trkpt lon="-77.858714" lat="43.183929"></trkpt>
-            <trkpt lon="-77.859109" lat="43.183844"></trkpt>
-            <trkpt lon="-77.859505" lat="43.183759"></trkpt>
-            <trkpt lon="-77.859960" lat="43.183244"></trkpt>
+            <trkpt lon="-77.858422" lat="43.184925"/>
+            <trkpt lon="-77.858486" lat="43.184760"/>
+            <trkpt lon="-77.858354" lat="43.184365"/>
+            <trkpt lon="-77.858714" lat="43.183929"/>
+            <trkpt lon="-77.859109" lat="43.183844"/>
+            <trkpt lon="-77.859505" lat="43.183759"/>
+            <trkpt lon="-77.859960" lat="43.183244"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_creek</name>
+        <name>seg:trail-nhamp-creek:d6410583</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.859960" lat="43.183244"></trkpt>
-            <trkpt lon="-77.860338" lat="43.183170"></trkpt>
-            <trkpt lon="-77.862009" lat="43.183164"></trkpt>
-            <trkpt lon="-77.862399" lat="43.182982"></trkpt>
-            <trkpt lon="-77.863307" lat="43.183032"></trkpt>
+            <trkpt lon="-77.859960" lat="43.183244"/>
+            <trkpt lon="-77.860338" lat="43.183170"/>
+            <trkpt lon="-77.862009" lat="43.183164"/>
+            <trkpt lon="-77.862399" lat="43.182982"/>
+            <trkpt lon="-77.863307" lat="43.183032"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_farm</name>
+        <name>seg:trail-nhamp-farm:6235b41f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.870820" lat="43.180534"></trkpt>
-            <trkpt lon="-77.870787" lat="43.181019"></trkpt>
-            <trkpt lon="-77.870699" lat="43.182021"></trkpt>
-            <trkpt lon="-77.870623" lat="43.182934"></trkpt>
+            <trkpt lon="-77.870820" lat="43.180534"/>
+            <trkpt lon="-77.870787" lat="43.181019"/>
+            <trkpt lon="-77.870699" lat="43.182021"/>
+            <trkpt lon="-77.870623" lat="43.182934"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_farm</name>
+        <name>seg:trail-nhamp-farm:00b95298</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.870623" lat="43.182934"></trkpt>
-            <trkpt lon="-77.870295" lat="43.182990"></trkpt>
-            <trkpt lon="-77.870152" lat="43.183060"></trkpt>
-            <trkpt lon="-77.869340" lat="43.183077"></trkpt>
-            <trkpt lon="-77.869017" lat="43.183121"></trkpt>
-            <trkpt lon="-77.868822" lat="43.183290"></trkpt>
-            <trkpt lon="-77.868716" lat="43.184049"></trkpt>
-            <trkpt lon="-77.868498" lat="43.184225"></trkpt>
-            <trkpt lon="-77.867996" lat="43.184240"></trkpt>
-            <trkpt lon="-77.867268" lat="43.184292"></trkpt>
-            <trkpt lon="-77.866380" lat="43.184297"></trkpt>
-            <trkpt lon="-77.865958" lat="43.184231"></trkpt>
+            <trkpt lon="-77.870623" lat="43.182934"/>
+            <trkpt lon="-77.870295" lat="43.182990"/>
+            <trkpt lon="-77.870152" lat="43.183060"/>
+            <trkpt lon="-77.869340" lat="43.183077"/>
+            <trkpt lon="-77.869017" lat="43.183121"/>
+            <trkpt lon="-77.868822" lat="43.183290"/>
+            <trkpt lon="-77.868716" lat="43.184049"/>
+            <trkpt lon="-77.868498" lat="43.184225"/>
+            <trkpt lon="-77.867996" lat="43.184240"/>
+            <trkpt lon="-77.867268" lat="43.184292"/>
+            <trkpt lon="-77.866380" lat="43.184297"/>
+            <trkpt lon="-77.865958" lat="43.184231"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_farm</name>
+        <name>seg:trail-nhamp-farm:f7dca0b7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.865958" lat="43.184231"></trkpt>
-            <trkpt lon="-77.865812" lat="43.184299"></trkpt>
-            <trkpt lon="-77.865800" lat="43.184404"></trkpt>
-            <trkpt lon="-77.865691" lat="43.184509"></trkpt>
-            <trkpt lon="-77.865531" lat="43.184722"></trkpt>
-            <trkpt lon="-77.865463" lat="43.185009"></trkpt>
-            <trkpt lon="-77.865393" lat="43.185092"></trkpt>
-            <trkpt lon="-77.865348" lat="43.185195"></trkpt>
+            <trkpt lon="-77.865958" lat="43.184231"/>
+            <trkpt lon="-77.865812" lat="43.184299"/>
+            <trkpt lon="-77.865800" lat="43.184404"/>
+            <trkpt lon="-77.865691" lat="43.184509"/>
+            <trkpt lon="-77.865531" lat="43.184722"/>
+            <trkpt lon="-77.865463" lat="43.185009"/>
+            <trkpt lon="-77.865393" lat="43.185092"/>
+            <trkpt lon="-77.865348" lat="43.185195"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_farm</name>
+        <name>seg:trail-nhamp-farm:26802a65</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.865348" lat="43.185195"></trkpt>
-            <trkpt lon="-77.865579" lat="43.185406"></trkpt>
-            <trkpt lon="-77.866101" lat="43.185364"></trkpt>
-            <trkpt lon="-77.866378" lat="43.185461"></trkpt>
-            <trkpt lon="-77.866355" lat="43.186471"></trkpt>
-            <trkpt lon="-77.866457" lat="43.186541"></trkpt>
-            <trkpt lon="-77.866369" lat="43.187218"></trkpt>
-            <trkpt lon="-77.866531" lat="43.187386"></trkpt>
-            <trkpt lon="-77.866893" lat="43.187454"></trkpt>
-            <trkpt lon="-77.867685" lat="43.187431"></trkpt>
-            <trkpt lon="-77.867988" lat="43.187418"></trkpt>
-            <trkpt lon="-77.868330" lat="43.187387"></trkpt>
-            <trkpt lon="-77.868776" lat="43.187390"></trkpt>
-            <trkpt lon="-77.869021" lat="43.187378"></trkpt>
-            <trkpt lon="-77.869549" lat="43.187155"></trkpt>
-            <trkpt lon="-77.869814" lat="43.186954"></trkpt>
-            <trkpt lon="-77.869966" lat="43.186721"></trkpt>
-            <trkpt lon="-77.870117" lat="43.186652"></trkpt>
-            <trkpt lon="-77.870331" lat="43.186345"></trkpt>
-            <trkpt lon="-77.870866" lat="43.185850"></trkpt>
-            <trkpt lon="-77.871083" lat="43.185611"></trkpt>
-            <trkpt lon="-77.871178" lat="43.185536"></trkpt>
-            <trkpt lon="-77.871290" lat="43.185353"></trkpt>
-            <trkpt lon="-77.871219" lat="43.184809"></trkpt>
+            <trkpt lon="-77.865348" lat="43.185195"/>
+            <trkpt lon="-77.865579" lat="43.185406"/>
+            <trkpt lon="-77.866101" lat="43.185364"/>
+            <trkpt lon="-77.866378" lat="43.185461"/>
+            <trkpt lon="-77.866355" lat="43.186471"/>
+            <trkpt lon="-77.866457" lat="43.186541"/>
+            <trkpt lon="-77.866369" lat="43.187218"/>
+            <trkpt lon="-77.866531" lat="43.187386"/>
+            <trkpt lon="-77.866893" lat="43.187454"/>
+            <trkpt lon="-77.867685" lat="43.187431"/>
+            <trkpt lon="-77.867988" lat="43.187418"/>
+            <trkpt lon="-77.868330" lat="43.187387"/>
+            <trkpt lon="-77.868776" lat="43.187390"/>
+            <trkpt lon="-77.869021" lat="43.187378"/>
+            <trkpt lon="-77.869549" lat="43.187155"/>
+            <trkpt lon="-77.869814" lat="43.186954"/>
+            <trkpt lon="-77.869966" lat="43.186721"/>
+            <trkpt lon="-77.870117" lat="43.186652"/>
+            <trkpt lon="-77.870331" lat="43.186345"/>
+            <trkpt lon="-77.870866" lat="43.185850"/>
+            <trkpt lon="-77.871083" lat="43.185611"/>
+            <trkpt lon="-77.871178" lat="43.185536"/>
+            <trkpt lon="-77.871290" lat="43.185353"/>
+            <trkpt lon="-77.871219" lat="43.184809"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_farm</name>
+        <name>seg:trail-nhamp-farm:8957192e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.871219" lat="43.184809"></trkpt>
-            <trkpt lon="-77.871222" lat="43.183938"></trkpt>
-            <trkpt lon="-77.870922" lat="43.183481"></trkpt>
-            <trkpt lon="-77.870842" lat="43.183334"></trkpt>
-            <trkpt lon="-77.870791" lat="43.183151"></trkpt>
-            <trkpt lon="-77.870628" lat="43.182928"></trkpt>
+            <trkpt lon="-77.871219" lat="43.184809"/>
+            <trkpt lon="-77.871222" lat="43.183938"/>
+            <trkpt lon="-77.870922" lat="43.183481"/>
+            <trkpt lon="-77.870842" lat="43.183334"/>
+            <trkpt lon="-77.870791" lat="43.183151"/>
+            <trkpt lon="-77.870628" lat="43.182928"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_gardner</name>
+        <name>seg:trail-nhamp-gardner:ce370af6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.888126" lat="43.188890"></trkpt>
-            <trkpt lon="-77.889823" lat="43.188617"></trkpt>
-            <trkpt lon="-77.890523" lat="43.188487"></trkpt>
-            <trkpt lon="-77.891392" lat="43.188517"></trkpt>
-            <trkpt lon="-77.894107" lat="43.188505"></trkpt>
-            <trkpt lon="-77.896379" lat="43.188505"></trkpt>
-            <trkpt lon="-77.897084" lat="43.188539"></trkpt>
-            <trkpt lon="-77.897142" lat="43.188890"></trkpt>
-            <trkpt lon="-77.897434" lat="43.188951"></trkpt>
-            <trkpt lon="-77.897819" lat="43.188959"></trkpt>
-            <trkpt lon="-77.898735" lat="43.189449"></trkpt>
-            <trkpt lon="-77.899090" lat="43.189725"></trkpt>
-            <trkpt lon="-77.899192" lat="43.189893"></trkpt>
-            <trkpt lon="-77.899383" lat="43.190484"></trkpt>
-            <trkpt lon="-77.899395" lat="43.190710"></trkpt>
+            <trkpt lon="-77.888126" lat="43.188890"/>
+            <trkpt lon="-77.889823" lat="43.188617"/>
+            <trkpt lon="-77.890523" lat="43.188487"/>
+            <trkpt lon="-77.891392" lat="43.188517"/>
+            <trkpt lon="-77.894107" lat="43.188505"/>
+            <trkpt lon="-77.896379" lat="43.188505"/>
+            <trkpt lon="-77.897084" lat="43.188539"/>
+            <trkpt lon="-77.897142" lat="43.188890"/>
+            <trkpt lon="-77.897434" lat="43.188951"/>
+            <trkpt lon="-77.897819" lat="43.188959"/>
+            <trkpt lon="-77.898735" lat="43.189449"/>
+            <trkpt lon="-77.899090" lat="43.189725"/>
+            <trkpt lon="-77.899192" lat="43.189893"/>
+            <trkpt lon="-77.899383" lat="43.190484"/>
+            <trkpt lon="-77.899395" lat="43.190710"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_gardner</name>
+        <name>seg:trail-nhamp-gardner:d6287b1f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.899395" lat="43.190710"></trkpt>
-            <trkpt lon="-77.898853" lat="43.190765"></trkpt>
-            <trkpt lon="-77.895665" lat="43.190749"></trkpt>
-            <trkpt lon="-77.892447" lat="43.190725"></trkpt>
-            <trkpt lon="-77.891756" lat="43.190731"></trkpt>
-            <trkpt lon="-77.889779" lat="43.190685"></trkpt>
-            <trkpt lon="-77.889688" lat="43.190591"></trkpt>
-            <trkpt lon="-77.889367" lat="43.190031"></trkpt>
-            <trkpt lon="-77.888930" lat="43.189526"></trkpt>
-            <trkpt lon="-77.888429" lat="43.189106"></trkpt>
-            <trkpt lon="-77.888117" lat="43.188893"></trkpt>
+            <trkpt lon="-77.899395" lat="43.190710"/>
+            <trkpt lon="-77.898853" lat="43.190765"/>
+            <trkpt lon="-77.895665" lat="43.190749"/>
+            <trkpt lon="-77.892447" lat="43.190725"/>
+            <trkpt lon="-77.891756" lat="43.190731"/>
+            <trkpt lon="-77.889779" lat="43.190685"/>
+            <trkpt lon="-77.889688" lat="43.190591"/>
+            <trkpt lon="-77.889367" lat="43.190031"/>
+            <trkpt lon="-77.888930" lat="43.189526"/>
+            <trkpt lon="-77.888429" lat="43.189106"/>
+            <trkpt lon="-77.888117" lat="43.188893"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_gardner</name>
+        <name>seg:trail-nhamp-gardner:6c5993f4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.888117" lat="43.188893"></trkpt>
-            <trkpt lon="-77.887901" lat="43.188530"></trkpt>
-            <trkpt lon="-77.887592" lat="43.188163"></trkpt>
-            <trkpt lon="-77.887413" lat="43.188095"></trkpt>
-            <trkpt lon="-77.886285" lat="43.188133"></trkpt>
-            <trkpt lon="-77.885709" lat="43.188354"></trkpt>
-            <trkpt lon="-77.885419" lat="43.188386"></trkpt>
-            <trkpt lon="-77.885220" lat="43.188397"></trkpt>
-            <trkpt lon="-77.884917" lat="43.188368"></trkpt>
-            <trkpt lon="-77.884681" lat="43.188294"></trkpt>
-            <trkpt lon="-77.884426" lat="43.188066"></trkpt>
-            <trkpt lon="-77.884229" lat="43.188020"></trkpt>
+            <trkpt lon="-77.888117" lat="43.188893"/>
+            <trkpt lon="-77.887901" lat="43.188530"/>
+            <trkpt lon="-77.887592" lat="43.188163"/>
+            <trkpt lon="-77.887413" lat="43.188095"/>
+            <trkpt lon="-77.886285" lat="43.188133"/>
+            <trkpt lon="-77.885709" lat="43.188354"/>
+            <trkpt lon="-77.885419" lat="43.188386"/>
+            <trkpt lon="-77.885220" lat="43.188397"/>
+            <trkpt lon="-77.884917" lat="43.188368"/>
+            <trkpt lon="-77.884681" lat="43.188294"/>
+            <trkpt lon="-77.884426" lat="43.188066"/>
+            <trkpt lon="-77.884229" lat="43.188020"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_loop</name>
+        <name>seg:trail-nhamp-loop:d74be7d9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.889448" lat="43.184684"></trkpt>
-            <trkpt lon="-77.889856" lat="43.185316"></trkpt>
-            <trkpt lon="-77.890439" lat="43.185304"></trkpt>
-            <trkpt lon="-77.891051" lat="43.185520"></trkpt>
-            <trkpt lon="-77.891191" lat="43.186011"></trkpt>
-            <trkpt lon="-77.890720" lat="43.186389"></trkpt>
-            <trkpt lon="-77.890054" lat="43.186617"></trkpt>
-            <trkpt lon="-77.889211" lat="43.186553"></trkpt>
-            <trkpt lon="-77.888927" lat="43.186171"></trkpt>
-            <trkpt lon="-77.889193" lat="43.185690"></trkpt>
-            <trkpt lon="-77.889853" lat="43.185309"></trkpt>
+            <trkpt lon="-77.889448" lat="43.184684"/>
+            <trkpt lon="-77.889856" lat="43.185316"/>
+            <trkpt lon="-77.890439" lat="43.185304"/>
+            <trkpt lon="-77.891051" lat="43.185520"/>
+            <trkpt lon="-77.891191" lat="43.186011"/>
+            <trkpt lon="-77.890720" lat="43.186389"/>
+            <trkpt lon="-77.890054" lat="43.186617"/>
+            <trkpt lon="-77.889211" lat="43.186553"/>
+            <trkpt lon="-77.888927" lat="43.186171"/>
+            <trkpt lon="-77.889193" lat="43.185690"/>
+            <trkpt lon="-77.889853" lat="43.185309"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:940f6af0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.891154" lat="43.185814"></trkpt>
-            <trkpt lon="-77.891518" lat="43.185844"></trkpt>
-            <trkpt lon="-77.891881" lat="43.185890"></trkpt>
-            <trkpt lon="-77.892355" lat="43.185932"></trkpt>
-            <trkpt lon="-77.892642" lat="43.185903"></trkpt>
-            <trkpt lon="-77.892960" lat="43.185788"></trkpt>
-            <trkpt lon="-77.893262" lat="43.185738"></trkpt>
+            <trkpt lon="-77.891154" lat="43.185814"/>
+            <trkpt lon="-77.891518" lat="43.185844"/>
+            <trkpt lon="-77.891881" lat="43.185890"/>
+            <trkpt lon="-77.892355" lat="43.185932"/>
+            <trkpt lon="-77.892642" lat="43.185903"/>
+            <trkpt lon="-77.892960" lat="43.185788"/>
+            <trkpt lon="-77.893262" lat="43.185738"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:68a6fabd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.892639" lat="43.181539"></trkpt>
-            <trkpt lon="-77.891860" lat="43.181448"></trkpt>
-            <trkpt lon="-77.891131" lat="43.181499"></trkpt>
-            <trkpt lon="-77.890825" lat="43.181480"></trkpt>
-            <trkpt lon="-77.890426" lat="43.181559"></trkpt>
-            <trkpt lon="-77.889953" lat="43.181601"></trkpt>
-            <trkpt lon="-77.889531" lat="43.181707"></trkpt>
-            <trkpt lon="-77.889164" lat="43.181684"></trkpt>
-            <trkpt lon="-77.888923" lat="43.181787"></trkpt>
-            <trkpt lon="-77.888712" lat="43.181941"></trkpt>
-            <trkpt lon="-77.888530" lat="43.182020"></trkpt>
-            <trkpt lon="-77.887467" lat="43.182362"></trkpt>
-            <trkpt lon="-77.887461" lat="43.183747"></trkpt>
+            <trkpt lon="-77.892639" lat="43.181539"/>
+            <trkpt lon="-77.891860" lat="43.181448"/>
+            <trkpt lon="-77.891131" lat="43.181499"/>
+            <trkpt lon="-77.890825" lat="43.181480"/>
+            <trkpt lon="-77.890426" lat="43.181559"/>
+            <trkpt lon="-77.889953" lat="43.181601"/>
+            <trkpt lon="-77.889531" lat="43.181707"/>
+            <trkpt lon="-77.889164" lat="43.181684"/>
+            <trkpt lon="-77.888923" lat="43.181787"/>
+            <trkpt lon="-77.888712" lat="43.181941"/>
+            <trkpt lon="-77.888530" lat="43.182020"/>
+            <trkpt lon="-77.887467" lat="43.182362"/>
+            <trkpt lon="-77.887461" lat="43.183747"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:31e34868</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.887461" lat="43.183747"></trkpt>
-            <trkpt lon="-77.887485" lat="43.184616"></trkpt>
-            <trkpt lon="-77.886579" lat="43.184531"></trkpt>
-            <trkpt lon="-77.885584" lat="43.184589"></trkpt>
-            <trkpt lon="-77.885544" lat="43.186028"></trkpt>
-            <trkpt lon="-77.884348" lat="43.185906"></trkpt>
-            <trkpt lon="-77.883427" lat="43.185978"></trkpt>
+            <trkpt lon="-77.887461" lat="43.183747"/>
+            <trkpt lon="-77.887485" lat="43.184616"/>
+            <trkpt lon="-77.886579" lat="43.184531"/>
+            <trkpt lon="-77.885584" lat="43.184589"/>
+            <trkpt lon="-77.885544" lat="43.186028"/>
+            <trkpt lon="-77.884348" lat="43.185906"/>
+            <trkpt lon="-77.883427" lat="43.185978"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:5a41c4d6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.874509" lat="43.183175"></trkpt>
-            <trkpt lon="-77.876451" lat="43.183205"></trkpt>
+            <trkpt lon="-77.874509" lat="43.183175"/>
+            <trkpt lon="-77.876451" lat="43.183205"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:60a6d0bb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.876451" lat="43.183205"></trkpt>
-            <trkpt lon="-77.878728" lat="43.182436"></trkpt>
-            <trkpt lon="-77.878879" lat="43.182364"></trkpt>
+            <trkpt lon="-77.876451" lat="43.183205"/>
+            <trkpt lon="-77.878728" lat="43.182436"/>
+            <trkpt lon="-77.878879" lat="43.182364"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:943bde05</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.878879" lat="43.182364"></trkpt>
-            <trkpt lon="-77.878867" lat="43.181937"></trkpt>
-            <trkpt lon="-77.878831" lat="43.181676"></trkpt>
-            <trkpt lon="-77.878934" lat="43.181580"></trkpt>
-            <trkpt lon="-77.879586" lat="43.181604"></trkpt>
-            <trkpt lon="-77.879703" lat="43.181545"></trkpt>
-            <trkpt lon="-77.879757" lat="43.180868"></trkpt>
-            <trkpt lon="-77.879933" lat="43.180833"></trkpt>
-            <trkpt lon="-77.881719" lat="43.180824"></trkpt>
-            <trkpt lon="-77.882346" lat="43.180807"></trkpt>
-            <trkpt lon="-77.883357" lat="43.180856"></trkpt>
+            <trkpt lon="-77.878879" lat="43.182364"/>
+            <trkpt lon="-77.878867" lat="43.181937"/>
+            <trkpt lon="-77.878831" lat="43.181676"/>
+            <trkpt lon="-77.878934" lat="43.181580"/>
+            <trkpt lon="-77.879586" lat="43.181604"/>
+            <trkpt lon="-77.879703" lat="43.181545"/>
+            <trkpt lon="-77.879757" lat="43.180868"/>
+            <trkpt lon="-77.879933" lat="43.180833"/>
+            <trkpt lon="-77.881719" lat="43.180824"/>
+            <trkpt lon="-77.882346" lat="43.180807"/>
+            <trkpt lon="-77.883357" lat="43.180856"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:4b2cea17</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.878890" lat="43.182360"></trkpt>
-            <trkpt lon="-77.882546" lat="43.182557"></trkpt>
+            <trkpt lon="-77.878890" lat="43.182360"/>
+            <trkpt lon="-77.882546" lat="43.182557"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:eb2cdcc2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.884309" lat="43.179898"></trkpt>
-            <trkpt lon="-77.884100" lat="43.180222"></trkpt>
-            <trkpt lon="-77.883714" lat="43.180351"></trkpt>
-            <trkpt lon="-77.883447" lat="43.180628"></trkpt>
-            <trkpt lon="-77.883376" lat="43.180844"></trkpt>
-            <trkpt lon="-77.883296" lat="43.181198"></trkpt>
-            <trkpt lon="-77.883113" lat="43.181488"></trkpt>
-            <trkpt lon="-77.883131" lat="43.181778"></trkpt>
+            <trkpt lon="-77.884309" lat="43.179898"/>
+            <trkpt lon="-77.884100" lat="43.180222"/>
+            <trkpt lon="-77.883714" lat="43.180351"/>
+            <trkpt lon="-77.883447" lat="43.180628"/>
+            <trkpt lon="-77.883376" lat="43.180844"/>
+            <trkpt lon="-77.883296" lat="43.181198"/>
+            <trkpt lon="-77.883113" lat="43.181488"/>
+            <trkpt lon="-77.883131" lat="43.181778"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:1880607a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.883131" lat="43.181778"></trkpt>
-            <trkpt lon="-77.882557" lat="43.182554"></trkpt>
-            <trkpt lon="-77.882365" lat="43.182970"></trkpt>
+            <trkpt lon="-77.883131" lat="43.181778"/>
+            <trkpt lon="-77.882557" lat="43.182554"/>
+            <trkpt lon="-77.882365" lat="43.182970"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:3852471c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.882365" lat="43.182970"></trkpt>
-            <trkpt lon="-77.881971" lat="43.183622"></trkpt>
-            <trkpt lon="-77.880908" lat="43.186162"></trkpt>
+            <trkpt lon="-77.882365" lat="43.182970"/>
+            <trkpt lon="-77.881971" lat="43.183622"/>
+            <trkpt lon="-77.880908" lat="43.186162"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:47cf98f9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.883130" lat="43.181784"></trkpt>
-            <trkpt lon="-77.883565" lat="43.182989"></trkpt>
+            <trkpt lon="-77.883130" lat="43.181784"/>
+            <trkpt lon="-77.883565" lat="43.182989"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:724692f3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.883565" lat="43.182989"></trkpt>
-            <trkpt lon="-77.883762" lat="43.183612"></trkpt>
-            <trkpt lon="-77.883762" lat="43.184088"></trkpt>
-            <trkpt lon="-77.883617" lat="43.184696"></trkpt>
-            <trkpt lon="-77.883401" lat="43.185545"></trkpt>
-            <trkpt lon="-77.883395" lat="43.185988"></trkpt>
+            <trkpt lon="-77.883565" lat="43.182989"/>
+            <trkpt lon="-77.883762" lat="43.183612"/>
+            <trkpt lon="-77.883762" lat="43.184088"/>
+            <trkpt lon="-77.883617" lat="43.184696"/>
+            <trkpt lon="-77.883401" lat="43.185545"/>
+            <trkpt lon="-77.883395" lat="43.185988"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:d873f5af</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.883395" lat="43.185988"></trkpt>
-            <trkpt lon="-77.883304" lat="43.186141"></trkpt>
-            <trkpt lon="-77.883101" lat="43.186360"></trkpt>
-            <trkpt lon="-77.883127" lat="43.186569"></trkpt>
-            <trkpt lon="-77.883261" lat="43.186791"></trkpt>
+            <trkpt lon="-77.883395" lat="43.185988"/>
+            <trkpt lon="-77.883304" lat="43.186141"/>
+            <trkpt lon="-77.883101" lat="43.186360"/>
+            <trkpt lon="-77.883127" lat="43.186569"/>
+            <trkpt lon="-77.883261" lat="43.186791"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:142c5def</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.887463" lat="43.183762"></trkpt>
-            <trkpt lon="-77.886900" lat="43.183620"></trkpt>
-            <trkpt lon="-77.886407" lat="43.183604"></trkpt>
-            <trkpt lon="-77.885022" lat="43.183359"></trkpt>
-            <trkpt lon="-77.883588" lat="43.182989"></trkpt>
+            <trkpt lon="-77.887463" lat="43.183762"/>
+            <trkpt lon="-77.886900" lat="43.183620"/>
+            <trkpt lon="-77.886407" lat="43.183604"/>
+            <trkpt lon="-77.885022" lat="43.183359"/>
+            <trkpt lon="-77.883588" lat="43.182989"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:afb6fd51</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.883588" lat="43.182989"></trkpt>
-            <trkpt lon="-77.882386" lat="43.182980"></trkpt>
+            <trkpt lon="-77.883588" lat="43.182989"/>
+            <trkpt lon="-77.882386" lat="43.182980"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:d6000e87</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.882386" lat="43.182980"></trkpt>
-            <trkpt lon="-77.881997" lat="43.182950"></trkpt>
-            <trkpt lon="-77.881401" lat="43.183019"></trkpt>
-            <trkpt lon="-77.880751" lat="43.183183"></trkpt>
-            <trkpt lon="-77.879832" lat="43.183356"></trkpt>
-            <trkpt lon="-77.879233" lat="43.183536"></trkpt>
-            <trkpt lon="-77.879022" lat="43.183661"></trkpt>
-            <trkpt lon="-77.878490" lat="43.183674"></trkpt>
-            <trkpt lon="-77.877481" lat="43.183523"></trkpt>
-            <trkpt lon="-77.876477" lat="43.183225"></trkpt>
+            <trkpt lon="-77.882386" lat="43.182980"/>
+            <trkpt lon="-77.881997" lat="43.182950"/>
+            <trkpt lon="-77.881401" lat="43.183019"/>
+            <trkpt lon="-77.880751" lat="43.183183"/>
+            <trkpt lon="-77.879832" lat="43.183356"/>
+            <trkpt lon="-77.879233" lat="43.183536"/>
+            <trkpt lon="-77.879022" lat="43.183661"/>
+            <trkpt lon="-77.878490" lat="43.183674"/>
+            <trkpt lon="-77.877481" lat="43.183523"/>
+            <trkpt lon="-77.876477" lat="43.183225"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:6957d6bf</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.874374" lat="43.184463"></trkpt>
-            <trkpt lon="-77.873677" lat="43.184535"></trkpt>
-            <trkpt lon="-77.872990" lat="43.184736"></trkpt>
-            <trkpt lon="-77.872840" lat="43.184819"></trkpt>
-            <trkpt lon="-77.872649" lat="43.184871"></trkpt>
-            <trkpt lon="-77.872261" lat="43.184887"></trkpt>
-            <trkpt lon="-77.871950" lat="43.184823"></trkpt>
-            <trkpt lon="-77.871559" lat="43.184871"></trkpt>
-            <trkpt lon="-77.871268" lat="43.184868"></trkpt>
+            <trkpt lon="-77.874374" lat="43.184463"/>
+            <trkpt lon="-77.873677" lat="43.184535"/>
+            <trkpt lon="-77.872990" lat="43.184736"/>
+            <trkpt lon="-77.872840" lat="43.184819"/>
+            <trkpt lon="-77.872649" lat="43.184871"/>
+            <trkpt lon="-77.872261" lat="43.184887"/>
+            <trkpt lon="-77.871950" lat="43.184823"/>
+            <trkpt lon="-77.871559" lat="43.184871"/>
+            <trkpt lon="-77.871268" lat="43.184868"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:86105319</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.854408" lat="43.184707"></trkpt>
-            <trkpt lon="-77.855025" lat="43.184655"></trkpt>
-            <trkpt lon="-77.855236" lat="43.184659"></trkpt>
-            <trkpt lon="-77.855534" lat="43.184802"></trkpt>
-            <trkpt lon="-77.856362" lat="43.184889"></trkpt>
-            <trkpt lon="-77.856763" lat="43.184895"></trkpt>
-            <trkpt lon="-77.857108" lat="43.184922"></trkpt>
-            <trkpt lon="-77.857566" lat="43.184984"></trkpt>
-            <trkpt lon="-77.857797" lat="43.185002"></trkpt>
-            <trkpt lon="-77.858086" lat="43.184975"></trkpt>
-            <trkpt lon="-77.858430" lat="43.184938"></trkpt>
+            <trkpt lon="-77.854408" lat="43.184707"/>
+            <trkpt lon="-77.855025" lat="43.184655"/>
+            <trkpt lon="-77.855236" lat="43.184659"/>
+            <trkpt lon="-77.855534" lat="43.184802"/>
+            <trkpt lon="-77.856362" lat="43.184889"/>
+            <trkpt lon="-77.856763" lat="43.184895"/>
+            <trkpt lon="-77.857108" lat="43.184922"/>
+            <trkpt lon="-77.857566" lat="43.184984"/>
+            <trkpt lon="-77.857797" lat="43.185002"/>
+            <trkpt lon="-77.858086" lat="43.184975"/>
+            <trkpt lon="-77.858430" lat="43.184938"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:dd43facf</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.865341" lat="43.185199"></trkpt>
-            <trkpt lon="-77.863953" lat="43.185175"></trkpt>
+            <trkpt lon="-77.865341" lat="43.185199"/>
+            <trkpt lon="-77.863953" lat="43.185175"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:39981ee4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.861810" lat="43.185642"></trkpt>
-            <trkpt lon="-77.861504" lat="43.184972"></trkpt>
-            <trkpt lon="-77.861032" lat="43.184431"></trkpt>
-            <trkpt lon="-77.860777" lat="43.184135"></trkpt>
+            <trkpt lon="-77.861810" lat="43.185642"/>
+            <trkpt lon="-77.861504" lat="43.184972"/>
+            <trkpt lon="-77.861032" lat="43.184431"/>
+            <trkpt lon="-77.860777" lat="43.184135"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:02b429c7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.860777" lat="43.184135"></trkpt>
-            <trkpt lon="-77.860356" lat="43.183968"></trkpt>
-            <trkpt lon="-77.860308" lat="43.183634"></trkpt>
-            <trkpt lon="-77.859949" lat="43.183264"></trkpt>
+            <trkpt lon="-77.860777" lat="43.184135"/>
+            <trkpt lon="-77.860356" lat="43.183968"/>
+            <trkpt lon="-77.860308" lat="43.183634"/>
+            <trkpt lon="-77.859949" lat="43.183264"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:e5366acd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.860826" lat="43.184139"></trkpt>
-            <trkpt lon="-77.861542" lat="43.184148"></trkpt>
-            <trkpt lon="-77.861988" lat="43.184099"></trkpt>
-            <trkpt lon="-77.862172" lat="43.183933"></trkpt>
-            <trkpt lon="-77.862422" lat="43.183892"></trkpt>
-            <trkpt lon="-77.863015" lat="43.183991"></trkpt>
-            <trkpt lon="-77.863432" lat="43.184261"></trkpt>
-            <trkpt lon="-77.863811" lat="43.184316"></trkpt>
+            <trkpt lon="-77.860826" lat="43.184139"/>
+            <trkpt lon="-77.861542" lat="43.184148"/>
+            <trkpt lon="-77.861988" lat="43.184099"/>
+            <trkpt lon="-77.862172" lat="43.183933"/>
+            <trkpt lon="-77.862422" lat="43.183892"/>
+            <trkpt lon="-77.863015" lat="43.183991"/>
+            <trkpt lon="-77.863432" lat="43.184261"/>
+            <trkpt lon="-77.863811" lat="43.184316"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:b002ea9c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.865951" lat="43.184234"></trkpt>
-            <trkpt lon="-77.865627" lat="43.184181"></trkpt>
-            <trkpt lon="-77.865413" lat="43.184079"></trkpt>
-            <trkpt lon="-77.865278" lat="43.183817"></trkpt>
-            <trkpt lon="-77.865251" lat="43.183421"></trkpt>
-            <trkpt lon="-77.865289" lat="43.183178"></trkpt>
-            <trkpt lon="-77.865455" lat="43.182719"></trkpt>
-            <trkpt lon="-77.865425" lat="43.182340"></trkpt>
-            <trkpt lon="-77.865155" lat="43.182058"></trkpt>
-            <trkpt lon="-77.864875" lat="43.181914"></trkpt>
-            <trkpt lon="-77.864567" lat="43.181737"></trkpt>
-            <trkpt lon="-77.864468" lat="43.181588"></trkpt>
-            <trkpt lon="-77.864441" lat="43.181191"></trkpt>
+            <trkpt lon="-77.865951" lat="43.184234"/>
+            <trkpt lon="-77.865627" lat="43.184181"/>
+            <trkpt lon="-77.865413" lat="43.184079"/>
+            <trkpt lon="-77.865278" lat="43.183817"/>
+            <trkpt lon="-77.865251" lat="43.183421"/>
+            <trkpt lon="-77.865289" lat="43.183178"/>
+            <trkpt lon="-77.865455" lat="43.182719"/>
+            <trkpt lon="-77.865425" lat="43.182340"/>
+            <trkpt lon="-77.865155" lat="43.182058"/>
+            <trkpt lon="-77.864875" lat="43.181914"/>
+            <trkpt lon="-77.864567" lat="43.181737"/>
+            <trkpt lon="-77.864468" lat="43.181588"/>
+            <trkpt lon="-77.864441" lat="43.181191"/>
         </trkseg>
     </trk>
     <trk>
-        <name>nhamp_unnamed_trails</name>
+        <name>seg:trail-nhamp-unnamed-trails:f9cc9b05</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.864441" lat="43.181191"></trkpt>
-            <trkpt lon="-77.864383" lat="43.181039"></trkpt>
-            <trkpt lon="-77.864405" lat="43.180809"></trkpt>
-            <trkpt lon="-77.864382" lat="43.180221"></trkpt>
-            <trkpt lon="-77.864343" lat="43.180055"></trkpt>
-            <trkpt lon="-77.864455" lat="43.179928"></trkpt>
-            <trkpt lon="-77.864807" lat="43.179832"></trkpt>
-            <trkpt lon="-77.865001" lat="43.179674"></trkpt>
-            <trkpt lon="-77.865139" lat="43.179632"></trkpt>
-            <trkpt lon="-77.865732" lat="43.179554"></trkpt>
-            <trkpt lon="-77.865791" lat="43.179869"></trkpt>
-            <trkpt lon="-77.865800" lat="43.180719"></trkpt>
-            <trkpt lon="-77.865865" lat="43.180971"></trkpt>
-            <trkpt lon="-77.865724" lat="43.181039"></trkpt>
-            <trkpt lon="-77.865326" lat="43.181139"></trkpt>
-            <trkpt lon="-77.864955" lat="43.181185"></trkpt>
-            <trkpt lon="-77.864440" lat="43.181202"></trkpt>
+            <trkpt lon="-77.864441" lat="43.181191"/>
+            <trkpt lon="-77.864383" lat="43.181039"/>
+            <trkpt lon="-77.864405" lat="43.180809"/>
+            <trkpt lon="-77.864382" lat="43.180221"/>
+            <trkpt lon="-77.864343" lat="43.180055"/>
+            <trkpt lon="-77.864455" lat="43.179928"/>
+            <trkpt lon="-77.864807" lat="43.179832"/>
+            <trkpt lon="-77.865001" lat="43.179674"/>
+            <trkpt lon="-77.865139" lat="43.179632"/>
+            <trkpt lon="-77.865732" lat="43.179554"/>
+            <trkpt lon="-77.865791" lat="43.179869"/>
+            <trkpt lon="-77.865800" lat="43.180719"/>
+            <trkpt lon="-77.865865" lat="43.180971"/>
+            <trkpt lon="-77.865724" lat="43.181039"/>
+            <trkpt lon="-77.865326" lat="43.181139"/>
+            <trkpt lon="-77.864955" lat="43.181185"/>
+            <trkpt lon="-77.864440" lat="43.181202"/>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.186162" lon="-77.887427"><name>point-lodge:nhamp:d8913097</name><desc>{
+  "type": "point-lodge",
+  "name": "Knollwood Lodge",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.185436" lon="-77.875437"><name>point-lodge:nhamp:e6b0696e</name><desc>{
+  "type": "point-lodge",
+  "name": "Ski Lodge",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184271" lon="-77.899041"><name>point-parking:nhamp:547e2ffa</name><desc>{
+  "type": "point-parking",
+  "comment": "Airfield",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.181213" lon="-77.893283"><name>point-parking:nhamp:46f2380f</name><desc>{
+  "type": "point-parking",
+  "comment": "Ballfield",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184786" lon="-77.889158"><name>point-parking:nhamp:c9e14630</name><desc>{
+  "type": "point-parking",
+  "comment": "Loop Trail",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186232" lon="-77.88701"><name>point-parking:nhamp:d86658ff</name><desc>{
+  "type": "point-parking",
+  "comment": "Knollwood",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.187012" lon="-77.885116"><name>point-parking:nhamp:62a20324</name><desc>{
+  "type": "point-parking",
+  "comment": "Fairview W",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.187861" lon="-77.883923"><name>point-parking:nhamp:9187810e</name><desc>{
+  "type": "point-parking",
+  "comment": "Gardner E",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.190741" lon="-77.899132"><name>point-parking:nhamp:8ed4b415</name><desc>{
+  "type": "point-parking",
+  "name": "Horse Trailer Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184196" lon="-77.875061"><name>point-parking:nhamp:cd0a269a</name><desc>{
+  "type": "point-parking",
+  "comment": "Ski W",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184013" lon="-77.874035"><name>point-parking:nhamp:9a058cc6</name><desc>{
+  "type": "point-parking",
+  "comment": "Ski E",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.179792" lon="-77.872364"><name>point-parking:nhamp:49cd2fca</name><desc>{
+  "type": "point-parking",
+  "comment": "Farm",
+  "name": "Parking",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180063" lon="-77.869847"><name>point-restroom:nhamp:5c0d1d22</name><desc>{
+  "type": "point-restroom",
+  "comment": "Farm",
+  "name": "Restroom",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184932" lon="-77.875859"><name>point-restroom:nhamp:5eba673b</name><desc>{
+  "type": "point-restroom",
+  "comment": "Ski",
+  "name": "Restroom",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.182463" lon="-77.894151"><name>point-restroom:nhamp:8403f44a</name><desc>{
+  "type": "point-restroom",
+  "comment": "Ballfield",
+  "name": "Restroom",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.182382" lon="-77.892023"><name>point-admin:nhamp:58f18538</name><desc>{
+  "type": "point-admin",
+  "name": "Park Office",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184968" lon="-77.897291"><name>point-poi:nhamp:c795e745</name><desc>{
+  "type": "point-poi",
+  "name": "Model Airfield",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186475" lon="-77.87527"><name>point-sports:nhamp:92163053</name><desc>{
+  "type": "point-sports",
+  "name": "Ski Hill",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180629" lon="-77.870314"><name>point-poi:nhamp:5f293d24</name><desc>{
+  "type": "point-poi",
+  "name": "Springdale Farm",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.179503" lon="-77.856574"><name>point-poi:nhamp:42bd58e4</name><desc>{
+  "type": "point-poi",
+  "name": "Ogden Historical Society Museum",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.183499" lon="-77.870435"><name>point-poi:nhamp:33255177</name><desc>{
+  "type": "point-poi",
+  "name": "Enchanted Woods",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186767" lon="-77.88424"><name>point-scenic:nhamp:d7a1701d</name><desc>{
+  "type": "point-scenic",
+  "comments": "Fairview",
+  "name": "Scenic Point",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184686" lon="-77.873715"><name>point-scenic:nhamp:e8eb6a6e</name><desc>{
+  "type": "point-scenic",
+  "comments": "Ski E",
+  "name": "Scenic Point",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.182034" lon="-77.870834"><name>point-scenic:nhamp:3b3f901c</name><desc>{
+  "type": "point-scenic",
+  "comments": "Pond",
+  "name": "Scenic Point",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180917" lon="-77.872185"><name>point-sports:nhamp:56840e64</name><desc>{
+  "type": "point-sports",
+  "name": "Playground",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.18441" lon="-77.876901"><name>point-sports:nhamp:d0ad8fdb</name><desc>{
+  "type": "point-sports",
+  "name": "Soccer Field",
+  "comments": "Ski",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180898" lon="-77.894058"><name>point-sports:nhamp:37d8f298</name><desc>{
+  "type": "point-sports",
+  "name": "Soccer Field",
+  "comments": "Salmon",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.181811" lon="-77.893649"><name>point-sports:nhamp:b533ed0d</name><desc>{
+  "type": "point-sports",
+  "name": "Softball Field",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.185372" lon="-77.893175"><name>point-campsite:nhamp:91d24938</name><desc>{
+  "type": "point-campsite",
+  "name": "Youth Camping (Permit)",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.18889" lon="-77.888126"><name>point-intersection:nhamp:c6aa3fdb</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 11",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.190725" lon="-77.892447"><name>point-intersection:nhamp:ecf3b287</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 12",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.179488" lon="-77.863439"><name>point-intersection:nhamp:319a8304</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 21",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.183032" lon="-77.863307"><name>point-intersection:nhamp:252759cd</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 22",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.183264" lon="-77.859949"><name>point-intersection:nhamp:d23ebc0f</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 23",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184938" lon="-77.85843"><name>point-intersection:nhamp:9edc0be2</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 24",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184135" lon="-77.860777"><name>point-intersection:nhamp:420529af</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 25",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.185642" lon="-77.86181"><name>point-intersection:nhamp:084f477b</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 26",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184316" lon="-77.863811"><name>point-intersection:nhamp:4b5ad1ff</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 28",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186784" lon="-77.883235"><name>point-intersection:nhamp:c93f1613</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 8",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186791" lon="-77.883261"><name>point-intersection:nhamp:221741bd</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 9",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.186985" lon="-77.884557"><name>point-intersection:nhamp:d0de20f2</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 10",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184868" lon="-77.871268"><name>point-intersection:nhamp:2bf52315</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 13",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.182928" lon="-77.870628"><name>point-intersection:nhamp:aa03a12a</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 14",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.184234" lon="-77.865951"><name>point-intersection:nhamp:916b8566</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 16",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.183175" lon="-77.874509"><name>point-intersection:nhamp:faf15c04</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 1",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.183205" lon="-77.876451"><name>point-intersection:nhamp:0f0a861d</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 3",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180856" lon="-77.883357"><name>point-intersection:nhamp:26ea8e2b</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 4",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.181778" lon="-77.883131"><name>point-intersection:nhamp:1b736081</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 5",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.18297" lon="-77.882365"><name>point-intersection:nhamp:dfb8c1f3</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 6",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.185988" lon="-77.883395"><name>point-intersection:nhamp:ed036144</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 7",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.181202" lon="-77.86444"><name>point-intersection:nhamp:f3dc69e8</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 17",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.180221" lon="-77.864382"><name>point-intersection:nhamp:3cdf8c90</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 18",
+  "parkID": "park-nhamp"
+}</desc></wpt><wpt lat="43.179554" lon="-77.865732"><name>point-intersection:nhamp:2c255087</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 19",
+  "parkID": "park-nhamp"
+}</desc></wpt></gpx>

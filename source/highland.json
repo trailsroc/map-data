@@ -1,12 +1,26 @@
 {
+  "version": 2,
   "parks": {
-    "highland": { "name": "Highland Park", "mainPin": [43.13043, -77.60571],
-      "SW": [43.12426, -77.61618], "NE": [43.13554, -77.59871],
-      "url": "http://www.monroecounty.gov/parks-highland.php" }
+    "park-highland": {
+      "name": "Highland Park",
+      "mainPin": [
+        43.13043,
+        -77.60571
+      ],
+      "SW": [
+        43.12426,
+        -77.61618
+      ],
+      "NE": [
+        43.13554,
+        -77.59871
+      ],
+      "url": "http://www.monroecounty.gov/parks-highland.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "highland", "url": "http://www.monroecounty.gov/parks-highland.php" },
-    "highland_unnamed_trails": {
+    "trail-highland-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-highland.php",
       "name": "",
       "color": "unmarked_trail",
       "trailheads": [
@@ -19,34 +33,10 @@
       "NE": [
         43.132644,
         -77.600811
-      ]
+      ],
+      "parkID": "park-highland"
     }
   },
-  "points": [
-    { "type": "parking", "loc": [43.12866862149317,-77.61108040809631] },
-    { "type": "parking", "loc": [43.12747843131461,-77.61130571365356] },
-    { "type": "restroom", "loc": [43.12938898850862,-77.60786175727844] },
-    { "type": "restroom", "loc": [43.13225471240549,-77.6037847995758] },
-    { "type": "poi", "name": "Display Garden", "loc": [43.13244262403549,-77.61172413825989] },
-    { "type": "poi", "name": "Highland Bowl", "loc": [43.13288108226022,-77.60996460914612] },
-    { "type": "sports", "name": "Skating Shelter", "loc": [43.134446978830574,-77.60897755622864] },
-    { "type": "poi", "name": "Lamberton Conservatory", "loc": [43.13219990473797,-77.60795831680298], "allowsDirections": true },
-    { "type": "scenic", "name": "Evergreens", "loc": [43.132975037185105,-77.60181069374084] },
-    { "type": "scenic", "name": "Rhododendrons/Azaleas", "loc": [43.132403475826855,-77.60236859321594] },
-    { "type": "poi", "name": "Gatehouse", "loc": [43.13183973884385,-77.60398864746094] },
-    { "type": "poi", "name": "Gatehouse", "loc": [43.13172229298502,-77.60663866996765] },
-    { "type": "scenic", "name": "Pansy Bed", "loc": [43.130125006913886,-77.60222911834717] },
-    { "type": "scenic", "name": "Lilacs", "loc": [43.12967040031793,-77.60527610778809] },
-    { "type": "scenic", "name": "Magnolias", "loc": [43.13023462591858,-77.60699272155762] },
-    { "type": "admin", "name": "County Parks Administration", "loc": [43.13157352790674,-77.60854840278625], "allowsDirections": true },
-    { "type": "scenic", "name": "Lilacs", "loc": [43.130633950631434,-77.60152101516724] },
-    { "type": "admin", "name": "Park Office", "loc": [43.12874692266669,-77.6018750667572] },
-    { "type": "poi", "name": "Cornell Cooperative Ext.", "loc": [43.12883305384178,-77.607421875], "allowsDirections": true },
-    { "type": "poi", "name": "Lilac Arches", "loc": [43.12925587785128,-77.60935306549072] },
-    { "type": "poi", "name": "Worker’s Rights Memorial", "loc": [43.12808918969379,-77.60860204696655] },
-    { "type": "poi", "name": "Victim’s Rights Memorial", "loc": [43.12746277076316,-77.60926723480225] },
-    { "type": "poi", "name": "AIDS Remembrance Garden", "loc": [43.127956076207795,-77.6089346408844] },
-    { "type": "poi", "name": "Vietnam Veterans Memorial", "loc": [43.12812051047194,-77.61012554168701] },
-    { "type": "sports", "name": "Ball Field", "loc": [43.13480712937032,-77.60931015014648] }
-  ]
+  "points": {
+  }
 }

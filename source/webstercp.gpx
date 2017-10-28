@@ -1,59 +1,59 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T02:18:57.758Z</time>
     </metadata>
     <trk>
-        <name>border:webstercp</name>
+        <name>border:park-webstercp</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.448638" lat="43.251294"></trkpt>
-            <trkpt lon="-77.448591" lat="43.252717"></trkpt>
-            <trkpt lon="-77.446867" lat="43.252915"></trkpt>
-            <trkpt lon="-77.446753" lat="43.255765"></trkpt>
-            <trkpt lon="-77.441955" lat="43.255869"></trkpt>
-            <trkpt lon="-77.441946" lat="43.261032"></trkpt>
-            <trkpt lon="-77.446681" lat="43.260335"></trkpt>
-            <trkpt lon="-77.446666" lat="43.262079"></trkpt>
-            <trkpt lon="-77.448876" lat="43.261653"></trkpt>
-            <trkpt lon="-77.449790" lat="43.261849"></trkpt>
-            <trkpt lon="-77.452255" lat="43.260824"></trkpt>
-            <trkpt lon="-77.452033" lat="43.259533"></trkpt>
-            <trkpt lon="-77.454413" lat="43.259144"></trkpt>
-            <trkpt lon="-77.454411" lat="43.256269"></trkpt>
-            <trkpt lon="-77.456462" lat="43.256249"></trkpt>
-            <trkpt lon="-77.457004" lat="43.256558"></trkpt>
-            <trkpt lon="-77.457125" lat="43.257316"></trkpt>
-            <trkpt lon="-77.457148" lat="43.258154"></trkpt>
-            <trkpt lon="-77.457294" lat="43.258656"></trkpt>
-            <trkpt lon="-77.458084" lat="43.260051"></trkpt>
-            <trkpt lon="-77.459820" lat="43.259561"></trkpt>
-            <trkpt lon="-77.459142" lat="43.258213"></trkpt>
-            <trkpt lon="-77.461622" lat="43.257670"></trkpt>
-            <trkpt lon="-77.464022" lat="43.257066"></trkpt>
-            <trkpt lon="-77.463962" lat="43.247997"></trkpt>
-            <trkpt lon="-77.468512" lat="43.247141"></trkpt>
-            <trkpt lon="-77.468527" lat="43.245974"></trkpt>
-            <trkpt lon="-77.463954" lat="43.246886"></trkpt>
-            <trkpt lon="-77.463950" lat="43.244066"></trkpt>
-            <trkpt lon="-77.462963" lat="43.244246"></trkpt>
-            <trkpt lon="-77.462810" lat="43.241116"></trkpt>
-            <trkpt lon="-77.461250" lat="43.241615"></trkpt>
-            <trkpt lon="-77.459442" lat="43.241661"></trkpt>
-            <trkpt lon="-77.459442" lat="43.244826"></trkpt>
-            <trkpt lon="-77.453069" lat="43.245981"></trkpt>
-            <trkpt lon="-77.452993" lat="43.248866"></trkpt>
-            <trkpt lon="-77.449979" lat="43.248875"></trkpt>
-            <trkpt lon="-77.449957" lat="43.250920"></trkpt>
+            <trkpt lon="-77.448638" lat="43.251294"/>
+            <trkpt lon="-77.448591" lat="43.252717"/>
+            <trkpt lon="-77.446867" lat="43.252915"/>
+            <trkpt lon="-77.446753" lat="43.255765"/>
+            <trkpt lon="-77.441955" lat="43.255869"/>
+            <trkpt lon="-77.441946" lat="43.261032"/>
+            <trkpt lon="-77.446681" lat="43.260335"/>
+            <trkpt lon="-77.446666" lat="43.262079"/>
+            <trkpt lon="-77.448876" lat="43.261653"/>
+            <trkpt lon="-77.449790" lat="43.261849"/>
+            <trkpt lon="-77.452255" lat="43.260824"/>
+            <trkpt lon="-77.452033" lat="43.259533"/>
+            <trkpt lon="-77.454413" lat="43.259144"/>
+            <trkpt lon="-77.454411" lat="43.256269"/>
+            <trkpt lon="-77.456462" lat="43.256249"/>
+            <trkpt lon="-77.457004" lat="43.256558"/>
+            <trkpt lon="-77.457125" lat="43.257316"/>
+            <trkpt lon="-77.457148" lat="43.258154"/>
+            <trkpt lon="-77.457294" lat="43.258656"/>
+            <trkpt lon="-77.458084" lat="43.260051"/>
+            <trkpt lon="-77.459820" lat="43.259561"/>
+            <trkpt lon="-77.459142" lat="43.258213"/>
+            <trkpt lon="-77.461622" lat="43.257670"/>
+            <trkpt lon="-77.464022" lat="43.257066"/>
+            <trkpt lon="-77.463962" lat="43.247997"/>
+            <trkpt lon="-77.468512" lat="43.247141"/>
+            <trkpt lon="-77.468527" lat="43.245974"/>
+            <trkpt lon="-77.463954" lat="43.246886"/>
+            <trkpt lon="-77.463950" lat="43.244066"/>
+            <trkpt lon="-77.462963" lat="43.244246"/>
+            <trkpt lon="-77.462810" lat="43.241116"/>
+            <trkpt lon="-77.461250" lat="43.241615"/>
+            <trkpt lon="-77.459442" lat="43.241661"/>
+            <trkpt lon="-77.459442" lat="43.244826"/>
+            <trkpt lon="-77.453069" lat="43.245981"/>
+            <trkpt lon="-77.452993" lat="43.248866"/>
+            <trkpt lon="-77.449979" lat="43.248875"/>
+            <trkpt lon="-77.449957" lat="43.250920"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_connector</name>
+        <name>seg:trail-webstercp-connector:9edfdeee</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -132,7 +132,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_midnight</name>
+        <name>seg:trail-webstercp-midnight:6b1ba046</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -235,7 +235,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_midnight</name>
+        <name>seg:trail-webstercp-midnight:d0f7e032</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -398,7 +398,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_midnight</name>
+        <name>seg:trail-webstercp-midnight:476bc062</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -429,7 +429,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_midnight</name>
+        <name>seg:trail-webstercp-midnight:150672cd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -454,7 +454,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_orchard</name>
+        <name>seg:trail-webstercp-orchard:4ff86900</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -536,7 +536,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_orchard</name>
+        <name>seg:trail-webstercp-orchard:acdb24d9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -627,7 +627,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_orchard</name>
+        <name>seg:trail-webstercp-orchard:de3eaaf9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -643,7 +643,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_orchard</name>
+        <name>seg:trail-webstercp-orchard:93cec5aa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -734,7 +734,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:1de25b23</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -786,7 +786,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:51b33ed1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -859,7 +859,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:8e12ea22</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -956,25 +956,25 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:c0daee95</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.454361" lat="43.255573"></trkpt>
-            <trkpt lon="-77.454362" lat="43.256298"></trkpt>
-            <trkpt lon="-77.454274" lat="43.256825"></trkpt>
-            <trkpt lon="-77.454100" lat="43.257078"></trkpt>
-            <trkpt lon="-77.452979" lat="43.257844"></trkpt>
-            <trkpt lon="-77.452758" lat="43.258108"></trkpt>
-            <trkpt lon="-77.452728" lat="43.258446"></trkpt>
-            <trkpt lon="-77.453058" lat="43.259294"></trkpt>
+            <trkpt lon="-77.454361" lat="43.255573"/>
+            <trkpt lon="-77.454362" lat="43.256298"/>
+            <trkpt lon="-77.454274" lat="43.256825"/>
+            <trkpt lon="-77.454100" lat="43.257078"/>
+            <trkpt lon="-77.452979" lat="43.257844"/>
+            <trkpt lon="-77.452758" lat="43.258108"/>
+            <trkpt lon="-77.452728" lat="43.258446"/>
+            <trkpt lon="-77.453058" lat="43.259294"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:77818a2c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1098,7 +1098,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge</name>
+        <name>seg:trail-webstercp-ridge:ffb303d7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1132,7 +1132,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ridge,webstercp_ryans</name>
+        <name>seg:trail-webstercp-ridge,trail-webstercp-ryans:047feb4f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1298,7 +1298,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:5343cae0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1404,7 +1404,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:d1f07a23</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1429,7 +1429,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:343ce8dd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -1490,7 +1490,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:1d61f3a4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1527,7 +1527,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:daeab2da</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1588,7 +1588,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:00d600d4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1739,7 +1739,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:b63c7d50</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1779,7 +1779,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:6478f263</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1837,7 +1837,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:e3dd8ea8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1982,7 +1982,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_ryans</name>
+        <name>seg:trail-webstercp-ryans:8f21435b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -2031,7 +2031,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:4ffdacb6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2062,7 +2062,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:9435973b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2168,7 +2168,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:520dca2b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -2244,7 +2244,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:4d14fa47</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -2329,7 +2329,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:910c8634</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2426,7 +2426,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:1530ebba</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2589,7 +2589,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:4ce03e67</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2623,7 +2623,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:f64edef2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2684,7 +2684,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:d9b91916</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -2829,7 +2829,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:44851d94</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2845,7 +2845,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:65e5470f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3011,7 +3011,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:3c8f45a5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3132,7 +3132,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:a65adc7b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -3172,7 +3172,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:7e613090</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -3221,7 +3221,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:9bc3a2e3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3303,7 +3303,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:0253a3ca</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3403,7 +3403,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:e93c4d9a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3485,7 +3485,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:c6742860</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -3612,7 +3612,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:ff38e7bc</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3634,7 +3634,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:ce71a69f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3710,7 +3710,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:91c36975</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -3882,7 +3882,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:6a565e08</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3925,7 +3925,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:c0d6a471</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -3977,7 +3977,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:af50c5ae</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4023,7 +4023,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:452f865f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4075,7 +4075,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:d9fbf3a5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -4268,7 +4268,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:2e864958</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -4542,7 +4542,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:61e51cee</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4666,7 +4666,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:29bcbb80</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -4823,7 +4823,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:f9ecef48</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4842,7 +4842,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:2fedc123</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5020,50 +5020,50 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:bed6fa59</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.456286" lat="43.246276"></trkpt>
-            <trkpt lon="-77.456318" lat="43.246586"></trkpt>
-            <trkpt lon="-77.456188" lat="43.247901"></trkpt>
-            <trkpt lon="-77.456125" lat="43.248594"></trkpt>
-            <trkpt lon="-77.456753" lat="43.248667"></trkpt>
-            <trkpt lon="-77.457223" lat="43.248660"></trkpt>
-            <trkpt lon="-77.457693" lat="43.248594"></trkpt>
+            <trkpt lon="-77.456286" lat="43.246276"/>
+            <trkpt lon="-77.456318" lat="43.246586"/>
+            <trkpt lon="-77.456188" lat="43.247901"/>
+            <trkpt lon="-77.456125" lat="43.248594"/>
+            <trkpt lon="-77.456753" lat="43.248667"/>
+            <trkpt lon="-77.457223" lat="43.248660"/>
+            <trkpt lon="-77.457693" lat="43.248594"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:12a51664</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.457693" lat="43.248594"></trkpt>
-            <trkpt lon="-77.458202" lat="43.248464"></trkpt>
-            <trkpt lon="-77.458524" lat="43.248416"></trkpt>
+            <trkpt lon="-77.457693" lat="43.248594"/>
+            <trkpt lon="-77.458202" lat="43.248464"/>
+            <trkpt lon="-77.458524" lat="43.248416"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:910c3ed4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.458524" lat="43.248416"></trkpt>
-            <trkpt lon="-77.458815" lat="43.248404"></trkpt>
-            <trkpt lon="-77.459587" lat="43.248435"></trkpt>
+            <trkpt lon="-77.458524" lat="43.248416"/>
+            <trkpt lon="-77.458815" lat="43.248404"/>
+            <trkpt lon="-77.459587" lat="43.248435"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:7ec22672</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5121,7 +5121,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:6fe06268</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -5155,7 +5155,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:5c93a02b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5186,7 +5186,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:98ae31ec</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5238,26 +5238,26 @@
             <trkpt lon="-77.455386" lat="43.251722">
                 <ele>92.400000</ele>
             </trkpt>
-            <trkpt lon="-77.455390" lat="43.251785"></trkpt>
-            <trkpt lon="-77.455471" lat="43.251964"></trkpt>
+            <trkpt lon="-77.455390" lat="43.251785"/>
+            <trkpt lon="-77.455471" lat="43.251964"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:ac1140c6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.455471" lat="43.251964"></trkpt>
-            <trkpt lon="-77.455443" lat="43.252314"></trkpt>
-            <trkpt lon="-77.455348" lat="43.252517"></trkpt>
-            <trkpt lon="-77.455290" lat="43.252789"></trkpt>
+            <trkpt lon="-77.455471" lat="43.251964"/>
+            <trkpt lon="-77.455443" lat="43.252314"/>
+            <trkpt lon="-77.455348" lat="43.252517"/>
+            <trkpt lon="-77.455290" lat="43.252789"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:fce0c9f8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5300,7 +5300,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:90daf1cb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5523,19 +5523,19 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:2b4f2a09</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.455683" lat="43.253665"></trkpt>
-            <trkpt lon="-77.456437" lat="43.253670"></trkpt>
+            <trkpt lon="-77.455683" lat="43.253665"/>
+            <trkpt lon="-77.456437" lat="43.253670"/>
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:1a6e0979</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5746,7 +5746,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:535b00f3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -5765,7 +5765,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:e5b1c44a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -5787,7 +5787,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:587448eb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -5935,7 +5935,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:c94fa290</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5987,7 +5987,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:65fd88cc</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -6087,7 +6087,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:1073d7f7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -6304,7 +6304,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:664cf352</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -6419,7 +6419,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:cfa565c8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -6501,7 +6501,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:efe9128b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -6580,7 +6580,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:1f5e7788</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -6623,7 +6623,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:2f0bc344</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -6747,7 +6747,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:16cecad3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -6895,7 +6895,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:4c07de94</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -6998,7 +6998,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:8555f209</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -7095,7 +7095,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:e5035edb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7144,7 +7144,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_valley</name>
+        <name>seg:trail-webstercp-valley:4b5c4058</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -7199,7 +7199,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:44e7aabd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -7293,7 +7293,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:d0110322</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -7453,7 +7453,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:0446b5c8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -7490,7 +7490,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:6ca7c51f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7611,7 +7611,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:d59763a2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7642,7 +7642,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:d153be3e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -7667,7 +7667,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_west</name>
+        <name>seg:trail-webstercp-west:15b23a41</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -7719,7 +7719,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:2f73ac6f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -7777,7 +7777,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:5878a96a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7805,7 +7805,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:15f27d9c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -7827,7 +7827,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:4ed5e081</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7972,7 +7972,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:7378afb8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -8012,7 +8012,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>webstercp_unnamed</name>
+        <name>seg:trail-webstercp-unnamed:105924d2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8057,4 +8057,179 @@
             </trkpt>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.258683" lon="-77.458565"><name>point-parking:webstercp:652d27eb</name><desc>{
+  "type": "point-parking",
+  "comments": "Kana N",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258113" lon="-77.458559"><name>point-parking:webstercp:c1476d05</name><desc>{
+  "type": "point-parking",
+  "comments": "Kana S",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259847" lon="-77.451699"><name>point-parking:webstercp:a36c60ba</name><desc>{
+  "type": "point-parking",
+  "comments": "Whitehouse W",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260351" lon="-77.449549"><name>point-parking:webstercp:5ba3857a</name><desc>{
+  "type": "point-parking",
+  "comments": "Whitehouse E",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259908" lon="-77.4473"><name>point-parking:webstercp:a2f98ba5</name><desc>{
+  "type": "point-parking",
+  "comments": "Parkview",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259932" lon="-77.44644"><name>point-parking:webstercp:27bf5021</name><desc>{
+  "type": "point-parking",
+  "comments": "Holt",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258011" lon="-77.446786"><name>point-parking:webstercp:cfb64e5d</name><desc>{
+  "type": "point-parking",
+  "comments": "Office",
+  "name": "Parking",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.253812" lon="-77.456911"><name>point-restroom:webstercp:e34872e4</name><desc>{
+  "type": "point-restroom",
+  "comments": "Wolf C",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.252615" lon="-77.456388"><name>point-restroom:webstercp:a3d11807</name><desc>{
+  "type": "point-restroom",
+  "comments": "Wolf S",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.256441" lon="-77.449774"><name>point-restroom:webstercp:20893e98</name><desc>{
+  "type": "point-restroom",
+  "comments": "Valley View",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259118" lon="-77.448186"><name>point-restroom:webstercp:f3cd952a</name><desc>{
+  "type": "point-restroom",
+  "comments": "Parkview",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260515" lon="-77.448648"><name>point-restroom:webstercp:cb28e61d</name><desc>{
+  "type": "point-restroom",
+  "comments": "Lakeview",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259408" lon="-77.444741"><name>point-restroom:webstercp:d369f0e0</name><desc>{
+  "type": "point-restroom",
+  "comments": "Holt",
+  "name": "Restroom",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259159" lon="-77.458714"><name>point-lodge:webstercp:1c90bd17</name><desc>{
+  "type": "point-lodge",
+  "name": "Kanatota Lodge",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260229" lon="-77.450017"><name>point-lodge:webstercp:3af59ff2</name><desc>{
+  "type": "point-lodge",
+  "name": "White House Lodge",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259037" lon="-77.447498"><name>point-lodge:webstercp:fa72260d</name><desc>{
+  "type": "point-lodge",
+  "name": "Parkview Lodge",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.259085" lon="-77.443993"><name>point-lodge:webstercp:1405b9fc</name><desc>{
+  "type": "point-lodge",
+  "name": "Holt Lodge",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.252894" lon="-77.456264"><name>point-lodge:webstercp:7dc43ff3</name><desc>{
+  "type": "point-lodge",
+  "name": "Wolf Cabin Lodge",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.26042" lon="-77.448244"><name>point-shelter:webstercp:d603c8c1</name><desc>{
+  "type": "point-shelter",
+  "name": "Lakeview 1 Shelter",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260554" lon="-77.447325"><name>point-shelter:webstercp:cb321c0f</name><desc>{
+  "type": "point-shelter",
+  "name": "Lakeview 2 Shelter",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258949" lon="-77.452355"><name>point-shelter:webstercp:c296f5b8</name><desc>{
+  "type": "point-shelter",
+  "name": "Ridge Hill   Shelter",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258865" lon="-77.451523"><name>point-shelter:webstercp:3eb7c7bb</name><desc>{
+  "type": "point-shelter",
+  "name": "Beeches Shelter",
+  "directionsCoordinate": [
+    43.259908,
+    -77.4473
+  ],
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.257697" lon="-77.450381"><name>point-shelter:webstercp:df7270b0</name><desc>{
+  "type": "point-shelter",
+  "name": "Orchard Hill Shelter",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.257846" lon="-77.448503"><name>point-shelter:webstercp:a19d88db</name><desc>{
+  "type": "point-shelter",
+  "name": "Creek Bend Shelter",
+  "directionsCoordinate": [
+    43.258011,
+    -77.446786
+  ],
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.2556" lon="-77.450446"><name>point-shelter:webstercp:5175c2b2</name><desc>{
+  "type": "point-shelter",
+  "name": "Valley View Shelter",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.24633" lon="-77.461799"><name>point-campsite:webstercp:210186b8</name><desc>{
+  "type": "point-campsite",
+  "name": "Mohawk (Youth)",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.246168" lon="-77.459459"><name>point-campsite:webstercp:493fa86b</name><desc>{
+  "type": "point-campsite",
+  "name": "Onondaga (Youth)",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.246229" lon="-77.455717"><name>point-campsite:webstercp:8a9b2071</name><desc>{
+  "type": "point-campsite",
+  "name": "Seneca (Youth)",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.250283" lon="-77.456562"><name>point-campsite:webstercp:f74127af</name><desc>{
+  "type": "point-campsite",
+  "name": "Cattaraugus (Youth)",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.261625" lon="-77.449723"><name>point-poi:webstercp:0d7c6fef</name><desc>{
+  "type": "point-poi",
+  "name": "Fishing Pier",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260034" lon="-77.44475"><name>point-sports:webstercp:9be39eb7</name><desc>{
+  "type": "point-sports",
+  "name": "Multi-Use Fields",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.256479" lon="-77.450918"><name>point-sports:webstercp:39e17961</name><desc>{
+  "type": "point-sports",
+  "name": "Tennis Courts",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.257855" lon="-77.447607"><name>point-sports:webstercp:670cc5ef</name><desc>{
+  "type": "point-sports",
+  "name": "Playground",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258529" lon="-77.448161"><name>point-sports:webstercp:e5492b4f</name><desc>{
+  "type": "point-sports",
+  "name": "Sledding Hill",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.258648" lon="-77.446975"><name>point-admin:webstercp:81deb8f2</name><desc>{
+  "type": "point-admin",
+  "name": "Park Office",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.253335" lon="-77.456899"><name>point-campsite:webstercp:783a3bc4</name><desc>{
+  "type": "point-campsite",
+  "name": "Camping Area",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.260382" lon="-77.45127"><name>point-scenic:webstercp:0cf1d590</name><desc>{
+  "type": "point-scenic",
+  "comments": "Whitehouse W",
+  "name": "Scenic Point",
+  "parkID": "park-webstercp"
+}</desc></wpt><wpt lat="43.26101" lon="-77.449566"><name>point-scenic:webstercp:25bf02c8</name><desc>{
+  "type": "point-scenic",
+  "comments": "Whitehouse E",
+  "name": "Scenic Point",
+  "parkID": "park-webstercp"
+}</desc></wpt></gpx>

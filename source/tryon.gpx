@@ -1,67 +1,67 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T02:13:06.434Z</time>
     </metadata>
     <trk>
-        <name>border:tryon</name>
+        <name>border:park-tryon</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.538886" lat="43.162121"></trkpt>
-            <trkpt lon="-77.538930" lat="43.161591"></trkpt>
-            <trkpt lon="-77.538985" lat="43.160892"></trkpt>
-            <trkpt lon="-77.538989" lat="43.160853"></trkpt>
-            <trkpt lon="-77.539060" lat="43.160069"></trkpt>
-            <trkpt lon="-77.538605" lat="43.158450"></trkpt>
-            <trkpt lon="-77.538365" lat="43.158462"></trkpt>
-            <trkpt lon="-77.534024" lat="43.166359"></trkpt>
-            <trkpt lon="-77.533384" lat="43.167524"></trkpt>
-            <trkpt lon="-77.534456" lat="43.167493"></trkpt>
-            <trkpt lon="-77.534473" lat="43.167951"></trkpt>
-            <trkpt lon="-77.534375" lat="43.168269"></trkpt>
-            <trkpt lon="-77.533189" lat="43.169338"></trkpt>
-            <trkpt lon="-77.533314" lat="43.169871"></trkpt>
-            <trkpt lon="-77.533497" lat="43.170078"></trkpt>
-            <trkpt lon="-77.534629" lat="43.170584"></trkpt>
-            <trkpt lon="-77.535488" lat="43.172436"></trkpt>
-            <trkpt lon="-77.538551" lat="43.172520"></trkpt>
-            <trkpt lon="-77.539085" lat="43.171266"></trkpt>
-            <trkpt lon="-77.538750" lat="43.170254"></trkpt>
-            <trkpt lon="-77.538652" lat="43.166839"></trkpt>
-            <trkpt lon="-77.538642" lat="43.166012"></trkpt>
-            <trkpt lon="-77.538064" lat="43.166025"></trkpt>
-            <trkpt lon="-77.538060" lat="43.166634"></trkpt>
-            <trkpt lon="-77.537414" lat="43.166650"></trkpt>
-            <trkpt lon="-77.537388" lat="43.166046"></trkpt>
-            <trkpt lon="-77.537377" lat="43.165898"></trkpt>
-            <trkpt lon="-77.536755" lat="43.165930"></trkpt>
-            <trkpt lon="-77.536723" lat="43.165267"></trkpt>
-            <trkpt lon="-77.537318" lat="43.165241"></trkpt>
-            <trkpt lon="-77.537380" lat="43.165843"></trkpt>
-            <trkpt lon="-77.538043" lat="43.165811"></trkpt>
-            <trkpt lon="-77.538020" lat="43.165205"></trkpt>
-            <trkpt lon="-77.540782" lat="43.165087"></trkpt>
-            <trkpt lon="-77.540701" lat="43.164481"></trkpt>
-            <trkpt lon="-77.541976" lat="43.164386"></trkpt>
-            <trkpt lon="-77.541959" lat="43.164210"></trkpt>
-            <trkpt lon="-77.542592" lat="43.164160"></trkpt>
-            <trkpt lon="-77.543240" lat="43.163590"></trkpt>
-            <trkpt lon="-77.542915" lat="43.163374"></trkpt>
-            <trkpt lon="-77.542179" lat="43.163708"></trkpt>
-            <trkpt lon="-77.540792" lat="43.163749"></trkpt>
-            <trkpt lon="-77.540722" lat="43.162728"></trkpt>
-            <trkpt lon="-77.541310" lat="43.162705"></trkpt>
-            <trkpt lon="-77.541271" lat="43.162048"></trkpt>
-            <trkpt lon="-77.539404" lat="43.162112"></trkpt>
+            <trkpt lon="-77.538886" lat="43.162121"/>
+            <trkpt lon="-77.538930" lat="43.161591"/>
+            <trkpt lon="-77.538985" lat="43.160892"/>
+            <trkpt lon="-77.538989" lat="43.160853"/>
+            <trkpt lon="-77.539060" lat="43.160069"/>
+            <trkpt lon="-77.538605" lat="43.158450"/>
+            <trkpt lon="-77.538365" lat="43.158462"/>
+            <trkpt lon="-77.534024" lat="43.166359"/>
+            <trkpt lon="-77.533384" lat="43.167524"/>
+            <trkpt lon="-77.534456" lat="43.167493"/>
+            <trkpt lon="-77.534473" lat="43.167951"/>
+            <trkpt lon="-77.534375" lat="43.168269"/>
+            <trkpt lon="-77.533189" lat="43.169338"/>
+            <trkpt lon="-77.533314" lat="43.169871"/>
+            <trkpt lon="-77.533497" lat="43.170078"/>
+            <trkpt lon="-77.534629" lat="43.170584"/>
+            <trkpt lon="-77.535488" lat="43.172436"/>
+            <trkpt lon="-77.538551" lat="43.172520"/>
+            <trkpt lon="-77.539085" lat="43.171266"/>
+            <trkpt lon="-77.538750" lat="43.170254"/>
+            <trkpt lon="-77.538652" lat="43.166839"/>
+            <trkpt lon="-77.538642" lat="43.166012"/>
+            <trkpt lon="-77.538064" lat="43.166025"/>
+            <trkpt lon="-77.538060" lat="43.166634"/>
+            <trkpt lon="-77.537414" lat="43.166650"/>
+            <trkpt lon="-77.537388" lat="43.166046"/>
+            <trkpt lon="-77.537377" lat="43.165898"/>
+            <trkpt lon="-77.536755" lat="43.165930"/>
+            <trkpt lon="-77.536723" lat="43.165267"/>
+            <trkpt lon="-77.537318" lat="43.165241"/>
+            <trkpt lon="-77.537380" lat="43.165843"/>
+            <trkpt lon="-77.538043" lat="43.165811"/>
+            <trkpt lon="-77.538020" lat="43.165205"/>
+            <trkpt lon="-77.540782" lat="43.165087"/>
+            <trkpt lon="-77.540701" lat="43.164481"/>
+            <trkpt lon="-77.541976" lat="43.164386"/>
+            <trkpt lon="-77.541959" lat="43.164210"/>
+            <trkpt lon="-77.542592" lat="43.164160"/>
+            <trkpt lon="-77.543240" lat="43.163590"/>
+            <trkpt lon="-77.542915" lat="43.163374"/>
+            <trkpt lon="-77.542179" lat="43.163708"/>
+            <trkpt lon="-77.540792" lat="43.163749"/>
+            <trkpt lon="-77.540722" lat="43.162728"/>
+            <trkpt lon="-77.541310" lat="43.162705"/>
+            <trkpt lon="-77.541271" lat="43.162048"/>
+            <trkpt lon="-77.539404" lat="43.162112"/>
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:25f0ead3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -299,7 +299,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:b8222d99</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -447,7 +447,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:415940aa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -703,7 +703,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:fc84da6b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1184,7 +1184,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:3d4cd1d5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1302,7 +1302,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:76cc01d5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1378,7 +1378,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:ddafc1f1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1472,7 +1472,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:b623f290</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1632,7 +1632,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:4d50a15d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1699,7 +1699,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_blue</name>
+        <name>seg:trail-tryon-blue:8a115323</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -1751,7 +1751,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:6c7913c4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1842,7 +1842,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:060e6421</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1879,7 +1879,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:244135f0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1928,7 +1928,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:13a36980</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1998,7 +1998,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:6b76f6d2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2071,7 +2071,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:920e3e69</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2087,7 +2087,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:a87b7052</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -2139,7 +2139,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:92d7fe53</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2194,7 +2194,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:1eb433f0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -2210,7 +2210,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:ce615465</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -2247,7 +2247,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_green</name>
+        <name>seg:trail-tryon-green:d700b679</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2374,7 +2374,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_orange</name>
+        <name>seg:trail-tryon-orange:22ab3388</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2396,7 +2396,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_orange</name>
+        <name>seg:trail-tryon-orange:4e8b370d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -2502,7 +2502,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_orange</name>
+        <name>seg:trail-tryon-orange:2aa0ccec</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2659,7 +2659,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_orange</name>
+        <name>seg:trail-tryon-orange:163f3388</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2726,7 +2726,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_orange</name>
+        <name>seg:trail-tryon-orange:525198e2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2784,7 +2784,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:c072ddaa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -2899,7 +2899,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:c5872f30</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2951,7 +2951,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:3abfe383</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2976,7 +2976,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:dbbc743b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -3214,7 +3214,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:ed2fdf1d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -3305,7 +3305,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_purple</name>
+        <name>seg:trail-tryon-purple:791a0a3f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -3396,7 +3396,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:90eb9b50</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -3418,7 +3418,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:be41236e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -3641,7 +3641,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:8310b480</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -3792,7 +3792,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:0d925817</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3919,7 +3919,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:604e72a2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -3956,7 +3956,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:da1fc604</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -3993,7 +3993,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:cb5fc295</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4033,7 +4033,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:d4dbdf44</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -4214,7 +4214,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:2c2922dd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4266,7 +4266,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:8f00c38e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -4291,7 +4291,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:a79e9cca</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4454,7 +4454,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:7169240b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -4512,7 +4512,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:8361efdf</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -4564,7 +4564,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:7d11a955</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4601,7 +4601,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:824fe6c7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4617,7 +4617,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:b0423457</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -4651,7 +4651,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:481deab7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4733,7 +4733,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:e5114cfd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4761,7 +4761,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:e38bfbaa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -4801,7 +4801,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:8847ba07</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4910,7 +4910,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:7f399432</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -4941,7 +4941,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:4fcd1b35</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4999,7 +4999,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:c1f54f89</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5039,7 +5039,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_red</name>
+        <name>seg:trail-tryon-red:f747e311</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -5115,7 +5115,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:04825c17</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -5194,7 +5194,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:ff18c876</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -5231,7 +5231,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:81629ec9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -5271,7 +5271,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:78087270</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -5296,7 +5296,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:94634153</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -5336,7 +5336,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:ecb3e999</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -5358,7 +5358,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:31606fa6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5380,7 +5380,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:d5b5a026</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -5417,7 +5417,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:3f445d6e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -5445,7 +5445,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:f2ea3811</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5479,7 +5479,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_white</name>
+        <name>seg:trail-tryon-white:f47af4c3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -5552,7 +5552,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_connector</name>
+        <name>seg:trail-tryon-connector:55142754</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5730,7 +5730,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_connector</name>
+        <name>seg:trail-tryon-connector:03bda60c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -6649,7 +6649,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>tryon_connector</name>
+        <name>seg:trail-tryon-connector:c6e8076f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -7846,4 +7846,67 @@
             </trkpt>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.163936" lon="-77.540927"><name>point-parking:tryon:b630f66e</name><desc>{
+  "type": "point-parking",
+  "comments": "Tryon",
+  "name": "Parking",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.164164" lon="-77.540173"><name>point-sports:tryon:7b9df777</name><desc>{
+  "type": "point-sports",
+  "name": "Softball Fields",
+  "comments": "Tryon",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.162407" lon="-77.541074"><name>point-sports:tryon:648a1828</name><desc>{
+  "type": "point-sports",
+  "name": "Basketball/Tennis",
+  "comments": "Tryon",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.161807" lon="-77.537518"><name>point-intersection:tryon:6b2e1fd2</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 1",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.162969" lon="-77.53768"><name>point-intersection:tryon:88e3588a</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 2",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.163572" lon="-77.537693"><name>point-intersection:tryon:a63ad4ec</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 3",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.164565" lon="-77.535788"><name>point-intersection:tryon:508a03b2</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 4",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.167377" lon="-77.534992"><name>point-intersection:tryon:698c4a0e</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 5",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.169408" lon="-77.533633"><name>point-intersection:tryon:a186ef0b</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 6",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.168377" lon="-77.53654"><name>point-intersection:tryon:4816d56d</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 7",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.169231" lon="-77.536371"><name>point-intersection:tryon:1f8795d4</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 8",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.169808" lon="-77.535981"><name>point-intersection:tryon:b7730d51</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 9",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.17021" lon="-77.535244"><name>point-intersection:tryon:8085d89b</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 10",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.170942" lon="-77.536295"><name>point-intersection:tryon:dcfe88e8</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 11",
+  "parkID": "park-tryon"
+}</desc></wpt><wpt lat="43.171661" lon="-77.535857"><name>point-intersection:tryon:038661bf</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 12",
+  "parkID": "park-tryon"
+}</desc></wpt></gpx>

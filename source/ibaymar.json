@@ -1,16 +1,29 @@
 {
+  "version": 2,
   "parks": {
-    "ibaymar": { "name": "Irondequoit Bay Marine Park",
+    "park-ibaymar": {
+      "name": "Irondequoit Bay Marine Park",
       "shortName": "Indqt. Bay Marine Park",
-      "mainPin": [43.23132, -77.54032],
-      "SW": [43.22693, -77.54481], "NE": [43.23545, -77.53324],
+      "mainPin": [
+        43.23132,
+        -77.54032
+      ],
+      "SW": [
+        43.22693,
+        -77.54481
+      ],
+      "NE": [
+        43.23545,
+        -77.53324
+      ],
       "annotationIconName": "Annotation-SmallParkBadge",
       "visibilityConstraint": "parkBoundaries",
-      "url": "http://www.monroecounty.gov/parks-baymarine.php" }
+      "url": "http://www.monroecounty.gov/parks-baymarine.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "ibaymar", "url": "http://www.monroecounty.gov/parks-baymarine.php" },
-    "ibaymar_unnamed_trails": {
+    "trail-ibaymar-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-baymarine.php",
       "name": "",
       "color": "black",
       "trailheads": [
@@ -23,13 +36,10 @@
       "NE": [
         43.234006,
         -77.537374
-      ]
+      ],
+      "parkID": "park-ibaymar"
     }
   },
-  "points": [
-    { "type": "parking", "loc": [43.22865572191218,-77.54309177398682] },
-    { "type": "parking", "loc": [43.23347881178729,-77.53942251205444] },
-    { "type": "parking", "loc": [43.23439335790285,-77.53726601600647] },
-    { "type": "boat_launch", "loc": [43.23432300868892,-77.53513097763062] }
-  ]
+  "points": {
+  }
 }

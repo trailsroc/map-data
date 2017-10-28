@@ -1,900 +1,1003 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-23T22:51:03.651Z</time>
     </metadata>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:eb4d17de</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.607962" lat="43.129217"></rtept>
-        <rtept lon="-77.607856" lat="43.129184"></rtept>
+        <rtept lon="-77.607962" lat="43.129217"/>
+        <rtept lon="-77.607856" lat="43.129184"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:05d72d74</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608067" lat="43.129400"></rtept>
-        <rtept lon="-77.607988" lat="43.129334"></rtept>
+        <rtept lon="-77.608067" lat="43.129400"/>
+        <rtept lon="-77.607988" lat="43.129334"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:353d5eec</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.607986" lat="43.129503"></rtept>
-        <rtept lon="-77.607913" lat="43.129523"></rtept>
-        <rtept lon="-77.607938" lat="43.129567"></rtept>
+        <rtept lon="-77.607986" lat="43.129503"/>
+        <rtept lon="-77.607913" lat="43.129523"/>
+        <rtept lon="-77.607938" lat="43.129567"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:62dbc213</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609318" lat="43.129384"></rtept>
-        <rtept lon="-77.609255" lat="43.129413"></rtept>
-        <rtept lon="-77.609229" lat="43.129460"></rtept>
+        <rtept lon="-77.609318" lat="43.129384"/>
+        <rtept lon="-77.609255" lat="43.129413"/>
+        <rtept lon="-77.609229" lat="43.129460"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:145ec346</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608407" lat="43.129291"></rtept>
-        <rtept lon="-77.608535" lat="43.129354"></rtept>
+        <rtept lon="-77.608407" lat="43.129291"/>
+        <rtept lon="-77.608535" lat="43.129354"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:5fd872e8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609092" lat="43.129232"></rtept>
-        <rtept lon="-77.609271" lat="43.129202"></rtept>
+        <rtept lon="-77.609092" lat="43.129232"/>
+        <rtept lon="-77.609271" lat="43.129202"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:5fac10bd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609632" lat="43.128966"></rtept>
-        <rtept lon="-77.609411" lat="43.129024"></rtept>
+        <rtept lon="-77.609632" lat="43.128966"/>
+        <rtept lon="-77.609411" lat="43.129024"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:dbdca754</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.604196" lat="43.132029"></rtept>
-        <rtept lon="-77.603889" lat="43.132079"></rtept>
+        <rtept lon="-77.604196" lat="43.132029"/>
+        <rtept lon="-77.603889" lat="43.132079"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:70e831f8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609710" lat="43.127584"></rtept>
-        <rtept lon="-77.609637" lat="43.127544"></rtept>
-        <rtept lon="-77.609591" lat="43.127491"></rtept>
-        <rtept lon="-77.609544" lat="43.127437"></rtept>
-        <rtept lon="-77.609482" lat="43.127422"></rtept>
-        <rtept lon="-77.609393" lat="43.127457"></rtept>
-        <rtept lon="-77.609323" lat="43.127470"></rtept>
+        <rtept lon="-77.609710" lat="43.127584"/>
+        <rtept lon="-77.609637" lat="43.127544"/>
+        <rtept lon="-77.609591" lat="43.127491"/>
+        <rtept lon="-77.609544" lat="43.127437"/>
+        <rtept lon="-77.609482" lat="43.127422"/>
+        <rtept lon="-77.609393" lat="43.127457"/>
+        <rtept lon="-77.609323" lat="43.127470"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:c7b4156c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608226" lat="43.129303"></rtept>
-        <rtept lon="-77.607962" lat="43.129217"></rtept>
-        <rtept lon="-77.607988" lat="43.129334"></rtept>
-        <rtept lon="-77.607971" lat="43.129386"></rtept>
-        <rtept lon="-77.608028" lat="43.129425"></rtept>
+        <rtept lon="-77.608226" lat="43.129303"/>
+        <rtept lon="-77.607962" lat="43.129217"/>
+        <rtept lon="-77.607988" lat="43.129334"/>
+        <rtept lon="-77.607971" lat="43.129386"/>
+        <rtept lon="-77.608028" lat="43.129425"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:5636b6ee</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610854" lat="43.128389"></rtept>
-        <rtept lon="-77.610592" lat="43.128297"></rtept>
-        <rtept lon="-77.610437" lat="43.128283"></rtept>
-        <rtept lon="-77.610333" lat="43.128271"></rtept>
-        <rtept lon="-77.610244" lat="43.128239"></rtept>
+        <rtept lon="-77.610854" lat="43.128389"/>
+        <rtept lon="-77.610592" lat="43.128297"/>
+        <rtept lon="-77.610437" lat="43.128283"/>
+        <rtept lon="-77.610333" lat="43.128271"/>
+        <rtept lon="-77.610244" lat="43.128239"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:3d2d38a6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608365" lat="43.128813"></rtept>
-        <rtept lon="-77.608489" lat="43.128787"></rtept>
-        <rtept lon="-77.608628" lat="43.128756"></rtept>
-        <rtept lon="-77.608721" lat="43.128724"></rtept>
-        <rtept lon="-77.608850" lat="43.128662"></rtept>
-        <rtept lon="-77.608896" lat="43.128613"></rtept>
-        <rtept lon="-77.608951" lat="43.128535"></rtept>
-        <rtept lon="-77.608951" lat="43.128475"></rtept>
+        <rtept lon="-77.608365" lat="43.128813"/>
+        <rtept lon="-77.608489" lat="43.128787"/>
+        <rtept lon="-77.608628" lat="43.128756"/>
+        <rtept lon="-77.608721" lat="43.128724"/>
+        <rtept lon="-77.608850" lat="43.128662"/>
+        <rtept lon="-77.608896" lat="43.128613"/>
+        <rtept lon="-77.608951" lat="43.128535"/>
+        <rtept lon="-77.608951" lat="43.128475"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:3a0d56de</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610029" lat="43.128509"></rtept>
-        <rtept lon="-77.609802" lat="43.128506"></rtept>
-        <rtept lon="-77.609525" lat="43.128475"></rtept>
-        <rtept lon="-77.609301" lat="43.128461"></rtept>
-        <rtept lon="-77.609192" lat="43.128424"></rtept>
-        <rtept lon="-77.609097" lat="43.128341"></rtept>
+        <rtept lon="-77.610029" lat="43.128509"/>
+        <rtept lon="-77.609802" lat="43.128506"/>
+        <rtept lon="-77.609525" lat="43.128475"/>
+        <rtept lon="-77.609301" lat="43.128461"/>
+        <rtept lon="-77.609192" lat="43.128424"/>
+        <rtept lon="-77.609097" lat="43.128341"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:2ff59a8b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603137" lat="43.131999"></rtept>
-        <rtept lon="-77.603098" lat="43.131951"></rtept>
-        <rtept lon="-77.603068" lat="43.131927"></rtept>
-        <rtept lon="-77.603026" lat="43.131891"></rtept>
-        <rtept lon="-77.602941" lat="43.131848"></rtept>
-        <rtept lon="-77.602839" lat="43.131831"></rtept>
-        <rtept lon="-77.602725" lat="43.131839"></rtept>
-        <rtept lon="-77.602655" lat="43.131856"></rtept>
-        <rtept lon="-77.602581" lat="43.131883"></rtept>
-        <rtept lon="-77.602540" lat="43.131918"></rtept>
-        <rtept lon="-77.602501" lat="43.131955"></rtept>
-        <rtept lon="-77.602484" lat="43.132002"></rtept>
-        <rtept lon="-77.602484" lat="43.132047"></rtept>
-        <rtept lon="-77.602511" lat="43.132132"></rtept>
+        <rtept lon="-77.603137" lat="43.131999"/>
+        <rtept lon="-77.603098" lat="43.131951"/>
+        <rtept lon="-77.603068" lat="43.131927"/>
+        <rtept lon="-77.603026" lat="43.131891"/>
+        <rtept lon="-77.602941" lat="43.131848"/>
+        <rtept lon="-77.602839" lat="43.131831"/>
+        <rtept lon="-77.602725" lat="43.131839"/>
+        <rtept lon="-77.602655" lat="43.131856"/>
+        <rtept lon="-77.602581" lat="43.131883"/>
+        <rtept lon="-77.602540" lat="43.131918"/>
+        <rtept lon="-77.602501" lat="43.131955"/>
+        <rtept lon="-77.602484" lat="43.132002"/>
+        <rtept lon="-77.602484" lat="43.132047"/>
+        <rtept lon="-77.602511" lat="43.132132"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:e26ba13a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.601908" lat="43.132062"></rtept>
-        <rtept lon="-77.602101" lat="43.131924"></rtept>
-        <rtept lon="-77.602142" lat="43.131893"></rtept>
-        <rtept lon="-77.602155" lat="43.131877"></rtept>
-        <rtept lon="-77.602348" lat="43.131707"></rtept>
-        <rtept lon="-77.602512" lat="43.131640"></rtept>
-        <rtept lon="-77.602612" lat="43.131616"></rtept>
-        <rtept lon="-77.602644" lat="43.131611"></rtept>
-        <rtept lon="-77.602698" lat="43.131605"></rtept>
-        <rtept lon="-77.602767" lat="43.131592"></rtept>
-        <rtept lon="-77.602871" lat="43.131571"></rtept>
-        <rtept lon="-77.602949" lat="43.131574"></rtept>
-        <rtept lon="-77.603029" lat="43.131577"></rtept>
-        <rtept lon="-77.603116" lat="43.131554"></rtept>
+        <rtept lon="-77.601908" lat="43.132062"/>
+        <rtept lon="-77.602101" lat="43.131924"/>
+        <rtept lon="-77.602142" lat="43.131893"/>
+        <rtept lon="-77.602155" lat="43.131877"/>
+        <rtept lon="-77.602348" lat="43.131707"/>
+        <rtept lon="-77.602512" lat="43.131640"/>
+        <rtept lon="-77.602612" lat="43.131616"/>
+        <rtept lon="-77.602644" lat="43.131611"/>
+        <rtept lon="-77.602698" lat="43.131605"/>
+        <rtept lon="-77.602767" lat="43.131592"/>
+        <rtept lon="-77.602871" lat="43.131571"/>
+        <rtept lon="-77.602949" lat="43.131574"/>
+        <rtept lon="-77.603029" lat="43.131577"/>
+        <rtept lon="-77.603116" lat="43.131554"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:5b12a874</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608621" lat="43.128167"></rtept>
-        <rtept lon="-77.608594" lat="43.128117"></rtept>
-        <rtept lon="-77.608587" lat="43.128057"></rtept>
-        <rtept lon="-77.608615" lat="43.128018"></rtept>
-        <rtept lon="-77.608667" lat="43.127973"></rtept>
-        <rtept lon="-77.608674" lat="43.127949"></rtept>
-        <rtept lon="-77.608702" lat="43.127910"></rtept>
-        <rtept lon="-77.608771" lat="43.127894"></rtept>
-        <rtept lon="-77.608836" lat="43.127947"></rtept>
-        <rtept lon="-77.608843" lat="43.128004"></rtept>
-        <rtept lon="-77.608802" lat="43.128060"></rtept>
-        <rtept lon="-77.608719" lat="43.128110"></rtept>
-        <rtept lon="-77.608621" lat="43.128167"></rtept>
-        <rtept lon="-77.608626" lat="43.128212"></rtept>
-        <rtept lon="-77.608655" lat="43.128231"></rtept>
-        <rtept lon="-77.608744" lat="43.128244"></rtept>
-        <rtept lon="-77.608818" lat="43.128266"></rtept>
-        <rtept lon="-77.608980" lat="43.128399"></rtept>
-        <rtept lon="-77.609018" lat="43.128416"></rtept>
+        <rtept lon="-77.608621" lat="43.128167"/>
+        <rtept lon="-77.608594" lat="43.128117"/>
+        <rtept lon="-77.608587" lat="43.128057"/>
+        <rtept lon="-77.608615" lat="43.128018"/>
+        <rtept lon="-77.608667" lat="43.127973"/>
+        <rtept lon="-77.608674" lat="43.127949"/>
+        <rtept lon="-77.608702" lat="43.127910"/>
+        <rtept lon="-77.608771" lat="43.127894"/>
+        <rtept lon="-77.608836" lat="43.127947"/>
+        <rtept lon="-77.608843" lat="43.128004"/>
+        <rtept lon="-77.608802" lat="43.128060"/>
+        <rtept lon="-77.608719" lat="43.128110"/>
+        <rtept lon="-77.608621" lat="43.128167"/>
+        <rtept lon="-77.608626" lat="43.128212"/>
+        <rtept lon="-77.608655" lat="43.128231"/>
+        <rtept lon="-77.608744" lat="43.128244"/>
+        <rtept lon="-77.608818" lat="43.128266"/>
+        <rtept lon="-77.608980" lat="43.128399"/>
+        <rtept lon="-77.609018" lat="43.128416"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:4405f77d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.602181" lat="43.131856"></rtept>
-        <rtept lon="-77.602101" lat="43.132108"></rtept>
-        <rtept lon="-77.601903" lat="43.132060"></rtept>
-        <rtept lon="-77.601795" lat="43.132044"></rtept>
-        <rtept lon="-77.601589" lat="43.131971"></rtept>
-        <rtept lon="-77.601485" lat="43.131980"></rtept>
-        <rtept lon="-77.601148" lat="43.132106"></rtept>
-        <rtept lon="-77.600811" lat="43.132222"></rtept>
+        <rtept lon="-77.602181" lat="43.131856"/>
+        <rtept lon="-77.602101" lat="43.132108"/>
+        <rtept lon="-77.601903" lat="43.132060"/>
+        <rtept lon="-77.601795" lat="43.132044"/>
+        <rtept lon="-77.601589" lat="43.131971"/>
+        <rtept lon="-77.601485" lat="43.131980"/>
+        <rtept lon="-77.601148" lat="43.132106"/>
+        <rtept lon="-77.600811" lat="43.132222"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:917f82bc</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603488" lat="43.131906"></rtept>
-        <rtept lon="-77.603407" lat="43.131737"></rtept>
-        <rtept lon="-77.603312" lat="43.131646"></rtept>
-        <rtept lon="-77.603116" lat="43.131554"></rtept>
+        <rtept lon="-77.603488" lat="43.131906"/>
+        <rtept lon="-77.603407" lat="43.131737"/>
+        <rtept lon="-77.603312" lat="43.131646"/>
+        <rtept lon="-77.603116" lat="43.131554"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:07359219</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603116" lat="43.131554"></rtept>
-        <rtept lon="-77.603197" lat="43.131357"></rtept>
-        <rtept lon="-77.603629" lat="43.130911"></rtept>
-        <rtept lon="-77.603787" lat="43.130560"></rtept>
-        <rtept lon="-77.603897" lat="43.130429"></rtept>
-        <rtept lon="-77.603920" lat="43.130361"></rtept>
+        <rtept lon="-77.603116" lat="43.131554"/>
+        <rtept lon="-77.603197" lat="43.131357"/>
+        <rtept lon="-77.603629" lat="43.130911"/>
+        <rtept lon="-77.603787" lat="43.130560"/>
+        <rtept lon="-77.603897" lat="43.130429"/>
+        <rtept lon="-77.603920" lat="43.130361"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:1aa423a6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603667" lat="43.132644"></rtept>
-        <rtept lon="-77.603615" lat="43.132637"></rtept>
-        <rtept lon="-77.603546" lat="43.132599"></rtept>
-        <rtept lon="-77.603522" lat="43.132571"></rtept>
-        <rtept lon="-77.603501" lat="43.132528"></rtept>
-        <rtept lon="-77.603466" lat="43.132260"></rtept>
-        <rtept lon="-77.603487" lat="43.132210"></rtept>
-        <rtept lon="-77.603537" lat="43.132167"></rtept>
-        <rtept lon="-77.603889" lat="43.132079"></rtept>
+        <rtept lon="-77.603667" lat="43.132644"/>
+        <rtept lon="-77.603615" lat="43.132637"/>
+        <rtept lon="-77.603546" lat="43.132599"/>
+        <rtept lon="-77.603522" lat="43.132571"/>
+        <rtept lon="-77.603501" lat="43.132528"/>
+        <rtept lon="-77.603466" lat="43.132260"/>
+        <rtept lon="-77.603487" lat="43.132210"/>
+        <rtept lon="-77.603537" lat="43.132167"/>
+        <rtept lon="-77.603889" lat="43.132079"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:66341d13</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603889" lat="43.132079"></rtept>
-        <rtept lon="-77.603816" lat="43.132015"></rtept>
-        <rtept lon="-77.603488" lat="43.131906"></rtept>
+        <rtept lon="-77.603889" lat="43.132079"/>
+        <rtept lon="-77.603816" lat="43.132015"/>
+        <rtept lon="-77.603488" lat="43.131906"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:ff48a903</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603488" lat="43.131906"></rtept>
-        <rtept lon="-77.603320" lat="43.131977"></rtept>
-        <rtept lon="-77.603137" lat="43.131999"></rtept>
-        <rtept lon="-77.603114" lat="43.132106"></rtept>
-        <rtept lon="-77.603056" lat="43.132125"></rtept>
-        <rtept lon="-77.602764" lat="43.132070"></rtept>
-        <rtept lon="-77.602511" lat="43.132129"></rtept>
-        <rtept lon="-77.602462" lat="43.132180"></rtept>
-        <rtept lon="-77.602281" lat="43.132215"></rtept>
-        <rtept lon="-77.602180" lat="43.132192"></rtept>
-        <rtept lon="-77.602104" lat="43.132111"></rtept>
+        <rtept lon="-77.603488" lat="43.131906"/>
+        <rtept lon="-77.603320" lat="43.131977"/>
+        <rtept lon="-77.603137" lat="43.131999"/>
+        <rtept lon="-77.603114" lat="43.132106"/>
+        <rtept lon="-77.603056" lat="43.132125"/>
+        <rtept lon="-77.602764" lat="43.132070"/>
+        <rtept lon="-77.602511" lat="43.132129"/>
+        <rtept lon="-77.602462" lat="43.132180"/>
+        <rtept lon="-77.602281" lat="43.132215"/>
+        <rtept lon="-77.602180" lat="43.132192"/>
+        <rtept lon="-77.602104" lat="43.132111"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:3741aff0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610786" lat="43.129974"></rtept>
-        <rtept lon="-77.610558" lat="43.129578"></rtept>
+        <rtept lon="-77.610786" lat="43.129974"/>
+        <rtept lon="-77.610558" lat="43.129578"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:30d3396e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610558" lat="43.129578"></rtept>
-        <rtept lon="-77.610650" lat="43.129376"></rtept>
-        <rtept lon="-77.610573" lat="43.129182"></rtept>
-        <rtept lon="-77.610606" lat="43.129064"></rtept>
-        <rtept lon="-77.610766" lat="43.128904"></rtept>
-        <rtept lon="-77.610765" lat="43.128830"></rtept>
-        <rtept lon="-77.610690" lat="43.128747"></rtept>
-        <rtept lon="-77.610622" lat="43.128702"></rtept>
-        <rtept lon="-77.610381" lat="43.128717"></rtept>
-        <rtept lon="-77.610085" lat="43.128650"></rtept>
+        <rtept lon="-77.610558" lat="43.129578"/>
+        <rtept lon="-77.610650" lat="43.129376"/>
+        <rtept lon="-77.610573" lat="43.129182"/>
+        <rtept lon="-77.610606" lat="43.129064"/>
+        <rtept lon="-77.610766" lat="43.128904"/>
+        <rtept lon="-77.610765" lat="43.128830"/>
+        <rtept lon="-77.610690" lat="43.128747"/>
+        <rtept lon="-77.610622" lat="43.128702"/>
+        <rtept lon="-77.610381" lat="43.128717"/>
+        <rtept lon="-77.610085" lat="43.128650"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:e85ba765</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610085" lat="43.128650"></rtept>
-        <rtept lon="-77.609986" lat="43.128658"></rtept>
-        <rtept lon="-77.609879" lat="43.128717"></rtept>
-        <rtept lon="-77.609767" lat="43.128882"></rtept>
-        <rtept lon="-77.609632" lat="43.128966"></rtept>
-        <rtept lon="-77.609552" lat="43.129101"></rtept>
+        <rtept lon="-77.610085" lat="43.128650"/>
+        <rtept lon="-77.609986" lat="43.128658"/>
+        <rtept lon="-77.609879" lat="43.128717"/>
+        <rtept lon="-77.609767" lat="43.128882"/>
+        <rtept lon="-77.609632" lat="43.128966"/>
+        <rtept lon="-77.609552" lat="43.129101"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:c6e79b84</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.601983" lat="43.132003"></rtept>
-        <rtept lon="-77.601971" lat="43.131961"></rtept>
-        <rtept lon="-77.601972" lat="43.131942"></rtept>
-        <rtept lon="-77.602008" lat="43.131854"></rtept>
-        <rtept lon="-77.601658" lat="43.131660"></rtept>
-        <rtept lon="-77.601401" lat="43.131413"></rtept>
-        <rtept lon="-77.601369" lat="43.131317"></rtept>
-        <rtept lon="-77.601455" lat="43.131131"></rtept>
-        <rtept lon="-77.601583" lat="43.130992"></rtept>
-        <rtept lon="-77.601746" lat="43.130918"></rtept>
-        <rtept lon="-77.601917" lat="43.130880"></rtept>
-        <rtept lon="-77.602356" lat="43.130972"></rtept>
-        <rtept lon="-77.602526" lat="43.131075"></rtept>
-        <rtept lon="-77.602585" lat="43.131053"></rtept>
-        <rtept lon="-77.602600" lat="43.130999"></rtept>
-        <rtept lon="-77.602585" lat="43.131053"></rtept>
-        <rtept lon="-77.602600" lat="43.130999"></rtept>
-        <rtept lon="-77.602566" lat="43.130956"></rtept>
-        <rtept lon="-77.602060" lat="43.130757"></rtept>
-        <rtept lon="-77.601896" lat="43.130658"></rtept>
+        <rtept lon="-77.601983" lat="43.132003"/>
+        <rtept lon="-77.601971" lat="43.131961"/>
+        <rtept lon="-77.601972" lat="43.131942"/>
+        <rtept lon="-77.602008" lat="43.131854"/>
+        <rtept lon="-77.601658" lat="43.131660"/>
+        <rtept lon="-77.601401" lat="43.131413"/>
+        <rtept lon="-77.601369" lat="43.131317"/>
+        <rtept lon="-77.601455" lat="43.131131"/>
+        <rtept lon="-77.601583" lat="43.130992"/>
+        <rtept lon="-77.601746" lat="43.130918"/>
+        <rtept lon="-77.601917" lat="43.130880"/>
+        <rtept lon="-77.602356" lat="43.130972"/>
+        <rtept lon="-77.602526" lat="43.131075"/>
+        <rtept lon="-77.602585" lat="43.131053"/>
+        <rtept lon="-77.602600" lat="43.130999"/>
+        <rtept lon="-77.602585" lat="43.131053"/>
+        <rtept lon="-77.602600" lat="43.130999"/>
+        <rtept lon="-77.602566" lat="43.130956"/>
+        <rtept lon="-77.602060" lat="43.130757"/>
+        <rtept lon="-77.601896" lat="43.130658"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:bae6fe79</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610244" lat="43.128239"></rtept>
-        <rtept lon="-77.610135" lat="43.128136"></rtept>
-        <rtept lon="-77.610144" lat="43.128116"></rtept>
-        <rtept lon="-77.610132" lat="43.128093"></rtept>
-        <rtept lon="-77.610097" lat="43.128090"></rtept>
+        <rtept lon="-77.610244" lat="43.128239"/>
+        <rtept lon="-77.610135" lat="43.128136"/>
+        <rtept lon="-77.610144" lat="43.128116"/>
+        <rtept lon="-77.610132" lat="43.128093"/>
+        <rtept lon="-77.610097" lat="43.128090"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:d7451707</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610097" lat="43.128090"></rtept>
-        <rtept lon="-77.610074" lat="43.128110"></rtept>
-        <rtept lon="-77.610095" lat="43.128139"></rtept>
-        <rtept lon="-77.610073" lat="43.128151"></rtept>
-        <rtept lon="-77.610143" lat="43.128219"></rtept>
-        <rtept lon="-77.610142" lat="43.128241"></rtept>
-        <rtept lon="-77.610120" lat="43.128270"></rtept>
-        <rtept lon="-77.609967" lat="43.128310"></rtept>
-        <rtept lon="-77.609918" lat="43.128338"></rtept>
-        <rtept lon="-77.609888" lat="43.128376"></rtept>
-        <rtept lon="-77.609858" lat="43.128399"></rtept>
-        <rtept lon="-77.609817" lat="43.128412"></rtept>
-        <rtept lon="-77.609788" lat="43.128400"></rtept>
-        <rtept lon="-77.609783" lat="43.128365"></rtept>
-        <rtept lon="-77.609804" lat="43.128317"></rtept>
-        <rtept lon="-77.609798" lat="43.128279"></rtept>
-        <rtept lon="-77.609750" lat="43.128251"></rtept>
-        <rtept lon="-77.609723" lat="43.128222"></rtept>
-        <rtept lon="-77.609715" lat="43.128183"></rtept>
-        <rtept lon="-77.609730" lat="43.128161"></rtept>
-        <rtept lon="-77.609776" lat="43.128137"></rtept>
-        <rtept lon="-77.609829" lat="43.128134"></rtept>
-        <rtept lon="-77.609867" lat="43.128122"></rtept>
-        <rtept lon="-77.609892" lat="43.128091"></rtept>
-        <rtept lon="-77.609874" lat="43.128057"></rtept>
-        <rtept lon="-77.609845" lat="43.128023"></rtept>
-        <rtept lon="-77.609840" lat="43.127987"></rtept>
-        <rtept lon="-77.609850" lat="43.127954"></rtept>
-        <rtept lon="-77.609838" lat="43.127921"></rtept>
-        <rtept lon="-77.609803" lat="43.127901"></rtept>
-        <rtept lon="-77.609676" lat="43.127879"></rtept>
-        <rtept lon="-77.609651" lat="43.127857"></rtept>
-        <rtept lon="-77.609652" lat="43.127822"></rtept>
-        <rtept lon="-77.609682" lat="43.127787"></rtept>
-        <rtept lon="-77.609718" lat="43.127774"></rtept>
-        <rtept lon="-77.609771" lat="43.127777"></rtept>
-        <rtept lon="-77.609802" lat="43.127800"></rtept>
-        <rtept lon="-77.609835" lat="43.127850"></rtept>
-        <rtept lon="-77.610075" lat="43.127911"></rtept>
-        <rtept lon="-77.610137" lat="43.127897"></rtept>
-        <rtept lon="-77.610166" lat="43.127862"></rtept>
-        <rtept lon="-77.610145" lat="43.127731"></rtept>
-        <rtept lon="-77.610193" lat="43.127699"></rtept>
-        <rtept lon="-77.610258" lat="43.127703"></rtept>
-        <rtept lon="-77.610425" lat="43.127820"></rtept>
-        <rtept lon="-77.610490" lat="43.127912"></rtept>
-        <rtept lon="-77.610508" lat="43.127984"></rtept>
-        <rtept lon="-77.610496" lat="43.128076"></rtept>
-        <rtept lon="-77.610333" lat="43.128211"></rtept>
-        <rtept lon="-77.610244" lat="43.128239"></rtept>
+        <rtept lon="-77.610097" lat="43.128090"/>
+        <rtept lon="-77.610074" lat="43.128110"/>
+        <rtept lon="-77.610095" lat="43.128139"/>
+        <rtept lon="-77.610073" lat="43.128151"/>
+        <rtept lon="-77.610143" lat="43.128219"/>
+        <rtept lon="-77.610142" lat="43.128241"/>
+        <rtept lon="-77.610120" lat="43.128270"/>
+        <rtept lon="-77.609967" lat="43.128310"/>
+        <rtept lon="-77.609918" lat="43.128338"/>
+        <rtept lon="-77.609888" lat="43.128376"/>
+        <rtept lon="-77.609858" lat="43.128399"/>
+        <rtept lon="-77.609817" lat="43.128412"/>
+        <rtept lon="-77.609788" lat="43.128400"/>
+        <rtept lon="-77.609783" lat="43.128365"/>
+        <rtept lon="-77.609804" lat="43.128317"/>
+        <rtept lon="-77.609798" lat="43.128279"/>
+        <rtept lon="-77.609750" lat="43.128251"/>
+        <rtept lon="-77.609723" lat="43.128222"/>
+        <rtept lon="-77.609715" lat="43.128183"/>
+        <rtept lon="-77.609730" lat="43.128161"/>
+        <rtept lon="-77.609776" lat="43.128137"/>
+        <rtept lon="-77.609829" lat="43.128134"/>
+        <rtept lon="-77.609867" lat="43.128122"/>
+        <rtept lon="-77.609892" lat="43.128091"/>
+        <rtept lon="-77.609874" lat="43.128057"/>
+        <rtept lon="-77.609845" lat="43.128023"/>
+        <rtept lon="-77.609840" lat="43.127987"/>
+        <rtept lon="-77.609850" lat="43.127954"/>
+        <rtept lon="-77.609838" lat="43.127921"/>
+        <rtept lon="-77.609803" lat="43.127901"/>
+        <rtept lon="-77.609676" lat="43.127879"/>
+        <rtept lon="-77.609651" lat="43.127857"/>
+        <rtept lon="-77.609652" lat="43.127822"/>
+        <rtept lon="-77.609682" lat="43.127787"/>
+        <rtept lon="-77.609718" lat="43.127774"/>
+        <rtept lon="-77.609771" lat="43.127777"/>
+        <rtept lon="-77.609802" lat="43.127800"/>
+        <rtept lon="-77.609835" lat="43.127850"/>
+        <rtept lon="-77.610075" lat="43.127911"/>
+        <rtept lon="-77.610137" lat="43.127897"/>
+        <rtept lon="-77.610166" lat="43.127862"/>
+        <rtept lon="-77.610145" lat="43.127731"/>
+        <rtept lon="-77.610193" lat="43.127699"/>
+        <rtept lon="-77.610258" lat="43.127703"/>
+        <rtept lon="-77.610425" lat="43.127820"/>
+        <rtept lon="-77.610490" lat="43.127912"/>
+        <rtept lon="-77.610508" lat="43.127984"/>
+        <rtept lon="-77.610496" lat="43.128076"/>
+        <rtept lon="-77.610333" lat="43.128211"/>
+        <rtept lon="-77.610244" lat="43.128239"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:9c05cf75</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610244" lat="43.128239"></rtept>
-        <rtept lon="-77.610204" lat="43.128273"></rtept>
-        <rtept lon="-77.610184" lat="43.128339"></rtept>
-        <rtept lon="-77.610029" lat="43.128509"></rtept>
+        <rtept lon="-77.610244" lat="43.128239"/>
+        <rtept lon="-77.610204" lat="43.128273"/>
+        <rtept lon="-77.610184" lat="43.128339"/>
+        <rtept lon="-77.610029" lat="43.128509"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:46db5791</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610029" lat="43.128509"></rtept>
-        <rtept lon="-77.610033" lat="43.128586"></rtept>
-        <rtept lon="-77.610085" lat="43.128650"></rtept>
+        <rtept lon="-77.610029" lat="43.128509"/>
+        <rtept lon="-77.610033" lat="43.128586"/>
+        <rtept lon="-77.610085" lat="43.128650"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:c7c12f17</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.606624" lat="43.130185"></rtept>
-        <rtept lon="-77.606763" lat="43.129957"></rtept>
-        <rtept lon="-77.606846" lat="43.129787"></rtept>
+        <rtept lon="-77.606624" lat="43.130185"/>
+        <rtept lon="-77.606763" lat="43.129957"/>
+        <rtept lon="-77.606846" lat="43.129787"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:44dcc402</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.606846" lat="43.129787"></rtept>
-        <rtept lon="-77.606928" lat="43.129739"></rtept>
-        <rtept lon="-77.607024" lat="43.129709"></rtept>
-        <rtept lon="-77.607349" lat="43.129715"></rtept>
-        <rtept lon="-77.607510" lat="43.129742"></rtept>
-        <rtept lon="-77.607661" lat="43.129741"></rtept>
-        <rtept lon="-77.607806" lat="43.129713"></rtept>
-        <rtept lon="-77.607860" lat="43.129687"></rtept>
-        <rtept lon="-77.607899" lat="43.129609"></rtept>
+        <rtept lon="-77.606846" lat="43.129787"/>
+        <rtept lon="-77.606928" lat="43.129739"/>
+        <rtept lon="-77.607024" lat="43.129709"/>
+        <rtept lon="-77.607349" lat="43.129715"/>
+        <rtept lon="-77.607510" lat="43.129742"/>
+        <rtept lon="-77.607661" lat="43.129741"/>
+        <rtept lon="-77.607806" lat="43.129713"/>
+        <rtept lon="-77.607860" lat="43.129687"/>
+        <rtept lon="-77.607899" lat="43.129609"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:84330c88</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.607899" lat="43.129609"></rtept>
-        <rtept lon="-77.607989" lat="43.129550"></rtept>
-        <rtept lon="-77.607986" lat="43.129503"></rtept>
-        <rtept lon="-77.608028" lat="43.129425"></rtept>
-        <rtept lon="-77.608226" lat="43.129303"></rtept>
+        <rtept lon="-77.607899" lat="43.129609"/>
+        <rtept lon="-77.607989" lat="43.129550"/>
+        <rtept lon="-77.607986" lat="43.129503"/>
+        <rtept lon="-77.608028" lat="43.129425"/>
+        <rtept lon="-77.608226" lat="43.129303"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:d084f4c8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608226" lat="43.129303"></rtept>
-        <rtept lon="-77.608407" lat="43.129291"></rtept>
-        <rtept lon="-77.608533" lat="43.129243"></rtept>
+        <rtept lon="-77.608226" lat="43.129303"/>
+        <rtept lon="-77.608407" lat="43.129291"/>
+        <rtept lon="-77.608533" lat="43.129243"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:baded5d2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608533" lat="43.129243"></rtept>
-        <rtept lon="-77.608839" lat="43.129035"></rtept>
-        <rtept lon="-77.608957" lat="43.128992"></rtept>
-        <rtept lon="-77.609198" lat="43.128977"></rtept>
+        <rtept lon="-77.608533" lat="43.129243"/>
+        <rtept lon="-77.608839" lat="43.129035"/>
+        <rtept lon="-77.608957" lat="43.128992"/>
+        <rtept lon="-77.609198" lat="43.128977"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:b898f77d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609198" lat="43.128977"></rtept>
-        <rtept lon="-77.609411" lat="43.129024"></rtept>
-        <rtept lon="-77.609505" lat="43.129068"></rtept>
-        <rtept lon="-77.609552" lat="43.129101"></rtept>
+        <rtept lon="-77.609198" lat="43.128977"/>
+        <rtept lon="-77.609411" lat="43.129024"/>
+        <rtept lon="-77.609505" lat="43.129068"/>
+        <rtept lon="-77.609552" lat="43.129101"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:f5dcc787</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609552" lat="43.129101"></rtept>
-        <rtept lon="-77.609540" lat="43.129185"></rtept>
-        <rtept lon="-77.609560" lat="43.129239"></rtept>
-        <rtept lon="-77.609629" lat="43.129274"></rtept>
-        <rtept lon="-77.609804" lat="43.129311"></rtept>
-        <rtept lon="-77.609828" lat="43.129358"></rtept>
-        <rtept lon="-77.609807" lat="43.129406"></rtept>
-        <rtept lon="-77.609761" lat="43.129441"></rtept>
-        <rtept lon="-77.609706" lat="43.129456"></rtept>
-        <rtept lon="-77.609622" lat="43.129446"></rtept>
-        <rtept lon="-77.609535" lat="43.129401"></rtept>
-        <rtept lon="-77.609415" lat="43.129396"></rtept>
-        <rtept lon="-77.609353" lat="43.129418"></rtept>
+        <rtept lon="-77.609552" lat="43.129101"/>
+        <rtept lon="-77.609540" lat="43.129185"/>
+        <rtept lon="-77.609560" lat="43.129239"/>
+        <rtept lon="-77.609629" lat="43.129274"/>
+        <rtept lon="-77.609804" lat="43.129311"/>
+        <rtept lon="-77.609828" lat="43.129358"/>
+        <rtept lon="-77.609807" lat="43.129406"/>
+        <rtept lon="-77.609761" lat="43.129441"/>
+        <rtept lon="-77.609706" lat="43.129456"/>
+        <rtept lon="-77.609622" lat="43.129446"/>
+        <rtept lon="-77.609535" lat="43.129401"/>
+        <rtept lon="-77.609415" lat="43.129396"/>
+        <rtept lon="-77.609353" lat="43.129418"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:be2a51eb</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.610558" lat="43.129578"></rtept>
-        <rtept lon="-77.610314" lat="43.129493"></rtept>
-        <rtept lon="-77.610155" lat="43.129495"></rtept>
-        <rtept lon="-77.610001" lat="43.129542"></rtept>
-        <rtept lon="-77.609883" lat="43.129607"></rtept>
-        <rtept lon="-77.609751" lat="43.129647"></rtept>
-        <rtept lon="-77.609622" lat="43.129626"></rtept>
-        <rtept lon="-77.609511" lat="43.129582"></rtept>
-        <rtept lon="-77.609340" lat="43.129462"></rtept>
+        <rtept lon="-77.610558" lat="43.129578"/>
+        <rtept lon="-77.610314" lat="43.129493"/>
+        <rtept lon="-77.610155" lat="43.129495"/>
+        <rtept lon="-77.610001" lat="43.129542"/>
+        <rtept lon="-77.609883" lat="43.129607"/>
+        <rtept lon="-77.609751" lat="43.129647"/>
+        <rtept lon="-77.609622" lat="43.129626"/>
+        <rtept lon="-77.609511" lat="43.129582"/>
+        <rtept lon="-77.609340" lat="43.129462"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:6fa7c24d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609340" lat="43.129462"></rtept>
-        <rtept lon="-77.609229" lat="43.129460"></rtept>
-        <rtept lon="-77.609117" lat="43.129593"></rtept>
-        <rtept lon="-77.609026" lat="43.129601"></rtept>
-        <rtept lon="-77.608893" lat="43.129552"></rtept>
-        <rtept lon="-77.608869" lat="43.129480"></rtept>
-        <rtept lon="-77.608782" lat="43.129389"></rtept>
-        <rtept lon="-77.608669" lat="43.129423"></rtept>
-        <rtept lon="-77.608600" lat="43.129415"></rtept>
-        <rtept lon="-77.608535" lat="43.129354"></rtept>
-        <rtept lon="-77.608533" lat="43.129243"></rtept>
+        <rtept lon="-77.609340" lat="43.129462"/>
+        <rtept lon="-77.609229" lat="43.129460"/>
+        <rtept lon="-77.609117" lat="43.129593"/>
+        <rtept lon="-77.609026" lat="43.129601"/>
+        <rtept lon="-77.608893" lat="43.129552"/>
+        <rtept lon="-77.608869" lat="43.129480"/>
+        <rtept lon="-77.608782" lat="43.129389"/>
+        <rtept lon="-77.608669" lat="43.129423"/>
+        <rtept lon="-77.608600" lat="43.129415"/>
+        <rtept lon="-77.608535" lat="43.129354"/>
+        <rtept lon="-77.608533" lat="43.129243"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:b031ef90</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608533" lat="43.129243"></rtept>
-        <rtept lon="-77.608443" lat="43.128898"></rtept>
-        <rtept lon="-77.608365" lat="43.128813"></rtept>
+        <rtept lon="-77.608533" lat="43.129243"/>
+        <rtept lon="-77.608443" lat="43.128898"/>
+        <rtept lon="-77.608365" lat="43.128813"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:1e1f8a6d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608365" lat="43.128813"></rtept>
-        <rtept lon="-77.608363" lat="43.128700"></rtept>
-        <rtept lon="-77.608542" lat="43.128576"></rtept>
-        <rtept lon="-77.608715" lat="43.128510"></rtept>
-        <rtept lon="-77.608951" lat="43.128475"></rtept>
+        <rtept lon="-77.608365" lat="43.128813"/>
+        <rtept lon="-77.608363" lat="43.128700"/>
+        <rtept lon="-77.608542" lat="43.128576"/>
+        <rtept lon="-77.608715" lat="43.128510"/>
+        <rtept lon="-77.608951" lat="43.128475"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:22746ab9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.608951" lat="43.128475"></rtept>
-        <rtept lon="-77.609092" lat="43.128335"></rtept>
+        <rtept lon="-77.608951" lat="43.128475"/>
+        <rtept lon="-77.609092" lat="43.128335"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:0d839b82</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609092" lat="43.128335"></rtept>
-        <rtept lon="-77.609209" lat="43.128191"></rtept>
-        <rtept lon="-77.609366" lat="43.128067"></rtept>
-        <rtept lon="-77.609389" lat="43.128007"></rtept>
-        <rtept lon="-77.609380" lat="43.127814"></rtept>
-        <rtept lon="-77.609457" lat="43.127723"></rtept>
-        <rtept lon="-77.609710" lat="43.127584"></rtept>
+        <rtept lon="-77.609092" lat="43.128335"/>
+        <rtept lon="-77.609209" lat="43.128191"/>
+        <rtept lon="-77.609366" lat="43.128067"/>
+        <rtept lon="-77.609389" lat="43.128007"/>
+        <rtept lon="-77.609380" lat="43.127814"/>
+        <rtept lon="-77.609457" lat="43.127723"/>
+        <rtept lon="-77.609710" lat="43.127584"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:d2dedfe5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609710" lat="43.127584"></rtept>
-        <rtept lon="-77.609860" lat="43.127443"></rtept>
+        <rtept lon="-77.609710" lat="43.127584"/>
+        <rtept lon="-77.609860" lat="43.127443"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:3b2865c7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609860" lat="43.127443"></rtept>
-        <rtept lon="-77.610194" lat="43.127302"></rtept>
-        <rtept lon="-77.610274" lat="43.127300"></rtept>
-        <rtept lon="-77.610797" lat="43.127408"></rtept>
-        <rtept lon="-77.610961" lat="43.127431"></rtept>
+        <rtept lon="-77.609860" lat="43.127443"/>
+        <rtept lon="-77.610194" lat="43.127302"/>
+        <rtept lon="-77.610274" lat="43.127300"/>
+        <rtept lon="-77.610797" lat="43.127408"/>
+        <rtept lon="-77.610961" lat="43.127431"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:c5e8b8c0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.601310" lat="43.130161"></rtept>
-        <rtept lon="-77.601319" lat="43.130230"></rtept>
-        <rtept lon="-77.601233" lat="43.130304"></rtept>
-        <rtept lon="-77.601197" lat="43.130393"></rtept>
-        <rtept lon="-77.601225" lat="43.130505"></rtept>
-        <rtept lon="-77.601304" lat="43.130612"></rtept>
-        <rtept lon="-77.601438" lat="43.130647"></rtept>
-        <rtept lon="-77.601937" lat="43.130654"></rtept>
+        <rtept lon="-77.601310" lat="43.130161"/>
+        <rtept lon="-77.601319" lat="43.130230"/>
+        <rtept lon="-77.601233" lat="43.130304"/>
+        <rtept lon="-77.601197" lat="43.130393"/>
+        <rtept lon="-77.601225" lat="43.130505"/>
+        <rtept lon="-77.601304" lat="43.130612"/>
+        <rtept lon="-77.601438" lat="43.130647"/>
+        <rtept lon="-77.601937" lat="43.130654"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:f79a8c0b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.601937" lat="43.130654"></rtept>
-        <rtept lon="-77.602477" lat="43.130480"></rtept>
-        <rtept lon="-77.602592" lat="43.130472"></rtept>
-        <rtept lon="-77.602881" lat="43.130611"></rtept>
-        <rtept lon="-77.603045" lat="43.130645"></rtept>
-        <rtept lon="-77.603177" lat="43.130621"></rtept>
-        <rtept lon="-77.603255" lat="43.130550"></rtept>
-        <rtept lon="-77.603351" lat="43.130480"></rtept>
-        <rtept lon="-77.603485" lat="43.130420"></rtept>
-        <rtept lon="-77.603737" lat="43.130354"></rtept>
-        <rtept lon="-77.603920" lat="43.130361"></rtept>
+        <rtept lon="-77.601937" lat="43.130654"/>
+        <rtept lon="-77.602477" lat="43.130480"/>
+        <rtept lon="-77.602592" lat="43.130472"/>
+        <rtept lon="-77.602881" lat="43.130611"/>
+        <rtept lon="-77.603045" lat="43.130645"/>
+        <rtept lon="-77.603177" lat="43.130621"/>
+        <rtept lon="-77.603255" lat="43.130550"/>
+        <rtept lon="-77.603351" lat="43.130480"/>
+        <rtept lon="-77.603485" lat="43.130420"/>
+        <rtept lon="-77.603737" lat="43.130354"/>
+        <rtept lon="-77.603920" lat="43.130361"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:53860e2b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.603920" lat="43.130361"></rtept>
-        <rtept lon="-77.604663" lat="43.130092"></rtept>
-        <rtept lon="-77.605253" lat="43.129960"></rtept>
-        <rtept lon="-77.605466" lat="43.129946"></rtept>
-        <rtept lon="-77.605692" lat="43.129957"></rtept>
-        <rtept lon="-77.606273" lat="43.130069"></rtept>
-        <rtept lon="-77.606624" lat="43.130185"></rtept>
+        <rtept lon="-77.603920" lat="43.130361"/>
+        <rtept lon="-77.604663" lat="43.130092"/>
+        <rtept lon="-77.605253" lat="43.129960"/>
+        <rtept lon="-77.605466" lat="43.129946"/>
+        <rtept lon="-77.605692" lat="43.129957"/>
+        <rtept lon="-77.606273" lat="43.130069"/>
+        <rtept lon="-77.606624" lat="43.130185"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:b9333e78</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.606624" lat="43.130185"></rtept>
-        <rtept lon="-77.606722" lat="43.130235"></rtept>
-        <rtept lon="-77.606878" lat="43.130344"></rtept>
-        <rtept lon="-77.607000" lat="43.130453"></rtept>
-        <rtept lon="-77.607091" lat="43.130575"></rtept>
-        <rtept lon="-77.607166" lat="43.130706"></rtept>
-        <rtept lon="-77.607278" lat="43.131149"></rtept>
-        <rtept lon="-77.607326" lat="43.131249"></rtept>
-        <rtept lon="-77.607405" lat="43.131343"></rtept>
-        <rtept lon="-77.607464" lat="43.131449"></rtept>
-        <rtept lon="-77.607493" lat="43.131539"></rtept>
-        <rtept lon="-77.607495" lat="43.131631"></rtept>
-        <rtept lon="-77.607478" lat="43.131796"></rtept>
-        <rtept lon="-77.607477" lat="43.131913"></rtept>
+        <rtept lon="-77.606624" lat="43.130185"/>
+        <rtept lon="-77.606722" lat="43.130235"/>
+        <rtept lon="-77.606878" lat="43.130344"/>
+        <rtept lon="-77.607000" lat="43.130453"/>
+        <rtept lon="-77.607091" lat="43.130575"/>
+        <rtept lon="-77.607166" lat="43.130706"/>
+        <rtept lon="-77.607278" lat="43.131149"/>
+        <rtept lon="-77.607326" lat="43.131249"/>
+        <rtept lon="-77.607405" lat="43.131343"/>
+        <rtept lon="-77.607464" lat="43.131449"/>
+        <rtept lon="-77.607493" lat="43.131539"/>
+        <rtept lon="-77.607495" lat="43.131631"/>
+        <rtept lon="-77.607478" lat="43.131796"/>
+        <rtept lon="-77.607477" lat="43.131913"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:ae6f661c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609340" lat="43.129462"></rtept>
-        <rtept lon="-77.609353" lat="43.129418"></rtept>
-        <rtept lon="-77.609353" lat="43.129418"></rtept>
-        <rtept lon="-77.609318" lat="43.129384"></rtept>
-        <rtept lon="-77.609314" lat="43.129333"></rtept>
-        <rtept lon="-77.609314" lat="43.129333"></rtept>
-        <rtept lon="-77.609271" lat="43.129202"></rtept>
-        <rtept lon="-77.609252" lat="43.129130"></rtept>
-        <rtept lon="-77.609252" lat="43.129130"></rtept>
-        <rtept lon="-77.609198" lat="43.128977"></rtept>
+        <rtept lon="-77.609340" lat="43.129462"/>
+        <rtept lon="-77.609353" lat="43.129418"/>
+        <rtept lon="-77.609353" lat="43.129418"/>
+        <rtept lon="-77.609318" lat="43.129384"/>
+        <rtept lon="-77.609314" lat="43.129333"/>
+        <rtept lon="-77.609314" lat="43.129333"/>
+        <rtept lon="-77.609271" lat="43.129202"/>
+        <rtept lon="-77.609252" lat="43.129130"/>
+        <rtept lon="-77.609252" lat="43.129130"/>
+        <rtept lon="-77.609198" lat="43.128977"/>
     </rte>
     <rte>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:e022fdda</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.609860" lat="43.127443"></rtept>
-        <rtept lon="-77.609616" lat="43.127326"></rtept>
-        <rtept lon="-77.609362" lat="43.127242"></rtept>
-        <rtept lon="-77.609362" lat="43.127242"></rtept>
-        <rtept lon="-77.609233" lat="43.127195"></rtept>
-        <rtept lon="-77.609004" lat="43.127091"></rtept>
-        <rtept lon="-77.608929" lat="43.126996"></rtept>
-        <rtept lon="-77.608915" lat="43.126946"></rtept>
-        <rtept lon="-77.608929" lat="43.126869"></rtept>
-        <rtept lon="-77.609682" lat="43.125415"></rtept>
-        <rtept lon="-77.609698" lat="43.125297"></rtept>
-        <rtept lon="-77.609683" lat="43.125032"></rtept>
+        <rtept lon="-77.609860" lat="43.127443"/>
+        <rtept lon="-77.609616" lat="43.127326"/>
+        <rtept lon="-77.609362" lat="43.127242"/>
+        <rtept lon="-77.609362" lat="43.127242"/>
+        <rtept lon="-77.609233" lat="43.127195"/>
+        <rtept lon="-77.609004" lat="43.127091"/>
+        <rtept lon="-77.608929" lat="43.126996"/>
+        <rtept lon="-77.608915" lat="43.126946"/>
+        <rtept lon="-77.608929" lat="43.126869"/>
+        <rtept lon="-77.609682" lat="43.125415"/>
+        <rtept lon="-77.609698" lat="43.125297"/>
+        <rtept lon="-77.609683" lat="43.125032"/>
     </rte>
     <trk>
-        <name>border:highland</name>
+        <name>border:park-highland</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.613680" lat="43.134963"></trkpt>
-            <trkpt lon="-77.607844" lat="43.135185"></trkpt>
-            <trkpt lon="-77.608139" lat="43.133193"></trkpt>
-            <trkpt lon="-77.606202" lat="43.132971"></trkpt>
-            <trkpt lon="-77.605712" lat="43.133850"></trkpt>
-            <trkpt lon="-77.605062" lat="43.133628"></trkpt>
-            <trkpt lon="-77.602842" lat="43.133707"></trkpt>
-            <trkpt lon="-77.602313" lat="43.133577"></trkpt>
-            <trkpt lon="-77.602218" lat="43.133716"></trkpt>
-            <trkpt lon="-77.601385" lat="43.133535"></trkpt>
-            <trkpt lon="-77.601057" lat="43.133563"></trkpt>
-            <trkpt lon="-77.600147" lat="43.133344"></trkpt>
-            <trkpt lon="-77.599782" lat="43.133186"></trkpt>
-            <trkpt lon="-77.600022" lat="43.132580"></trkpt>
-            <trkpt lon="-77.600237" lat="43.132294"></trkpt>
-            <trkpt lon="-77.600540" lat="43.131940"></trkpt>
-            <trkpt lon="-77.600690" lat="43.131602"></trkpt>
-            <trkpt lon="-77.600708" lat="43.131282"></trkpt>
-            <trkpt lon="-77.600715" lat="43.130837"></trkpt>
-            <trkpt lon="-77.600931" lat="43.130406"></trkpt>
-            <trkpt lon="-77.601215" lat="43.130057"></trkpt>
-            <trkpt lon="-77.600451" lat="43.130171"></trkpt>
-            <trkpt lon="-77.602837" lat="43.125342"></trkpt>
-            <trkpt lon="-77.604749" lat="43.125231"></trkpt>
-            <trkpt lon="-77.602283" lat="43.129977"></trkpt>
-            <trkpt lon="-77.603059" lat="43.129850"></trkpt>
-            <trkpt lon="-77.604978" lat="43.129298"></trkpt>
-            <trkpt lon="-77.605602" lat="43.129159"></trkpt>
-            <trkpt lon="-77.606198" lat="43.129111"></trkpt>
-            <trkpt lon="-77.606757" lat="43.129215"></trkpt>
-            <trkpt lon="-77.608941" lat="43.125065"></trkpt>
-            <trkpt lon="-77.609971" lat="43.125015"></trkpt>
-            <trkpt lon="-77.609601" lat="43.125652"></trkpt>
-            <trkpt lon="-77.610723" lat="43.126052"></trkpt>
-            <trkpt lon="-77.610227" lat="43.126805"></trkpt>
-            <trkpt lon="-77.612508" lat="43.127649"></trkpt>
-            <trkpt lon="-77.610876" lat="43.130134"></trkpt>
-            <trkpt lon="-77.608367" lat="43.129803"></trkpt>
-            <trkpt lon="-77.607312" lat="43.130131"></trkpt>
-            <trkpt lon="-77.607797" lat="43.130717"></trkpt>
-            <trkpt lon="-77.608708" lat="43.130847"></trkpt>
-            <trkpt lon="-77.608792" lat="43.131902"></trkpt>
-            <trkpt lon="-77.610670" lat="43.131845"></trkpt>
-            <trkpt lon="-77.610732" lat="43.132531"></trkpt>
-            <trkpt lon="-77.611465" lat="43.132537"></trkpt>
-            <trkpt lon="-77.611527" lat="43.132972"></trkpt>
-            <trkpt lon="-77.613198" lat="43.132848"></trkpt>
+            <trkpt lon="-77.613680" lat="43.134963"/>
+            <trkpt lon="-77.607844" lat="43.135185"/>
+            <trkpt lon="-77.608139" lat="43.133193"/>
+            <trkpt lon="-77.606202" lat="43.132971"/>
+            <trkpt lon="-77.605712" lat="43.133850"/>
+            <trkpt lon="-77.605062" lat="43.133628"/>
+            <trkpt lon="-77.602842" lat="43.133707"/>
+            <trkpt lon="-77.602313" lat="43.133577"/>
+            <trkpt lon="-77.602218" lat="43.133716"/>
+            <trkpt lon="-77.601385" lat="43.133535"/>
+            <trkpt lon="-77.601057" lat="43.133563"/>
+            <trkpt lon="-77.600147" lat="43.133344"/>
+            <trkpt lon="-77.599782" lat="43.133186"/>
+            <trkpt lon="-77.600022" lat="43.132580"/>
+            <trkpt lon="-77.600237" lat="43.132294"/>
+            <trkpt lon="-77.600540" lat="43.131940"/>
+            <trkpt lon="-77.600690" lat="43.131602"/>
+            <trkpt lon="-77.600708" lat="43.131282"/>
+            <trkpt lon="-77.600715" lat="43.130837"/>
+            <trkpt lon="-77.600931" lat="43.130406"/>
+            <trkpt lon="-77.601215" lat="43.130057"/>
+            <trkpt lon="-77.600451" lat="43.130171"/>
+            <trkpt lon="-77.602837" lat="43.125342"/>
+            <trkpt lon="-77.604749" lat="43.125231"/>
+            <trkpt lon="-77.602283" lat="43.129977"/>
+            <trkpt lon="-77.603059" lat="43.129850"/>
+            <trkpt lon="-77.604978" lat="43.129298"/>
+            <trkpt lon="-77.605602" lat="43.129159"/>
+            <trkpt lon="-77.606198" lat="43.129111"/>
+            <trkpt lon="-77.606757" lat="43.129215"/>
+            <trkpt lon="-77.608941" lat="43.125065"/>
+            <trkpt lon="-77.609971" lat="43.125015"/>
+            <trkpt lon="-77.609601" lat="43.125652"/>
+            <trkpt lon="-77.610723" lat="43.126052"/>
+            <trkpt lon="-77.610227" lat="43.126805"/>
+            <trkpt lon="-77.612508" lat="43.127649"/>
+            <trkpt lon="-77.610876" lat="43.130134"/>
+            <trkpt lon="-77.608367" lat="43.129803"/>
+            <trkpt lon="-77.607312" lat="43.130131"/>
+            <trkpt lon="-77.607797" lat="43.130717"/>
+            <trkpt lon="-77.608708" lat="43.130847"/>
+            <trkpt lon="-77.608792" lat="43.131902"/>
+            <trkpt lon="-77.610670" lat="43.131845"/>
+            <trkpt lon="-77.610732" lat="43.132531"/>
+            <trkpt lon="-77.611465" lat="43.132537"/>
+            <trkpt lon="-77.611527" lat="43.132972"/>
+            <trkpt lon="-77.613198" lat="43.132848"/>
         </trkseg>
     </trk>
     <trk>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:a2b904c2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.602230" lat="43.130016"></trkpt>
-            <trkpt lon="-77.602240" lat="43.130079"></trkpt>
+            <trkpt lon="-77.602230" lat="43.130016"/>
+            <trkpt lon="-77.602240" lat="43.130079"/>
         </trkseg>
     </trk>
     <trk>
-        <name>highland_unnamed_trails</name>
+        <name>seg:trail-highland-unnamed-trails:c8e740a3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.606856" lat="43.129765"></trkpt>
-            <trkpt lon="-77.606673" lat="43.129666"></trkpt>
-            <trkpt lon="-77.606523" lat="43.129554"></trkpt>
-            <trkpt lon="-77.606315" lat="43.129489"></trkpt>
-            <trkpt lon="-77.606015" lat="43.129481"></trkpt>
-            <trkpt lon="-77.605604" lat="43.129568"></trkpt>
-            <trkpt lon="-77.605464" lat="43.129570"></trkpt>
-            <trkpt lon="-77.604673" lat="43.129723"></trkpt>
-            <trkpt lon="-77.604290" lat="43.129879"></trkpt>
-            <trkpt lon="-77.603365" lat="43.130023"></trkpt>
-            <trkpt lon="-77.603159" lat="43.130013"></trkpt>
-            <trkpt lon="-77.602508" lat="43.130058"></trkpt>
-            <trkpt lon="-77.602428" lat="43.130058"></trkpt>
-            <trkpt lon="-77.602346" lat="43.130080"></trkpt>
-            <trkpt lon="-77.602308" lat="43.130073"></trkpt>
-            <trkpt lon="-77.602174" lat="43.130089"></trkpt>
-            <trkpt lon="-77.602148" lat="43.130118"></trkpt>
-            <trkpt lon="-77.602154" lat="43.130138"></trkpt>
-            <trkpt lon="-77.602193" lat="43.130156"></trkpt>
-            <trkpt lon="-77.602328" lat="43.130139"></trkpt>
-            <trkpt lon="-77.602355" lat="43.130110"></trkpt>
-            <trkpt lon="-77.602345" lat="43.130080"></trkpt>
+            <trkpt lon="-77.606856" lat="43.129765"/>
+            <trkpt lon="-77.606673" lat="43.129666"/>
+            <trkpt lon="-77.606523" lat="43.129554"/>
+            <trkpt lon="-77.606315" lat="43.129489"/>
+            <trkpt lon="-77.606015" lat="43.129481"/>
+            <trkpt lon="-77.605604" lat="43.129568"/>
+            <trkpt lon="-77.605464" lat="43.129570"/>
+            <trkpt lon="-77.604673" lat="43.129723"/>
+            <trkpt lon="-77.604290" lat="43.129879"/>
+            <trkpt lon="-77.603365" lat="43.130023"/>
+            <trkpt lon="-77.603159" lat="43.130013"/>
+            <trkpt lon="-77.602508" lat="43.130058"/>
+            <trkpt lon="-77.602428" lat="43.130058"/>
+            <trkpt lon="-77.602346" lat="43.130080"/>
+            <trkpt lon="-77.602308" lat="43.130073"/>
+            <trkpt lon="-77.602174" lat="43.130089"/>
+            <trkpt lon="-77.602148" lat="43.130118"/>
+            <trkpt lon="-77.602154" lat="43.130138"/>
+            <trkpt lon="-77.602193" lat="43.130156"/>
+            <trkpt lon="-77.602328" lat="43.130139"/>
+            <trkpt lon="-77.602355" lat="43.130110"/>
+            <trkpt lon="-77.602345" lat="43.130080"/>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.12866862149317" lon="-77.61108040809631"><name>point-parking:highland:6265dfdc</name><desc>{
+  "type": "point-parking",
+  "name": "Parking",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12747843131461" lon="-77.61130571365356"><name>point-parking:highland:7eb12f77</name><desc>{
+  "type": "point-parking",
+  "name": "Parking",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12938898850862" lon="-77.60786175727844"><name>point-restroom:highland:75224146</name><desc>{
+  "type": "point-restroom",
+  "name": "Restroom",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13225471240549" lon="-77.6037847995758"><name>point-restroom:highland:7f6e1ffd</name><desc>{
+  "type": "point-restroom",
+  "name": "Restroom",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13244262403549" lon="-77.61172413825989"><name>point-poi:highland:67ec6221</name><desc>{
+  "type": "point-poi",
+  "name": "Display Garden",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13288108226022" lon="-77.60996460914612"><name>point-poi:highland:759726d1</name><desc>{
+  "type": "point-poi",
+  "name": "Highland Bowl",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.134446978830574" lon="-77.60897755622864"><name>point-sports:highland:c03b18b6</name><desc>{
+  "type": "point-sports",
+  "name": "Skating Shelter",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13219990473797" lon="-77.60795831680298"><name>point-poi:highland:a3ba5dd7</name><desc>{
+  "type": "point-poi",
+  "name": "Lamberton Conservatory",
+  "allowsDirections": true,
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.132975037185105" lon="-77.60181069374084"><name>point-scenic:highland:c176ea42</name><desc>{
+  "type": "point-scenic",
+  "name": "Evergreens",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.132403475826855" lon="-77.60236859321594"><name>point-scenic:highland:67a16fd5</name><desc>{
+  "type": "point-scenic",
+  "name": "Rhododendrons/Azaleas",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13183973884385" lon="-77.60398864746094"><name>point-poi:highland:ea18e75b</name><desc>{
+  "type": "point-poi",
+  "name": "Gatehouse",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13172229298502" lon="-77.60663866996765"><name>point-poi:highland:f182f050</name><desc>{
+  "type": "point-poi",
+  "name": "Gatehouse",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.130125006913886" lon="-77.60222911834717"><name>point-scenic:highland:18797464</name><desc>{
+  "type": "point-scenic",
+  "name": "Pansy Bed",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12967040031793" lon="-77.60527610778809"><name>point-scenic:highland:dc5221e6</name><desc>{
+  "type": "point-scenic",
+  "name": "Lilacs",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13023462591858" lon="-77.60699272155762"><name>point-scenic:highland:e496d949</name><desc>{
+  "type": "point-scenic",
+  "name": "Magnolias",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13157352790674" lon="-77.60854840278625"><name>point-admin:highland:0f79cc8c</name><desc>{
+  "type": "point-admin",
+  "name": "County Parks Administration",
+  "allowsDirections": true,
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.130633950631434" lon="-77.60152101516724"><name>point-scenic:highland:c21e87a8</name><desc>{
+  "type": "point-scenic",
+  "name": "Lilacs",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12874692266669" lon="-77.6018750667572"><name>point-admin:highland:cc800c98</name><desc>{
+  "type": "point-admin",
+  "name": "Park Office",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12883305384178" lon="-77.607421875"><name>point-poi:highland:9724f365</name><desc>{
+  "type": "point-poi",
+  "name": "Cornell Cooperative Ext.",
+  "allowsDirections": true,
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12925587785128" lon="-77.60935306549072"><name>point-poi:highland:de72103f</name><desc>{
+  "type": "point-poi",
+  "name": "Lilac Arches",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12808918969379" lon="-77.60860204696655"><name>point-poi:highland:0a3c64ad</name><desc>{
+  "type": "point-poi",
+  "name": "Worker&#x2019;s Rights Memorial",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12746277076316" lon="-77.60926723480225"><name>point-poi:highland:52eca23d</name><desc>{
+  "type": "point-poi",
+  "name": "Victim&#x2019;s Rights Memorial",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.127956076207795" lon="-77.6089346408844"><name>point-poi:highland:7f1fa61f</name><desc>{
+  "type": "point-poi",
+  "name": "AIDS Remembrance Garden",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.12812051047194" lon="-77.61012554168701"><name>point-poi:highland:647f2c7b</name><desc>{
+  "type": "point-poi",
+  "name": "Vietnam Veterans Memorial",
+  "parkID": "park-highland"
+}</desc></wpt><wpt lat="43.13480712937032" lon="-77.60931015014648"><name>point-sports:highland:85adb4b1</name><desc>{
+  "type": "point-sports",
+  "name": "Ball Field",
+  "parkID": "park-highland"
+}</desc></wpt></gpx>

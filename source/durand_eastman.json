@@ -1,13 +1,30 @@
 {
+  "version": 2,
   "parks": {
-    "dureast": { "name": "Durand-Eastman Park", "mainPin": [43.235629, -77.564429],
-      "SW": [43.21869, -77.58837], "NE": [43.24351, -77.54631],
-      "directionsCoordinate": [43.237097832774914,-77.56105184555054],
-      "url": "http://www.monroecounty.gov/parks-durandeastman.php" }
+    "park-dureast": {
+      "name": "Durand-Eastman Park",
+      "mainPin": [
+        43.235629,
+        -77.564429
+      ],
+      "SW": [
+        43.21869,
+        -77.58837
+      ],
+      "NE": [
+        43.24351,
+        -77.54631
+      ],
+      "directionsCoordinate": [
+        43.237097832774914,
+        -77.56105184555054
+      ],
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "dureast", "url": "http://www.monroecounty.gov/parks-durandeastman.php" },
-    "dureast_durand_lake": {
+    "trail-dureast-durand-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Durand Lake Trail",
       "color": "sky",
       "length": 1.25,
@@ -21,9 +38,11 @@
       "NE": [
         43.23487,
         -77.554653
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_eastman_lake": {
+    "trail-dureast-eastman-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Eastman Lake Trail",
       "color": "orange",
       "length": 1.5,
@@ -37,9 +56,11 @@
       "NE": [
         43.236777,
         -77.558366
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_trott_lake": {
+    "trail-dureast-trott-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Trott Lake Trail",
       "color": "red",
       "length": 0.5,
@@ -53,13 +74,17 @@
       "NE": [
         43.229054,
         -77.558647
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_yellow": {
+    "trail-dureast-yellow": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Yellow Trail",
       "color": "yellow",
       "length": 1.5,
-      "trailheads": [ ],
+      "trailheads": [
+
+      ],
       "SW": [
         43.227079,
         -77.56832
@@ -67,13 +92,17 @@
       "NE": [
         43.237187,
         -77.560029
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_purple": {
+    "trail-dureast-purple": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Purple Trail",
       "color": "purple",
       "length": 0.4,
-      "trailheads": [ ],
+      "trailheads": [
+
+      ],
       "SW": [
         43.227549,
         -77.564478
@@ -81,13 +110,17 @@
       "NE": [
         43.229638,
         -77.562216
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_lakeshore_trail": {
+    "trail-dureast-lakeshore-trail": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Lakeshore Bike Path",
       "color": "black",
       "length": 2.2,
-      "trailheads": [ ],
+      "trailheads": [
+
+      ],
       "SW": [
         43.227651,
         -77.577393
@@ -95,12 +128,16 @@
       "NE": [
         43.24238,
         -77.546882
-      ]
+      ],
+      "parkID": "park-dureast"
     },
-    "dureast_unnamed_trails": {
+    "trail-dureast-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [ ],
+      "trailheads": [
+
+      ],
       "SW": [
         43.225229,
         -77.56733
@@ -108,37 +145,10 @@
       "NE": [
         43.237431,
         -77.547766
-      ]
+      ],
+      "parkID": "park-dureast"
     }
   },
-  "points": [
-    { "type": "poi", "name": "Camp Eastman", "loc": [43.23908312232301,-77.57851839065552], "url": "http://www.irondequoit.org/town-departments/parks-and-recreation/parks-and-facilities" },
-    { "type": "parking", "loc": [43.241248108449106,-77.5740659236908], "comments": "shore W" },
-    { "type": "sports", "name": "Playground", "loc": [43.238302325968746,-77.5677090883255] },
-    { "type": "shelter", "name": "Sunset", "loc": [43.23723852471494,-77.56784319877625] },
-    { "type": "restroom", "loc": [43.23770749550228,-77.56770372390747] },
-    { "type": "parking", "loc": [43.23712128145412,-77.56747841835022], "comments": "Sunset" },
-    { "type": "parking", "loc": [43.23434645843591,-77.56982803344727], "comments": "golf", "allowsDirections": true },
-    { "type": "poi", "name": "Durand-Eastman Golf Course", "loc": [43.23375239539733,-77.56814360618591], "url": "http://www.durandeastmangolfclub.org/" },
-    { "type": "parking", "loc": [43.239016, -77.567574], "comments": "Beach at Kings Highway" },
-    { "type": "parking", "loc": [43.237097832774914,-77.56105184555054], "comments": "shore C" },
-    { "type": "parking", "loc": [43.23637091924316,-77.5574791431427], "comments": "shore E" },
-    { "type": "shelter", "name": "Acorn", "loc": [43.23386964513996,-77.55918502807617] },
-    { "type": "shelter", "name": "Maple", "loc": [43.23328339417101,-77.5603973865509] },
-    { "type": "restroom", "loc": [43.23357261202053,-77.55968928337097] },
-    { "type": "shelter", "name": "Hemlock", "loc": [43.231868792897515,-77.56225347518921] },
-    { "type": "shelter", "name": "Conifer", "loc": [43.23010553252583,-77.56208181381226] },
-    { "type": "shelter", "name": "Magnolia", "loc": [43.229527901656304,-77.56112962961197] },
-    { "type": "shelter", "name": "Olive", "loc": [43.229403530657166,-77.56249219179153] },
-    { "type": "shelter", "name": "Buck Thorn", "loc": [43.2296660913577,-77.5626853108406] },
-    { "type": "parking", "loc": [43.2291990089068,-77.561856508255], "comments": "tree shelters" },
-    { "type": "restroom", "loc": [43.22947815328712,-77.56196916103363] },
-    { "type": "sports", "name": "Playground", "loc": [43.22964398102654,-77.56225615739822] },
-    { "type": "admin", "name": "Park Office", "loc": [43.23232193037336,-77.55696415901184] },
-    { "type": "parking", "loc": [43.23188418573315,-77.55588054656982], "comments": "office" },
-    { "type": "sports", "name": "Playground", "loc": [43.227546226878175,-77.54955589771271] },
-    { "type": "poi", "name": "Arboretum", "loc": [43.22897623080891,-77.55472183227539] },
-    { "type": "poi", "name": "Tamarack Swamp", "loc": [43.23344754501082,-77.55300521850586] },
-    { "type": "poi", "name": "White Lady’s Castle", "loc": [43.235675, -77.556862] }
-  ]
+  "points": {
+  }
 }

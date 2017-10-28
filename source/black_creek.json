@@ -1,7 +1,13 @@
 {
+  "version": 2,
   "parks": {
-    "black_cr": { "name": "Black Creek Park", "mainPin": [43.07190, -77.80861],
-       "SW": [
+    "park-black-cr": {
+      "name": "Black Creek Park",
+      "mainPin": [
+        43.0719,
+        -77.80861
+      ],
+      "SW": [
         43.057638,
         -77.827127
       ],
@@ -9,17 +15,24 @@
         43.090148,
         -77.795743
       ],
-      "directionsCoordinate": [43.083624, -77.797565],
-      "url": "http://www.monroecounty.gov/parks-blackcreek.php" }
+      "directionsCoordinate": [
+        43.083624,
+        -77.797565
+      ],
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "black_cr", "url": "http://www.monroecounty.gov/parks-blackcreek.php" },
-    "black_cr_bluebird": {
+    "trail-black-cr-bluebird": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Bluebird Trail",
       "length": 0.7,
       "color": "sky",
       "trailheads": [
-        [43.06150022998194,-77.82015860080719]
+        [
+          43.06150022998194,
+          -77.82015860080719
+        ]
       ],
       "SW": [
         43.061265,
@@ -28,14 +41,27 @@
       "NE": [
         43.06568,
         -77.813216
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_creek": {
+    "trail-black-cr-creek": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Creek Trail",
       "length": 3.1,
       "color": "red",
       "trailheads": [
-        [43.070277,-77.819624], [43.083323, -77.814777], [43.087668, -77.802563]
+        [
+          43.070277,
+          -77.819624
+        ],
+        [
+          43.083323,
+          -77.814777
+        ],
+        [
+          43.087668,
+          -77.802563
+        ]
       ],
       "SW": [
         43.070233,
@@ -44,14 +70,19 @@
       "NE": [
         43.087803,
         -77.797092
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_hickory": {
+    "trail-black-cr-hickory": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Hickory Trail",
       "length": 0.7,
       "color": "orange",
       "trailheads": [
-        [43.059512, -77.795878]
+        [
+          43.059512,
+          -77.795878
+        ]
       ],
       "SW": [
         43.059512,
@@ -60,14 +91,23 @@
       "NE": [
         43.065473,
         -77.795878
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_ridge": {
+    "trail-black-cr-ridge": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Ridge Trail",
       "length": 1.4,
       "color": "purple",
       "trailheads": [
-        [43.069702896920504,-77.81921982765198], [43.080563, -77.798444]
+        [
+          43.069702896920504,
+          -77.81921982765198
+        ],
+        [
+          43.080563,
+          -77.798444
+        ]
       ],
       "SW": [
         43.069269,
@@ -76,9 +116,11 @@
       "NE": [
         43.080563,
         -77.798444
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_unnamed": {
+    "trail-black-cr-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "",
       "color": "unmarked_trail",
       "trailheads": [
@@ -91,9 +133,11 @@
       "NE": [
         43.086794,
         -77.798143
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_wetland": {
+    "trail-black-cr-wetland": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Wetland Trail",
       "length": 2.1,
       "color": "grass",
@@ -107,13 +151,17 @@
       "NE": [
         43.078994,
         -77.797339
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_blue": {
+    "trail-black-cr-blue": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Blue Trail",
       "length": 1.6,
       "color": "sky",
-      "trailheads": [],
+      "trailheads": [
+
+      ],
       "SW": [
         43.069468,
         -77.814099
@@ -121,13 +169,17 @@
       "NE": [
         43.07855,
         -77.799452
-      ]
+      ],
+      "parkID": "park-black-cr"
     },
-    "black_cr_orange": {
+    "trail-black-cr-orange": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "Orange Trail",
       "length": 1.7,
       "color": "orange",
-      "trailheads": [],
+      "trailheads": [
+
+      ],
       "SW": [
         43.068892,
         -77.823467
@@ -136,60 +188,10 @@
         43.073644,
         -77.814016
       ],
-      "comments": "aka CobbleRoc Trail"
+      "comments": "aka CobbleRoc Trail",
+      "parkID": "park-black-cr"
     }
   },
-  "points": [
-    { "type": "poi", "name": "Chili Historical Society", "loc": [43.05919560432253,-77.79599726200104] },
-    { "type": "scenic", "loc": [43.06418885043125,-77.79924809932709] },
-    { "type": "poi", "name": "Boardwalk", "loc": [43.06440440527414,-77.80927419662476] },
-    { "type": "scenic", "loc": [43.065356,-77.808140] },
-    { "type": "parking", "loc": [43.07016139870417,-77.81979113817215] },
-    { "type": "scenic", "loc": [43.07161525774703,-77.81800746917725] },
-    { "type": "scenic", "loc": [43.07173673766916,-77.82429456710815] },
-    { "type": "poi", "name": "Boardwalk", "loc": [43.07312786154605,-77.82365620136261] },
-    { "type": "poi", "name": "Boardwalk", "loc": [43.07380185950522,-77.82517433166504] },
-    { "type": "poi", "name": "Boardwalk", "loc": [43.07371565087733,-77.79843270778656] },
-    { "type": "poi", "name": "Cedar Bog", "loc": [43.07203847707912,-77.82489538192749] },
-    { "type": "poi", "name": "Cattail Wetlands", "loc": [43.07594136205317,-77.81654834747314] },
-    { "type": "poi", "name": "Hardwood Swamp", "loc": [43.068041289070216,-77.81002521514893] },
-    { "type": "parking", "loc": [43.08356224308298,-77.81462252140045] },
-    { "type": "scenic", "loc": [43.07895848228719,-77.80048727989197] },
-    { "type": "parking", "loc": [43.080917571716924,-77.80006349086761] },
-    { "type": "parking", "loc": [43.082406437789324,-77.80191957950592] },
-    { "type": "lodge", "name": "Woodside", "loc": [43.08090973548398,-77.80144214630127] },
-    { "type": "shelter", "name": "Pathfinder", "loc": [43.0826376005925,-77.80252575874329] },
-    { "type": "admin", "name": "Info/Phone", "loc": [43.08172469834153,-77.80165135860443] },
-    { "type": "restroom", "comments": "Woodside", "loc": [43.08165025506884,-77.80177474021912] },
-    { "type": "restroom", "comments": "Green Rd/Barn", "loc": [43.070141, -77.819081] },
-    { "type": "sports", "name": "Playground", "loc": [43.08186574850485,-77.80203759670258] },
-    { "type": "sports", "name": "Soccer Field", "loc": [43.08156405748221,-77.80031561851501] },
-    { "type": "sports", "name": "Baseball Diamond", "loc": [43.0822810609889,-77.79870629310608] },
-    { "type": "admin", "name": "Park Office", "loc": [43.08289227046755,-77.79845952987671] },
-    { "type": "scenic", "loc": [43.08483164478783,-77.80588388442993] },
-    { "type": "parking", "loc": [43.087292015166454,-77.80047118663788] },
-    { "type": "lodge", "name": "Sunnyside", "loc": [43.0873507807665,-77.80183911323547] },
-    { "type": "parking", "comments": "Sunnyside W", "loc": [43.086833, -77.802179] },
-    { "type": "restroom", "comments": "Sunnyside", "loc": [43.087526, -77.800766] },
-    { "type": "boat_launch", "loc": [43.08782873888624,-77.8014475107193] },
-    { "type": "intersection", "name": "10", "loc": [43.078982,-77.798417] },
-    { "type": "intersection", "name": "11", "loc": [43.078007,-77.801441] },
-    { "type": "intersection", "name": "12", "loc": [43.069327,-77.815157] },
-    { "type": "intersection", "name": "13", "loc": [43.06574082838335,-77.81516432762146] },
-    { "type": "intersection", "name": "13", "loc": [43.064467,-77.814186] },
-    { "type": "intersection", "name": "14", "loc": [43.063080,-77.811300] },
-    { "type": "intersection", "name": "15", "loc": [43.06447103116319,-77.81594753265381] },
-    { "type": "intersection", "name": "16", "loc": [43.063611,-77.815803] },
-    { "type": "intersection", "name": "18", "loc": [43.083002,-77.808167] },
-    { "type": "intersection", "name": "19", "loc": [43.082869,-77.812641] },
-    { "type": "intersection", "name": "20", "loc": [43.081677,-77.808331] },
-    { "type": "intersection", "name": "21", "loc": [43.081141,-77.811413] },
-    { "type": "intersection", "name": "22", "loc": [43.079840,-77.813301] },
-    { "type": "intersection", "name": "23", "loc": [43.079464,-77.813355] },
-    { "type": "intersection", "name": "24", "loc": [43.080768,-77.803568] },
-    { "type": "intersection", "name": "25", "loc": [43.080790,-77.804930] },
-    { "type": "intersection", "name": "26", "loc": [43.081515,-77.804887] },
-    { "type": "intersection", "name": "27", "loc": [43.0830391949139,-77.80351549386978] },
-    { "type": "intersection", "name": "34", "loc": [43.080538,-77.803551] }
-  ]
+  "points": {
+  }
 }

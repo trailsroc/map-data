@@ -1,7 +1,12 @@
 {
+  "version": 2,
   "parks": {
-    "webstercp": {
-      "name": "Webster Park", "mainPin": [43.252659, -77.459099],
+    "park-webstercp": {
+      "name": "Webster Park",
+      "mainPin": [
+        43.252659,
+        -77.459099
+      ],
       "SW": [
         43.241116,
         -77.468527
@@ -10,15 +15,23 @@
         43.262079,
         -77.441946
       ],
-      "directionsCoordinate": [43.256441, -77.449774],
+      "directionsCoordinate": [
+        43.256441,
+        -77.449774
+      ],
       "url": "http://www.monroecounty.gov/parks-webster.php"
     }
   },
   "trails": {
-    "_prototype": { "parkId": "webstercp", "url": "http://www.monroecounty.gov/parks-webster.php" },
-    "webstercp_connector": {
+    "trail-webstercp-connector": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Webster Park Connector Trail",
-      "trailheads": [[43.246899, -77.468420]],
+      "trailheads": [
+        [
+          43.246899,
+          -77.46842
+        ]
+      ],
       "color": "red",
       "length": 0.25,
       "SW": [
@@ -28,9 +41,11 @@
       "NE": [
         43.24726,
         -77.463861
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_midnight": {
+    "trail-webstercp-midnight": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Midnight Trail",
       "color": "blue",
       "length": 0.77,
@@ -41,9 +56,11 @@
       "NE": [
         43.244779,
         -77.460138
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_orchard": {
+    "trail-webstercp-orchard": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Orchard Trail",
       "color": "purple",
       "length": 0.8,
@@ -54,9 +71,11 @@
       "NE": [
         43.258648,
         -77.451241
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_ridge": {
+    "trail-webstercp-ridge": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Ridge Trail",
       "color": "blue",
       "length": 1.4,
@@ -67,9 +86,11 @@
       "NE": [
         43.259294,
         -77.452728
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_ryans": {
+    "trail-webstercp-ryans": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Ryans Point Trail",
       "color": "orange",
       "length": 0.5,
@@ -80,9 +101,11 @@
       "NE": [
         43.252739,
         -77.45403
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_unnamed": {
+    "trail-webstercp-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "",
       "color": "unmarked_trail",
       "SW": [
@@ -92,9 +115,11 @@
       "NE": [
         43.259579,
         -77.447016
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_valley": {
+    "trail-webstercp-valley": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Valley View Trail",
       "color": "dark_green",
       "length": 0.6,
@@ -105,9 +130,11 @@
       "NE": [
         43.256092,
         -77.448722
-      ]
+      ],
+      "parkID": "park-webstercp"
     },
-    "webstercp_west": {
+    "trail-webstercp-west": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "West Trail",
       "color": "red",
       "length": 1.6,
@@ -118,47 +145,10 @@
       "NE": [
         43.25375,
         -77.459549
-      ]
+      ],
+      "parkID": "park-webstercp"
     }
   },
-  "points": [
-    { "type": "parking", "comments": "Kana N", "loc": [43.258683, -77.458565] },
-    { "type": "parking", "comments": "Kana S", "loc": [43.258113, -77.458559] },
-    { "type": "parking", "comments": "Whitehouse W", "loc": [43.259847, -77.451699] },
-    { "type": "parking", "comments": "Whitehouse E", "loc": [43.260351, -77.449549] },
-    { "type": "parking", "comments": "Parkview", "loc": [43.259908, -77.447300] },
-    { "type": "parking", "comments": "Holt", "loc": [43.259932, -77.446440] },
-    { "type": "parking", "comments": "Office", "loc": [43.258011, -77.446786] },
-    { "type": "restroom", "comments": "Wolf C", "loc": [43.253812, -77.456911] },
-    { "type": "restroom", "comments": "Wolf S", "loc": [43.252615, -77.456388] },
-    { "type": "restroom", "comments": "Valley View", "loc": [43.256441, -77.449774] },
-    { "type": "restroom", "comments": "Parkview", "loc": [43.259118, -77.448186] },
-    { "type": "restroom", "comments": "Lakeview", "loc": [43.260515, -77.448648] },
-    { "type": "restroom", "comments": "Holt", "loc": [43.259408, -77.444741] },
-    { "type": "lodge", "name": "Kanatota", "loc": [43.259159, -77.458714] },
-    { "type": "lodge", "name": "White House", "loc": [43.260229, -77.450017] },
-    { "type": "lodge", "name": "Parkview", "loc": [43.259037, -77.447498] },
-    { "type": "lodge", "name": "Holt", "loc": [43.259085, -77.443993] },
-    { "type": "lodge", "name": "Wolf Cabin", "loc": [43.252894, -77.456264] },
-    { "type": "shelter", "name": "Lakeview 1", "loc": [43.260420, -77.448244] },
-    { "type": "shelter", "name": "Lakeview 2", "loc": [43.260554, -77.447325] },
-    { "type": "shelter", "name": "Ridge Hill  ", "loc": [43.258949, -77.452355] },
-    { "type": "shelter", "name": "Beeches", "loc": [43.258865, -77.451523], "directionsCoordinate": [43.259908, -77.447300] },
-    { "type": "shelter", "name": "Orchard Hill", "loc": [43.257697, -77.450381] },
-    { "type": "shelter", "name": "Creek Bend", "loc": [43.257846, -77.448503], "directionsCoordinate": [43.258011, -77.446786] },
-    { "type": "shelter", "name": "Valley View", "loc": [43.255600, -77.450446] },
-    { "type": "campsite", "name": "Mohawk (Youth)", "loc": [43.246330, -77.461799] },
-    { "type": "campsite", "name": "Onondaga (Youth)", "loc": [43.246168, -77.459459] },
-    { "type": "campsite", "name": "Seneca (Youth)", "loc": [43.246229, -77.455717] },
-    { "type": "campsite", "name": "Cattaraugus (Youth)", "loc": [43.250283, -77.456562] },
-    { "type": "poi", "name": "Fishing Pier", "loc": [43.261625, -77.449723] },
-    { "type": "sports", "name": "Multi-Use Fields", "loc": [43.260034, -77.444750] },
-    { "type": "sports", "name": "Tennis Courts", "loc": [43.256479, -77.450918] },
-    { "type": "sports", "name": "Playground", "loc": [43.257855, -77.447607] },
-    { "type": "sports", "name": "Sledding Hill", "loc": [43.258529, -77.448161] },
-    { "type": "admin", "name": "Park Office", "loc": [43.258648, -77.446975] },
-    { "type": "campsite", "name": "Camping Area", "loc": [43.253335, -77.456899] },
-    { "type": "scenic", "comments": "Whitehouse W", "loc": [43.260382, -77.451270] },
-    { "type": "scenic", "comments": "Whitehouse E", "loc": [43.261010, -77.449566] }
-  ]
+  "points": {
+  }
 }

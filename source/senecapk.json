@@ -1,13 +1,30 @@
 {
+  "version": 2,
   "parks": {
-    "senecapk": { "name": "Seneca Park", "mainPin": [43.207761, -77.622490],
-      "SW": [43.19192, -77.626881 ], "NE": [43.225199, -77.61247 ],
-      "directionsCoordinate": [43.205331, -77.624293],
-      "url": "http://www.monroecounty.gov/parks-seneca.php" }
+    "park-senecapk": {
+      "name": "Seneca Park",
+      "mainPin": [
+        43.207761,
+        -77.62249
+      ],
+      "SW": [
+        43.19192,
+        -77.626881
+      ],
+      "NE": [
+        43.225199,
+        -77.61247
+      ],
+      "directionsCoordinate": [
+        43.205331,
+        -77.624293
+      ],
+      "url": "http://www.monroecounty.gov/parks-seneca.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "senecapk", "url": "http://www.monroecounty.gov/parks-seneca.php" },
-    "senecapk_gorge_overlook": {
+    "trail-senecapk-gorge-overlook": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
       "name": "Gorge Overlook Trail",
       "color": "dark_green",
       "length": 0.1,
@@ -21,9 +38,11 @@
       "NE": [
         43.21298,
         -77.620262
-      ]
+      ],
+      "parkID": "park-senecapk"
     },
-    "senecapk_olmsted_n": {
+    "trail-senecapk-olmsted-n": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
       "name": "Olmsted Trail North",
       "color": "orange",
       "length": 1,
@@ -37,9 +56,11 @@
       "NE": [
         43.225213,
         -77.612353
-      ]
+      ],
+      "parkID": "park-senecapk"
     },
-    "senecapk_olmsted_s": {
+    "trail-senecapk-olmsted-s": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
       "name": "Olmsted Trail South",
       "color": "red",
       "length": 0.7,
@@ -53,25 +74,27 @@
       "NE": [
         43.210716,
         -77.619468
-      ]
+      ],
+      "parkID": "park-senecapk"
     },
-    "senecapk_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.197673,-77.623481],"NE":[43.212724,-77.619291]}
+    "trail-senecapk-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.197673,
+        -77.623481
+      ],
+      "NE": [
+        43.212724,
+        -77.619291
+      ],
+      "parkID": "park-senecapk"
+    }
   },
-  "points": [
-    { "type": "lodge", "name": "Wegman", "loc": [43.213046, -77.618759] },
-    { "type": "shelter", "name": "Longhouse", "loc": [43.210968, -77.622671] },
-    { "type": "shelter", "name": "Hawk", "loc": [43.210114, -77.623939] },
-    { "type": "shelter", "name": "Eagle", "loc": [43.209592, -77.624005] },
-    { "type": "parking", "comments": "Wegman", "loc": [43.212794, -77.618647] },
-    { "type": "parking", "comments": "Hawk-Eagle", "loc": [43.209866, -77.624541] },
-    { "type": "parking", "comments": "Longhouse", "loc": [43.211178, -77.622179] },
-    { "type": "parking", "comments": "Zoo", "loc": [43.203987, -77.623898] },
-    { "type": "restroom", "comments": "Longhouse", "loc": [43.211371, -77.622717] },
-    { "type": "restroom", "comments": "Zoo", "loc": [43.205331, -77.624293] },
-    { "type": "admin", "name": "Park Office", "loc": [43.204893, -77.623879] },
-    { "type": "poi", "name": "Seneca Park Zoo", "loc": [43.206046, -77.623763], "url": "http://www2.monroecounty.gov/parks-zoo.php", "allowsDirections": true, "directionsCoordinate": [43.203987, -77.623898] },
-    { "type": "sports", "name": "Ball Field", "loc": [43.213445, -77.617722] },
-    { "type": "parking", "comments": "Zoo S", "loc": [43.201783, -77.621743] },
-    { "type": "sports", "name": "Playground", "loc": [43.209936, -77.623945] }
-  ]
+  "points": {
+  }
 }

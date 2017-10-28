@@ -1,13 +1,30 @@
 {
+  "version": 2,
   "parks": {
-    "lmorin": { "name": "Lucien Morin Park", "mainPin": [43.17003,-77.52966],
-      "SW": [43.15639, -77.53562], "NE": [43.17761, -77.51696],
-      "directionsCoordinate": [43.17538876465969,-77.52373695373535],
-      "url": "http://www.monroecounty.gov/parks-wetlands.php" }
+    "park-lmorin": {
+      "name": "Lucien Morin Park",
+      "mainPin": [
+        43.17003,
+        -77.52966
+      ],
+      "SW": [
+        43.15639,
+        -77.53562
+      ],
+      "NE": [
+        43.17761,
+        -77.51696
+      ],
+      "directionsCoordinate": [
+        43.17538876465969,
+        -77.52373695373535
+      ],
+      "url": "http://www.monroecounty.gov/parks-wetlands.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "lmorin", "url": "http://www.monroecounty.gov/parks-wetlands.php" },
-    "lmorin_blue": {
+    "trail-lmorin-blue": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Blue Trail",
       "color": "sky",
       "length": 0.4,
@@ -21,9 +38,11 @@
       "NE": [
         43.172604,
         -77.524803
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_east": {
+    "trail-lmorin-east": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "East Trail",
       "color": "sky",
       "length": 0.8,
@@ -37,9 +56,11 @@
       "NE": [
         43.164859,
         -77.51937
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_pink": {
+    "trail-lmorin-pink": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Pink Trail",
       "color": "pink",
       "length": 0.2,
@@ -53,9 +74,11 @@
       "NE": [
         43.167694,
         -77.528518
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_red": {
+    "trail-lmorin-red": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Red Trail",
       "color": "red",
       "length": 0.2,
@@ -69,9 +92,11 @@
       "NE": [
         43.169974,
         -77.527115
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_rifle_range_salmon": {
+    "trail-lmorin-rifle-range-salmon": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Rifle Range Salmon Trail",
       "color": "orange",
       "length": 0.4,
@@ -85,9 +110,11 @@
       "NE": [
         43.168645,
         -77.525872
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_rifle_range_white": {
+    "trail-lmorin-rifle-range-white": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Rifle Range White Trail",
       "color": "white",
       "length": 1.6,
@@ -101,9 +128,11 @@
       "NE": [
         43.174685,
         -77.522927
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_rifle_range_yellow": {
+    "trail-lmorin-rifle-range-yellow": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Rifle Range Yellow Trail",
       "color": "yellow",
       "length": 0.6,
@@ -117,12 +146,15 @@
       "NE": [
         43.169056,
         -77.52294
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_connector": {
+    "trail-lmorin-connector": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Tryon/Ellison Connectors",
       "color": "black",
       "trailheads": [
+
       ],
       "SW": [
         43.154026,
@@ -131,13 +163,27 @@
       "NE": [
         43.163914,
         -77.520447
-      ]
+      ],
+      "parkID": "park-lmorin"
     },
-    "lmorin_unnamed_trails": {"name": "","color":"unmarked_trail","trailheads":[],"SW":[43.172104,-77.528365],"NE":[43.175612,-77.523707]}
+    "trail-lmorin-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "trailheads": [
+
+      ],
+      "SW": [
+        43.172104,
+        -77.528365
+      ],
+      "NE": [
+        43.175612,
+        -77.523707
+      ],
+      "parkID": "park-lmorin"
+    }
   },
-  "points": [
-    { "type": "parking", "loc": [43.17538876465969,-77.52373695373535] },
-    { "type": "poi", "name": "Wetlands Center", "loc": [43.172126011563776,-77.52838253974915] },
-    { "type": "poi", "name": "Underpass", "loc": [43.157434, -77.527030] }
-  ]
+  "points": {
+  }
 }

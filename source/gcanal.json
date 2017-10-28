@@ -1,12 +1,26 @@
 {
+  "version": 2,
   "parks": {
-    "gcanal": { "name": "Greece Canal Park", "mainPin": [43.195399632,-77.736639976],
-      "SW": [43.18578, -77.75574], "NE": [43.20780, -77.73016],
-      "url": "http://www.monroecounty.gov/parks-greececanal.php" }
+    "park-gcanal": {
+      "name": "Greece Canal Park",
+      "mainPin": [
+        43.195399632,
+        -77.736639976
+      ],
+      "SW": [
+        43.18578,
+        -77.75574
+      ],
+      "NE": [
+        43.2078,
+        -77.73016
+      ],
+      "url": "http://www.monroecounty.gov/parks-greececanal.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "gcanal", "url": "http://www.monroecounty.gov/parks-greececanal.php" },
-    "gcanal_deer_run": {
+    "trail-gcanal-deer-run": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
       "name": "Deer Run Trail",
       "color": "sky",
       "length": 1.4,
@@ -20,9 +34,11 @@
       "NE": [
         43.19823,
         -77.736039
-      ]
+      ],
+      "parkID": "park-gcanal"
     },
-    "gcanal_farm_artifact": {
+    "trail-gcanal-farm-artifact": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
       "name": "Farm Artifact Trail",
       "color": "grass",
       "length": 0.9,
@@ -36,9 +52,11 @@
       "NE": [
         43.200313,
         -77.732296
-      ]
+      ],
+      "parkID": "park-gcanal"
     },
-    "gcanal_unnamed": {
+    "trail-gcanal-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
       "name": "",
       "color": "unmarked_trail",
       "trailheads": [
@@ -51,9 +69,11 @@
       "NE": [
         43.203086,
         -77.734541
-      ]
+      ],
+      "parkID": "park-gcanal"
     },
-    "gcanal_west": {
+    "trail-gcanal-west": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
       "name": "West Trail",
       "color": "orange",
       "length": 0.4,
@@ -67,32 +87,10 @@
       "NE": [
         43.202309,
         -77.738348
-      ]
+      ],
+      "parkID": "park-gcanal"
     }
   },
-  "points": [
-    { "type": "lodge", "name": "Rotary", "loc": [43.19142614301769,-77.73398995399475] },
-    { "type": "lodge", "name": "Millennium", "loc": [43.19949017864023,-77.73789525032043] },
-    { "type": "shelter", "name": "Towpath", "loc": [43.19179377985084,-77.73767530918121] },
-    { "type": "shelter", "name": "Thomas X. Grasso Lodge", "loc": [43.19050313014528,-77.73977279663086] },
-    { "type": "parking", "loc": [43.198848849149535,-77.73754119873047] },
-    { "type": "parking", "loc": [43.19731588793222,-77.73604989051819] },
-    { "type": "parking", "loc": [43.19638905341315,-77.73321211338043] },
-    { "type": "parking", "loc": [43.19181724595646,-77.73718178272247] },
-    { "type": "parking", "loc": [43.19155129623077,-77.73353934288025] },
-    { "type": "parking", "loc": [43.19127361219223,-77.73537397384644] },
-    { "type": "parking", "loc": [43.19129707849787,-77.73634493350983] },
-    { "type": "parking", "loc": [43.190405352540296,-77.7391505241394] },
-    { "type": "restroom", "loc": [43.191019393302675,-77.73691892623901] },
-    { "type": "restroom", "loc": [43.19941783388258,-77.73808568716049] },
-    { "type": "sports", "name": "Playground", "loc": [43.19962118109123,-77.73695647716522] },
-    { "type": "sports", "name": "Playground", "loc": [43.19129316744756,-77.73480266332626] },
-    { "type": "sports", "name": "Baseball Field", "loc": [43.19937286277377,-77.73945093154907] },
-    { "type": "sports", "name": "Soccer Field", "loc": [43.19886449141244,-77.73594260215759] },
-    { "type": "sports", "name": "Tennis Court", "loc": [43.199474536537736,-77.73850679397583] },
-    { "type": "poi", "name": "Dock", "loc": [43.189857795057584,-77.73777723312378] },
-    { "type": "scenic", "loc": [43.19342856363022,-77.73868918418884] },
-    { "type": "scenic", "loc": [43.18998686262099,-77.73727297782898] },
-    { "type": "poi", "name": "Dog Park", "loc": [43.1906361074367,-77.73598551750183] }
-  ]
+  "points": {
+  }
 }

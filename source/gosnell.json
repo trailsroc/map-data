@@ -1,9 +1,16 @@
 {
+  "version": 2,
   "parks": {
-    "gosnell": {
+    "park-gosnell": {
       "name": "Gosnell Big Woods Preserve",
-      "mainPin": [43.244502, -77.490619],
-      "directionsCoordinate": [43.242230, -77.489641],
+      "mainPin": [
+        43.244502,
+        -77.490619
+      ],
+      "directionsCoordinate": [
+        43.24223,
+        -77.489641
+      ],
       "SW": [
         43.242066,
         -77.495448
@@ -13,18 +20,17 @@
         -77.477243
       ],
       "url": "http://www.webstertrails.org/gosnell/gosnell.php",
-      "advisories": ["websterHuntingAdvisory"]
+      "advisories": [
+        "websterHuntingAdvisory"
+      ]
     }
   },
   "trails": {
-    "_prototype": {
-        "parkId": "gosnell",
-        "url": "http://www.webstertrails.org/gosnell/gosnell.php"
-    },
-    "gosnell_big_field": {
+    "trail-gosnell-big-field": {
+      "url": "http://www.webstertrails.org/gosnell/gosnell.php",
       "name": "Big Field Trail",
       "color": "dark_green",
-      "length": 1.20,
+      "length": 1.2,
       "SW": [
         43.242234,
         -77.494385
@@ -32,12 +38,14 @@
       "NE": [
         43.246981,
         -77.48805
-      ]
+      ],
+      "parkID": "park-gosnell"
     },
-    "gosnell_big_woods": {
+    "trail-gosnell-big-woods": {
+      "url": "http://www.webstertrails.org/gosnell/gosnell.php",
       "name": "Big Woods Trail",
       "color": "red",
-      "length": 0.80,
+      "length": 0.8,
       "SW": [
         43.244801,
         -77.488282
@@ -45,12 +53,14 @@
       "NE": [
         43.249984,
         -77.482145
-      ]
+      ],
+      "parkID": "park-gosnell"
     },
-    "gosnell_vosburg_connector": {
+    "trail-gosnell-vosburg-connector": {
+      "url": "http://www.webstertrails.org/gosnell/gosnell.php",
       "name": "Vosburg Connector Trail",
       "color": "blue",
-      "length": 0.10,
+      "length": 0.1,
       "SW": [
         43.242104,
         -77.495216
@@ -58,12 +68,14 @@
       "NE": [
         43.242487,
         -77.494126
-      ]
+      ],
+      "parkID": "park-gosnell"
     },
-    "gosnell_meadow": {
+    "trail-gosnell-meadow": {
+      "url": "http://www.webstertrails.org/gosnell/gosnell.php",
       "name": "Meadow Trail",
       "color": "yellow",
-      "length": 0.50,
+      "length": 0.5,
       "SW": [
         43.243544,
         -77.488735
@@ -71,9 +83,11 @@
       "NE": [
         43.245008,
         -77.484868
-      ]
+      ],
+      "parkID": "park-gosnell"
     },
-    "gosnell_ridge": {
+    "trail-gosnell-ridge": {
+      "url": "http://www.webstertrails.org/gosnell/gosnell.php",
       "name": "Ridge Trail (to Whiting Rd Preserve)",
       "color": "white",
       "length": 0.15,
@@ -84,10 +98,10 @@
       "NE": [
         43.248644,
         -77.479757
-      ]
+      ],
+      "parkID": "park-gosnell"
     }
   },
-  "points": [
-    {"type": "parking", "loc": [43.242230, -77.489641], "comments": "Main lot"}
-  ]
+  "points": {
+  }
 }

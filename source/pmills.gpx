@@ -1,11 +1,11 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-24T02:03:28.711Z</time>
     </metadata>
     <rte>
-        <name>pmills_ridge</name>
+        <name>seg:trail-pmills-ridge:1289540a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -31,7 +31,7 @@
         </rtept>
     </rte>
     <rte>
-        <name>pmills_ridge</name>
+        <name>seg:trail-pmills-ridge:38cce30f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -57,7 +57,7 @@
         </rtept>
     </rte>
     <rte>
-        <name>pmills_ridge</name>
+        <name>seg:trail-pmills-ridge:5fc7dffe</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -86,7 +86,7 @@
         </rtept>
     </rte>
     <rte>
-        <name>pmills_ridge</name>
+        <name>seg:trail-pmills-ridge:b9bf0dd3</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -95,62 +95,62 @@
         <rtept lon="-77.477321" lat="43.042647">
             <ele>154.500000</ele>
         </rtept>
-        <rtept lon="-77.477418" lat="43.042833"></rtept>
-        <rtept lon="-77.477570" lat="43.042920"></rtept>
-        <rtept lon="-77.477666" lat="43.043057"></rtept>
-        <rtept lon="-77.477888" lat="43.043164"></rtept>
-        <rtept lon="-77.477888" lat="43.043164"></rtept>
-        <rtept lon="-77.478013" lat="43.043387"></rtept>
-        <rtept lon="-77.478046" lat="43.043585"></rtept>
-        <rtept lon="-77.478168" lat="43.043789"></rtept>
-        <rtept lon="-77.478502" lat="43.044027"></rtept>
-        <rtept lon="-77.478906" lat="43.045212"></rtept>
-        <rtept lon="-77.478974" lat="43.045301"></rtept>
-        <rtept lon="-77.478969" lat="43.045426"></rtept>
-        <rtept lon="-77.479088" lat="43.045692"></rtept>
-        <rtept lon="-77.479129" lat="43.045714"></rtept>
-        <rtept lon="-77.479143" lat="43.045782"></rtept>
-        <rtept lon="-77.479145" lat="43.045881"></rtept>
-        <rtept lon="-77.479392" lat="43.046032"></rtept>
-        <rtept lon="-77.479599" lat="43.046341"></rtept>
-        <rtept lon="-77.479643" lat="43.046463"></rtept>
+        <rtept lon="-77.477418" lat="43.042833"/>
+        <rtept lon="-77.477570" lat="43.042920"/>
+        <rtept lon="-77.477666" lat="43.043057"/>
+        <rtept lon="-77.477888" lat="43.043164"/>
+        <rtept lon="-77.477888" lat="43.043164"/>
+        <rtept lon="-77.478013" lat="43.043387"/>
+        <rtept lon="-77.478046" lat="43.043585"/>
+        <rtept lon="-77.478168" lat="43.043789"/>
+        <rtept lon="-77.478502" lat="43.044027"/>
+        <rtept lon="-77.478906" lat="43.045212"/>
+        <rtept lon="-77.478974" lat="43.045301"/>
+        <rtept lon="-77.478969" lat="43.045426"/>
+        <rtept lon="-77.479088" lat="43.045692"/>
+        <rtept lon="-77.479129" lat="43.045714"/>
+        <rtept lon="-77.479143" lat="43.045782"/>
+        <rtept lon="-77.479145" lat="43.045881"/>
+        <rtept lon="-77.479392" lat="43.046032"/>
+        <rtept lon="-77.479599" lat="43.046341"/>
+        <rtept lon="-77.479643" lat="43.046463"/>
     </rte>
     <rte>
-        <name>pmills_trillium</name>
+        <name>seg:trail-pmills-trillium:d2688c11</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.481367" lat="43.045772"></rtept>
-        <rtept lon="-77.481215" lat="43.045636"></rtept>
-        <rtept lon="-77.480866" lat="43.045615"></rtept>
-        <rtept lon="-77.480567" lat="43.045620"></rtept>
-        <rtept lon="-77.480370" lat="43.045582"></rtept>
+        <rtept lon="-77.481367" lat="43.045772"/>
+        <rtept lon="-77.481215" lat="43.045636"/>
+        <rtept lon="-77.480866" lat="43.045615"/>
+        <rtept lon="-77.480567" lat="43.045620"/>
+        <rtept lon="-77.480370" lat="43.045582"/>
     </rte>
     <rte>
-        <name>pmills_trillium</name>
+        <name>seg:trail-pmills-trillium:3b996397</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.480370" lat="43.045582"></rtept>
-        <rtept lon="-77.480144" lat="43.045371"></rtept>
-        <rtept lon="-77.479850" lat="43.045251"></rtept>
-        <rtept lon="-77.479630" lat="43.045099"></rtept>
-        <rtept lon="-77.479323" lat="43.044463"></rtept>
-        <rtept lon="-77.479272" lat="43.043652"></rtept>
-        <rtept lon="-77.478641" lat="43.042982"></rtept>
-        <rtept lon="-77.478309" lat="43.042809"></rtept>
-        <rtept lon="-77.478285" lat="43.042670"></rtept>
-        <rtept lon="-77.478002" lat="43.042216"></rtept>
+        <rtept lon="-77.480370" lat="43.045582"/>
+        <rtept lon="-77.480144" lat="43.045371"/>
+        <rtept lon="-77.479850" lat="43.045251"/>
+        <rtept lon="-77.479630" lat="43.045099"/>
+        <rtept lon="-77.479323" lat="43.044463"/>
+        <rtept lon="-77.479272" lat="43.043652"/>
+        <rtept lon="-77.478641" lat="43.042982"/>
+        <rtept lon="-77.478309" lat="43.042809"/>
+        <rtept lon="-77.478285" lat="43.042670"/>
+        <rtept lon="-77.478002" lat="43.042216"/>
         <rtept lon="-77.477939" lat="43.042137">
             <ele>142.100000</ele>
         </rtept>
     </rte>
     <rte>
-        <name>pmills_trillium</name>
+        <name>seg:trail-pmills-trillium:c3fa28f2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -188,176 +188,176 @@
         </rtept>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:b664c020</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.475776" lat="43.042366"></rtept>
-        <rtept lon="-77.475561" lat="43.042275"></rtept>
-        <rtept lon="-77.475325" lat="43.042154"></rtept>
-        <rtept lon="-77.475138" lat="43.041978"></rtept>
-        <rtept lon="-77.475075" lat="43.041747"></rtept>
-        <rtept lon="-77.475048" lat="43.041583"></rtept>
-        <rtept lon="-77.474905" lat="43.041495"></rtept>
+        <rtept lon="-77.475776" lat="43.042366"/>
+        <rtept lon="-77.475561" lat="43.042275"/>
+        <rtept lon="-77.475325" lat="43.042154"/>
+        <rtept lon="-77.475138" lat="43.041978"/>
+        <rtept lon="-77.475075" lat="43.041747"/>
+        <rtept lon="-77.475048" lat="43.041583"/>
+        <rtept lon="-77.474905" lat="43.041495"/>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:0d918bed</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.474905" lat="43.041495"></rtept>
-        <rtept lon="-77.474703" lat="43.041396"></rtept>
-        <rtept lon="-77.474109" lat="43.041188"></rtept>
-        <rtept lon="-77.474081" lat="43.041021"></rtept>
-        <rtept lon="-77.473984" lat="43.040890"></rtept>
-        <rtept lon="-77.473815" lat="43.040801"></rtept>
-        <rtept lon="-77.473718" lat="43.040688"></rtept>
-        <rtept lon="-77.473652" lat="43.040432"></rtept>
+        <rtept lon="-77.474905" lat="43.041495"/>
+        <rtept lon="-77.474703" lat="43.041396"/>
+        <rtept lon="-77.474109" lat="43.041188"/>
+        <rtept lon="-77.474081" lat="43.041021"/>
+        <rtept lon="-77.473984" lat="43.040890"/>
+        <rtept lon="-77.473815" lat="43.040801"/>
+        <rtept lon="-77.473718" lat="43.040688"/>
+        <rtept lon="-77.473652" lat="43.040432"/>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:a58a9448</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.477443" lat="43.046530"></rtept>
-        <rtept lon="-77.478056" lat="43.046333"></rtept>
-        <rtept lon="-77.478225" lat="43.046242"></rtept>
-        <rtept lon="-77.478469" lat="43.046270"></rtept>
-        <rtept lon="-77.478564" lat="43.046387"></rtept>
-        <rtept lon="-77.478809" lat="43.046526"></rtept>
-        <rtept lon="-77.479628" lat="43.046475"></rtept>
+        <rtept lon="-77.477443" lat="43.046530"/>
+        <rtept lon="-77.478056" lat="43.046333"/>
+        <rtept lon="-77.478225" lat="43.046242"/>
+        <rtept lon="-77.478469" lat="43.046270"/>
+        <rtept lon="-77.478564" lat="43.046387"/>
+        <rtept lon="-77.478809" lat="43.046526"/>
+        <rtept lon="-77.479628" lat="43.046475"/>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e5bbbc5f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.479628" lat="43.046475"></rtept>
-        <rtept lon="-77.479777" lat="43.046450"></rtept>
-        <rtept lon="-77.480132" lat="43.046481"></rtept>
-        <rtept lon="-77.480972" lat="43.046375"></rtept>
-        <rtept lon="-77.481162" lat="43.046301"></rtept>
-        <rtept lon="-77.481225" lat="43.046224"></rtept>
+        <rtept lon="-77.479628" lat="43.046475"/>
+        <rtept lon="-77.479777" lat="43.046450"/>
+        <rtept lon="-77.480132" lat="43.046481"/>
+        <rtept lon="-77.480972" lat="43.046375"/>
+        <rtept lon="-77.481162" lat="43.046301"/>
+        <rtept lon="-77.481225" lat="43.046224"/>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:56cd3627</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.481225" lat="43.046224"></rtept>
-        <rtept lon="-77.481202" lat="43.046139"></rtept>
-        <rtept lon="-77.481073" lat="43.046113"></rtept>
-        <rtept lon="-77.480758" lat="43.046115"></rtept>
-        <rtept lon="-77.480389" lat="43.046234"></rtept>
-        <rtept lon="-77.480068" lat="43.046349"></rtept>
-        <rtept lon="-77.479812" lat="43.046443"></rtept>
+        <rtept lon="-77.481225" lat="43.046224"/>
+        <rtept lon="-77.481202" lat="43.046139"/>
+        <rtept lon="-77.481073" lat="43.046113"/>
+        <rtept lon="-77.480758" lat="43.046115"/>
+        <rtept lon="-77.480389" lat="43.046234"/>
+        <rtept lon="-77.480068" lat="43.046349"/>
+        <rtept lon="-77.479812" lat="43.046443"/>
     </rte>
     <rte>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:02a8b876</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.479933" lat="43.046397"></rtept>
-        <rtept lon="-77.480190" lat="43.046187"></rtept>
-        <rtept lon="-77.480246" lat="43.046027"></rtept>
-        <rtept lon="-77.480336" lat="43.045907"></rtept>
-        <rtept lon="-77.480336" lat="43.045632"></rtept>
-        <rtept lon="-77.480370" lat="43.045582"></rtept>
+        <rtept lon="-77.479933" lat="43.046397"/>
+        <rtept lon="-77.480190" lat="43.046187"/>
+        <rtept lon="-77.480246" lat="43.046027"/>
+        <rtept lon="-77.480336" lat="43.045907"/>
+        <rtept lon="-77.480336" lat="43.045632"/>
+        <rtept lon="-77.480370" lat="43.045582"/>
     </rte>
     <trk>
-        <name>border:pmills</name>
+        <name>border:park-pmills</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.468955" lat="43.048130"></trkpt>
-            <trkpt lon="-77.471416" lat="43.047695"></trkpt>
-            <trkpt lon="-77.472346" lat="43.047907"></trkpt>
-            <trkpt lon="-77.473157" lat="43.048229"></trkpt>
-            <trkpt lon="-77.475094" lat="43.048256"></trkpt>
-            <trkpt lon="-77.474771" lat="43.042292"></trkpt>
-            <trkpt lon="-77.472659" lat="43.042297"></trkpt>
-            <trkpt lon="-77.472479" lat="43.034833"></trkpt>
-            <trkpt lon="-77.483745" lat="43.034702"></trkpt>
-            <trkpt lon="-77.483893" lat="43.041642"></trkpt>
-            <trkpt lon="-77.485905" lat="43.041862"></trkpt>
-            <trkpt lon="-77.486995" lat="43.042294"></trkpt>
-            <trkpt lon="-77.487173" lat="43.042733"></trkpt>
-            <trkpt lon="-77.485943" lat="43.042742"></trkpt>
-            <trkpt lon="-77.485528" lat="43.042963"></trkpt>
-            <trkpt lon="-77.484894" lat="43.043062"></trkpt>
-            <trkpt lon="-77.484632" lat="43.043417"></trkpt>
-            <trkpt lon="-77.483828" lat="43.043250"></trkpt>
-            <trkpt lon="-77.482821" lat="43.043392"></trkpt>
-            <trkpt lon="-77.482168" lat="43.043853"></trkpt>
-            <trkpt lon="-77.482143" lat="43.044118"></trkpt>
-            <trkpt lon="-77.481515" lat="43.044623"></trkpt>
-            <trkpt lon="-77.481844" lat="43.044871"></trkpt>
-            <trkpt lon="-77.482167" lat="43.045300"></trkpt>
-            <trkpt lon="-77.482311" lat="43.045107"></trkpt>
-            <trkpt lon="-77.483038" lat="43.044963"></trkpt>
-            <trkpt lon="-77.482984" lat="43.046022"></trkpt>
-            <trkpt lon="-77.483239" lat="43.046168"></trkpt>
-            <trkpt lon="-77.483627" lat="43.046564"></trkpt>
-            <trkpt lon="-77.483945" lat="43.047100"></trkpt>
-            <trkpt lon="-77.486073" lat="43.047153"></trkpt>
-            <trkpt lon="-77.486091" lat="43.048975"></trkpt>
-            <trkpt lon="-77.490799" lat="43.049018"></trkpt>
-            <trkpt lon="-77.490848" lat="43.051132"></trkpt>
-            <trkpt lon="-77.486182" lat="43.051136"></trkpt>
-            <trkpt lon="-77.486205" lat="43.051318"></trkpt>
-            <trkpt lon="-77.483755" lat="43.051435"></trkpt>
-            <trkpt lon="-77.483723" lat="43.050253"></trkpt>
-            <trkpt lon="-77.482773" lat="43.049623"></trkpt>
-            <trkpt lon="-77.479697" lat="43.049751"></trkpt>
-            <trkpt lon="-77.478343" lat="43.049077"></trkpt>
-            <trkpt lon="-77.478021" lat="43.049141"></trkpt>
-            <trkpt lon="-77.477809" lat="43.049297"></trkpt>
-            <trkpt lon="-77.477570" lat="43.049676"></trkpt>
-            <trkpt lon="-77.469686" lat="43.049782"></trkpt>
+            <trkpt lon="-77.468955" lat="43.048130"/>
+            <trkpt lon="-77.471416" lat="43.047695"/>
+            <trkpt lon="-77.472346" lat="43.047907"/>
+            <trkpt lon="-77.473157" lat="43.048229"/>
+            <trkpt lon="-77.475094" lat="43.048256"/>
+            <trkpt lon="-77.474771" lat="43.042292"/>
+            <trkpt lon="-77.472659" lat="43.042297"/>
+            <trkpt lon="-77.472479" lat="43.034833"/>
+            <trkpt lon="-77.483745" lat="43.034702"/>
+            <trkpt lon="-77.483893" lat="43.041642"/>
+            <trkpt lon="-77.485905" lat="43.041862"/>
+            <trkpt lon="-77.486995" lat="43.042294"/>
+            <trkpt lon="-77.487173" lat="43.042733"/>
+            <trkpt lon="-77.485943" lat="43.042742"/>
+            <trkpt lon="-77.485528" lat="43.042963"/>
+            <trkpt lon="-77.484894" lat="43.043062"/>
+            <trkpt lon="-77.484632" lat="43.043417"/>
+            <trkpt lon="-77.483828" lat="43.043250"/>
+            <trkpt lon="-77.482821" lat="43.043392"/>
+            <trkpt lon="-77.482168" lat="43.043853"/>
+            <trkpt lon="-77.482143" lat="43.044118"/>
+            <trkpt lon="-77.481515" lat="43.044623"/>
+            <trkpt lon="-77.481844" lat="43.044871"/>
+            <trkpt lon="-77.482167" lat="43.045300"/>
+            <trkpt lon="-77.482311" lat="43.045107"/>
+            <trkpt lon="-77.483038" lat="43.044963"/>
+            <trkpt lon="-77.482984" lat="43.046022"/>
+            <trkpt lon="-77.483239" lat="43.046168"/>
+            <trkpt lon="-77.483627" lat="43.046564"/>
+            <trkpt lon="-77.483945" lat="43.047100"/>
+            <trkpt lon="-77.486073" lat="43.047153"/>
+            <trkpt lon="-77.486091" lat="43.048975"/>
+            <trkpt lon="-77.490799" lat="43.049018"/>
+            <trkpt lon="-77.490848" lat="43.051132"/>
+            <trkpt lon="-77.486182" lat="43.051136"/>
+            <trkpt lon="-77.486205" lat="43.051318"/>
+            <trkpt lon="-77.483755" lat="43.051435"/>
+            <trkpt lon="-77.483723" lat="43.050253"/>
+            <trkpt lon="-77.482773" lat="43.049623"/>
+            <trkpt lon="-77.479697" lat="43.049751"/>
+            <trkpt lon="-77.478343" lat="43.049077"/>
+            <trkpt lon="-77.478021" lat="43.049141"/>
+            <trkpt lon="-77.477809" lat="43.049297"/>
+            <trkpt lon="-77.477570" lat="43.049676"/>
+            <trkpt lon="-77.469686" lat="43.049782"/>
         </trkseg>
     </trk>
     <trk>
-        <name>innerBorder:pmills</name>
+        <name>innerBorder:park-pmills</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.480574" lat="43.044741"></trkpt>
-            <trkpt lon="-77.481293" lat="43.044343"></trkpt>
-            <trkpt lon="-77.481900" lat="43.043866"></trkpt>
-            <trkpt lon="-77.482086" lat="43.043420"></trkpt>
-            <trkpt lon="-77.482785" lat="43.043081"></trkpt>
-            <trkpt lon="-77.482790" lat="43.042831"></trkpt>
-            <trkpt lon="-77.483316" lat="43.042651"></trkpt>
-            <trkpt lon="-77.484559" lat="43.042893"></trkpt>
-            <trkpt lon="-77.484657" lat="43.042812"></trkpt>
-            <trkpt lon="-77.485216" lat="43.042736"></trkpt>
-            <trkpt lon="-77.485169" lat="43.042370"></trkpt>
-            <trkpt lon="-77.479916" lat="43.042333"></trkpt>
-            <trkpt lon="-77.479766" lat="43.042854"></trkpt>
-            <trkpt lon="-77.480150" lat="43.043297"></trkpt>
-            <trkpt lon="-77.480406" lat="43.043960"></trkpt>
+            <trkpt lon="-77.480574" lat="43.044741"/>
+            <trkpt lon="-77.481293" lat="43.044343"/>
+            <trkpt lon="-77.481900" lat="43.043866"/>
+            <trkpt lon="-77.482086" lat="43.043420"/>
+            <trkpt lon="-77.482785" lat="43.043081"/>
+            <trkpt lon="-77.482790" lat="43.042831"/>
+            <trkpt lon="-77.483316" lat="43.042651"/>
+            <trkpt lon="-77.484559" lat="43.042893"/>
+            <trkpt lon="-77.484657" lat="43.042812"/>
+            <trkpt lon="-77.485216" lat="43.042736"/>
+            <trkpt lon="-77.485169" lat="43.042370"/>
+            <trkpt lon="-77.479916" lat="43.042333"/>
+            <trkpt lon="-77.479766" lat="43.042854"/>
+            <trkpt lon="-77.480150" lat="43.043297"/>
+            <trkpt lon="-77.480406" lat="43.043960"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:49de2345</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -472,7 +472,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:ff205976</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -497,7 +497,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:4514f255</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -561,7 +561,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:b8ed7a66</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -808,7 +808,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:d514b6c5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -911,7 +911,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_daffodil</name>
+        <name>seg:trail-pmills-daffodil:ef5e112e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -996,19 +996,19 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:0f56ceb1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.473072" lat="43.048424"></trkpt>
-            <trkpt lon="-77.474081" lat="43.048704"></trkpt>
+            <trkpt lon="-77.473072" lat="43.048424"/>
+            <trkpt lon="-77.474081" lat="43.048704"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:28cfe655</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1024,7 +1024,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:b99bd79c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1052,7 +1052,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:9de2df8e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1080,7 +1080,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:e07202a1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1105,7 +1105,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:210a87d6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1127,7 +1127,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:de828c2e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1164,7 +1164,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:62e6b3fa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1207,19 +1207,19 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:5e9140ff</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.477009" lat="43.047750"></trkpt>
-            <trkpt lon="-77.477462" lat="43.047987"></trkpt>
+            <trkpt lon="-77.477009" lat="43.047750"/>
+            <trkpt lon="-77.477462" lat="43.047987"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_ridge</name>
+        <name>seg:trail-pmills-ridge:0fe2b764</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1241,79 +1241,79 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:2cdd4c56</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.476433" lat="43.041095"></trkpt>
-            <trkpt lon="-77.476245" lat="43.040598"></trkpt>
-            <trkpt lon="-77.476478" lat="43.040181"></trkpt>
+            <trkpt lon="-77.476433" lat="43.041095"/>
+            <trkpt lon="-77.476245" lat="43.040598"/>
+            <trkpt lon="-77.476478" lat="43.040181"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f06d609a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.472257" lat="43.035127"></trkpt>
-            <trkpt lon="-77.472484" lat="43.035340"></trkpt>
-            <trkpt lon="-77.472886" lat="43.035431"></trkpt>
+            <trkpt lon="-77.472257" lat="43.035127"/>
+            <trkpt lon="-77.472484" lat="43.035340"/>
+            <trkpt lon="-77.472886" lat="43.035431"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:6a079f5d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.472886" lat="43.035431"></trkpt>
-            <trkpt lon="-77.473177" lat="43.035807"></trkpt>
-            <trkpt lon="-77.473621" lat="43.036152"></trkpt>
-            <trkpt lon="-77.473806" lat="43.036444"></trkpt>
-            <trkpt lon="-77.474168" lat="43.036570"></trkpt>
-            <trkpt lon="-77.474410" lat="43.036933"></trkpt>
-            <trkpt lon="-77.474737" lat="43.037207"></trkpt>
-            <trkpt lon="-77.475108" lat="43.037510"></trkpt>
+            <trkpt lon="-77.472886" lat="43.035431"/>
+            <trkpt lon="-77.473177" lat="43.035807"/>
+            <trkpt lon="-77.473621" lat="43.036152"/>
+            <trkpt lon="-77.473806" lat="43.036444"/>
+            <trkpt lon="-77.474168" lat="43.036570"/>
+            <trkpt lon="-77.474410" lat="43.036933"/>
+            <trkpt lon="-77.474737" lat="43.037207"/>
+            <trkpt lon="-77.475108" lat="43.037510"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f217b1cd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.475108" lat="43.037510"></trkpt>
-            <trkpt lon="-77.475407" lat="43.037894"></trkpt>
-            <trkpt lon="-77.475867" lat="43.038110"></trkpt>
-            <trkpt lon="-77.475843" lat="43.038271"></trkpt>
+            <trkpt lon="-77.475108" lat="43.037510"/>
+            <trkpt lon="-77.475407" lat="43.037894"/>
+            <trkpt lon="-77.475867" lat="43.038110"/>
+            <trkpt lon="-77.475843" lat="43.038271"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:0b14de2b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.476252" lat="43.038664"></trkpt>
-            <trkpt lon="-77.476459" lat="43.038622"></trkpt>
-            <trkpt lon="-77.476573" lat="43.038529"></trkpt>
-            <trkpt lon="-77.476751" lat="43.038464"></trkpt>
+            <trkpt lon="-77.476252" lat="43.038664"/>
+            <trkpt lon="-77.476459" lat="43.038622"/>
+            <trkpt lon="-77.476573" lat="43.038529"/>
+            <trkpt lon="-77.476751" lat="43.038464"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:c6d940dc</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1332,7 +1332,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:bc7422e0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1360,7 +1360,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:4fb766b9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1388,7 +1388,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:4c0520d1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1422,7 +1422,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:90f45375</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1447,7 +1447,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:9e1846e1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1517,7 +1517,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:b735cd6f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1542,7 +1542,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:26fbac18</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1570,7 +1570,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:5ca607fc</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1595,7 +1595,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:5d54fa64</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1614,7 +1614,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:c15e4d8f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1636,7 +1636,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:530fd017</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1661,7 +1661,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:d63b4a49</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1680,7 +1680,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:1392be91</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1720,7 +1720,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:ae9bb095</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1748,7 +1748,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:291dac30</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1821,7 +1821,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:cad8ae6d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1861,7 +1861,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:d77eb806</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1892,7 +1892,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:447e1a72</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1914,7 +1914,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e8c1c0c8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -1936,7 +1936,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:90b69f2d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1958,7 +1958,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:ed25bc3a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1983,111 +1983,111 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:8342e938</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.472787" lat="43.048653"></trkpt>
-            <trkpt lon="-77.472751" lat="43.048969"></trkpt>
+            <trkpt lon="-77.472787" lat="43.048653"/>
+            <trkpt lon="-77.472751" lat="43.048969"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:6803efbd</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.474083" lat="43.048823"></trkpt>
-            <trkpt lon="-77.474313" lat="43.048849"></trkpt>
-            <trkpt lon="-77.474723" lat="43.049102"></trkpt>
+            <trkpt lon="-77.474083" lat="43.048823"/>
+            <trkpt lon="-77.474313" lat="43.048849"/>
+            <trkpt lon="-77.474723" lat="43.049102"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:cb80b279</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.474723" lat="43.049102"></trkpt>
-            <trkpt lon="-77.475080" lat="43.049392"></trkpt>
-            <trkpt lon="-77.475501" lat="43.049533"></trkpt>
-            <trkpt lon="-77.475842" lat="43.049543"></trkpt>
-            <trkpt lon="-77.476027" lat="43.049495"></trkpt>
+            <trkpt lon="-77.474723" lat="43.049102"/>
+            <trkpt lon="-77.475080" lat="43.049392"/>
+            <trkpt lon="-77.475501" lat="43.049533"/>
+            <trkpt lon="-77.475842" lat="43.049543"/>
+            <trkpt lon="-77.476027" lat="43.049495"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:008e58ca</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.474706" lat="43.049088"></trkpt>
-            <trkpt lon="-77.474909" lat="43.048772"></trkpt>
+            <trkpt lon="-77.474706" lat="43.049088"/>
+            <trkpt lon="-77.474909" lat="43.048772"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:ae0f8288</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.470161" lat="43.049077"></trkpt>
-            <trkpt lon="-77.470293" lat="43.049562"></trkpt>
-            <trkpt lon="-77.470890" lat="43.049591"></trkpt>
-            <trkpt lon="-77.471066" lat="43.049553"></trkpt>
-            <trkpt lon="-77.472091" lat="43.049543"></trkpt>
-            <trkpt lon="-77.472320" lat="43.049477"></trkpt>
-            <trkpt lon="-77.472606" lat="43.049456"></trkpt>
-            <trkpt lon="-77.472851" lat="43.049508"></trkpt>
-            <trkpt lon="-77.473749" lat="43.049466"></trkpt>
-            <trkpt lon="-77.473833" lat="43.049431"></trkpt>
-            <trkpt lon="-77.473912" lat="43.049378"></trkpt>
-            <trkpt lon="-77.473785" lat="43.049201"></trkpt>
-            <trkpt lon="-77.473736" lat="43.048993"></trkpt>
-            <trkpt lon="-77.473724" lat="43.048909"></trkpt>
+            <trkpt lon="-77.470161" lat="43.049077"/>
+            <trkpt lon="-77.470293" lat="43.049562"/>
+            <trkpt lon="-77.470890" lat="43.049591"/>
+            <trkpt lon="-77.471066" lat="43.049553"/>
+            <trkpt lon="-77.472091" lat="43.049543"/>
+            <trkpt lon="-77.472320" lat="43.049477"/>
+            <trkpt lon="-77.472606" lat="43.049456"/>
+            <trkpt lon="-77.472851" lat="43.049508"/>
+            <trkpt lon="-77.473749" lat="43.049466"/>
+            <trkpt lon="-77.473833" lat="43.049431"/>
+            <trkpt lon="-77.473912" lat="43.049378"/>
+            <trkpt lon="-77.473785" lat="43.049201"/>
+            <trkpt lon="-77.473736" lat="43.048993"/>
+            <trkpt lon="-77.473724" lat="43.048909"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:b49116f8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.477930" lat="43.047108"></trkpt>
-            <trkpt lon="-77.477696" lat="43.047533"></trkpt>
-            <trkpt lon="-77.477759" lat="43.047641"></trkpt>
+            <trkpt lon="-77.477930" lat="43.047108"/>
+            <trkpt lon="-77.477696" lat="43.047533"/>
+            <trkpt lon="-77.477759" lat="43.047641"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:743e2025</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.476675" lat="43.049351"></trkpt>
-            <trkpt lon="-77.476968" lat="43.049416"></trkpt>
-            <trkpt lon="-77.477163" lat="43.049395"></trkpt>
-            <trkpt lon="-77.477400" lat="43.049216"></trkpt>
-            <trkpt lon="-77.477450" lat="43.048998"></trkpt>
+            <trkpt lon="-77.476675" lat="43.049351"/>
+            <trkpt lon="-77.476968" lat="43.049416"/>
+            <trkpt lon="-77.477163" lat="43.049395"/>
+            <trkpt lon="-77.477400" lat="43.049216"/>
+            <trkpt lon="-77.477450" lat="43.048998"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e550e360</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2106,7 +2106,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:1f607e87</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2122,181 +2122,181 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:df96f7c8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.475593" lat="43.040564"></trkpt>
-            <trkpt lon="-77.475419" lat="43.040699"></trkpt>
-            <trkpt lon="-77.475334" lat="43.041032"></trkpt>
+            <trkpt lon="-77.475593" lat="43.040564"/>
+            <trkpt lon="-77.475419" lat="43.040699"/>
+            <trkpt lon="-77.475334" lat="43.041032"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:30e9c133</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.479908" lat="43.036998"></trkpt>
-            <trkpt lon="-77.479504" lat="43.036942"></trkpt>
+            <trkpt lon="-77.479908" lat="43.036998"/>
+            <trkpt lon="-77.479504" lat="43.036942"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:78852755</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.479504" lat="43.036942"></trkpt>
-            <trkpt lon="-77.479159" lat="43.036963"></trkpt>
-            <trkpt lon="-77.478915" lat="43.037116"></trkpt>
-            <trkpt lon="-77.478617" lat="43.037190"></trkpt>
+            <trkpt lon="-77.479504" lat="43.036942"/>
+            <trkpt lon="-77.479159" lat="43.036963"/>
+            <trkpt lon="-77.478915" lat="43.037116"/>
+            <trkpt lon="-77.478617" lat="43.037190"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:6894ad52</name>
         <extensions>Magenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.477458" lat="43.045456"></trkpt>
-            <trkpt lon="-77.477004" lat="43.045914"></trkpt>
-            <trkpt lon="-77.476686" lat="43.046105"></trkpt>
-            <trkpt lon="-77.476269" lat="43.046386"></trkpt>
-            <trkpt lon="-77.475503" lat="43.046463"></trkpt>
+            <trkpt lon="-77.477458" lat="43.045456"/>
+            <trkpt lon="-77.477004" lat="43.045914"/>
+            <trkpt lon="-77.476686" lat="43.046105"/>
+            <trkpt lon="-77.476269" lat="43.046386"/>
+            <trkpt lon="-77.475503" lat="43.046463"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:59b73d1d</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.475134" lat="43.040979"></trkpt>
-            <trkpt lon="-77.474927" lat="43.041491"></trkpt>
+            <trkpt lon="-77.475134" lat="43.040979"/>
+            <trkpt lon="-77.474927" lat="43.041491"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_roads</name>
+        <name>seg:trail-pmills-roads:a76d7f91</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.482302" lat="43.038957"></trkpt>
-            <trkpt lon="-77.482302" lat="43.038821"></trkpt>
-            <trkpt lon="-77.482447" lat="43.038404"></trkpt>
-            <trkpt lon="-77.482885" lat="43.038023"></trkpt>
+            <trkpt lon="-77.482302" lat="43.038957"/>
+            <trkpt lon="-77.482302" lat="43.038821"/>
+            <trkpt lon="-77.482447" lat="43.038404"/>
+            <trkpt lon="-77.482885" lat="43.038023"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_roads</name>
+        <name>seg:trail-pmills-roads:5e108c77</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.482885" lat="43.038023"></trkpt>
-            <trkpt lon="-77.483022" lat="43.037862"></trkpt>
-            <trkpt lon="-77.483104" lat="43.037643"></trkpt>
-            <trkpt lon="-77.483059" lat="43.037326"></trkpt>
-            <trkpt lon="-77.482798" lat="43.036571"></trkpt>
-            <trkpt lon="-77.482564" lat="43.036361"></trkpt>
-            <trkpt lon="-77.481398" lat="43.036099"></trkpt>
-            <trkpt lon="-77.481039" lat="43.036142"></trkpt>
+            <trkpt lon="-77.482885" lat="43.038023"/>
+            <trkpt lon="-77.483022" lat="43.037862"/>
+            <trkpt lon="-77.483104" lat="43.037643"/>
+            <trkpt lon="-77.483059" lat="43.037326"/>
+            <trkpt lon="-77.482798" lat="43.036571"/>
+            <trkpt lon="-77.482564" lat="43.036361"/>
+            <trkpt lon="-77.481398" lat="43.036099"/>
+            <trkpt lon="-77.481039" lat="43.036142"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_roads</name>
+        <name>seg:trail-pmills-roads:1511340c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.481039" lat="43.036142"></trkpt>
-            <trkpt lon="-77.480893" lat="43.036134"></trkpt>
-            <trkpt lon="-77.479941" lat="43.035548"></trkpt>
-            <trkpt lon="-77.479866" lat="43.035377"></trkpt>
-            <trkpt lon="-77.479848" lat="43.035162"></trkpt>
-            <trkpt lon="-77.479976" lat="43.035116"></trkpt>
-            <trkpt lon="-77.480137" lat="43.035175"></trkpt>
-            <trkpt lon="-77.480315" lat="43.035273"></trkpt>
-            <trkpt lon="-77.480593" lat="43.035341"></trkpt>
-            <trkpt lon="-77.480849" lat="43.035290"></trkpt>
-            <trkpt lon="-77.481088" lat="43.035266"></trkpt>
-            <trkpt lon="-77.481180" lat="43.035303"></trkpt>
-            <trkpt lon="-77.481236" lat="43.035385"></trkpt>
-            <trkpt lon="-77.481170" lat="43.035520"></trkpt>
-            <trkpt lon="-77.480987" lat="43.035754"></trkpt>
-            <trkpt lon="-77.480994" lat="43.035959"></trkpt>
-            <trkpt lon="-77.481072" lat="43.036133"></trkpt>
+            <trkpt lon="-77.481039" lat="43.036142"/>
+            <trkpt lon="-77.480893" lat="43.036134"/>
+            <trkpt lon="-77.479941" lat="43.035548"/>
+            <trkpt lon="-77.479866" lat="43.035377"/>
+            <trkpt lon="-77.479848" lat="43.035162"/>
+            <trkpt lon="-77.479976" lat="43.035116"/>
+            <trkpt lon="-77.480137" lat="43.035175"/>
+            <trkpt lon="-77.480315" lat="43.035273"/>
+            <trkpt lon="-77.480593" lat="43.035341"/>
+            <trkpt lon="-77.480849" lat="43.035290"/>
+            <trkpt lon="-77.481088" lat="43.035266"/>
+            <trkpt lon="-77.481180" lat="43.035303"/>
+            <trkpt lon="-77.481236" lat="43.035385"/>
+            <trkpt lon="-77.481170" lat="43.035520"/>
+            <trkpt lon="-77.480987" lat="43.035754"/>
+            <trkpt lon="-77.480994" lat="43.035959"/>
+            <trkpt lon="-77.481072" lat="43.036133"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:1ed1ade8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.475102" lat="43.039121"></trkpt>
-            <trkpt lon="-77.474664" lat="43.039028"></trkpt>
-            <trkpt lon="-77.473630" lat="43.038638"></trkpt>
-            <trkpt lon="-77.473350" lat="43.038350"></trkpt>
-            <trkpt lon="-77.473324" lat="43.038039"></trkpt>
-            <trkpt lon="-77.473914" lat="43.037717"></trkpt>
-            <trkpt lon="-77.473906" lat="43.037443"></trkpt>
-            <trkpt lon="-77.473679" lat="43.037271"></trkpt>
-            <trkpt lon="-77.473590" lat="43.037030"></trkpt>
+            <trkpt lon="-77.475102" lat="43.039121"/>
+            <trkpt lon="-77.474664" lat="43.039028"/>
+            <trkpt lon="-77.473630" lat="43.038638"/>
+            <trkpt lon="-77.473350" lat="43.038350"/>
+            <trkpt lon="-77.473324" lat="43.038039"/>
+            <trkpt lon="-77.473914" lat="43.037717"/>
+            <trkpt lon="-77.473906" lat="43.037443"/>
+            <trkpt lon="-77.473679" lat="43.037271"/>
+            <trkpt lon="-77.473590" lat="43.037030"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_roads</name>
+        <name>seg:trail-pmills-roads:cdd6a71b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.482842" lat="43.038019"></trkpt>
-            <trkpt lon="-77.481514" lat="43.037162"></trkpt>
+            <trkpt lon="-77.482842" lat="43.038019"/>
+            <trkpt lon="-77.481514" lat="43.037162"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_roads</name>
+        <name>seg:trail-pmills-roads:796e70ff</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.479880" lat="43.039710"></trkpt>
-            <trkpt lon="-77.480015" lat="43.039307"></trkpt>
-            <trkpt lon="-77.480290" lat="43.039027"></trkpt>
-            <trkpt lon="-77.480368" lat="43.038845"></trkpt>
-            <trkpt lon="-77.480302" lat="43.038638"></trkpt>
-            <trkpt lon="-77.480202" lat="43.038331"></trkpt>
-            <trkpt lon="-77.480191" lat="43.038148"></trkpt>
-            <trkpt lon="-77.480261" lat="43.037761"></trkpt>
-            <trkpt lon="-77.479956" lat="43.037031"></trkpt>
+            <trkpt lon="-77.479880" lat="43.039710"/>
+            <trkpt lon="-77.480015" lat="43.039307"/>
+            <trkpt lon="-77.480290" lat="43.039027"/>
+            <trkpt lon="-77.480368" lat="43.038845"/>
+            <trkpt lon="-77.480302" lat="43.038638"/>
+            <trkpt lon="-77.480202" lat="43.038331"/>
+            <trkpt lon="-77.480191" lat="43.038148"/>
+            <trkpt lon="-77.480261" lat="43.037761"/>
+            <trkpt lon="-77.479956" lat="43.037031"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:b3341c02</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2329,7 +2329,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:3c6143db</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2734,7 +2734,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:d578b1ba</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2827,7 +2827,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f931c2b5</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2842,7 +2842,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f64828a8</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2875,7 +2875,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:a6074340</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -2914,7 +2914,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e2435016</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3013,7 +3013,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f8f4ee37</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3046,7 +3046,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:194f3825</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3097,7 +3097,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:35ee549c</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3151,7 +3151,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:c74f0b74</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3169,7 +3169,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:2ca94b03</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3202,45 +3202,45 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:00760bd9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.477565" lat="43.035172"></trkpt>
-            <trkpt lon="-77.477414" lat="43.034959"></trkpt>
-            <trkpt lon="-77.476590" lat="43.034952"></trkpt>
-            <trkpt lon="-77.475875" lat="43.035136"></trkpt>
+            <trkpt lon="-77.477565" lat="43.035172"/>
+            <trkpt lon="-77.477414" lat="43.034959"/>
+            <trkpt lon="-77.476590" lat="43.034952"/>
+            <trkpt lon="-77.475875" lat="43.035136"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:96cd09de</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.475638" lat="43.038194"></trkpt>
-            <trkpt lon="-77.474975" lat="43.037948"></trkpt>
+            <trkpt lon="-77.475638" lat="43.038194"/>
+            <trkpt lon="-77.474975" lat="43.037948"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:58494986</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.476029" lat="43.036296"></trkpt>
-            <trkpt lon="-77.475105" lat="43.037497"></trkpt>
+            <trkpt lon="-77.476029" lat="43.036296"/>
+            <trkpt lon="-77.475105" lat="43.037497"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:6a064639</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3285,46 +3285,46 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e66b1e25</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.479453" lat="43.036947"></trkpt>
-            <trkpt lon="-77.479199" lat="43.036619"></trkpt>
-            <trkpt lon="-77.478822" lat="43.036336"></trkpt>
-            <trkpt lon="-77.478692" lat="43.036088"></trkpt>
-            <trkpt lon="-77.478327" lat="43.036146"></trkpt>
+            <trkpt lon="-77.479453" lat="43.036947"/>
+            <trkpt lon="-77.479199" lat="43.036619"/>
+            <trkpt lon="-77.478822" lat="43.036336"/>
+            <trkpt lon="-77.478692" lat="43.036088"/>
+            <trkpt lon="-77.478327" lat="43.036146"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e2c084a7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.472974" lat="43.034946"></trkpt>
-            <trkpt lon="-77.472851" lat="43.035437"></trkpt>
+            <trkpt lon="-77.472974" lat="43.034946"/>
+            <trkpt lon="-77.472851" lat="43.035437"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:c04b6a45</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.472851" lat="43.035437"></trkpt>
-            <trkpt lon="-77.472635" lat="43.036283"></trkpt>
+            <trkpt lon="-77.472851" lat="43.035437"/>
+            <trkpt lon="-77.472635" lat="43.036283"/>
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:aa188075</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3354,7 +3354,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:a06ebc87</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3483,7 +3483,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:f6993520</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3498,7 +3498,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:9546e4d6</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3519,7 +3519,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:9e07601b</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3624,7 +3624,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:3f0b624d</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3657,7 +3657,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:d9f5ae85</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3675,7 +3675,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:eddbb3fe</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3720,7 +3720,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:97377fc7</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3741,7 +3741,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:584fbc91</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3780,7 +3780,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e1c6c58a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -3799,7 +3799,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:52e5dffa</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -3830,7 +3830,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:e48e1821</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3845,7 +3845,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:8a7ef303</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3884,7 +3884,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:1c9a86d5</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -3932,7 +3932,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:96d64c2b</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4031,7 +4031,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:34416158</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4055,7 +4055,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:32313141</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4109,7 +4109,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:ad16d434</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4169,7 +4169,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:229d14b8</name>
         <extensions>Green<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4256,7 +4256,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:1aad833e</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4346,7 +4346,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:dc91a501</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4436,7 +4436,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:2ab0d271</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4463,7 +4463,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:313f9321</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4508,7 +4508,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:135444e9</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4787,7 +4787,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:77ef4cce</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -4826,7 +4826,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:efb6aa31</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4848,7 +4848,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_hatchery</name>
+        <name>seg:trail-pmills-hatchery:428acf45</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -4891,7 +4891,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>pmills_unnamed_trails</name>
+        <name>seg:trail-pmills-unnamed-trails:16a4e673</name>
         <extensions>DarkMagenta<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
@@ -5014,12 +5014,12 @@
             <trkpt lon="-77.485226" lat="43.042798">
                 <ele>127.900000</ele>
             </trkpt>
-            <trkpt lon="-77.485224" lat="43.042796"></trkpt>
-            <trkpt lon="-77.485280" lat="43.042757"></trkpt>
-            <trkpt lon="-77.485294" lat="43.042575"></trkpt>
-            <trkpt lon="-77.485217" lat="43.042367"></trkpt>
-            <trkpt lon="-77.485109" lat="43.042312"></trkpt>
-            <trkpt lon="-77.484754" lat="43.042284"></trkpt>
+            <trkpt lon="-77.485224" lat="43.042796"/>
+            <trkpt lon="-77.485280" lat="43.042757"/>
+            <trkpt lon="-77.485294" lat="43.042575"/>
+            <trkpt lon="-77.485217" lat="43.042367"/>
+            <trkpt lon="-77.485109" lat="43.042312"/>
+            <trkpt lon="-77.484754" lat="43.042284"/>
             <trkpt lon="-77.484755" lat="43.042284">
                 <ele>132.400000</ele>
             </trkpt>
@@ -5031,4 +5031,153 @@
             </trkpt>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.048731" lon="-77.485163"><name>point-parking:pmills:e1519053</name><desc>{
+  "type": "point-parking",
+  "comments": "W W",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.047962" lon="-77.483796"><name>point-parking:pmills:489ef578</name><desc>{
+  "type": "point-parking",
+  "comments": "W E",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046892" lon="-77.481562"><name>point-parking:pmills:353ecb86</name><desc>{
+  "type": "point-parking",
+  "comments": "Rand",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.04614" lon="-77.482461"><name>point-parking:pmills:0fe20f93</name><desc>{
+  "type": "point-parking",
+  "comments": "East Area",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.047889" lon="-77.476246"><name>point-parking:pmills:25956bf3</name><desc>{
+  "type": "point-parking",
+  "comments": "Mushroom",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039886" lon="-77.476962"><name>point-parking:pmills:1405706a</name><desc>{
+  "type": "point-parking",
+  "comments": "Oak",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039185" lon="-77.481861"><name>point-parking:pmills:92aaceb0</name><desc>{
+  "type": "point-parking",
+  "comments": "P Horn",
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.037118" lon="-77.481367"><name>point-parking:pmills:081ccfa6</name><desc>{
+  "type": "point-parking",
+  "comments": "Shadyrest",
+  "directionsCoordinate": [
+    43.0389,
+    -77.482276
+  ],
+  "name": "Parking",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039673" lon="-77.481627"><name>point-restroom:pmills:7ee230a6</name><desc>{
+  "type": "point-restroom",
+  "comments": "Powder Horn",
+  "name": "Restroom",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039693" lon="-77.478379"><name>point-restroom:pmills:4e46e600</name><desc>{
+  "type": "point-restroom",
+  "comments": "Oak",
+  "name": "Restroom",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046959" lon="-77.481074"><name>point-restroom:pmills:fb86697c</name><desc>{
+  "type": "point-restroom",
+  "comments": "Rand",
+  "name": "Restroom",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046931" lon="-77.480337"><name>point-lodge:pmills:b5e018eb</name><desc>{
+  "type": "point-lodge",
+  "name": "Rand Lodge",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.045707" lon="-77.48162"><name>point-lodge:pmills:238fb811</name><desc>{
+  "type": "point-lodge",
+  "name": "Wadhams Lodge",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039672" lon="-77.481867"><name>point-lodge:pmills:91246dcf</name><desc>{
+  "type": "point-lodge",
+  "name": "Powder Horn Lodge",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.038311" lon="-77.480492"><name>point-lodge:pmills:24b71ffc</name><desc>{
+  "type": "point-lodge",
+  "name": "North Lodge",
+  "directionsCoordinate": [
+    43.039742,
+    -77.479873
+  ],
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.038037" lon="-77.480704"><name>point-lodge:pmills:74ca8c3d</name><desc>{
+  "type": "point-lodge",
+  "name": "South Lodge",
+  "directionsCoordinate": [
+    43.039742,
+    -77.479873
+  ],
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.037084" lon="-77.480009"><name>point-lodge:pmills:1a99f5e6</name><desc>{
+  "type": "point-lodge",
+  "name": "Mess Hall Lodge",
+  "directionsCoordinate": [
+    43.039742,
+    -77.479873
+  ],
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.039912" lon="-77.478342"><name>point-lodge:pmills:27207bb8</name><desc>{
+  "type": "point-lodge",
+  "name": "Oak Tree Lodge",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.049544" lon="-77.485469"><name>point-shelter:pmills:98cc0c3e</name><desc>{
+  "type": "point-shelter",
+  "name": "West Area Shelter",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046142" lon="-77.482747"><name>point-shelter:pmills:199bdacb</name><desc>{
+  "type": "point-shelter",
+  "name": "East Area Shelter",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.03962" lon="-77.482484"><name>point-shelter:pmills:5b1fa847</name><desc>{
+  "type": "point-shelter",
+  "name": "Butternut Grove Shelter",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.036307" lon="-77.480538"><name>point-shelter:pmills:51802d9e</name><desc>{
+  "type": "point-shelter",
+  "name": "Shadyrest Shelter",
+  "directionsCoordinate": [
+    43.0389,
+    -77.482276
+  ],
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.045203" lon="-77.477936"><name>point-admin:pmills:48c831c7</name><desc>{
+  "type": "point-admin",
+  "name": "Park Office",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046111" lon="-77.482011"><name>point-poi:pmills:263710d8</name><desc>{
+  "type": "point-poi",
+  "name": "Mill Wheel",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.046224" lon="-77.481225"><name>point-scenic:pmills:6f25e18a</name><desc>{
+  "type": "point-scenic",
+  "name": "Sandhill",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.047037" lon="-77.476584"><name>point-poi:pmills:04ee0255</name><desc>{
+  "type": "point-poi",
+  "name": "Fish Hatchery",
+  "allowsDirections": true,
+  "url": "http://fishpowdermill.org",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.048209" lon="-77.485512"><name>point-sports:pmills:9df45ddb</name><desc>{
+  "type": "point-sports",
+  "name": "Volleyball Area",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.038951" lon="-77.481486"><name>point-sports:pmills:86ea2dcf</name><desc>{
+  "type": "point-sports",
+  "name": "Playground",
+  "parkID": "park-pmills"
+}</desc></wpt><wpt lat="43.038712" lon="-77.483173"><name>point-sports:pmills:08908a94</name><desc>{
+  "type": "point-sports",
+  "name": "Downhill Ski Area",
+  "parkID": "park-pmills"
+}</desc></wpt></gpx>

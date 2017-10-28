@@ -1,76 +1,76 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
         <time>2017-10-23T22:58:23.667Z</time>
     </metadata>
     <rte>
-        <name>border:ibaywest</name>
+        <name>border:park-ibaywest</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.529192" lat="43.188291"></rtept>
-        <rtept lon="-77.529794" lat="43.189278"></rtept>
-        <rtept lon="-77.530971" lat="43.189354"></rtept>
-        <rtept lon="-77.535305" lat="43.189288"></rtept>
-        <rtept lon="-77.533701" lat="43.188573"></rtept>
-        <rtept lon="-77.533972" lat="43.188433"></rtept>
-        <rtept lon="-77.534209" lat="43.188688"></rtept>
-        <rtept lon="-77.534660" lat="43.188390"></rtept>
-        <rtept lon="-77.537098" lat="43.188328"></rtept>
-        <rtept lon="-77.537053" lat="43.187499"></rtept>
-        <rtept lon="-77.537858" lat="43.187483"></rtept>
-        <rtept lon="-77.537955" lat="43.186918"></rtept>
-        <rtept lon="-77.538461" lat="43.186487"></rtept>
-        <rtept lon="-77.540383" lat="43.186346"></rtept>
-        <rtept lon="-77.540450" lat="43.186596"></rtept>
-        <rtept lon="-77.542742" lat="43.186463"></rtept>
-        <rtept lon="-77.542705" lat="43.185628"></rtept>
-        <rtept lon="-77.540732" lat="43.185728"></rtept>
-        <rtept lon="-77.540613" lat="43.185386"></rtept>
-        <rtept lon="-77.541071" lat="43.184790"></rtept>
-        <rtept lon="-77.542045" lat="43.184408"></rtept>
-        <rtept lon="-77.542660" lat="43.184165"></rtept>
-        <rtept lon="-77.542625" lat="43.183758"></rtept>
-        <rtept lon="-77.541138" lat="43.184183"></rtept>
-        <rtept lon="-77.540701" lat="43.184423"></rtept>
-        <rtept lon="-77.540480" lat="43.184751"></rtept>
-        <rtept lon="-77.533242" lat="43.185177"></rtept>
-        <rtept lon="-77.533115" lat="43.184412"></rtept>
-        <rtept lon="-77.534373" lat="43.183534"></rtept>
-        <rtept lon="-77.534303" lat="43.183320"></rtept>
-        <rtept lon="-77.532841" lat="43.183388"></rtept>
-        <rtept lon="-77.532852" lat="43.182462"></rtept>
-        <rtept lon="-77.531846" lat="43.182514"></rtept>
-        <rtept lon="-77.531917" lat="43.183351"></rtept>
-        <rtept lon="-77.531865" lat="43.183691"></rtept>
-        <rtept lon="-77.531692" lat="43.184065"></rtept>
-        <rtept lon="-77.531336" lat="43.184114"></rtept>
-        <rtept lon="-77.530222" lat="43.183782"></rtept>
-        <rtept lon="-77.529031" lat="43.183603"></rtept>
-        <rtept lon="-77.528795" lat="43.183435"></rtept>
-        <rtept lon="-77.528671" lat="43.183280"></rtept>
-        <rtept lon="-77.528244" lat="43.183194"></rtept>
-        <rtept lon="-77.528724" lat="43.181879"></rtept>
-        <rtept lon="-77.528432" lat="43.181836"></rtept>
-        <rtept lon="-77.528360" lat="43.181863"></rtept>
-        <rtept lon="-77.528191" lat="43.182152"></rtept>
-        <rtept lon="-77.528230" lat="43.182180"></rtept>
-        <rtept lon="-77.528014" lat="43.182303"></rtept>
-        <rtept lon="-77.527341" lat="43.183071"></rtept>
-        <rtept lon="-77.527477" lat="43.183812"></rtept>
-        <rtept lon="-77.527495" lat="43.184680"></rtept>
-        <rtept lon="-77.527938" lat="43.185078"></rtept>
-        <rtept lon="-77.528227" lat="43.185367"></rtept>
-        <rtept lon="-77.528543" lat="43.186027"></rtept>
-        <rtept lon="-77.528914" lat="43.186442"></rtept>
-        <rtept lon="-77.528923" lat="43.187373"></rtept>
-        <rtept lon="-77.528905" lat="43.188169"></rtept>
+        <rtept lon="-77.529192" lat="43.188291"/>
+        <rtept lon="-77.529794" lat="43.189278"/>
+        <rtept lon="-77.530971" lat="43.189354"/>
+        <rtept lon="-77.535305" lat="43.189288"/>
+        <rtept lon="-77.533701" lat="43.188573"/>
+        <rtept lon="-77.533972" lat="43.188433"/>
+        <rtept lon="-77.534209" lat="43.188688"/>
+        <rtept lon="-77.534660" lat="43.188390"/>
+        <rtept lon="-77.537098" lat="43.188328"/>
+        <rtept lon="-77.537053" lat="43.187499"/>
+        <rtept lon="-77.537858" lat="43.187483"/>
+        <rtept lon="-77.537955" lat="43.186918"/>
+        <rtept lon="-77.538461" lat="43.186487"/>
+        <rtept lon="-77.540383" lat="43.186346"/>
+        <rtept lon="-77.540450" lat="43.186596"/>
+        <rtept lon="-77.542742" lat="43.186463"/>
+        <rtept lon="-77.542705" lat="43.185628"/>
+        <rtept lon="-77.540732" lat="43.185728"/>
+        <rtept lon="-77.540613" lat="43.185386"/>
+        <rtept lon="-77.541071" lat="43.184790"/>
+        <rtept lon="-77.542045" lat="43.184408"/>
+        <rtept lon="-77.542660" lat="43.184165"/>
+        <rtept lon="-77.542625" lat="43.183758"/>
+        <rtept lon="-77.541138" lat="43.184183"/>
+        <rtept lon="-77.540701" lat="43.184423"/>
+        <rtept lon="-77.540480" lat="43.184751"/>
+        <rtept lon="-77.533242" lat="43.185177"/>
+        <rtept lon="-77.533115" lat="43.184412"/>
+        <rtept lon="-77.534373" lat="43.183534"/>
+        <rtept lon="-77.534303" lat="43.183320"/>
+        <rtept lon="-77.532841" lat="43.183388"/>
+        <rtept lon="-77.532852" lat="43.182462"/>
+        <rtept lon="-77.531846" lat="43.182514"/>
+        <rtept lon="-77.531917" lat="43.183351"/>
+        <rtept lon="-77.531865" lat="43.183691"/>
+        <rtept lon="-77.531692" lat="43.184065"/>
+        <rtept lon="-77.531336" lat="43.184114"/>
+        <rtept lon="-77.530222" lat="43.183782"/>
+        <rtept lon="-77.529031" lat="43.183603"/>
+        <rtept lon="-77.528795" lat="43.183435"/>
+        <rtept lon="-77.528671" lat="43.183280"/>
+        <rtept lon="-77.528244" lat="43.183194"/>
+        <rtept lon="-77.528724" lat="43.181879"/>
+        <rtept lon="-77.528432" lat="43.181836"/>
+        <rtept lon="-77.528360" lat="43.181863"/>
+        <rtept lon="-77.528191" lat="43.182152"/>
+        <rtept lon="-77.528230" lat="43.182180"/>
+        <rtept lon="-77.528014" lat="43.182303"/>
+        <rtept lon="-77.527341" lat="43.183071"/>
+        <rtept lon="-77.527477" lat="43.183812"/>
+        <rtept lon="-77.527495" lat="43.184680"/>
+        <rtept lon="-77.527938" lat="43.185078"/>
+        <rtept lon="-77.528227" lat="43.185367"/>
+        <rtept lon="-77.528543" lat="43.186027"/>
+        <rtept lon="-77.528914" lat="43.186442"/>
+        <rtept lon="-77.528923" lat="43.187373"/>
+        <rtept lon="-77.528905" lat="43.188169"/>
     </rte>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:6aeb4247</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -89,7 +89,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:22411a4b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -108,7 +108,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:42fa3352</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -166,7 +166,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:3077ba85</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -245,7 +245,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:ed1aa4b8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -321,7 +321,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:0160fd0c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -376,7 +376,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:1bdd9484</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -503,7 +503,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:92346c63</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -528,7 +528,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:598a4b87</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -568,7 +568,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:16dbeaba</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -647,7 +647,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:867f5e32</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -699,7 +699,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:bae959e1</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -730,7 +730,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue</name>
+        <name>seg:trail-ibaywest-blue:5975babf</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -827,7 +827,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue,ibaywest_orange</name>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange:2c8fc1f4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -849,7 +849,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue,ibaywest_orange</name>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange:405d3266</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -895,7 +895,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue,ibaywest_orange,ibaywest_red</name>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange,trail-ibaywest-red:a633851e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -956,7 +956,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_blue,ibaywest_purple</name>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-purple:4d024dd0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -978,7 +978,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_green</name>
+        <name>seg:trail-ibaywest-green:729044b8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1138,7 +1138,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_orange</name>
+        <name>seg:trail-ibaywest-orange:48b6d9e7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1190,7 +1190,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_orange</name>
+        <name>seg:trail-ibaywest-orange:f7fc66b0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1236,7 +1236,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_orange</name>
+        <name>seg:trail-ibaywest-orange:ef47193c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1294,7 +1294,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_orange</name>
+        <name>seg:trail-ibaywest-orange:b7986962</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1319,7 +1319,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_orange</name>
+        <name>seg:trail-ibaywest-orange:a8041942</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1437,7 +1437,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:8b419c8a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1501,7 +1501,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:c50b4699</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1547,7 +1547,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:42e643c7</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1638,7 +1638,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:ee611b03</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1666,7 +1666,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:75c7558e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -1733,7 +1733,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:4e9ab655</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1776,7 +1776,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:4687f10e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1828,7 +1828,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:5678bce9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1910,7 +1910,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:748c0aa6</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -1938,7 +1938,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:ddb3288e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -2002,7 +2002,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:0c8de354</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2021,7 +2021,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:f11d13d2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -2046,7 +2046,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:3198896c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2089,7 +2089,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:a682d6ed</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2168,7 +2168,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:c5bb8a4f</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2199,7 +2199,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:2c8e238c</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2320,7 +2320,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:19aa84af</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2351,7 +2351,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:fc660b87</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2385,7 +2385,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:cd6217d2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2431,7 +2431,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:01e25be0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2468,7 +2468,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:27aed67b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -2514,7 +2514,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:352ea90a</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2536,7 +2536,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:137b031b</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -2654,7 +2654,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:aabe0fd4</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2715,7 +2715,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:c4261cc0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2746,7 +2746,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:5d559a42</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2780,7 +2780,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:40277af0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -2823,7 +2823,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:2326ec28</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -2848,7 +2848,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:ccfc1b23</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2870,7 +2870,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_other</name>
+        <name>seg:trail-ibaywest-other:8c11876e</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2913,7 +2913,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_purple</name>
+        <name>seg:trail-ibaywest-purple:07721ef8</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2950,7 +2950,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_purple</name>
+        <name>seg:trail-ibaywest-purple:38ad4ab9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -3071,7 +3071,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_purple</name>
+        <name>seg:trail-ibaywest-purple:ceb2d1c2</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -3114,7 +3114,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_purple</name>
+        <name>seg:trail-ibaywest-purple:bbb13173</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -3175,7 +3175,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_purple</name>
+        <name>seg:trail-ibaywest-purple:dfc87449</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -3242,7 +3242,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_red</name>
+        <name>seg:trail-ibaywest-red:a04611e9</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -3258,7 +3258,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_red</name>
+        <name>seg:trail-ibaywest-red:e03fd0a5</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -3337,7 +3337,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_red</name>
+        <name>seg:trail-ibaywest-red:aabfde27</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -3461,7 +3461,7 @@
         </trkseg>
     </trk>
     <trk>
-        <name>ibaywest_red</name>
+        <name>seg:trail-ibaywest-red:276777a0</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -3599,4 +3599,62 @@
             </trkpt>
         </trkseg>
     </trk>
-</gpx>
+<wpt lat="43.189061" lon="-77.530172"><name>point-parking:ibaywest:0625c28e</name><desc>{
+  "type": "point-parking",
+  "comments": "Bay West N",
+  "name": "Parking",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.183771" lon="-77.529223"><name>point-parking:ibaywest:edb06c00</name><desc>{
+  "type": "point-parking",
+  "comments": "Bay West S",
+  "name": "Parking",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185883" lon="-77.538536"><name>point-intersection:ibaywest:77cfc46a</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 1",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185299" lon="-77.539711"><name>point-intersection:ibaywest:d368a7ee</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 2",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185284" lon="-77.537788"><name>point-intersection:ibaywest:05838712</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 3",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185398" lon="-77.537704"><name>point-intersection:ibaywest:39d2a102</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 4",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185574" lon="-77.536987"><name>point-intersection:ibaywest:6537e338</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 5",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185371" lon="-77.536392"><name>point-intersection:ibaywest:d0850b39</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 6",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185764" lon="-77.533768"><name>point-intersection:ibaywest:91122bc8</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 7",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.1866" lon="-77.533897"><name>point-intersection:ibaywest:69c11970</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 8",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185661" lon="-77.532318"><name>point-intersection:ibaywest:cc978433</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 9",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.185078" lon="-77.53186"><name>point-intersection:ibaywest:d93fe4e2</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 10",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.18523" lon="-77.531403"><name>point-intersection:ibaywest:23f33ef4</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 11",
+  "parkID": "park-ibaywest"
+}</desc></wpt><wpt lat="43.184269" lon="-77.530075"><name>point-intersection:ibaywest:24c0953d</name><desc>{
+  "type": "point-intersection",
+  "name": "Intersection 12",
+  "parkID": "park-ibaywest"
+}</desc></wpt></gpx>

@@ -1,6 +1,12 @@
 {
+  "version": 2,
   "parks": {
-    "tryon": { "name": "Tryon Park", "mainPin": [43.166964, -77.536989],
+    "park-tryon": {
+      "name": "Tryon Park",
+      "mainPin": [
+        43.166964,
+        -77.536989
+      ],
       "SW": [
         43.15845,
         -77.54324
@@ -9,16 +15,25 @@
         43.17252,
         -77.533189
       ],
-      "directionsCoordinate": [43.165778, -77.537680],
-      "url": "http://www.monroecounty.gov/parks-tryon.php" }
+      "directionsCoordinate": [
+        43.165778,
+        -77.53768
+      ],
+      "url": "http://www.monroecounty.gov/parks-tryon.php"
+    }
   },
   "trails": {
-    "_prototype": { "parkId": "tryon", "url": "http://www.monroecounty.gov/parks-tryon.php" },
-    "tryon_white": {
+    "trail-tryon-white": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "White Trail",
       "color": "white",
       "length": 0.55,
-      "trailheads": [[43.166765, -77.538294]],
+      "trailheads": [
+        [
+          43.166765,
+          -77.538294
+        ]
+      ],
       "SW": [
         43.166765,
         -77.538297
@@ -26,13 +41,17 @@
       "NE": [
         43.169928,
         -77.533633
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_green": {
+    "trail-tryon-green": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Green Trail",
       "color": "dark_green",
       "length": 0.57,
-      "trailheads": [],
+      "trailheads": [
+
+      ],
       "SW": [
         43.160891,
         -77.538297
@@ -40,13 +59,17 @@
       "NE": [
         43.162969,
         -77.536988
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_orange": {
+    "trail-tryon-orange": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Orange Trail",
       "color": "orange",
       "length": 0.37,
-      "trailheads": [],
+      "trailheads": [
+
+      ],
       "SW": [
         43.167481,
         -77.536709
@@ -54,13 +77,17 @@
       "NE": [
         43.169518,
         -77.535523
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_purple": {
+    "trail-tryon-purple": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Purple Trail",
       "color": "purple",
       "length": 0.57,
-      "trailheads": [],
+      "trailheads": [
+
+      ],
       "SW": [
         43.170583,
         -77.53859
@@ -68,13 +95,20 @@
       "NE": [
         43.172449,
         -77.535857
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_blue": {
+    "trail-tryon-blue": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Blue Trail",
       "color": "sky",
       "length": 1.01,
-      "trailheads": [[43.165849, -77.537647]],
+      "trailheads": [
+        [
+          43.165849,
+          -77.537647
+        ]
+      ],
       "SW": [
         43.162636,
         -77.538361
@@ -82,13 +116,20 @@
       "NE": [
         43.167377,
         -77.534992
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_red": {
+    "trail-tryon-red": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Red Trail",
       "color": "red",
       "length": 2.08,
-      "trailheads": [[43.165924, -77.537112]],
+      "trailheads": [
+        [
+          43.165924,
+          -77.537112
+        ]
+      ],
       "SW": [
         43.165924,
         -77.53842
@@ -96,12 +137,15 @@
       "NE": [
         43.171661,
         -77.53335
-      ]
+      ],
+      "parkID": "park-tryon"
     },
-    "tryon_connector": {
+    "trail-tryon-connector": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
       "name": "Ellison/L.Morin Connectors",
       "color": "black",
       "trailheads": [
+
       ],
       "SW": [
         43.163914,
@@ -110,24 +154,10 @@
       "NE": [
         43.176933,
         -77.530457
-      ]
+      ],
+      "parkID": "park-tryon"
     }
   },
-  "points": [
-      { "type": "parking", "loc": [43.163936, -77.540927], "comments": "Tryon" },
-      { "type": "sports", "name": "Softball Fields", "loc": [43.164164, -77.540173], "comments": "Tryon" },
-      { "type": "sports", "name": "Basketball/Tennis", "loc": [43.162407, -77.541074], "comments": "Tryon" },
-      { "type": "intersection", "name": "1",  "loc": [43.161807, -77.537518] },
-      { "type": "intersection", "name": "2",  "loc": [43.162969, -77.537680] },
-      { "type": "intersection", "name": "3",  "loc": [43.163572, -77.537693] },
-      { "type": "intersection", "name": "4",  "loc": [43.164565, -77.535788] },
-      { "type": "intersection", "name": "5",  "loc": [43.167377, -77.534992] },
-      { "type": "intersection", "name": "6",  "loc": [43.169408, -77.533633] },
-      { "type": "intersection", "name": "7",  "loc": [43.168377, -77.536540] },
-      { "type": "intersection", "name": "8",  "loc": [43.169231, -77.536371] },
-      { "type": "intersection", "name": "9",  "loc": [43.169808, -77.535981] },
-      { "type": "intersection", "name": "10", "loc": [43.170210, -77.535244] },
-      { "type": "intersection", "name": "11", "loc": [43.170942, -77.536295] },
-      { "type": "intersection", "name": "12", "loc": [43.171661, -77.535857] }
-  ]
+  "points": {
+  }
 }
