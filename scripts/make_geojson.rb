@@ -230,6 +230,7 @@ def parse_gpx(filename)
             border_id = "border:#{park_id}:#{random_id()}"
 
             feature = create_feature('parkBorder', border_id)
+            feature_property(feature, "parkID", park_id)
             feature['geometry']['type'] = 'Polygon'
             polygons = [outer_coords]
 
@@ -265,7 +266,8 @@ def parse_gpx(filename)
         end
 
         feature = create_feature(poi_type, point_id)
-        feature['geometry'] = create_point_geometry([node["lon"], node["lat"]])
+
+        feature['geometry'] = create_point_geometry([node["lon"].to_f, node["lat"].to_f])
 
         if point['name']
             feature_property(feature, 'name', point['name'])
