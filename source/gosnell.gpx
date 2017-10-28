@@ -4,12 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-23T22:46:40.243Z</time>
     </metadata>
-    <wpt lon="-77.490619" lat="43.244502">
-        <name>Gosnell Big Woods Preserve</name>
-    </wpt>
-    <wpt lon="-77.489641" lat="43.242230">
-        <name>Parking</name>
-    </wpt>
     <trk>
         <name>border:gosnell</name>
         <extensions>
@@ -55,8 +49,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 2</desc>
-        <number>2</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -115,8 +107,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 2</desc>
-        <number>2</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -179,8 +169,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 3</desc>
-        <number>3</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -387,8 +375,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 4</desc>
-        <number>4</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -463,8 +449,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 4</desc>
-        <number>4</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -923,8 +907,6 @@
     </trk>
     <trk>
         <name>gosnell_big_field</name>
-        <desc>This is track no: 5</desc>
-        <number>5</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1691,8 +1673,6 @@
     </trk>
     <trk>
         <name>gosnell_big_woods</name>
-        <desc>This is track no: 7</desc>
-        <number>7</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1767,8 +1747,6 @@
     </trk>
     <trk>
         <name>gosnell_vosburg_connector</name>
-        <desc>This is track no: 10</desc>
-        <number>10</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -1839,8 +1817,6 @@
     </trk>
     <trk>
         <name>gosnell_meadow</name>
-        <desc>This is track no: 11</desc>
-        <number>11</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2451,8 +2427,6 @@
     </trk>
     <trk>
         <name>gosnell_ridge</name>
-        <desc>This is track no: 12</desc>
-        <number>12</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2651,8 +2625,6 @@
     </trk>
     <trk>
         <name>gosnell_big_woods</name>
-        <desc>This is track no: 9</desc>
-        <number>9</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -2723,8 +2695,6 @@
     </trk>
     <trk>
         <name>gosnell_big_woods</name>
-        <desc>This is track no: 9</desc>
-        <number>9</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -2779,8 +2749,6 @@
     </trk>
     <trk>
         <name>gosnell_big_woods</name>
-        <desc>This is track no: 9</desc>
-        <number>9</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -2839,8 +2807,6 @@
     </trk>
     <trk>
         <name>gosnell_big_woods</name>
-        <desc>This is track no: 6</desc>
-        <number>6</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>

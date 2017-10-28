@@ -2,7 +2,6 @@
 <gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <trk>
 		<name>border:churchville</name>
-		<desc>Length: 13.58 km (8.441 mi)</desc>
 		<trkseg>
 			<trkpt lat="43.1043826" lon="-77.8827882"/>
 			<trkpt lat="43.1057299" lon="-77.8826165"/>

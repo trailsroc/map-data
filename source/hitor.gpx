@@ -4,30 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-23T22:54:32.187Z</time>
     </metadata>
-    <wpt lon="-77.360412" lat="42.631890">
-        <name>Angel Falls, Conklin Gully</name>
-    </wpt>
-    <wpt lon="-77.336173" lat="42.635120">
-        <name>Parking</name>
-    </wpt>
-    <wpt lon="-77.358754" lat="42.624619">
-        <name>Lean-To</name>
-    </wpt>
-    <wpt lon="-77.381182" lat="42.603151">
-        <name>Lean-To</name>
-    </wpt>
-    <wpt lon="-77.350128" lat="42.625962">
-        <name>Upper Conklin Gully</name>
-    </wpt>
-    <wpt lon="-77.389059" lat="42.625899">
-        <name>Parking</name>
-    </wpt>
-    <wpt lon="-77.370970" lat="42.618321">
-        <name>High Tor</name>
-    </wpt>
-    <wpt lon="-77.357394" lat="42.635292">
-        <name>Parking</name>
-    </wpt>
     <trk>
         <name>border:hitor</name>
         <extensions>
@@ -142,7 +118,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1269,7 +1244,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1427,7 +1401,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1465,7 +1438,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1605,7 +1577,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -1721,7 +1692,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -2002,7 +1972,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -2082,7 +2051,6 @@
     </trk>
     <trk>
         <name>hitor_blue</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2105,7 +2073,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht,hitor_blue</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2167,7 +2134,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Exploring High Tor"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -2355,7 +2321,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Exploring High Tor"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -2447,7 +2412,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -2506,7 +2470,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -2682,7 +2645,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -2720,7 +2682,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -2803,7 +2764,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -3153,7 +3113,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -4313,7 +4272,6 @@
     </trk>
     <trk>
         <name>hitor_fltbht</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -4399,7 +4357,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -4437,7 +4394,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -4493,7 +4449,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4594,7 +4549,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -4824,7 +4778,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -4964,7 +4917,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -5242,7 +5194,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -5334,7 +5285,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -6503,7 +6453,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -6568,7 +6517,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -6876,7 +6824,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -6968,7 +6915,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Josh Perks, Muddy Sneaker 2014"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -7150,7 +7096,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "Winter Solstice at Hi Tor, with Jason"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7638,7 +7583,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7659,7 +7603,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7702,7 +7645,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -7717,7 +7659,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7738,7 +7679,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -7760,7 +7700,6 @@
     </trk>
     <trk>
         <name>hitor_unnamed</name>
-        <desc>{"source": "hand drawn"}</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>

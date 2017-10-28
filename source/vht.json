@@ -33,8 +33,8 @@
     }
   },
     "points": [
-        {"type":"poi","name":"Victor Hiking Trails Kiosk","loc":[42.982776,-77.410896]},
-{"type":"parking","loc":[43.001739,-77.469571]},
-{"type":"parking","loc":[43.00037,-77.454762]}
+      {"parkId": "auburntr_park", "type":"poi","name":"Victor Hiking Trails Kiosk","loc":[42.982776,-77.410896]},
+      {"trailId": "vht_lehigh_blackdiamond", "type":"parking","loc":[43.001739,-77.469571]},
+      {"trailId": "vht_lehigh_blackdiamond", "type":"parking","loc":[43.00037,-77.454762]}
     ]
 }

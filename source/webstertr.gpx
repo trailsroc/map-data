@@ -4,57 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-24T02:22:21.863Z</time>
     </metadata>
-    <wpt lon="-77.494022" lat="43.216373">
-        <name>Finn Park</name>
-    </wpt>
-    <wpt lon="-77.411832" lat="43.265018">
-        <name>Four Mile Creek Preserve</name>
-    </wpt>
-    <wpt lon="-77.501326" lat="43.217688">
-        <name>Parking (Finn Park)</name>
-    </wpt>
-    <wpt lon="-77.499576" lat="43.217641">
-        <name>Liberty Lodge</name>
-    </wpt>
-    <wpt lon="-77.499298" lat="43.217843">
-        <name>Playground (Finn Park)</name>
-    </wpt>
-    <wpt lon="-77.497061" lat="43.242224">
-        <name>Parking (Vosburg)</name>
-    </wpt>
-    <wpt lon="-77.444172" lat="43.221044">
-        <name>Parking (N Ponds)</name>
-    </wpt>
-    <wpt lon="-77.419662" lat="43.265097">
-        <name>Parking (FMCP)</name>
-    </wpt>
-    <wpt lon="-77.496684" lat="43.241745">
-        <name>Fishing (Vosburg)</name>
-    </wpt>
-    <wpt lon="-77.421642" lat="43.227426">
-        <name>Parking (Chiyoda)</name>
-    </wpt>
-    <wpt lon="-77.421254" lat="43.227836">
-        <name>Webster Rec Center</name>
-    </wpt>
-    <wpt lon="-77.422643" lat="43.228872">
-        <name>Ball Fields (Chiyoda)</name>
-    </wpt>
-    <wpt lon="-77.425143" lat="43.228229">
-        <name>Playground (Chiyoda)</name>
-    </wpt>
-    <wpt lon="-77.425199" lat="43.227705">
-        <name>Tennis Courts (Chiyoda)</name>
-    </wpt>
-    <wpt lon="-77.441262" lat="43.218507">
-        <name>Fishing (N Ponds)</name>
-    </wpt>
-    <wpt lon="-77.439351" lat="43.215891">
-        <name>Parking (N Ponds 104)</name>
-    </wpt>
-    <wpt lon="-77.467814" lat="43.214410">
-        <name>Route 104 Bike Path</name>
-    </wpt>
     <trk>
         <name>border:fowt_finn</name>
         <extensions>
@@ -138,8 +87,6 @@
     </trk>
     <trk>
         <name>fowt_jungar_main</name>
-        <desc>This is track no: 13</desc>
-        <number>13</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -258,8 +205,6 @@
     </trk>
     <trk>
         <name>fowt_jungar_main</name>
-        <desc>This is track no: 13</desc>
-        <number>13</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1115,8 +1060,6 @@
     </trk>
     <trk>
         <name>fowt_finn_main</name>
-        <desc>(east connecting route)</desc>
-        <number>19</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -1135,8 +1078,6 @@
     </trk>
     <trk>
         <name>fowt_finn_main</name>
-        <desc>(east connecting route)</desc>
-        <number>19</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -1243,8 +1184,6 @@
     </trk>
     <trk>
         <name>fowt_finn_main</name>
-        <desc>(west connecting route)</desc>
-        <number>20</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -1291,8 +1230,6 @@
     </trk>
     <trk>
         <name>fowt_vosburg_main</name>
-        <desc>(west route)</desc>
-        <number>14</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -1867,8 +1804,6 @@
     </trk>
     <trk>
         <name>fowt_vosburg_main</name>
-        <desc>(across bridge to parking lot)</desc>
-        <number>27</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -1931,8 +1866,6 @@
     </trk>
     <trk>
         <name>fowt_vosburg_main</name>
-        <desc>(along creek)</desc>
-        <number>28</number>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>

@@ -6619,7 +6619,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 1.287 km (0.8 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -7457,7 +7456,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7482,7 +7480,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -7497,7 +7494,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -7535,7 +7531,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -7556,7 +7551,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -7582,7 +7576,6 @@
     </trk>
     <trk>
         <name>mponds_unnamed_trails</name>
-        <desc>Length: 2.407 km (1.496 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>

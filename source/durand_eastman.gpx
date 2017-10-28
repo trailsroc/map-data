@@ -4,14 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-23T22:42:52.985Z</time>
     </metadata>
-    <wpt lon="-77.556862" lat="43.235675">
-        <name>White Lady’s Castle</name>
-        <desc>{"type": "poi"}</desc>
-    </wpt>
-    <wpt lon="-77.567574" lat="43.239016">
-        <name>Parking</name>
-        <type>{"type": "parking"}</type>
-    </wpt>
     <rte>
         <name>border:dureast</name>
         <extensions>

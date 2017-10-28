@@ -5,13 +5,13 @@ require 'nokogiri'
 
 # initialize ################################
 
-$pretty = false
-$dry_run = true
+$pretty = true
+$dry_run = false
 $source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
-#$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
-#gpx_filenames = ['mponds']
-gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
-json_filenames = gpx_filenames
+$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
+#$gpx_filenames = ['mponds']
+$gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
+$json_filenames = $gpx_filenames
 
 $metadata = {:parks => {}, :trails => {}, :poiTypes => [], :bundle => {}, :idlist => []}
 
@@ -24,88 +24,48 @@ def nil_or_blank(str)
     str == nil || str.strip().empty?
 end
 
-# transform a lat/lng pair to a string for use in ID generation
-def coordinate_id(lng_lat)
-    lat = lng_lat[1]
-    lng = lng_lat[0]
-    return "#{sprintf('%3.6f', lat.abs).gsub(/\./, '')}#{lat < 0 ? 's' : 'n'}#{sprintf('%3.6f', lng.abs).gsub(/\./, '')}#{lng < 0 ? 'w' : 'e'}"
+$r = Random.new
+def random_id()
+    id = $r.bytes(4).unpack("H*")[0]
+    return register_and_validate_unique_id(id)
 end
 
-# idempotent.
-def standardize_park_id(park_id)
-    fix_id_punct(require_prefix(park_id, 'park-'))
-end
-
-# idempotent.
-def standardize_trail_id(trail_id_or_plural)
-    ids = trail_id_or_plural.split(',')
-    ids = ids.map do |id| fix_id_punct(require_prefix(id, 'trail-')) end
-    ids.join(',')
+def register_and_validate_unique_id(id)
+    if $metadata[:idlist].include?(id)
+        abort_msg("Duplicate ID detected:", id)
+    end
+    $metadata[:idlist].push(id)
+    return id
 end
 
 def trail_metadata_for(trail_id_or_plural)
-    return standardize_trail_id(trail_id_or_plural).split(',').map do |id|
-        $metadata[:trails][id]
+    return trail_id_or_plural.split(",").map do |id|
+        trail = $metadata[:trails][id]
+        if !trail
+            abort_msg("Trail #{id} not found.", nil)
+        end
+        trail
     end
 end
 
 def color_for(name)
-    name
+    return name
 #    return $metadata['bundle']['appConfig']['colors'][name]['hex']
 end
 
-# idempotent.
-def standardize_poi_type(type)
-    if type == 'boat_launch'
-        type = 'boatLaunch'
-    end
-    type = fix_id_punct(require_prefix(type, 'point-'))
-end
-
-# NOT idempotent.
-def standardize_poi_name(raw_name, raw_type)
-    name = raw_name
-    if raw_type == 'intersection'
-        name = 'Intersection ' + name
-    end
-    # TODO do this?? if !name
-    #     name_type_map = {
-    #         'parking' => 'Parking',
-    #         'restroom' => 'Restroom',
-    #         'scenic' => ''
-    #     }
-    #     name = name_type_map[raw_type]
-    # end
-    name
-end
-
-# idempotent.
-def require_prefix(value, prefix)
-    if !value.match?(prefix)
-        value = prefix + value
-    end
-    value
-end
-
-# idempotent.
-def fix_id_punct(value)
-    value = value.gsub(/_/, '-')
-end
-
-def surface_of(trail_id_standardized)
+def surface_of(trail_id)
     surface_map = {
         'trail-lehigh-valley-main' => 'gravel',
         'trail-lvt-auburntr-ramp' => 'gravel',
         'trail-ecanal-main' => 'paved',
         'trail-pmills-roads' => 'road'
     }
-    surface_map[trail_id_standardized.split(',')[0]] || 'singletrack'
+    return surface_map[trail_id.split(",")[0]] || "singletrack"
 end
 
 def create_feature(trailsroc_type, trailsroc_id)
     if $metadata[:idlist].include?(trailsroc_id)
-        error_msg('Duplicate feature ID detected', trailsroc_id)
-        Kernel.exit(1)
+        abort_msg('Duplicate feature ID detected', trailsroc_id)
     end
     $metadata[:idlist].push(trailsroc_id)
 
@@ -115,7 +75,7 @@ def create_feature(trailsroc_type, trailsroc_id)
     feature['type'] = 'Feature'
     feature_property(feature, 'type', trailsroc_type)
     feature_property(feature, 'id', trailsroc_id)
-    feature
+    return feature
 end
 
 # returns [lng, lat]
@@ -148,7 +108,7 @@ end
 
 # side effects.
 def optional_property(feature, short_key, source, dflt: nil)
-    if source.has_key?(short_key)
+    if source.has_key?(short_key) && source[short_key] != nil
         feature_property(feature, short_key, source[short_key])
     elsif dflt != nil
         feature_property(feature, short_key, dflt)
@@ -181,6 +141,11 @@ def error_msg(msg, o)
     $stderr.puts "\n"
 end
 
+def abort_msg(msg, o)
+    error_msg(msg, o)
+    Kernel.exit(1)
+end
+
 ################### GPX
 
 def parse_gpx(filename)
@@ -200,32 +165,34 @@ def parse_gpx(filename)
     unprocessed_inner_borders = {}
 
     routes_tracks = gpx_xml.root().search('rte', 'trk')
+
     routes_tracks.each do |node|
         names = node.>('name')
         if names.count > 0 then
             name = names.first.content
-            if name_is_border(name) then
-                park_id = standardize_park_id(get_border_name(name))
-                if is_inner_border(name) then
-                    if !unprocessed_inner_borders[park_id]
-                        unprocessed_inner_borders[park_id] = []
-                    end
-                    unprocessed_inner_borders[park_id].push(node)
-                else
-                    if !unprocessed_borders[park_id]
-                        unprocessed_borders[park_id] = []
-                    end
-                    unprocessed_borders[park_id].push(node)
+            typ = track_type(name)
+            case track_type(name)
+            when "border"
+                park_id = park_id_from_border_id(name)
+                if !unprocessed_borders[park_id]
+                    unprocessed_borders[park_id] = []
                 end
-            else
-                trail_id = standardize_trail_id(name)
-                trails = trail_metadata_for(trail_id)
+                unprocessed_borders[park_id].push(node)
+            when "innerBorder"
+                park_id = park_id_from_border_id(name)
+                if !unprocessed_inner_borders[park_id]
+                    unprocessed_inner_borders[park_id] = []
+                end
+                unprocessed_inner_borders[park_id].push(node)
+            when "seg"
+                segment_id = name
+                trail_ids = trail_ids_from_segment_id(name)
+                trails = trail_metadata_for(trail_ids)
                 coordinates = collect_coords(node)
-                segment_id = "seg-#{trail_id}-id#{coordinate_id(center_of_list(coordinates))}"
                 feature = create_feature('trailSegment', segment_id)
                 feature['geometry']['type'] = 'LineString'
                 feature['geometry']['coordinates'] = coordinates
-                feature_property(feature, 'trailIDs', trail_id)
+                feature_property(feature, 'trailIDs', trail_ids)
 
                 if trails.count == 1
                     trailName = trails[0]['name']
@@ -239,7 +206,7 @@ def parse_gpx(filename)
                     end
                 end
 
-                feature_property(feature, 'surface', surface_of(trail_id))
+                feature_property(feature, 'surface', surface_of(trail_ids))
                 feature_property(feature, 'color', color_for(trails[0]['color']))
                 if trails.count > 1
                     feature_property(feature, 'color2', color_for(trails[1]['color']))
@@ -247,7 +214,9 @@ def parse_gpx(filename)
                 if trails.count > 2
                     feature_property(feature, 'color3', color_for(trails[2]['color']))
                 end
-                gpx_features << feature
+                gpx_features.push(feature)
+            else
+                abort_msg("GPX track with invalid ID.", node)
             end
         else
             error_msg('Route or track with no name', node)
@@ -258,7 +227,7 @@ def parse_gpx(filename)
     unprocessed_borders.each do |park_id, nodes|
         nodes.each do |node|
             outer_coords = collect_polygon(node)
-            border_id = "border-#{park_id}-id#{coordinate_id(center_of_list(outer_coords))}"
+            border_id = "border:#{park_id}:#{random_id()}"
 
             feature = create_feature('parkBorder', border_id)
             feature['geometry']['type'] = 'Polygon'
@@ -269,24 +238,78 @@ def parse_gpx(filename)
                 polygons.push(collect_polygon(inner_node))
             end
             feature['geometry']['coordinates'] = polygons
-            gpx_features << feature
+            gpx_features.push(feature)
         end
     end
 
-    gpx_features
+    waypoints = gpx_xml.root().search("wpt")
+    waypoints.each do |node|
+        names = node.>("name")
+        point_id = nil
+        point = nil
+        if names.count > 0 then
+            point_id = names.first.content
+        end
+        descs = node.>("desc")
+        if descs.count > 0 && descs.first.content.length > 0 then
+            point = JSON.load(descs.first.content)
+        end
+
+        if !point_id || !point_id.include?(":") || !point
+            next
+        end
+
+        poi_type = point["type"]
+        if !$metadata[:poiTypes].include?(poi_type)
+            $metadata[:poiTypes].push(poi_type)
+        end
+
+        feature = create_feature(poi_type, point_id)
+        feature['geometry'] = create_point_geometry([node["lon"], node["lat"]])
+
+        if point['name']
+            feature_property(feature, 'name', point['name'])
+        end
+        optional_property(feature, 'parkID', point)
+        optional_property(feature, 'trailID', point)
+        optional_property(feature, 'url', point)
+        default_allows_directions = ['boat_launch', 'lodge', 'parking', 'shelter'].include?(point['type'])
+        optional_property(feature, 'allowsDirections', point, dflt: default_allows_directions)
+        if point['directionsCoordinate']
+            feature_property(feature, 'directionsCoordinate', point['directionsCoordinate'].reverse)
+        end
+        optional_property(feature, 'visibilityConstraint', point)
+
+        gpx_features.push(feature)
+    end
+
+    return gpx_features
 end
 
-def name_is_border(name)
-    return get_border_name(name) != nil
+def track_type(name)
+    tokens = name.split(":")
+    if tokens.count < 1
+        return nil
+    end
+    return tokens.first
 end
 
-def is_inner_border(name)
-    name.split(":")[0] == 'innerBorder'
+def park_id_from_border_id(name)
+    tokens = name.split(":")
+    if tokens.count == 2
+        return tokens[1]
+    else
+        abort_msg("Invalid GPX track ID format.", name)
+    end
 end
 
-def get_border_name(name)
-    splitted = name.split(":")
-    return splitted.count > 0 ? splitted[1] : nil
+def trail_ids_from_segment_id(name)
+    tokens = name.split(":")
+    if tokens.count >= 2
+        return tokens[1]
+    else
+        abort_msg("Invalid GPX track ID format.", name)
+    end
 end
 
 def collect_coords(track_or_route)
@@ -297,10 +320,9 @@ def collect_coords(track_or_route)
     end
 
     if json_coords.count < 2
-        error_msg('Fewer than two coords', track_or_route)
-        Kernel.exit(1)
+        abort_msg('Fewer than two coords', track_or_route)
     end
-    json_coords
+    return json_coords
 end
 
 def collect_polygon(track_or_route)
@@ -308,7 +330,7 @@ def collect_polygon(track_or_route)
     if !json_coords.empty?
         json_coords.push(json_coords[0])
     end
-    json_coords
+    return json_coords
 end
 
 ### JSON ######################
@@ -322,12 +344,14 @@ def parse_json(filename)
     debug_trace('Parsing JSON ' + filename)
 
     data = JSON.load(IO.read(filename))
+    if data["version"] != 2
+        abort_msg("Incompatible JSON data version for #{filename}")
+    end
 
     json_features = []
 
     if data['parks']
         data["parks"].each do |park_id, park|
-            park_id = standardize_park_id(park_id)
             $metadata[:parks][park_id] = park
 
             feature = create_feature('park', park_id)
@@ -356,13 +380,7 @@ def parse_json(filename)
     end
 
     if data['trails']
-        proto_trail = data['trails']['_prototype'] || {}
-
         data['trails'].each do |trail_id, trail|
-            if trail_id == '_prototype'
-                next
-            end
-
 
             if [].include?(trail_id)
                 trail['surface'] = ''
@@ -370,16 +388,13 @@ def parse_json(filename)
                 trail['surface'] = ''
             end
             
-            trail = proto_trail.merge(trail)
-            trail_id = standardize_trail_id(trail_id)
             $metadata[:trails][trail_id] = trail
 
             feature = create_feature('trail', trail_id)
             feature['geometry'] = create_point_geometry(center_of(trail['SW'], trail['NE']))
 
-            if trail['parkId']
-                park_id = standardize_park_id(trail['parkId'])
-                feature_property(feature, 'parkID', park_id)
+            if trail['parkID']
+                feature_property(feature, 'parkID', trail['parkID'])
             end
             if !nil_or_blank(trail['name'])
                 optional_property(feature, 'name', trail)
@@ -398,40 +413,11 @@ def parse_json(filename)
             json_features << feature
 
             (trail['trailheads'] || []).each do |trailhead|
-                trailhead_id = "trailhead-#{trail_id}-id#{coordinate_id(trailhead.reverse)}"
+                trailhead_id = "trailhead:#{trail_id}:#{random_id()}"
                 feature = create_feature('trailhead', trailhead_id)
                 feature['geometry'] = create_point_geometry(trailhead.reverse)
                 feature_property(feature, 'trailID', trail_id)
                 json_features << feature
-            end
-        end
-    end
-
-    if data['points']
-        data['points'].each do |point|
-            if point['type']
-                standard_type = standardize_poi_type(point['type'])
-                if !$metadata[:poiTypes].include?(standard_type)
-                    $metadata[:poiTypes].push(standard_type)
-                end
-                point_id = point['id'] || "poi-id#{coordinate_id(point['loc'].reverse)}"
-                feature = create_feature(standard_type, point_id)
-                feature['geometry'] = create_point_geometry(point['loc'].reverse)
-
-                name = standardize_poi_name(point['name'], point['type'])
-                if name
-                    feature_property(feature, 'name', name)
-                end
-                optional_property(feature, 'url', point)
-                default_allows_directions = ['boat_launch', 'lodge', 'parking', 'shelter'].include?(point['type'])
-                optional_property(feature, 'allowsDirections', point, dflt: default_allows_directions)
-                if point['directionsCoordinate']
-                    feature_property(feature, 'directionsCoordinate', point['directionsCoordinate'].reverse)
-                end
-                optional_property(feature, 'visibilityConstraint', point)
-                json_features << feature
-            else
-                error_msg('Point has no type:', point)
             end
         end
     end
@@ -453,7 +439,7 @@ load_bundle($source_dir + 'bundle.json')
 #     print JSON.pretty_generate($metadata['bundle'])
 # end
 
-json_filenames.each do |filename|
+$json_filenames.each do |filename|
     next_features = parse_json($source_dir + filename + '.json')
     if $dest_dir
         if !$features.has_key?(filename)
@@ -465,7 +451,7 @@ json_filenames.each do |filename|
     end
 end
 
-gpx_filenames.each do |filename|
+$gpx_filenames.each do |filename|
     next_features = parse_gpx($source_dir + filename + '.gpx')
     if $dest_dir
         if !$features.has_key?(filename)
@@ -481,12 +467,10 @@ if $dest_dir
 
     if !$dry_run
         if !Dir.exist?($dest_dir)
-            error_msg('Output directory missing.', $dest_dir)
-            Kernel.exit(1)
+            abort_msg('Output directory missing.', $dest_dir)
         end
         if !(Dir.empty?($dest_dir) || ['.', '..', '.DS_Store'] == Dir.entries($dest_dir))
-            error_msg('Output directory not empty.', $dest_dir)
-            Kernel.exit(1)
+            abort_msg('Output directory not empty.', $dest_dir)
         end
     end
 
@@ -516,6 +500,7 @@ else
     if $dry_run
         print "Dry run complete."
         print JSON.pretty_generate($metadata)
+#        print JSON.pretty_generate(doc)
     elsif $pretty
         print JSON.pretty_generate(doc)
     else

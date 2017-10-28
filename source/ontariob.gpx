@@ -6,7 +6,6 @@
     </metadata>
     <trk>
         <name>border:ontariob</name>
-        <desc>Length: 3.937 km (2.446 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -65,7 +64,6 @@
     </trk>
     <trk>
         <name>ontariob_paths</name>
-        <desc>Length: 0.553 km (0.344 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -81,7 +79,6 @@
     </trk>
     <trk>
         <name>ontariob_paths</name>
-        <desc>Length: 0.553 km (0.344 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -99,7 +96,6 @@
     </trk>
     <trk>
         <name>ontariob_paths</name>
-        <desc>Length: 0.754 km (0.469 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -118,7 +114,6 @@
     </trk>
     <trk>
         <name>ontariob_paths</name>
-        <desc>Length: 0.754 km (0.469 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -133,7 +128,6 @@
     </trk>
     <trk>
         <name>ontariob_paths</name>
-        <desc>Length: 0.754 km (0.469 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>

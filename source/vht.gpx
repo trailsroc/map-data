@@ -2,16 +2,19 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-10-24T02:13:44.969Z</time>
+        <time>2017-10-28T14:12:46.151Z</time>
     </metadata>
     <wpt lon="-77.410896" lat="42.982776">
         <name>poi:Victor Hiking Trails Kiosk</name>
+        <desc>{"parkId": "auburntr_park"}</desc>
     </wpt>
     <wpt lon="-77.469571" lat="43.001739">
         <name>parking</name>
+        <desc>{"trailId": "vht_lehigh_blackdiamond"}</desc>
     </wpt>
     <wpt lon="-77.454762" lat="43.000370">
         <name>parking</name>
+        <desc>{"trailId": "vht_lehigh_blackdiamond"}</desc>
     </wpt>
     <rte>
         <name>vht_lehigh_blackdiamond</name>

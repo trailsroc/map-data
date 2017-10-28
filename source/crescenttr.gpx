@@ -4,21 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-23T22:39:04.281Z</time>
     </metadata>
-    <wpt lon="-77.384069" lat="43.071299">
-        <name>White Brook Nature Area</name>
-    </wpt>
-    <wpt lon="-77.397520" lat="43.103735">
-        <name>Howell Road Hunting</name>
-    </wpt>
-    <wpt lon="-77.461141" lat="43.062965">
-        <name>McCoord Woods</name>
-    </wpt>
-    <wpt lon="-77.423688" lat="43.058085">
-        <name>Dewitt Hill</name>
-    </wpt>
-    <wpt lon="-77.466186" lat="43.064439">
-        <name>Parking (Kreag Church)</name>
-    </wpt>
     <trk>
         <name>border:crescenttr_mccoord</name>
         <extensions>
@@ -4240,7 +4225,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -4256,7 +4240,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4274,7 +4257,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -4289,7 +4271,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -4306,7 +4287,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -4325,7 +4305,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4339,7 +4318,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4382,7 +4360,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -4395,7 +4372,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -4455,7 +4431,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -4468,7 +4443,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -4481,7 +4455,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -4494,7 +4467,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -4520,7 +4492,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -4534,7 +4505,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -5097,7 +5067,6 @@
     </trk>
     <trk>
         <name>crescenttr_main</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7750,7 +7719,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7766,7 +7734,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -7779,7 +7746,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7794,7 +7760,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -7808,7 +7773,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -7829,7 +7793,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -7844,7 +7807,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -7859,7 +7821,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -7873,7 +7834,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -7889,7 +7849,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -7904,7 +7863,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -7935,7 +7893,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -7950,7 +7907,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -7967,7 +7923,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -7987,7 +7942,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -8000,7 +7954,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -8037,7 +7990,6 @@
     </trk>
     <trk>
         <name>crescenttr_blue</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -8240,7 +8192,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry west end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8281,7 +8232,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry west end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -8328,7 +8278,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry west end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8345,7 +8294,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry west end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -8362,7 +8310,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -8375,7 +8322,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -8388,7 +8334,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -8401,7 +8346,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8418,7 +8362,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -8432,7 +8375,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -8451,7 +8393,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8477,7 +8418,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -8491,7 +8431,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -8506,7 +8445,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -8520,7 +8458,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -8539,7 +8476,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -8554,7 +8490,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -8567,7 +8502,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -8585,7 +8519,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -8599,7 +8532,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -8614,7 +8546,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -8629,7 +8560,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -8650,7 +8580,6 @@
     </trk>
     <trk>
         <name>crescenttr_green</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -8665,7 +8594,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -8681,7 +8609,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -8710,7 +8637,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -8726,7 +8652,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -8830,7 +8755,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -8843,7 +8767,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -8860,7 +8783,6 @@
     </trk>
     <trk>
         <name>crescenttr_red</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -8996,7 +8918,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -9037,7 +8958,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manually entered</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -9265,7 +9185,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -9278,7 +9197,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -9291,7 +9209,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -9307,7 +9224,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -9328,7 +9244,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -9342,7 +9257,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -9355,7 +9269,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -9369,7 +9282,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
@@ -9382,7 +9294,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -9401,7 +9312,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -9415,7 +9325,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
@@ -9432,7 +9341,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -9445,7 +9353,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -9460,7 +9367,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -9477,7 +9383,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -9490,7 +9395,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -9507,7 +9411,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -9523,7 +9426,6 @@
     </trk>
     <trk>
         <name>crescenttr_white</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -9637,7 +9539,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
@@ -9650,7 +9551,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -9666,7 +9566,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -9679,7 +9578,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
@@ -9692,7 +9590,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -9742,7 +9639,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
@@ -9801,7 +9697,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
@@ -9824,7 +9719,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
@@ -9862,7 +9756,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
@@ -9882,7 +9775,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
@@ -9900,7 +9792,6 @@
     </trk>
     <trk>
         <name>crescenttr_yellow</name>
-        <desc>Manual entry in northern end</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>

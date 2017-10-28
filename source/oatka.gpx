@@ -4,13 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-24T01:55:42.040Z</time>
     </metadata>
-    <wpt lon="-77.792277" lat="43.011332">
-        <name>Parking</name>
-    </wpt>
-    <wpt lon="-77.793405" lat="43.005627">
-        <name>Soccer Fields</name>
-        <desc>{"type": "sports"}</desc>
-    </wpt>
     <rte>
         <name>oatka_black_billed_cuckoo</name>
         <extensions>
@@ -716,7 +709,6 @@
     </rte>
     <trk>
         <name>border:oatka</name>
-        <desc>Length: 7.463 km (4.638 mi)</desc>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>

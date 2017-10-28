@@ -4,9 +4,6 @@
         <name>Untitled Document</name>
         <time>2017-10-23T22:06:30.012Z</time>
     </metadata>
-    <wpt lon="-77.819081" lat="43.070141">
-        <name>Restroom</name>
-    </wpt>
     <rte>
         <name>border:black_cr</name>
         <extensions>
@@ -1916,7 +1913,6 @@
     </trk>
     <trk>
         <name>black_cr_unnamed</name>
-        <desc>{"comments": "CAS New Deer Path Segment"}</desc>
         <extensions>Red<gpxx:TrackExtension>
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>

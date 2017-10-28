@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-10-23T21:57:28.321Z</time>
+        <time>2017-10-24T04:24:58.836Z</time>
     </metadata>
     <wpt lon="-77.384341" lat="42.968810">
         <name>parking</name>
@@ -55,31 +55,6 @@
             <trkpt lon="-77.453600" lat="43.001900"></trkpt>
             <trkpt lon="-77.451900" lat="43.001300"></trkpt>
             <trkpt lon="-77.450377" lat="43.000574"></trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>auburntr_main</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.450377" lat="43.000574"></trkpt>
-            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>auburntr_main</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
-            <trkpt lon="-77.446000" lat="42.998500"></trkpt>
-            <trkpt lon="-77.442915" lat="42.996973"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -364,6 +339,21 @@
         <trkseg>
             <trkpt lon="-77.487000" lat="43.038172"></trkpt>
             <trkpt lon="-77.490230" lat="43.042362"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>auburntr_main</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.450377" lat="43.000574"></trkpt>
+            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
+            <trkpt lon="-77.449792" lat="43.000293"></trkpt>
+            <trkpt lon="-77.446000" lat="42.998500"></trkpt>
+            <trkpt lon="-77.442915" lat="42.996973"></trkpt>
         </trkseg>
     </trk>
 </gpx>

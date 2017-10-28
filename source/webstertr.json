@@ -214,19 +214,19 @@
     }
   },
   "points": [
-    {"type": "parking", "loc": [43.217688, -77.501326], "comments": "Finn Park"},
-    {"type": "lodge", "loc": [43.217641, -77.499576], "name": "Liberty Lodge", "comments": "Finn Park", "directionsCoordinate": [43.217688, -77.501326]},
-    {"type": "sports", "loc": [43.217843, -77.499298], "name": "Playground", "comments": "Finn Park"},
-    {"type": "parking", "loc": [43.242224, -77.497061], "comments": "Vosburg"},
-    {"type": "poi", "loc": [43.241745, -77.496684], "name": "Fishing", "comments": "Vosburg", "url": "http://www.dec.ny.gov/outdoor/71612.html"},
-    {"type": "parking", "loc": [43.221044, -77.444172], "comments": "N Ponds Orchard Rd"},
-    {"type": "parking", "loc": [43.265097, -77.419662], "comments": "FMCP"},
-    {"type": "parking", "loc": [43.227426, -77.421642], "directionsCoordinate": [43.225752, -77.421185], "comments": "Chiyoda"},
-    {"type": "poi", "loc": [43.227836, -77.421254], "name": "Webster Recreation Center", "directionsCoordinate": [43.225752, -77.421185]},
-    {"type": "sports", "loc": [43.228354, -77.421948], "name": "Ball Fields", "comments": "Chiyoda"},
-    {"type": "sports", "loc": [43.228229, -77.425143], "name": "Playground", "comments": "Chiyoda"},
-    {"type": "sports", "loc": [43.227705, -77.425199], "name": "Tennis/Basketball", "comments": "Chiyoda"},
-    {"type": "poi", "loc": [43.218507, -77.441262], "name": "Fishing", "comments": "N Ponds"},
-    {"type": "parking", "loc": [43.215891, -77.439351], "comments": "N Ponds RT 104"}
+    {"parkId": "fowt_finn", "type": "parking", "loc": [43.217688, -77.501326], "comments": "Finn Park"},
+    {"parkId": "fowt_finn", "type": "lodge", "loc": [43.217641, -77.499576], "name": "Liberty Lodge", "comments": "Finn Park", "directionsCoordinate": [43.217688, -77.501326]},
+    {"parkId": "fowt_finn", "type": "sports", "loc": [43.217843, -77.499298], "name": "Playground", "comments": "Finn Park"},
+    {"parkId": "fowt_vosburg_main", "type": "parking", "loc": [43.242224, -77.497061], "comments": "Vosburg"},
+    {"parkId": "fowt_vosburg_main", "type": "poi", "loc": [43.241745, -77.496684], "name": "Fishing", "comments": "Vosburg", "url": "http://www.dec.ny.gov/outdoor/71612.html"},
+    {"trailId": "fowt_nponds_loop", "type": "parking", "loc": [43.221044, -77.444172], "comments": "N Ponds Orchard Rd"},
+    {"parkId": "fmcp", "type": "parking", "loc": [43.265097, -77.419662], "comments": "FMCP"},
+    {"trailId": "fowt_chiyoda_loop", "type": "parking", "loc": [43.227426, -77.421642], "directionsCoordinate": [43.225752, -77.421185], "comments": "Chiyoda"},
+    {"trailId": "fowt_chiyoda_loop", "type": "poi", "loc": [43.227836, -77.421254], "name": "Webster Recreation Center", "directionsCoordinate": [43.225752, -77.421185]},
+    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.228354, -77.421948], "name": "Ball Fields", "comments": "Chiyoda"},
+    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.228229, -77.425143], "name": "Playground", "comments": "Chiyoda"},
+    {"trailId": "fowt_chiyoda_loop", "type": "sports", "loc": [43.227705, -77.425199], "name": "Tennis/Basketball", "comments": "Chiyoda"},
+    {"trailId": "fowt_nponds_loop", "type": "poi", "loc": [43.218507, -77.441262], "name": "Fishing", "comments": "N Ponds"},
+    {"trailId": "fowt_rt104_path", "type": "parking", "loc": [43.215891, -77.439351], "comments": "N Ponds RT 104"}
   ]
 }
