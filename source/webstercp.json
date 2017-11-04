@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-webstercp": {
       "name": "Webster Park",
@@ -26,12 +26,6 @@
     "trail-webstercp-connector": {
       "url": "http://www.monroecounty.gov/parks-webster.php",
       "name": "Webster Park Connector Trail",
-      "trailheads": [
-        [
-          43.246899,
-          -77.46842
-        ]
-      ],
       "color": "red",
       "length": 0.25,
       "SW": [
@@ -148,7 +142,5 @@
       ],
       "parkID": "park-webstercp"
     }
-  },
-  "points": {
   }
 }

@@ -3423,5 +3423,7 @@
   "type": "point-parking",
   "comments": "Main lot",
   "name": "Parking",
-  "parkID": "park-gosnell"
+  "parentIDs": [
+    "park-gosnell"
+  ]
 }</desc></wpt></gpx>

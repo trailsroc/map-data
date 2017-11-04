@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-auburntr-park": {
       "name": "Auburn Trail",
@@ -37,9 +37,6 @@
       "name": "Auburn Trail",
       "color": "brown",
       "length": 9,
-      "trailheads": [
-
-      ],
       "visibilityConstraint": "largeTrailSystem"
     },
     "trail-auburntr-shoulder": {
@@ -54,13 +51,8 @@
       ],
       "color": "black",
       "name": "Auburn Trail (Road Segment)",
-      "trailheads": [
-
-      ],
       "visibilityConstraint": "largeTrailSystem",
       "hideInListView": true
     }
-  },
-  "points": {
   }
 }

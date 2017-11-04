@@ -6962,5 +6962,7 @@
   "type": "point-parking",
   "comments": "Main lot",
   "name": "Parking",
-  "parkID": "park-wrnp"
+  "parentIDs": [
+    "park-wrnp"
+  ]
 }</desc></wpt></gpx>

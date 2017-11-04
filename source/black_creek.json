@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-black-cr": {
       "name": "Black Creek Park",
@@ -28,12 +28,6 @@
       "name": "Bluebird Trail",
       "length": 0.7,
       "color": "sky",
-      "trailheads": [
-        [
-          43.06150022998194,
-          -77.82015860080719
-        ]
-      ],
       "SW": [
         43.061265,
         -77.820087
@@ -49,20 +43,6 @@
       "name": "Creek Trail",
       "length": 3.1,
       "color": "red",
-      "trailheads": [
-        [
-          43.070277,
-          -77.819624
-        ],
-        [
-          43.083323,
-          -77.814777
-        ],
-        [
-          43.087668,
-          -77.802563
-        ]
-      ],
       "SW": [
         43.070233,
         -77.825546
@@ -78,12 +58,6 @@
       "name": "Hickory Trail",
       "length": 0.7,
       "color": "orange",
-      "trailheads": [
-        [
-          43.059512,
-          -77.795878
-        ]
-      ],
       "SW": [
         43.059512,
         -77.800464
@@ -99,16 +73,6 @@
       "name": "Ridge Trail",
       "length": 1.4,
       "color": "purple",
-      "trailheads": [
-        [
-          43.069702896920504,
-          -77.81921982765198
-        ],
-        [
-          43.080563,
-          -77.798444
-        ]
-      ],
       "SW": [
         43.069269,
         -77.819136
@@ -123,9 +87,6 @@
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.077544,
         -77.815549
@@ -141,9 +102,6 @@
       "name": "Wetland Trail",
       "length": 2.1,
       "color": "grass",
-      "trailheads": [
-
-      ],
       "SW": [
         43.063075,
         -77.816784
@@ -159,9 +117,6 @@
       "name": "Blue Trail",
       "length": 1.6,
       "color": "sky",
-      "trailheads": [
-
-      ],
       "SW": [
         43.069468,
         -77.814099
@@ -177,9 +132,6 @@
       "name": "Orange Trail",
       "length": 1.7,
       "color": "orange",
-      "trailheads": [
-
-      ],
       "SW": [
         43.068892,
         -77.823467
@@ -191,7 +143,5 @@
       "comments": "aka CobbleRoc Trail",
       "parkID": "park-black-cr"
     }
-  },
-  "points": {
   }
 }

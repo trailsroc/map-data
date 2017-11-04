@@ -762,230 +762,336 @@
 <wpt lat="43.186162" lon="-77.887427"><name>point-lodge:nhamp:d8913097</name><desc>{
   "type": "point-lodge",
   "name": "Knollwood Lodge",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.185436" lon="-77.875437"><name>point-lodge:nhamp:e6b0696e</name><desc>{
   "type": "point-lodge",
   "name": "Ski Lodge",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184271" lon="-77.899041"><name>point-parking:nhamp:547e2ffa</name><desc>{
   "type": "point-parking",
   "comment": "Airfield",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.181213" lon="-77.893283"><name>point-parking:nhamp:46f2380f</name><desc>{
   "type": "point-parking",
   "comment": "Ballfield",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184786" lon="-77.889158"><name>point-parking:nhamp:c9e14630</name><desc>{
   "type": "point-parking",
   "comment": "Loop Trail",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186232" lon="-77.88701"><name>point-parking:nhamp:d86658ff</name><desc>{
   "type": "point-parking",
   "comment": "Knollwood",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.187012" lon="-77.885116"><name>point-parking:nhamp:62a20324</name><desc>{
   "type": "point-parking",
   "comment": "Fairview W",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.187861" lon="-77.883923"><name>point-parking:nhamp:9187810e</name><desc>{
   "type": "point-parking",
   "comment": "Gardner E",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.190741" lon="-77.899132"><name>point-parking:nhamp:8ed4b415</name><desc>{
   "type": "point-parking",
   "name": "Horse Trailer Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184196" lon="-77.875061"><name>point-parking:nhamp:cd0a269a</name><desc>{
   "type": "point-parking",
   "comment": "Ski W",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184013" lon="-77.874035"><name>point-parking:nhamp:9a058cc6</name><desc>{
   "type": "point-parking",
   "comment": "Ski E",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.179792" lon="-77.872364"><name>point-parking:nhamp:49cd2fca</name><desc>{
   "type": "point-parking",
   "comment": "Farm",
   "name": "Parking",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180063" lon="-77.869847"><name>point-restroom:nhamp:5c0d1d22</name><desc>{
   "type": "point-restroom",
   "comment": "Farm",
   "name": "Restroom",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184932" lon="-77.875859"><name>point-restroom:nhamp:5eba673b</name><desc>{
   "type": "point-restroom",
   "comment": "Ski",
   "name": "Restroom",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.182463" lon="-77.894151"><name>point-restroom:nhamp:8403f44a</name><desc>{
   "type": "point-restroom",
   "comment": "Ballfield",
   "name": "Restroom",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.182382" lon="-77.892023"><name>point-admin:nhamp:58f18538</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184968" lon="-77.897291"><name>point-poi:nhamp:c795e745</name><desc>{
   "type": "point-poi",
   "name": "Model Airfield",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186475" lon="-77.87527"><name>point-sports:nhamp:92163053</name><desc>{
   "type": "point-sports",
   "name": "Ski Hill",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180629" lon="-77.870314"><name>point-poi:nhamp:5f293d24</name><desc>{
   "type": "point-poi",
   "name": "Springdale Farm",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.179503" lon="-77.856574"><name>point-poi:nhamp:42bd58e4</name><desc>{
   "type": "point-poi",
   "name": "Ogden Historical Society Museum",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.183499" lon="-77.870435"><name>point-poi:nhamp:33255177</name><desc>{
   "type": "point-poi",
   "name": "Enchanted Woods",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186767" lon="-77.88424"><name>point-scenic:nhamp:d7a1701d</name><desc>{
   "type": "point-scenic",
   "comments": "Fairview",
   "name": "Scenic Point",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184686" lon="-77.873715"><name>point-scenic:nhamp:e8eb6a6e</name><desc>{
   "type": "point-scenic",
   "comments": "Ski E",
   "name": "Scenic Point",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.182034" lon="-77.870834"><name>point-scenic:nhamp:3b3f901c</name><desc>{
   "type": "point-scenic",
   "comments": "Pond",
   "name": "Scenic Point",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180917" lon="-77.872185"><name>point-sports:nhamp:56840e64</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.18441" lon="-77.876901"><name>point-sports:nhamp:d0ad8fdb</name><desc>{
   "type": "point-sports",
   "name": "Soccer Field",
   "comments": "Ski",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180898" lon="-77.894058"><name>point-sports:nhamp:37d8f298</name><desc>{
   "type": "point-sports",
   "name": "Soccer Field",
   "comments": "Salmon",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.181811" lon="-77.893649"><name>point-sports:nhamp:b533ed0d</name><desc>{
   "type": "point-sports",
   "name": "Softball Field",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.185372" lon="-77.893175"><name>point-campsite:nhamp:91d24938</name><desc>{
   "type": "point-campsite",
   "name": "Youth Camping (Permit)",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.18889" lon="-77.888126"><name>point-intersection:nhamp:c6aa3fdb</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 11",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.190725" lon="-77.892447"><name>point-intersection:nhamp:ecf3b287</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 12",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.179488" lon="-77.863439"><name>point-intersection:nhamp:319a8304</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 21",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.183032" lon="-77.863307"><name>point-intersection:nhamp:252759cd</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 22",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.183264" lon="-77.859949"><name>point-intersection:nhamp:d23ebc0f</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 23",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184938" lon="-77.85843"><name>point-intersection:nhamp:9edc0be2</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 24",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184135" lon="-77.860777"><name>point-intersection:nhamp:420529af</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 25",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.185642" lon="-77.86181"><name>point-intersection:nhamp:084f477b</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 26",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184316" lon="-77.863811"><name>point-intersection:nhamp:4b5ad1ff</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 28",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186784" lon="-77.883235"><name>point-intersection:nhamp:c93f1613</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 8",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186791" lon="-77.883261"><name>point-intersection:nhamp:221741bd</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 9",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.186985" lon="-77.884557"><name>point-intersection:nhamp:d0de20f2</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 10",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184868" lon="-77.871268"><name>point-intersection:nhamp:2bf52315</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 13",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.182928" lon="-77.870628"><name>point-intersection:nhamp:aa03a12a</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 14",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.184234" lon="-77.865951"><name>point-intersection:nhamp:916b8566</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 16",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.183175" lon="-77.874509"><name>point-intersection:nhamp:faf15c04</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 1",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.183205" lon="-77.876451"><name>point-intersection:nhamp:0f0a861d</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 3",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180856" lon="-77.883357"><name>point-intersection:nhamp:26ea8e2b</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 4",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.181778" lon="-77.883131"><name>point-intersection:nhamp:1b736081</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 5",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.18297" lon="-77.882365"><name>point-intersection:nhamp:dfb8c1f3</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 6",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.185988" lon="-77.883395"><name>point-intersection:nhamp:ed036144</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 7",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.181202" lon="-77.86444"><name>point-intersection:nhamp:f3dc69e8</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 17",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.180221" lon="-77.864382"><name>point-intersection:nhamp:3cdf8c90</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 18",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt><wpt lat="43.179554" lon="-77.865732"><name>point-intersection:nhamp:2c255087</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 19",
-  "parkID": "park-nhamp"
+  "parentIDs": [
+    "park-nhamp"
+  ]
 }</desc></wpt></gpx>

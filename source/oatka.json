@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-oatka": {
       "name": "Oatka Creek Park",
@@ -28,9 +28,6 @@
       "name": "Black Billed Cuckoo Trail",
       "color": "black",
       "length": 0.93,
-      "trailheads": [
-
-      ],
       "SW": [
         43.00396,
         -77.805793
@@ -46,9 +43,6 @@
       "name": "Bluebird Trail",
       "color": "sky",
       "length": 0.56,
-      "trailheads": [
-
-      ],
       "SW": [
         43.001258,
         -77.805487
@@ -64,9 +58,6 @@
       "name": "Gypsum Hollow Trail",
       "color": "orange",
       "length": 0.5,
-      "trailheads": [
-
-      ],
       "SW": [
         43.008825,
         -77.802289
@@ -82,9 +73,6 @@
       "name": "Maple Hill Trail",
       "color": "red",
       "length": 0.5,
-      "trailheads": [
-
-      ],
       "SW": [
         42.999885,
         -77.79486
@@ -100,9 +88,6 @@
       "name": "Old Burrell Road Trail",
       "color": "grass",
       "length": 0.9,
-      "trailheads": [
-
-      ],
       "SW": [
         43.001885,
         -77.80656
@@ -118,12 +103,6 @@
       "name": "Trout Run Trail",
       "color": "teal",
       "length": 0.77,
-      "trailheads": [
-        [
-          43.011159,
-          -77.792253
-        ]
-      ],
       "SW": [
         43.010406,
         -77.803958
@@ -139,9 +118,6 @@
       "name": "Warbler Loop Trail",
       "color": "purple",
       "length": 0.52,
-      "trailheads": [
-
-      ],
       "SW": [
         43.007982,
         -77.803685
@@ -157,9 +133,6 @@
       "name": "White Tail Trail",
       "color": "white",
       "length": 0.91,
-      "trailheads": [
-
-      ],
       "SW": [
         43.001387,
         -77.799308
@@ -175,9 +148,6 @@
       "name": "Woodland Trail",
       "color": "yellow",
       "length": 0.82,
-      "trailheads": [
-
-      ],
       "SW": [
         43.003576,
         -77.810927
@@ -193,9 +163,6 @@
       "name": "Yellow Trail",
       "color": "yellow",
       "length": 0.4,
-      "trailheads": [
-
-      ],
       "SW": [
         43.007088,
         -77.796833
@@ -210,9 +177,6 @@
       "url": "http://www.monroecounty.gov/parks-oatka.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.004004,
         -77.814156
@@ -223,7 +187,5 @@
       ],
       "parkID": "park-oatka"
     }
-  },
-  "points": {
   }
 }

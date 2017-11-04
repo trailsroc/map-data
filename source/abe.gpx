@@ -653,13 +653,19 @@
 <wpt lat="43.180904533483414" lon="-77.5089955329895"><name>point-parking:abe:b4d2918d</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-abe"
+  "parentIDs": [
+    "park-abe"
+  ]
 }</desc></wpt><wpt lat="43.1809084451994" lon="-77.50948369503021"><name>point-sports:abe:6fd8c4b1</name><desc>{
   "type": "point-sports",
   "name": "Play Areas",
-  "parkID": "park-abe"
+  "parentIDs": [
+    "park-abe"
+  ]
 }</desc></wpt><wpt lat="43.18076762326655" lon="-77.50956416130066"><name>point-shelter:abe:d2d1160f</name><desc>{
   "type": "point-shelter",
   "name": "Picnic Shelters Shelter",
-  "parkID": "park-abe"
+  "parentIDs": [
+    "park-abe"
+  ]
 }</desc></wpt></gpx>

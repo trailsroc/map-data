@@ -8,270 +8,342 @@
         <name>point-parking:canal:b53cb311</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-78.018888" lat="43.225168">
         <name>point-scenic:canal:4604e82f</name>
         <desc>{
   "name": "Holley Canal Falls",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-78.019317" lat="43.225489">
         <name>point-parking:canal:29c2d46e</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.996513" lat="43.222742">
         <name>point-parking:canal:a1141611</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.937887" lat="43.217119">
         <name>point-parking:canal:73e70228</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.800365" lat="43.193779">
         <name>point-parking:canal:0715b10e</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.730931" lat="43.188340">
         <name>point-parking:canal:e817bbe0</name>
         <desc>{
   "name": "Parking (Henpeck Park)",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.599417" lat="43.106997">
         <name>point-parking:canal:365b1bdf</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.568610" lat="43.096259">
         <name>point-parking:canal:cdb10f67</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.547754" lat="43.092962">
         <name>point-parking:canal:20ac60ff</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.513600" lat="43.092851">
         <name>point-parking:canal:9434592e</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.510593" lat="43.089902">
         <name>point-parking:canal:c36cb63c</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.511929" lat="43.091454">
         <name>point-parking:canal:7cd1e672</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.515740" lat="43.093971">
         <name>point-parking:canal:d1e4fb58</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.490357" lat="43.073715">
         <name>point-parking:canal:20544b4b</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.456047" lat="43.101838">
         <name>point-parking:canal:35536941</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.442478" lat="43.102534">
         <name>point-parking:canal:e13cbebd</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.440947" lat="43.101518">
         <name>point-parking:canal:4ed5c17e</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.678173" lat="43.105812">
         <name>point-parking:canal:d765e777</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.709686" lat="43.077216">
         <name>point-parking:canal:eec829f0</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.747525" lat="43.018389">
         <name>point-parking:canal:867d1d71</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.740234" lat="43.005097">
         <name>point-parking:canal:8af8914a</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.743267" lat="42.983003">
         <name>point-parking:canal:1c8a4eda</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.756364" lat="42.922628">
         <name>point-parking:canal:78ad808c</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.784261" lat="42.917369">
         <name>point-parking:canal:76f5fe37</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.851261" lat="42.864674">
         <name>point-parking:canal:d539ea21</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.851115" lat="42.828022">
         <name>point-parking:canal:1d4e3ce0</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.870333" lat="42.777203">
         <name>point-parking:canal:00b0404f</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.872275" lat="42.726325">
         <name>point-parking:canal:a6da14e1</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-greenway-park",
-  "trailID": "trail-gv-greenway"
+  "parentIDs": [
+    "park-gv-greenway-park",
+    "trail-gv-greenway"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.634651" lat="43.125996">
         <name>point-parking:canal:77b1511e</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-south"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-south"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.610359" lat="43.251545">
         <name>point-parking:canal:333633b2</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-north"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-north"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.613469" lat="43.246225">
         <name>point-parking:canal:1be005d2</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-north"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-north"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.617868" lat="43.231325">
         <name>point-scenic:canal:00cfb556</name>
         <desc>{
   "name": "Scenic Point",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-north"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-north"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.617829" lat="43.227546">
         <name>point-parking:canal:853b7ed8</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-north"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-north"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.620465" lat="43.197811">
         <name>point-scenic:canal:bb9e6b8b</name>
         <desc>{
   "name": "Footbridge",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-maplewood"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-maplewood"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.630282" lat="43.181457">
         <name>point-parking:canal:6d8ae0d0</name>
         <desc>{
   "name": "Parking",
-  "parkID": "park-gv-riverway-park",
-  "trailID": "trail-gv-riverway-maplewood"
+  "parentIDs": [
+    "park-gv-riverway-park",
+    "trail-gv-riverway-maplewood"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.615641" lat="43.162423">
@@ -294,14 +366,18 @@
         <name>point-poi:canal:68872019</name>
         <desc>{
   "name": "Footbridge",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.616022" lat="43.110751">
         <name>point-poi:canal:9aead71f</name>
         <desc>{
   "name": "Construction",
-  "trailID": "trail-ecanal-main"
+  "parentIDs": [
+    "trail-ecanal-main"
+  ]
 }</desc>
     </wpt>
     <rte>

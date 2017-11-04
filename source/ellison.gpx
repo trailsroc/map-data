@@ -1456,81 +1456,117 @@
 <wpt lat="43.153711" lon="-77.526371"><name>point-poi:ellison:179dd932</name><desc>{
   "type": "point-poi",
   "name": "Trading Post (Ft. Schuyler)",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.1505731872468" lon="-77.52802312374115"><name>point-poi:ellison:eda83dd1</name><desc>{
   "type": "point-poi",
   "name": "Historical Marker",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15357848229551" lon="-77.52517998218536"><name>point-poi:ellison:b03e0e6b</name><desc>{
   "type": "point-poi",
   "name": "Indian Landing Site",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15165798850736" lon="-77.52730965614319"><name>point-sports:ellison:aa8e9a66</name><desc>{
   "type": "point-sports",
   "name": "Disc Golf Course",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.150432488265714" lon="-77.51585125923157"><name>point-sports:ellison:12695ec7</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14433468958596" lon="-77.51245021820068"><name>point-sports:ellison:755c8b60</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 1",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.1452584003658" lon="-77.51397371292114"><name>point-sports:ellison:a67d2100</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 2",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14605685097938" lon="-77.51663446426392"><name>point-sports:ellison:d67dab5b</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 3",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14652652293923" lon="-77.51481056213379"><name>point-sports:ellison:3a58c4ad</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 4",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.149994155893424" lon="-77.51404881477356"><name>point-sports:ellison:69941859</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 5",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.147567616251514" lon="-77.51955270767212"><name>point-sports:ellison:89c623ee</name><desc>{
   "type": "point-sports",
   "name": "Tennis Courts",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15285891417387" lon="-77.52816796302795"><name>point-parking:ellison:d76ee126</name><desc>{
   "type": "point-parking",
   "comments": "Landing Rd",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.152076206664326" lon="-77.51772880554199"><name>point-parking:ellison:fb56ef51</name><desc>{
   "type": "point-parking",
   "comments": "Pavilion",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15076906277506" lon="-77.51534700393677"><name>point-parking:ellison:7fbf9ad1</name><desc>{
   "type": "point-parking",
   "comments": "Roadside",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.150432488265714" lon="-77.5129222869873"><name>point-parking:ellison:1d2bad37</name><desc>{
   "type": "point-parking",
   "comments": "Hazelwood",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14819382925222" lon="-77.51530408859253"><name>point-parking:ellison:cb24092a</name><desc>{
   "type": "point-parking",
   "comments": "Main E",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14830341586777" lon="-77.51786828041077"><name>point-parking:ellison:16206591</name><desc>{
   "type": "point-parking",
   "comments": "Main W",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14763023784028" lon="-77.52023935317993"><name>point-parking:ellison:93a5d1e9</name><desc>{
   "type": "point-parking",
   "name": "Tennis Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.146354310306315" lon="-77.51537919044495"><name>point-parking:ellison:a5a08b4c</name><desc>{
   "type": "point-parking",
   "comments": "Softball 4",
@@ -1539,7 +1575,9 @@
     -77.514289
   ],
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14445211122217" lon="-77.51613020896912"><name>point-parking:ellison:75087f50</name><desc>{
   "type": "point-parking",
   "comments": "South",
@@ -1548,7 +1586,9 @@
     -77.514289
   ],
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.144326861468876" lon="-77.51444578170776"><name>point-parking:ellison:12e2dce1</name><desc>{
   "type": "point-parking",
   "comments": "Sycamore",
@@ -1557,49 +1597,71 @@
     -77.513366
   ],
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.13598151856929" lon="-77.5134265422821"><name>point-parking:ellison:b87f56bf</name><desc>{
   "type": "point-parking",
   "comments": "Penfield Rd",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14938873939272" lon="-77.51249849796295"><name>point-parking:ellison:da2dffd6</name><desc>{
   "type": "point-parking",
   "comments": "Old Meadow",
   "name": "Parking",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15328157206093" lon="-77.52785682678223"><name>point-restroom:ellison:9f026da1</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14928185908384" lon="-77.51599073410034"><name>point-restroom:ellison:17c3ab1e</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.1512856619047" lon="-77.5131368637085"><name>point-restroom:ellison:7acafcc0</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14483568699531" lon="-77.51453161239624"><name>point-restroom:ellison:1520954e</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.146894430120554" lon="-77.51831889152527"><name>point-admin:ellison:a5f51fe9</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.151879" lon="-77.518189"><name>point-lodge:ellison:91d121a6</name><desc>{
   "type": "point-lodge",
   "name": "Pavilion Lodge",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.15106" lon="-77.513498"><name>point-lodge:ellison:d13f5e4c</name><desc>{
   "type": "point-lodge",
   "name": "Hazelwood Lodge",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.149225" lon="-77.515807"><name>point-lodge:ellison:a3f9abd0</name><desc>{
   "type": "point-lodge",
   "name": "Creekside Lodge",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14441297070183" lon="-77.51663446426392"><name>point-lodge:ellison:c6eca31c</name><desc>{
   "type": "point-lodge",
   "name": "South Lodge",
@@ -1607,19 +1669,27 @@
     43.14725,
     -77.514289
   ],
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14933" lon="-77.513922"><name>point-shelter:ellison:f1ec46a5</name><desc>{
   "type": "point-shelter",
   "name": "Old Meadow Shelter",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.149195" lon="-77.516936"><name>point-shelter:ellison:a8a0b8cc</name><desc>{
   "type": "point-shelter",
   "name": "Orchard Grove Shelter",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.150427" lon="-77.515089"><name>point-shelter:ellison:7caca62a</name><desc>{
   "type": "point-shelter",
   "name": "Roadside Shelter",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.1450861841603" lon="-77.5158941745758"><name>point-shelter:ellison:6ea06d23</name><desc>{
   "type": "point-shelter",
   "name": "Island Shelter",
@@ -1627,7 +1697,9 @@
     43.146015,
     -77.513366
   ],
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14406853304225" lon="-77.51530408859253"><name>point-shelter:ellison:e10fe95e</name><desc>{
   "type": "point-shelter",
   "name": "Spruce Shelter",
@@ -1635,7 +1707,9 @@
     43.14725,
     -77.514289
   ],
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14423292398549" lon="-77.51381278038025"><name>point-shelter:ellison:0497555f</name><desc>{
   "type": "point-shelter",
   "name": "Sycamore Shelter",
@@ -1643,13 +1717,19 @@
     43.146015,
     -77.513366
   ],
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.143637983238754" lon="-77.51280426979065"><name>point-shelter:ellison:df37e0c4</name><desc>{
   "type": "point-shelter",
   "name": "Circle Shelter",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt><wpt lat="43.14490613942671" lon="-77.51204252243042"><name>point-boatLaunch:ellison:388d887c</name><desc>{
   "type": "point-boatLaunch",
   "name": "Boat Launch",
-  "parkID": "park-ellison"
+  "parentIDs": [
+    "park-ellison"
+  ]
 }</desc></wpt></gpx>

@@ -8061,99 +8061,141 @@
   "type": "point-parking",
   "comments": "Kana N",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258113" lon="-77.458559"><name>point-parking:webstercp:c1476d05</name><desc>{
   "type": "point-parking",
   "comments": "Kana S",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259847" lon="-77.451699"><name>point-parking:webstercp:a36c60ba</name><desc>{
   "type": "point-parking",
   "comments": "Whitehouse W",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260351" lon="-77.449549"><name>point-parking:webstercp:5ba3857a</name><desc>{
   "type": "point-parking",
   "comments": "Whitehouse E",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259908" lon="-77.4473"><name>point-parking:webstercp:a2f98ba5</name><desc>{
   "type": "point-parking",
   "comments": "Parkview",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259932" lon="-77.44644"><name>point-parking:webstercp:27bf5021</name><desc>{
   "type": "point-parking",
   "comments": "Holt",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258011" lon="-77.446786"><name>point-parking:webstercp:cfb64e5d</name><desc>{
   "type": "point-parking",
   "comments": "Office",
   "name": "Parking",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.253812" lon="-77.456911"><name>point-restroom:webstercp:e34872e4</name><desc>{
   "type": "point-restroom",
   "comments": "Wolf C",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.252615" lon="-77.456388"><name>point-restroom:webstercp:a3d11807</name><desc>{
   "type": "point-restroom",
   "comments": "Wolf S",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.256441" lon="-77.449774"><name>point-restroom:webstercp:20893e98</name><desc>{
   "type": "point-restroom",
   "comments": "Valley View",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259118" lon="-77.448186"><name>point-restroom:webstercp:f3cd952a</name><desc>{
   "type": "point-restroom",
   "comments": "Parkview",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260515" lon="-77.448648"><name>point-restroom:webstercp:cb28e61d</name><desc>{
   "type": "point-restroom",
   "comments": "Lakeview",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259408" lon="-77.444741"><name>point-restroom:webstercp:d369f0e0</name><desc>{
   "type": "point-restroom",
   "comments": "Holt",
   "name": "Restroom",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259159" lon="-77.458714"><name>point-lodge:webstercp:1c90bd17</name><desc>{
   "type": "point-lodge",
   "name": "Kanatota Lodge",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260229" lon="-77.450017"><name>point-lodge:webstercp:3af59ff2</name><desc>{
   "type": "point-lodge",
   "name": "White House Lodge",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259037" lon="-77.447498"><name>point-lodge:webstercp:fa72260d</name><desc>{
   "type": "point-lodge",
   "name": "Parkview Lodge",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.259085" lon="-77.443993"><name>point-lodge:webstercp:1405b9fc</name><desc>{
   "type": "point-lodge",
   "name": "Holt Lodge",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.252894" lon="-77.456264"><name>point-lodge:webstercp:7dc43ff3</name><desc>{
   "type": "point-lodge",
   "name": "Wolf Cabin Lodge",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.26042" lon="-77.448244"><name>point-shelter:webstercp:d603c8c1</name><desc>{
   "type": "point-shelter",
   "name": "Lakeview 1 Shelter",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260554" lon="-77.447325"><name>point-shelter:webstercp:cb321c0f</name><desc>{
   "type": "point-shelter",
   "name": "Lakeview 2 Shelter",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258949" lon="-77.452355"><name>point-shelter:webstercp:c296f5b8</name><desc>{
   "type": "point-shelter",
   "name": "Ridge Hill   Shelter",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258865" lon="-77.451523"><name>point-shelter:webstercp:3eb7c7bb</name><desc>{
   "type": "point-shelter",
   "name": "Beeches Shelter",
@@ -8161,11 +8203,15 @@
     43.259908,
     -77.4473
   ],
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.257697" lon="-77.450381"><name>point-shelter:webstercp:df7270b0</name><desc>{
   "type": "point-shelter",
   "name": "Orchard Hill Shelter",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.257846" lon="-77.448503"><name>point-shelter:webstercp:a19d88db</name><desc>{
   "type": "point-shelter",
   "name": "Creek Bend Shelter",
@@ -8173,63 +8219,93 @@
     43.258011,
     -77.446786
   ],
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.2556" lon="-77.450446"><name>point-shelter:webstercp:5175c2b2</name><desc>{
   "type": "point-shelter",
   "name": "Valley View Shelter",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.24633" lon="-77.461799"><name>point-campsite:webstercp:210186b8</name><desc>{
   "type": "point-campsite",
   "name": "Mohawk (Youth)",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.246168" lon="-77.459459"><name>point-campsite:webstercp:493fa86b</name><desc>{
   "type": "point-campsite",
   "name": "Onondaga (Youth)",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.246229" lon="-77.455717"><name>point-campsite:webstercp:8a9b2071</name><desc>{
   "type": "point-campsite",
   "name": "Seneca (Youth)",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.250283" lon="-77.456562"><name>point-campsite:webstercp:f74127af</name><desc>{
   "type": "point-campsite",
   "name": "Cattaraugus (Youth)",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.261625" lon="-77.449723"><name>point-poi:webstercp:0d7c6fef</name><desc>{
   "type": "point-poi",
   "name": "Fishing Pier",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260034" lon="-77.44475"><name>point-sports:webstercp:9be39eb7</name><desc>{
   "type": "point-sports",
   "name": "Multi-Use Fields",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.256479" lon="-77.450918"><name>point-sports:webstercp:39e17961</name><desc>{
   "type": "point-sports",
   "name": "Tennis Courts",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.257855" lon="-77.447607"><name>point-sports:webstercp:670cc5ef</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258529" lon="-77.448161"><name>point-sports:webstercp:e5492b4f</name><desc>{
   "type": "point-sports",
   "name": "Sledding Hill",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.258648" lon="-77.446975"><name>point-admin:webstercp:81deb8f2</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.253335" lon="-77.456899"><name>point-campsite:webstercp:783a3bc4</name><desc>{
   "type": "point-campsite",
   "name": "Camping Area",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.260382" lon="-77.45127"><name>point-scenic:webstercp:0cf1d590</name><desc>{
   "type": "point-scenic",
   "comments": "Whitehouse W",
   "name": "Scenic Point",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt><wpt lat="43.26101" lon="-77.449566"><name>point-scenic:webstercp:25bf02c8</name><desc>{
   "type": "point-scenic",
   "comments": "Whitehouse E",
   "name": "Scenic Point",
-  "parkID": "park-webstercp"
+  "parentIDs": [
+    "park-webstercp"
+  ]
 }</desc></wpt></gpx>

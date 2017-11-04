@@ -5035,37 +5035,51 @@
   "type": "point-parking",
   "comments": "W W",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.047962" lon="-77.483796"><name>point-parking:pmills:489ef578</name><desc>{
   "type": "point-parking",
   "comments": "W E",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046892" lon="-77.481562"><name>point-parking:pmills:353ecb86</name><desc>{
   "type": "point-parking",
   "comments": "Rand",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.04614" lon="-77.482461"><name>point-parking:pmills:0fe20f93</name><desc>{
   "type": "point-parking",
   "comments": "East Area",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.047889" lon="-77.476246"><name>point-parking:pmills:25956bf3</name><desc>{
   "type": "point-parking",
   "comments": "Mushroom",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039886" lon="-77.476962"><name>point-parking:pmills:1405706a</name><desc>{
   "type": "point-parking",
   "comments": "Oak",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039185" lon="-77.481861"><name>point-parking:pmills:92aaceb0</name><desc>{
   "type": "point-parking",
   "comments": "P Horn",
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.037118" lon="-77.481367"><name>point-parking:pmills:081ccfa6</name><desc>{
   "type": "point-parking",
   "comments": "Shadyrest",
@@ -5074,34 +5088,48 @@
     -77.482276
   ],
   "name": "Parking",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039673" lon="-77.481627"><name>point-restroom:pmills:7ee230a6</name><desc>{
   "type": "point-restroom",
   "comments": "Powder Horn",
   "name": "Restroom",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039693" lon="-77.478379"><name>point-restroom:pmills:4e46e600</name><desc>{
   "type": "point-restroom",
   "comments": "Oak",
   "name": "Restroom",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046959" lon="-77.481074"><name>point-restroom:pmills:fb86697c</name><desc>{
   "type": "point-restroom",
   "comments": "Rand",
   "name": "Restroom",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046931" lon="-77.480337"><name>point-lodge:pmills:b5e018eb</name><desc>{
   "type": "point-lodge",
   "name": "Rand Lodge",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.045707" lon="-77.48162"><name>point-lodge:pmills:238fb811</name><desc>{
   "type": "point-lodge",
   "name": "Wadhams Lodge",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039672" lon="-77.481867"><name>point-lodge:pmills:91246dcf</name><desc>{
   "type": "point-lodge",
   "name": "Powder Horn Lodge",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.038311" lon="-77.480492"><name>point-lodge:pmills:24b71ffc</name><desc>{
   "type": "point-lodge",
   "name": "North Lodge",
@@ -5109,7 +5137,9 @@
     43.039742,
     -77.479873
   ],
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.038037" lon="-77.480704"><name>point-lodge:pmills:74ca8c3d</name><desc>{
   "type": "point-lodge",
   "name": "South Lodge",
@@ -5117,7 +5147,9 @@
     43.039742,
     -77.479873
   ],
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.037084" lon="-77.480009"><name>point-lodge:pmills:1a99f5e6</name><desc>{
   "type": "point-lodge",
   "name": "Mess Hall Lodge",
@@ -5125,23 +5157,33 @@
     43.039742,
     -77.479873
   ],
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.039912" lon="-77.478342"><name>point-lodge:pmills:27207bb8</name><desc>{
   "type": "point-lodge",
   "name": "Oak Tree Lodge",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.049544" lon="-77.485469"><name>point-shelter:pmills:98cc0c3e</name><desc>{
   "type": "point-shelter",
   "name": "West Area Shelter",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046142" lon="-77.482747"><name>point-shelter:pmills:199bdacb</name><desc>{
   "type": "point-shelter",
   "name": "East Area Shelter",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.03962" lon="-77.482484"><name>point-shelter:pmills:5b1fa847</name><desc>{
   "type": "point-shelter",
   "name": "Butternut Grove Shelter",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.036307" lon="-77.480538"><name>point-shelter:pmills:51802d9e</name><desc>{
   "type": "point-shelter",
   "name": "Shadyrest Shelter",
@@ -5149,35 +5191,51 @@
     43.0389,
     -77.482276
   ],
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.045203" lon="-77.477936"><name>point-admin:pmills:48c831c7</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046111" lon="-77.482011"><name>point-poi:pmills:263710d8</name><desc>{
   "type": "point-poi",
   "name": "Mill Wheel",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.046224" lon="-77.481225"><name>point-scenic:pmills:6f25e18a</name><desc>{
   "type": "point-scenic",
   "name": "Sandhill",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.047037" lon="-77.476584"><name>point-poi:pmills:04ee0255</name><desc>{
   "type": "point-poi",
   "name": "Fish Hatchery",
   "allowsDirections": true,
   "url": "http://fishpowdermill.org",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.048209" lon="-77.485512"><name>point-sports:pmills:9df45ddb</name><desc>{
   "type": "point-sports",
   "name": "Volleyball Area",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.038951" lon="-77.481486"><name>point-sports:pmills:86ea2dcf</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt><wpt lat="43.038712" lon="-77.483173"><name>point-sports:pmills:08908a94</name><desc>{
   "type": "point-sports",
   "name": "Downhill Ski Area",
-  "parkID": "park-pmills"
+  "parentIDs": [
+    "park-pmills"
+  ]
 }</desc></wpt></gpx>

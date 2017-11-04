@@ -7850,63 +7850,93 @@
   "type": "point-parking",
   "comments": "Tryon",
   "name": "Parking",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.164164" lon="-77.540173"><name>point-sports:tryon:7b9df777</name><desc>{
   "type": "point-sports",
   "name": "Softball Fields",
   "comments": "Tryon",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.162407" lon="-77.541074"><name>point-sports:tryon:648a1828</name><desc>{
   "type": "point-sports",
   "name": "Basketball/Tennis",
   "comments": "Tryon",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.161807" lon="-77.537518"><name>point-intersection:tryon:6b2e1fd2</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 1",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.162969" lon="-77.53768"><name>point-intersection:tryon:88e3588a</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 2",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.163572" lon="-77.537693"><name>point-intersection:tryon:a63ad4ec</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 3",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.164565" lon="-77.535788"><name>point-intersection:tryon:508a03b2</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 4",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.167377" lon="-77.534992"><name>point-intersection:tryon:698c4a0e</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 5",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.169408" lon="-77.533633"><name>point-intersection:tryon:a186ef0b</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 6",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.168377" lon="-77.53654"><name>point-intersection:tryon:4816d56d</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 7",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.169231" lon="-77.536371"><name>point-intersection:tryon:1f8795d4</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 8",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.169808" lon="-77.535981"><name>point-intersection:tryon:b7730d51</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 9",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.17021" lon="-77.535244"><name>point-intersection:tryon:8085d89b</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 10",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.170942" lon="-77.536295"><name>point-intersection:tryon:dcfe88e8</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 11",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt><wpt lat="43.171661" lon="-77.535857"><name>point-intersection:tryon:038661bf</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 12",
-  "parkID": "park-tryon"
+  "parentIDs": [
+    "park-tryon"
+  ]
 }</desc></wpt></gpx>

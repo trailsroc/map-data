@@ -1755,123 +1755,179 @@
   "type": "point-poi",
   "name": "Camp Eastman",
   "url": "http://www.irondequoit.org/town-departments/parks-and-recreation/parks-and-facilities",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.241248108449106" lon="-77.5740659236908"><name>point-parking:durand_eastman:810e630a</name><desc>{
   "type": "point-parking",
   "comments": "shore W",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.238302325968746" lon="-77.5677090883255"><name>point-sports:durand_eastman:60f8b13f</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23723852471494" lon="-77.56784319877625"><name>point-shelter:durand_eastman:7a5f32ae</name><desc>{
   "type": "point-shelter",
   "name": "Sunset Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23770749550228" lon="-77.56770372390747"><name>point-restroom:durand_eastman:ad3cc36a</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23712128145412" lon="-77.56747841835022"><name>point-parking:durand_eastman:a66bde34</name><desc>{
   "type": "point-parking",
   "comments": "Sunset",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23434645843591" lon="-77.56982803344727"><name>point-parking:durand_eastman:2f731184</name><desc>{
   "type": "point-parking",
   "comments": "golf",
   "allowsDirections": true,
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23375239539733" lon="-77.56814360618591"><name>point-poi:durand_eastman:ce19e7a7</name><desc>{
   "type": "point-poi",
   "name": "Durand-Eastman Golf Course",
   "url": "http://www.durandeastmangolfclub.org/",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.239016" lon="-77.567574"><name>point-parking:durand_eastman:35823175</name><desc>{
   "type": "point-parking",
   "comments": "Beach at Kings Highway",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.237097832774914" lon="-77.56105184555054"><name>point-parking:durand_eastman:c34d089e</name><desc>{
   "type": "point-parking",
   "comments": "shore C",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23637091924316" lon="-77.5574791431427"><name>point-parking:durand_eastman:2afdd83d</name><desc>{
   "type": "point-parking",
   "comments": "shore E",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23386964513996" lon="-77.55918502807617"><name>point-shelter:durand_eastman:02fe7587</name><desc>{
   "type": "point-shelter",
   "name": "Acorn Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23328339417101" lon="-77.5603973865509"><name>point-shelter:durand_eastman:d90afb2d</name><desc>{
   "type": "point-shelter",
   "name": "Maple Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23357261202053" lon="-77.55968928337097"><name>point-restroom:durand_eastman:c01974c1</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.231868792897515" lon="-77.56225347518921"><name>point-shelter:durand_eastman:e3582331</name><desc>{
   "type": "point-shelter",
   "name": "Hemlock Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23010553252583" lon="-77.56208181381226"><name>point-shelter:durand_eastman:8f1767b9</name><desc>{
   "type": "point-shelter",
   "name": "Conifer Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.229527901656304" lon="-77.56112962961197"><name>point-shelter:durand_eastman:a5c7017a</name><desc>{
   "type": "point-shelter",
   "name": "Magnolia Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.229403530657166" lon="-77.56249219179153"><name>point-shelter:durand_eastman:4c2fa09a</name><desc>{
   "type": "point-shelter",
   "name": "Olive Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.2296660913577" lon="-77.5626853108406"><name>point-shelter:durand_eastman:76c3b4af</name><desc>{
   "type": "point-shelter",
   "name": "Buck Thorn Shelter",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.2291990089068" lon="-77.561856508255"><name>point-parking:durand_eastman:40942712</name><desc>{
   "type": "point-parking",
   "comments": "tree shelters",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.22947815328712" lon="-77.56196916103363"><name>point-restroom:durand_eastman:403f6844</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.22964398102654" lon="-77.56225615739822"><name>point-sports:durand_eastman:a1b36ecb</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23232193037336" lon="-77.55696415901184"><name>point-admin:durand_eastman:1556b70e</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23188418573315" lon="-77.55588054656982"><name>point-parking:durand_eastman:3abba4a1</name><desc>{
   "type": "point-parking",
   "comments": "office",
   "name": "Parking",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.227546226878175" lon="-77.54955589771271"><name>point-sports:durand_eastman:c8243893</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.22897623080891" lon="-77.55472183227539"><name>point-poi:durand_eastman:80251aa5</name><desc>{
   "type": "point-poi",
   "name": "Arboretum",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.23344754501082" lon="-77.55300521850586"><name>point-poi:durand_eastman:86c9e613</name><desc>{
   "type": "point-poi",
   "name": "Tamarack Swamp",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt><wpt lat="43.235675" lon="-77.556862"><name>point-poi:durand_eastman:4cf90beb</name><desc>{
   "type": "point-poi",
   "name": "White Lady&#x2019;s Castle",
-  "parkID": "park-dureast"
+  "parentIDs": [
+    "park-dureast"
+  ]
 }</desc></wpt></gpx>

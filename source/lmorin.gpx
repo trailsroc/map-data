@@ -1171,13 +1171,19 @@
 <wpt lat="43.17538876465969" lon="-77.52373695373535"><name>point-parking:lmorin:7f371260</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lmorin"
+  "parentIDs": [
+    "park-lmorin"
+  ]
 }</desc></wpt><wpt lat="43.172126011563776" lon="-77.52838253974915"><name>point-poi:lmorin:db5928dc</name><desc>{
   "type": "point-poi",
   "name": "Wetlands Center",
-  "parkID": "park-lmorin"
+  "parentIDs": [
+    "park-lmorin"
+  ]
 }</desc></wpt><wpt lat="43.157434" lon="-77.52703"><name>point-poi:lmorin:d9e8843e</name><desc>{
   "type": "point-poi",
   "name": "Underpass",
-  "parkID": "park-lmorin"
+  "parentIDs": [
+    "park-lmorin"
+  ]
 }</desc></wpt></gpx>

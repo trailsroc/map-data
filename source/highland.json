@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-highland": {
       "name": "Highland Park",
@@ -23,9 +23,6 @@
       "url": "http://www.monroecounty.gov/parks-highland.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.125032,
         -77.610961
@@ -36,7 +33,5 @@
       ],
       "parkID": "park-highland"
     }
-  },
-  "points": {
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-wrnp": {
       "name": "Whiting Road Nature Preserve",
@@ -61,12 +61,6 @@
       "name": "Blue Trail",
       "color": "blue",
       "length": 0.7,
-      "trailheads": [
-        [
-          43.246896,
-          -77.46897
-        ]
-      ],
       "SW": [
         43.24567,
         -77.471619
@@ -137,7 +131,5 @@
       ],
       "parkID": "park-wrnp"
     }
-  },
-  "points": {
   }
 }

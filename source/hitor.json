@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-hitor": {
       "name": "High Tor Wildlife Management Area",
@@ -41,16 +41,6 @@
       "name": "Finger Lakes Bristol Hills Trail",
       "color": "orange",
       "url": "http://www.cnyhiking.com/BHT-NaplesToHiTorWMA.htm",
-      "trailheads": [
-        [
-          42.621731,
-          -77.3283
-        ],
-        [
-          42.625891,
-          -77.389868
-        ]
-      ],
       "SW": [
         42.612015,
         -77.392814
@@ -74,7 +64,5 @@
       ],
       "parkID": "park-hitor"
     }
-  },
-  "points": {
   }
 }

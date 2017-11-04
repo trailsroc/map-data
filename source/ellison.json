@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-ellison": {
       "name": "Ellison Park",
@@ -24,9 +24,6 @@
       "name": "Bridle Trail",
       "color": "grass",
       "length": 0.9,
-      "trailheads": [
-
-      ],
       "SW": [
         43.148399,
         -77.525976
@@ -42,9 +39,6 @@
       "name": "Butler’s Gap Trail",
       "color": "purple",
       "length": 0.7,
-      "trailheads": [
-
-      ],
       "SW": [
         43.150221,
         -77.524618
@@ -60,12 +54,6 @@
       "name": "Coyote Den Trail",
       "color": "sky",
       "length": 1.1,
-      "trailheads": [
-        [
-          43.135855,
-          -77.513401
-        ]
-      ],
       "SW": [
         43.13624,
         -77.518375
@@ -81,9 +69,6 @@
       "name": "Indian Landing Trail",
       "color": "orange",
       "length": 1.5,
-      "trailheads": [
-
-      ],
       "SW": [
         43.149017,
         -77.525158
@@ -99,9 +84,6 @@
       "name": "Mill Race Trail",
       "color": "brown",
       "length": 0.4,
-      "trailheads": [
-
-      ],
       "SW": [
         43.147956,
         -77.5146
@@ -117,9 +99,6 @@
       "name": "Overlook Trail",
       "color": "red",
       "length": 0.6,
-      "trailheads": [
-
-      ],
       "SW": [
         43.140581,
         -77.513237
@@ -134,9 +113,6 @@
       "url": "http://www.monroecounty.gov/parks-ellison.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.14419,
         -77.521491
@@ -147,7 +123,5 @@
       ],
       "parkID": "park-ellison"
     }
-  },
-  "points": {
   }
 }

@@ -1262,7 +1262,9 @@
     43.006095,
     -77.7917
   ],
-  "parkID": "park-oatka"
+  "parentIDs": [
+    "park-oatka"
+  ]
 }</desc></wpt><wpt lat="43.00602015903273" lon="-77.79235482215881"><name>point-parking:oatka:7e212cad</name><desc>{
   "type": "point-parking",
   "directionsCoordinate": [
@@ -1270,9 +1272,13 @@
     -77.7917
   ],
   "name": "Parking",
-  "parkID": "park-oatka"
+  "parentIDs": [
+    "park-oatka"
+  ]
 }</desc></wpt><wpt lat="43.005627" lon="-77.793405"><name>point-sports:oatka:eb306de3</name><desc>{
   "type": "point-sports",
   "name": "Soccer Fields",
-  "parkID": "park-oatka"
+  "parentIDs": [
+    "park-oatka"
+  ]
 }</desc></wpt></gpx>

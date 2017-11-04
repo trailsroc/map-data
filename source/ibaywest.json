@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-ibaywest": {
       "name": "Irondequoit Bay Park West",
@@ -27,9 +27,6 @@
       "url": "http://www.monroecounty.gov/parks-baywest.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.183407,
         -77.538055
@@ -45,12 +42,6 @@
       "name": "Green Trail",
       "color": "dark_green",
       "length": 0.49,
-      "trailheads": [
-        [
-          43.189137,
-          -77.53183
-        ]
-      ],
       "SW": [
         43.185883,
         -77.538536
@@ -66,16 +57,6 @@
       "name": "Purple Trail",
       "color": "purple",
       "length": 0.66,
-      "trailheads": [
-        [
-          43.182628,
-          -77.531867
-        ],
-        [
-          43.183743,
-          -77.529015
-        ]
-      ],
       "SW": [
         43.182682,
         -77.533531
@@ -91,9 +72,6 @@
       "name": "Red Trail",
       "color": "red",
       "length": 0.69,
-      "trailheads": [
-
-      ],
       "SW": [
         43.185207,
         -77.539711
@@ -109,16 +87,6 @@
       "name": "Blue Trail",
       "color": "sky",
       "length": 1.5,
-      "trailheads": [
-        [
-          43.186226,
-          -77.543198
-        ],
-        [
-          43.189037,
-          -77.530693
-        ]
-      ],
       "SW": [
         43.184895,
         -77.543198
@@ -134,9 +102,6 @@
       "name": "Orange Trail",
       "color": "orange",
       "length": 0.67,
-      "trailheads": [
-
-      ],
       "SW": [
         43.18512,
         -77.539665
@@ -147,7 +112,5 @@
       ],
       "parkID": "park-ibaywest"
     }
-  },
-  "points": {
   }
 }

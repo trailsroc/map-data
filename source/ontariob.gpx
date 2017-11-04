@@ -149,114 +149,170 @@
 <wpt lat="43.259823184234364" lon="-77.60942280292511"><name>point-poi:ontariob:6d84ac9c</name><desc>{
   "type": "point-poi",
   "name": "Roger Robach Community Center",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25911998206949" lon="-77.60848939418793"><name>point-poi:ontariob:af42f1ca</name><desc>{
   "type": "point-poi",
   "name": "Concession Stand",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258826978770486" lon="-77.60861545801163"><name>point-sports:ontariob:3ab96db8</name><desc>{
   "type": "point-sports",
   "name": "Bocce Courts",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25998921689369" lon="-77.6098707318306"><name>point-sports:ontariob:42ef52a3</name><desc>{
   "type": "point-sports",
   "name": "Basketball Courts",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258254641592785" lon="-77.6075667142868"><name>point-sports:ontariob:696030d3</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25952823098183" lon="-77.60767936706543"><name>point-poi:ontariob:72d2dcfc</name><desc>{
   "type": "point-poi",
   "name": "Gazebo",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258553507752616" lon="-77.60440170764923"><name>point-poi:ontariob:67d19a61</name><desc>{
   "type": "point-poi",
   "name": "Gazebo",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258770331303346" lon="-77.60491132736206"><name>point-sports:ontariob:35073245</name><desc>{
   "type": "point-sports",
   "name": "Volleyball Area",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258684383321565" lon="-77.60640531778336"><name>point-poi:ontariob:ec8219b5</name><desc>{
   "type": "point-poi",
   "name": "Bandstand",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.257711599979494" lon="-77.6055309176445"><name>point-poi:ontariob:27c8e9f6</name><desc>{
   "type": "point-poi",
   "name": "Carousel",
   "url": "http://rocwiki.org/Dentzel_Carousel",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.255310829204355" lon="-77.61021137237549"><name>point-admin:ontariob:10978bd5</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25878400483473" lon="-77.6075130701065"><name>point-shelter:ontariob:2601c25c</name><desc>{
   "type": "point-shelter",
   "name": "Beachfront Shelter",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25856913470101" lon="-77.60768473148346"><name>point-shelter:ontariob:8388931d</name><desc>{
   "type": "point-shelter",
   "name": "Sandpiper Shelter",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25825268821436" lon="-77.60565161705017"><name>point-shelter:ontariob:413cf271</name><desc>{
   "type": "point-shelter",
   "name": "Harborview Shelter",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25828394226155" lon="-77.60500252246857"><name>point-shelter:ontariob:fae3d6c6</name><desc>{
   "type": "point-shelter",
   "name": "Shoreline Shelter",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25830347603289" lon="-77.6045572757721"><name>point-shelter:ontariob:d6ef6f9b</name><desc>{
   "type": "point-shelter",
   "name": "Portside Shelter",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25789717229855" lon="-77.61123061180115"><name>point-sports:ontariob:9b5b6dd3</name><desc>{
   "type": "point-sports",
   "name": "Soccer Field",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25686968056554" lon="-77.61407911777496"><name>point-sports:ontariob:d0102eb1</name><desc>{
   "type": "point-sports",
   "name": "Baseball Fields",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.257600256316586" lon="-77.61234641075134"><name>point-sports:ontariob:3e8e6b5b</name><desc>{
   "type": "point-sports",
   "name": "Baseball Fields",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25954971769087" lon="-77.608682513237"><name>point-restroom:ontariob:262feb2f</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25789717229855" lon="-77.60712146759033"><name>point-restroom:ontariob:f9219612</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25792451975036" lon="-77.6047557592392"><name>point-restroom:ontariob:d49caca7</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.2539238477042" lon="-77.60895609855652"><name>point-boatLaunch:ontariob:ee325d17</name><desc>{
   "type": "point-boatLaunch",
   "name": "City Boat Launch",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.258565227964304" lon="-77.6104474067688"><name>point-parking:ontariob:565daf5d</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25858085490968" lon="-77.60982513427734"><name>point-parking:ontariob:2cb4d6ce</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.25704158153082" lon="-77.6079797744751"><name>point-parking:ontariob:29618781</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.256986885821775" lon="-77.60617196559906"><name>point-parking:ontariob:075b962b</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt><wpt lat="43.256486808489626" lon="-77.60668694972992"><name>point-parking:ontariob:b1a333f1</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ontariob"
+  "parentIDs": [
+    "park-ontariob"
+  ]
 }</desc></wpt></gpx>

@@ -6076,7 +6076,9 @@
   ],
   "comments": "Square Dr",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="43.028995" lon="-77.435295"><name>point-parking:senecatr:46d7f85e</name><desc>{
   "type": "point-parking",
   "directionsCoordinate": [
@@ -6085,12 +6087,16 @@
   ],
   "comments": "Constellation Brands",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.995138" lon="-77.436878"><name>point-parking:senecatr:d26eace8</name><desc>{
   "type": "point-parking",
   "comments": "Lehigh Crossing Park",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.996655" lon="-77.4398"><name>point-poi:senecatr:d65be60d</name><desc>{
   "type": "point-poi",
   "name": "Lehigh Crossing Park",
@@ -6106,29 +6112,41 @@
     42.999978,
     -77.434278
   ],
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.980988" lon="-77.42142"><name>point-parking:senecatr:50bb0ac5</name><desc>{
   "type": "point-parking",
   "comments": "Rawson Rd",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.970552" lon="-77.412363"><name>point-parking:senecatr:87da66cb</name><desc>{
   "type": "point-parking",
   "comments": "Ganondagan East",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.960777" lon="-77.425243"><name>point-parking:senecatr:7f81f114</name><desc>{
   "type": "point-parking",
   "comments": "Ganondagan South",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="43.025823" lon="-77.43599"><name>point-parking:senecatr:dfa32c4f</name><desc>{
   "type": "point-parking",
   "comments": "Valentown",
   "name": "Parking",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt><wpt lat="42.92932" lon="-77.440644"><name>point-parking:senecatr:9a99ff68</name><desc>{
   "type": "point-parking",
   "name": "(Permit Required)",
-  "parkID": "park-senecatr"
+  "parentIDs": [
+    "park-senecatr"
+  ]
 }</desc></wpt></gpx>

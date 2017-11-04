@@ -7,19 +7,25 @@
     <wpt lon="-77.573261" lat="43.139613">
         <name>point-scenic:city_parks:45996ff8</name><desc>{
   "name": "City Overlook",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.575447" lat="43.141464">
         <name>point-parking:city_parks:b475e6c9</name><desc>{
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.576800" lat="43.138204">
         <name>point-sports:city_parks:bebe19e9</name><desc>{
   "name": "Tennis Courts",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.566163" lat="43.139619">
@@ -27,7 +33,9 @@
         <desc>{
   "url": "http://www.cityofrochester.gov/washingtongrove/",
   "name": "Washington Grove",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.567728" lat="43.141021">
@@ -35,49 +43,65 @@
         <desc>{
   "url": "https://rocwiki.org/The_Water_Towers",
   "name": "Water Towers",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.563462" lat="43.139635">
         <name>point-parking:city_parks:01ba2f1c</name><desc>{
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.569616" lat="43.139647">
         <name>point-parking:city_parks:5fb684fb</name><desc>{
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.572805" lat="43.139603">
         <name>point-parking:city_parks:023098f9</name><desc>{
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.575259" lat="43.138712">
         <name>point-poi:city_parks:9534e85b</name><desc>{
   "name": "Switchback",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.570223" lat="43.142475">
         <name>point-sports:city_parks:1e798f21</name><desc>{
   "name": "Ball Fields",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.575707" lat="43.140621">
         <name>point-sports:city_parks:04fafe31</name><desc>{
   "name": "Ball Field",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574149" lat="43.140701">
         <name>point-sports:city_parks:066d7674</name><desc>{
   "name": "Basketball Courts",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574734" lat="43.141337">
@@ -85,19 +109,25 @@
         <desc>{
   "url": "http://www.cityofrochester.gov/article.aspx?id=8589935140",
   "name": "Lake Riley Lodge",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574012" lat="43.141371">
         <name>point-parking:city_parks:df222926</name><desc>{
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574756" lat="43.140874">
         <name>point-sports:city_parks:2ba121c6</name><desc>{
   "name": "Playground",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574732" lat="43.139795">
@@ -108,7 +138,9 @@
     -77.573697
   ],
   "name": "Parking",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.566082" lat="43.141759">
@@ -116,13 +148,17 @@
         <desc>{
   "url": "http://www.cityofrochester.gov/article.aspx?id=8589935131",
   "name": "Tay House Lodge",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.574921" lat="43.138060">
         <name>point-scenic:city_parks:8f62adda</name><desc>{
   "name": "Scenic Point",
-  "parkID": "park-cobbs"
+  "parentIDs": [
+    "park-cobbs"
+  ]
 }</desc>
     </wpt>
     <rte>

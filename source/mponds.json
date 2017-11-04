@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-mponds": {
       "name": "Mendon Ponds Park",
@@ -24,12 +24,6 @@
       "name": "Devil’s Bathtub Trail",
       "color": "grass",
       "length": 0.67,
-      "trailheads": [
-        [
-          43.021673,
-          -77.573337
-        ]
-      ],
       "SW": [
         43.021673,
         -77.573858
@@ -45,12 +39,6 @@
       "name": "Birdsong/Nature Trail",
       "color": "yellow",
       "length": 1,
-      "trailheads": [
-        [
-          43.02134,
-          -77.58218
-        ]
-      ],
       "SW": [
         43.018762,
         -77.583207
@@ -66,16 +54,6 @@
       "name": "East Esker Trail",
       "color": "dark_green",
       "length": 4.7,
-      "trailheads": [
-        [
-          43.01008415163849,
-          -77.5633156299591
-        ],
-        [
-          43.02727076805929,
-          -77.55618095397949
-        ]
-      ],
       "SW": [
         43.01012,
         -77.565364
@@ -91,12 +69,6 @@
       "name": "Fern Valley Trail",
       "color": "brown",
       "length": 1.4,
-      "trailheads": [
-        [
-          43.034856,
-          -77.574561
-        ]
-      ],
       "SW": [
         43.034532,
         -77.574561
@@ -112,16 +84,6 @@
       "name": "Grasslands Trail",
       "color": "sky",
       "length": 2,
-      "trailheads": [
-        [
-          43.02341968986633,
-          -77.57907629013062
-        ],
-        [
-          43.023937364126226,
-          -77.57428586483002
-        ]
-      ],
       "SW": [
         43.0233,
         -77.580825
@@ -137,12 +99,6 @@
       "name": "North Meadow Trail",
       "color": "blue",
       "length": 1.8,
-      "trailheads": [
-        [
-          43.033785,
-          -77.552175
-        ]
-      ],
       "SW": [
         43.026929,
         -77.555779
@@ -158,12 +114,6 @@
       "name": "Pine Woods Trail",
       "color": "red_orange",
       "length": 1,
-      "trailheads": [
-        [
-          43.034019,
-          -77.551177
-        ]
-      ],
       "SW": [
         43.034019,
         -77.555492
@@ -179,16 +129,6 @@
       "name": "Quaker Pond Trail",
       "color": "purple",
       "length": 2.7,
-      "trailheads": [
-        [
-          42.99675,
-          -77.571432
-        ],
-        [
-          43.015305,
-          -77.57199
-        ]
-      ],
       "SW": [
         42.9992,
         -77.578869
@@ -204,16 +144,6 @@
       "name": "Southern Meadow Trail",
       "color": "red",
       "length": 3,
-      "trailheads": [
-        [
-          42.996751,
-          -77.5711
-        ],
-        [
-          43.009636968706786,
-          -77.56349265575409
-        ]
-      ],
       "SW": [
         42.9991,
         -77.570614
@@ -229,9 +159,6 @@
       "name": "Swamp Trail",
       "color": "yellow",
       "length": 0.7,
-      "trailheads": [
-
-      ],
       "SW": [
         43.015125,
         -77.57979
@@ -246,9 +173,6 @@
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         42.998927,
         -77.582846
@@ -264,16 +188,6 @@
       "name": "West Esker Trail",
       "color": "orange",
       "length": 1.5,
-      "trailheads": [
-        [
-          43.034403,
-          -77.577
-        ],
-        [
-          43.028262,
-          -77.568628
-        ]
-      ],
       "SW": [
         43.025316,
         -77.57734
@@ -284,7 +198,5 @@
       ],
       "parkID": "park-mponds"
     }
-  },
-  "points": {
   }
 }

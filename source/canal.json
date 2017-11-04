@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-gv-riverway-park": {
       "name": "Genesee Riverway Trail",
@@ -81,9 +81,6 @@
       "color": "brown",
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 45,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.062883,
@@ -100,9 +97,6 @@
       "color": "orange",
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 45,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.109153,
@@ -119,9 +113,6 @@
       "color": "black",
       "visibilityConstraint": "largeTrailSystem",
       "length": 45,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.109153,
@@ -135,9 +126,6 @@
     "trail-ecanal-access": {
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.06299,
@@ -151,9 +139,6 @@
     "trail-ecanal-other": {
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.095259,
@@ -169,9 +154,6 @@
       "url": "http://nyfalls.com/waterfalls/holley-falls/",
       "color": "blue",
       "length": 0.6,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.224856,
@@ -187,9 +169,6 @@
       "url": "https://www.rochesterparks.org/town-parks/ogden-parks/rose-turner-park/",
       "color": "dark_green",
       "length": 0.55,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.190886,
@@ -206,9 +185,6 @@
       "color": "dark_green",
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 34,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         42.725963,
@@ -225,9 +201,6 @@
       "color": "black",
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 34,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.092994,
@@ -241,9 +214,6 @@
     "trail-gv-greenway-access": {
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         42.922566,
@@ -259,9 +229,6 @@
       "url": "http://www.geneseelandtrust.org/protected-places.aspx?id=1",
       "color": "red",
       "length": 0.8,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.077359,
@@ -278,9 +245,6 @@
       "color": "sky",
       "visibilityConstraint": "largeTrailSystem",
       "length": 4.3,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.11488,
@@ -298,9 +262,6 @@
       "color": "sky",
       "visibilityConstraint": "largeTrailSystem",
       "length": 2.4,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.173716,
@@ -318,9 +279,6 @@
       "color": "sky",
       "visibilityConstraint": "largeTrailSystem",
       "length": 3,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.21954,
@@ -337,9 +295,6 @@
       "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
       "color": "sky",
       "length": 3.25,
-      "trailheads": [
-
-      ],
       "hideInListView": false,
       "SW": [
         43.121451,
@@ -356,9 +311,6 @@
       "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
       "color": "blue",
       "length": 0,
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.130747,
@@ -372,9 +324,6 @@
     "trail-gv-riverway-access": {
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.130153,
@@ -385,7 +334,5 @@
         -77.616804
       ]
     }
-  },
-  "points": {
   }
 }

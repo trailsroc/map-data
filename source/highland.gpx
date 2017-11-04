@@ -900,104 +900,154 @@
 <wpt lat="43.12866862149317" lon="-77.61108040809631"><name>point-parking:highland:6265dfdc</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12747843131461" lon="-77.61130571365356"><name>point-parking:highland:7eb12f77</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12938898850862" lon="-77.60786175727844"><name>point-restroom:highland:75224146</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13225471240549" lon="-77.6037847995758"><name>point-restroom:highland:7f6e1ffd</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13244262403549" lon="-77.61172413825989"><name>point-poi:highland:67ec6221</name><desc>{
   "type": "point-poi",
   "name": "Display Garden",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13288108226022" lon="-77.60996460914612"><name>point-poi:highland:759726d1</name><desc>{
   "type": "point-poi",
   "name": "Highland Bowl",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.134446978830574" lon="-77.60897755622864"><name>point-sports:highland:c03b18b6</name><desc>{
   "type": "point-sports",
   "name": "Skating Shelter",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13219990473797" lon="-77.60795831680298"><name>point-poi:highland:a3ba5dd7</name><desc>{
   "type": "point-poi",
   "name": "Lamberton Conservatory",
   "allowsDirections": true,
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.132975037185105" lon="-77.60181069374084"><name>point-scenic:highland:c176ea42</name><desc>{
   "type": "point-scenic",
   "name": "Evergreens",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.132403475826855" lon="-77.60236859321594"><name>point-scenic:highland:67a16fd5</name><desc>{
   "type": "point-scenic",
   "name": "Rhododendrons/Azaleas",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13183973884385" lon="-77.60398864746094"><name>point-poi:highland:ea18e75b</name><desc>{
   "type": "point-poi",
   "name": "Gatehouse",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13172229298502" lon="-77.60663866996765"><name>point-poi:highland:f182f050</name><desc>{
   "type": "point-poi",
   "name": "Gatehouse",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.130125006913886" lon="-77.60222911834717"><name>point-scenic:highland:18797464</name><desc>{
   "type": "point-scenic",
   "name": "Pansy Bed",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12967040031793" lon="-77.60527610778809"><name>point-scenic:highland:dc5221e6</name><desc>{
   "type": "point-scenic",
   "name": "Lilacs",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13023462591858" lon="-77.60699272155762"><name>point-scenic:highland:e496d949</name><desc>{
   "type": "point-scenic",
   "name": "Magnolias",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13157352790674" lon="-77.60854840278625"><name>point-admin:highland:0f79cc8c</name><desc>{
   "type": "point-admin",
   "name": "County Parks Administration",
   "allowsDirections": true,
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.130633950631434" lon="-77.60152101516724"><name>point-scenic:highland:c21e87a8</name><desc>{
   "type": "point-scenic",
   "name": "Lilacs",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12874692266669" lon="-77.6018750667572"><name>point-admin:highland:cc800c98</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12883305384178" lon="-77.607421875"><name>point-poi:highland:9724f365</name><desc>{
   "type": "point-poi",
   "name": "Cornell Cooperative Ext.",
   "allowsDirections": true,
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12925587785128" lon="-77.60935306549072"><name>point-poi:highland:de72103f</name><desc>{
   "type": "point-poi",
   "name": "Lilac Arches",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12808918969379" lon="-77.60860204696655"><name>point-poi:highland:0a3c64ad</name><desc>{
   "type": "point-poi",
   "name": "Worker&#x2019;s Rights Memorial",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12746277076316" lon="-77.60926723480225"><name>point-poi:highland:52eca23d</name><desc>{
   "type": "point-poi",
   "name": "Victim&#x2019;s Rights Memorial",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.127956076207795" lon="-77.6089346408844"><name>point-poi:highland:7f1fa61f</name><desc>{
   "type": "point-poi",
   "name": "AIDS Remembrance Garden",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.12812051047194" lon="-77.61012554168701"><name>point-poi:highland:647f2c7b</name><desc>{
   "type": "point-poi",
   "name": "Vietnam Veterans Memorial",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt><wpt lat="43.13480712937032" lon="-77.60931015014648"><name>point-sports:highland:85adb4b1</name><desc>{
   "type": "point-sports",
   "name": "Ball Field",
-  "parkID": "park-highland"
+  "parentIDs": [
+    "park-highland"
+  ]
 }</desc></wpt></gpx>

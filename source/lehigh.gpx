@@ -496,63 +496,93 @@
     42.98367909085195,
     -77.58255243301392
   ],
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.98702449026875" lon="-77.70078420639038"><name>point-parking:lehigh:aba338a9</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.99071501002129" lon="-77.67954647541046"><name>point-parking:lehigh:03746ff8</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.9919941815274" lon="-77.64282166957855"><name>point-parking:lehigh:a625314d</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.9849623330313" lon="-77.59835600852966"><name>point-parking:lehigh:aac0f815</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.98293346382646" lon="-77.57467746734619"><name>point-parking:lehigh:a0c14b65</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.99765203799735" lon="-77.50843226909637"><name>point-parking:lehigh:b715181d</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="43.0013360348093" lon="-77.49394297599792"><name>point-parking:lehigh:5aaf9804</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="43.00282683335733" lon="-77.48203933238983"><name>point-parking:lehigh:fcbd5759</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.99329294498958" lon="-77.6120674610138"><name>point-parking:lehigh:1c7856fb</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="43.002301134840465" lon="-77.62341856956482"><name>point-parking:lehigh:98be4d26</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="43.02602370401501" lon="-77.63028502464294"><name>point-parking:lehigh:c28b9dbc</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.981885" lon="-77.581048"><name>point-scenic:lehigh:be474d76</name><desc>{
   "type": "point-scenic",
   "comments": "East of Clover St",
   "name": "Scenic Point",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.985142" lon="-77.597866"><name>point-poi:lehigh:e0e064a0</name><desc>{
   "type": "point-poi",
   "name": "Freight House Replica",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt><wpt lat="42.985059" lon="-77.597726"><name>point-restroom:lehigh:9bd84cd0</name><desc>{
   "type": "point-restroom",
   "comments": "Junction",
   "name": "Restroom",
-  "parkID": "park-lehigh-park"
+  "parentIDs": [
+    "park-lehigh-park"
+  ]
 }</desc></wpt></gpx>

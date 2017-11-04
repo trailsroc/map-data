@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-dureast": {
       "name": "Durand-Eastman Park",
@@ -28,9 +28,6 @@
       "name": "Durand Lake Trail",
       "color": "sky",
       "length": 1.25,
-      "trailheads": [
-
-      ],
       "SW": [
         43.229001,
         -77.561844
@@ -46,9 +43,6 @@
       "name": "Eastman Lake Trail",
       "color": "orange",
       "length": 1.5,
-      "trailheads": [
-
-      ],
       "SW": [
         43.229212,
         -77.565449
@@ -64,9 +58,6 @@
       "name": "Trott Lake Trail",
       "color": "red",
       "length": 0.5,
-      "trailheads": [
-
-      ],
       "SW": [
         43.22615,
         -77.561248
@@ -82,9 +73,6 @@
       "name": "Yellow Trail",
       "color": "yellow",
       "length": 1.5,
-      "trailheads": [
-
-      ],
       "SW": [
         43.227079,
         -77.56832
@@ -100,9 +88,6 @@
       "name": "Purple Trail",
       "color": "purple",
       "length": 0.4,
-      "trailheads": [
-
-      ],
       "SW": [
         43.227549,
         -77.564478
@@ -118,9 +103,6 @@
       "name": "Lakeshore Bike Path",
       "color": "black",
       "length": 2.2,
-      "trailheads": [
-
-      ],
       "SW": [
         43.227651,
         -77.577393
@@ -135,9 +117,6 @@
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.225229,
         -77.56733
@@ -148,7 +127,5 @@
       ],
       "parkID": "park-dureast"
     }
-  },
-  "points": {
   }
 }

@@ -7725,39 +7725,55 @@
 <wpt lat="42.63189" lon="-77.360412"><name>point-scenic:hitor:03a9a425</name><desc>{
   "type": "point-scenic",
   "name": "Angel Falls, Conklin Gully",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.625962" lon="-77.350128"><name>point-scenic:hitor:31d78b07</name><desc>{
   "type": "point-scenic",
   "name": "Upper Conklin Gully",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.63512" lon="-77.336173"><name>point-parking:hitor:57ae7862</name><desc>{
   "type": "point-parking",
   "comments": "Shay Rd",
   "name": "Parking",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.624619" lon="-77.358754"><name>point-poi:hitor:db1db6fb</name><desc>{
   "type": "point-poi",
   "name": "Lean-To",
   "comments": "Center",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.603151" lon="-77.381182"><name>point-poi:hitor:50796b06</name><desc>{
   "type": "point-poi",
   "name": "Lean-To",
   "comments": "Ski",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.625899" lon="-77.389059"><name>point-parking:hitor:3e42a13a</name><desc>{
   "type": "point-parking",
   "comments": "DEC",
   "name": "Parking",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.635292" lon="-77.357394"><name>point-parking:hitor:62ef9c9d</name><desc>{
   "type": "point-parking",
   "comments": "Parrish-Gully E",
   "name": "Parking",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt><wpt lat="42.617752" lon="-77.334274"><name>point-parking:hitor:40efc00f</name><desc>{
   "type": "point-parking",
   "comments": "Brink",
   "name": "Parking",
-  "parkID": "park-hitor"
+  "parentIDs": [
+    "park-hitor"
+  ]
 }</desc></wpt></gpx>

@@ -272,8 +272,9 @@ def parse_gpx(filename)
         if point['name']
             feature_property(feature, 'name', point['name'])
         end
-        optional_property(feature, 'parkID', point)
-        optional_property(feature, 'trailID', point)
+        if point["parentIDs"]
+           feature_property(feature, "parentIDs", point["parentIDs"].join(","))
+        end
         optional_property(feature, 'url', point)
         default_allows_directions = ['boat_launch', 'lodge', 'parking', 'shelter'].include?(point['type'])
         optional_property(feature, 'allowsDirections', point, dflt: default_allows_directions)
@@ -346,8 +347,8 @@ def parse_json(filename)
     debug_trace('Parsing JSON ' + filename)
 
     data = JSON.load(IO.read(filename))
-    if data["version"] != 2
-        abort_msg("Incompatible JSON data version for #{filename}")
+    if data["version"] != 3
+        abort_msg("Incompatible JSON data version for #{filename}", nil)
     end
 
     json_features = []
@@ -370,7 +371,7 @@ def parse_json(filename)
             optional_property(feature, 'url', park)
             optional_property(feature, 'allowsDirections', park, dflt: true)
             optional_property(feature, 'annotationIconName', park)
-            optional_property(feature, 'hideInListView', park, dflt: false)
+            optional_property(feature, 'hideInListView', park, dflt: nil_or_blank(park['name']))
             optional_property(feature, 'visibilityConstraint', park)
             
             if park['directionsCoordinate']
@@ -409,18 +410,10 @@ def parse_json(filename)
                 feature_property(feature, 'shortName', shortName)
             end
 
-            optional_property(feature, 'hideInListView', trail, dflt: false)
+            optional_property(feature, 'hideInListView', trail, dflt: nil_or_blank(trail['name']))
             optional_property(feature, 'visibilityConstraint', trail)
 
             json_features << feature
-
-            (trail['trailheads'] || []).each do |trailhead|
-                trailhead_id = "trailhead:#{trail_id}:#{random_id()}"
-                feature = create_feature('trailhead', trailhead_id)
-                feature['geometry'] = create_point_geometry(trailhead.reverse)
-                feature_property(feature, 'trailID', trail_id)
-                json_features << feature
-            end
         end
     end
 

@@ -7,25 +7,33 @@
     <wpt lon="-77.384341" lat="42.968810">
         <name>point-parking:auburntr:f7f78462</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.390207" lat="42.969000">
         <name>point-parking:auburntr:defb7dfa</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.408509" lat="42.973867">
         <name>point-parking:auburntr:e853fb8c</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.437035" lat="42.992805">
         <name>point-parking:auburntr:da80497c</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.467477" lat="43.008981">
@@ -33,19 +41,25 @@
         <desc>{
   "type": "parking",
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.482431" lat="43.026709">
         <name>point-parking:auburntr:971807fb</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.453491" lat="43.001971">
         <name>point-parking:auburntr:26f5ddc1</name><desc>{
   "name": "Parking",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <trk>

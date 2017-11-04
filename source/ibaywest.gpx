@@ -3603,58 +3603,86 @@
   "type": "point-parking",
   "comments": "Bay West N",
   "name": "Parking",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.183771" lon="-77.529223"><name>point-parking:ibaywest:edb06c00</name><desc>{
   "type": "point-parking",
   "comments": "Bay West S",
   "name": "Parking",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185883" lon="-77.538536"><name>point-intersection:ibaywest:77cfc46a</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 1",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185299" lon="-77.539711"><name>point-intersection:ibaywest:d368a7ee</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 2",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185284" lon="-77.537788"><name>point-intersection:ibaywest:05838712</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 3",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185398" lon="-77.537704"><name>point-intersection:ibaywest:39d2a102</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 4",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185574" lon="-77.536987"><name>point-intersection:ibaywest:6537e338</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 5",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185371" lon="-77.536392"><name>point-intersection:ibaywest:d0850b39</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 6",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185764" lon="-77.533768"><name>point-intersection:ibaywest:91122bc8</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 7",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.1866" lon="-77.533897"><name>point-intersection:ibaywest:69c11970</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 8",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185661" lon="-77.532318"><name>point-intersection:ibaywest:cc978433</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 9",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.185078" lon="-77.53186"><name>point-intersection:ibaywest:d93fe4e2</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 10",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.18523" lon="-77.531403"><name>point-intersection:ibaywest:23f33ef4</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 11",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt><wpt lat="43.184269" lon="-77.530075"><name>point-intersection:ibaywest:24c0953d</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 12",
-  "parkID": "park-ibaywest"
+  "parentIDs": [
+    "park-ibaywest"
+  ]
 }</desc></wpt></gpx>

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-ontariob": {
       "name": "Ontario Beach Park",
@@ -23,9 +23,6 @@
       "url": "http://www.monroecounty.gov/parks-ontariobeach.php",
       "name": "Boardwalk/Pier/Riverwalk",
       "color": "red",
-      "trailheads": [
-
-      ],
       "SW": [
         43.254135,
         -77.610195
@@ -36,7 +33,5 @@
       ],
       "parkID": "park-ontariob"
     }
-  },
-  "points": {
   }
 }

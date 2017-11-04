@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
   },
   "trails": {
@@ -32,7 +32,5 @@
       "hideInListView": true,
       "color": "unmarked_trail"
     }
-  },
-  "points": {
   }
 }

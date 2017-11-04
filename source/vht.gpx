@@ -8,21 +8,27 @@
         <name>point-poi:vht:72a9105c</name>
         <desc>{
   "name": "Victor Hiking Trails Kiosk",
-  "parkID": "park-auburntr-park"
+  "parentIDs": [
+    "park-auburntr-park"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.469571" lat="43.001739">
         <name>point-parking:vht:f4045e98</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-vht-lehigh-blackdiamond"
+  "parentIDs": [
+    "trail-vht-lehigh-blackdiamond"
+  ]
 }</desc>
     </wpt>
     <wpt lon="-77.454762" lat="43.000370">
         <name>point-parking:vht:d12524eb</name>
         <desc>{
   "name": "Parking",
-  "trailID": "trail-vht-lehigh-blackdiamond"
+  "parentIDs": [
+    "trail-vht-lehigh-blackdiamond"
+  ]
 }</desc>
     </wpt>
     <rte>

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-abe": {
       "name": "Abraham Lincoln Park",
@@ -28,9 +28,6 @@
       "name": "Blue Trail",
       "length": 0.65,
       "color": "sky",
-      "trailheads": [
-
-      ],
       "SW": [
         43.189258,
         -77.514917
@@ -46,9 +43,6 @@
       "name": "Green Trail",
       "length": 0.37,
       "color": "grass",
-      "trailheads": [
-
-      ],
       "SW": [
         43.184388,
         -77.518699
@@ -64,9 +58,6 @@
       "name": "Orange Trail",
       "length": 0.32,
       "color": "orange",
-      "trailheads": [
-
-      ],
       "SW": [
         43.187533,
         -77.514915
@@ -82,9 +73,6 @@
       "name": "Red Trail",
       "length": 0.32,
       "color": "red",
-      "trailheads": [
-
-      ],
       "SW": [
         43.186449,
         -77.516775
@@ -99,9 +87,6 @@
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.180725,
         -77.512619
@@ -117,9 +102,6 @@
       "name": "White Trail",
       "length": 1.45,
       "color": "white",
-      "trailheads": [
-
-      ],
       "SW": [
         43.180288,
         -77.517042
@@ -135,9 +117,6 @@
       "name": "Yellow Trail",
       "length": 0.4,
       "color": "yellow",
-      "trailheads": [
-
-      ],
       "SW": [
         43.18158,
         -77.517016
@@ -148,7 +127,5 @@
       ],
       "parkID": "park-abe"
     }
-  },
-  "points": {
   }
 }

@@ -346,53 +346,75 @@
 <wpt lat="43.213046" lon="-77.618759"><name>point-lodge:senecapk:ce76ad53</name><desc>{
   "type": "point-lodge",
   "name": "Wegman Lodge",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.210968" lon="-77.622671"><name>point-shelter:senecapk:f2df102e</name><desc>{
   "type": "point-shelter",
   "name": "Longhouse Shelter",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.210114" lon="-77.623939"><name>point-shelter:senecapk:4c207ab7</name><desc>{
   "type": "point-shelter",
   "name": "Hawk Shelter",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.209592" lon="-77.624005"><name>point-shelter:senecapk:676baa81</name><desc>{
   "type": "point-shelter",
   "name": "Eagle Shelter",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.212794" lon="-77.618647"><name>point-parking:senecapk:a4def56d</name><desc>{
   "type": "point-parking",
   "comments": "Wegman",
   "name": "Parking",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.209866" lon="-77.624541"><name>point-parking:senecapk:479cc96f</name><desc>{
   "type": "point-parking",
   "comments": "Hawk-Eagle",
   "name": "Parking",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.211178" lon="-77.622179"><name>point-parking:senecapk:7aae089c</name><desc>{
   "type": "point-parking",
   "comments": "Longhouse",
   "name": "Parking",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.203987" lon="-77.623898"><name>point-parking:senecapk:10fa194e</name><desc>{
   "type": "point-parking",
   "comments": "Zoo",
   "name": "Parking",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.211371" lon="-77.622717"><name>point-restroom:senecapk:e628791e</name><desc>{
   "type": "point-restroom",
   "comments": "Longhouse",
   "name": "Restroom",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.205331" lon="-77.624293"><name>point-restroom:senecapk:acc6f621</name><desc>{
   "type": "point-restroom",
   "comments": "Zoo",
   "name": "Restroom",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.204893" lon="-77.623879"><name>point-admin:senecapk:bb6be01d</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.206046" lon="-77.623763"><name>point-poi:senecapk:33a354f2</name><desc>{
   "type": "point-poi",
   "name": "Seneca Park Zoo",
@@ -402,18 +424,26 @@
     43.203987,
     -77.623898
   ],
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.213445" lon="-77.617722"><name>point-sports:senecapk:d58fd0c2</name><desc>{
   "type": "point-sports",
   "name": "Ball Field",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.201783" lon="-77.621743"><name>point-parking:senecapk:9c0b9286</name><desc>{
   "type": "point-parking",
   "comments": "Zoo S",
   "name": "Parking",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt><wpt lat="43.209936" lon="-77.623945"><name>point-sports:senecapk:17cc09e2</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-senecapk"
+  "parentIDs": [
+    "park-senecapk"
+  ]
 }</desc></wpt></gpx>

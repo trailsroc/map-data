@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-gosnell": {
       "name": "Gosnell Big Woods Preserve",
@@ -101,7 +101,5 @@
       ],
       "parkID": "park-gosnell"
     }
-  },
-  "points": {
   }
 }

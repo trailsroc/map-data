@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-lmorin": {
       "name": "Lucien Morin Park",
@@ -28,9 +28,6 @@
       "name": "Blue Trail",
       "color": "sky",
       "length": 0.4,
-      "trailheads": [
-
-      ],
       "SW": [
         43.169552,
         -77.527146
@@ -46,9 +43,6 @@
       "name": "East Trail",
       "color": "sky",
       "length": 0.8,
-      "trailheads": [
-
-      ],
       "SW": [
         43.1597,
         -77.522932
@@ -64,9 +58,6 @@
       "name": "Pink Trail",
       "color": "pink",
       "length": 0.2,
-      "trailheads": [
-
-      ],
       "SW": [
         43.166425,
         -77.530575
@@ -82,9 +73,6 @@
       "name": "Red Trail",
       "color": "red",
       "length": 0.2,
-      "trailheads": [
-
-      ],
       "SW": [
         43.16744,
         -77.528136
@@ -100,9 +88,6 @@
       "name": "Rifle Range Salmon Trail",
       "color": "orange",
       "length": 0.4,
-      "trailheads": [
-
-      ],
       "SW": [
         43.165447,
         -77.52937
@@ -118,9 +103,6 @@
       "name": "Rifle Range White Trail",
       "color": "white",
       "length": 1.6,
-      "trailheads": [
-
-      ],
       "SW": [
         43.164648,
         -77.5317
@@ -136,9 +118,6 @@
       "name": "Rifle Range Yellow Trail",
       "color": "yellow",
       "length": 0.6,
-      "trailheads": [
-
-      ],
       "SW": [
         43.1648,
         -77.527975
@@ -153,9 +132,6 @@
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Tryon/Ellison Connectors",
       "color": "black",
-      "trailheads": [
-
-      ],
       "SW": [
         43.154026,
         -77.530457
@@ -170,9 +146,6 @@
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.172104,
         -77.528365
@@ -183,7 +156,5 @@
       ],
       "parkID": "park-lmorin"
     }
-  },
-  "points": {
   }
 }

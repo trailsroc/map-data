@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-senecatr": {
       "name": "Seneca Trail",
@@ -30,9 +30,6 @@
       "name": "Seneca Trail",
       "length": 13.5,
       "color": "red",
-      "trailheads": [
-
-      ],
       "SW": [
         42.9294,
         -77.444977
@@ -49,9 +46,6 @@
       "length": 13.5,
       "color": "red",
       "dashStyle": "trailClosure",
-      "trailheads": [
-
-      ],
       "SW": [
         42.9294,
         -77.444977
@@ -62,7 +56,5 @@
       ],
       "hideInListView": true
     }
-  },
-  "points": {
   }
 }

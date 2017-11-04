@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-crescenttr": {
       "name": "Crescent Trail System",
@@ -127,9 +127,6 @@
       "length": 17.8,
       "color": "orange",
       "visibilityConstraint": "largeTrailSystem",
-      "trailheads": [
-
-      ],
       "SW": [
         43.034866,
         -77.48281
@@ -143,9 +140,6 @@
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Blue)",
       "color": "sky",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.03883,
@@ -160,9 +154,6 @@
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Other)",
       "color": "dark_green",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.047677,
@@ -177,9 +168,6 @@
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Red)",
       "color": "red",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.046413,
@@ -194,9 +182,6 @@
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (White)",
       "color": "black",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.034866,
@@ -211,9 +196,6 @@
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Yellow)",
       "color": "yellow",
-      "trailheads": [
-
-      ],
       "hideInListView": true,
       "SW": [
         43.044898,
@@ -224,7 +206,5 @@
         -77.371976
       ]
     }
-  },
-  "points": {
   }
 }

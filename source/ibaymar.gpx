@@ -72,17 +72,25 @@
 <wpt lat="43.22865572191218" lon="-77.54309177398682"><name>point-parking:ibaymar:9854a2ee</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ibaymar"
+  "parentIDs": [
+    "park-ibaymar"
+  ]
 }</desc></wpt><wpt lat="43.23347881178729" lon="-77.53942251205444"><name>point-parking:ibaymar:b7b49ac4</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ibaymar"
+  "parentIDs": [
+    "park-ibaymar"
+  ]
 }</desc></wpt><wpt lat="43.23439335790285" lon="-77.53726601600647"><name>point-parking:ibaymar:6b00d442</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-ibaymar"
+  "parentIDs": [
+    "park-ibaymar"
+  ]
 }</desc></wpt><wpt lat="43.23432300868892" lon="-77.53513097763062"><name>point-boatLaunch:ibaymar:0395eef7</name><desc>{
   "type": "point-boatLaunch",
   "name": "Boat Launch",
-  "parkID": "park-ibaymar"
+  "parentIDs": [
+    "park-ibaymar"
+  ]
 }</desc></wpt></gpx>

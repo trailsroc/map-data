@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-lehigh-park": {
       "name": "Lehigh Valley Trail",
@@ -27,9 +27,6 @@
       "shortName": "Lehigh Valley Trail (Main)",
       "color": "green",
       "length": 13.2,
-      "trailheads": [
-
-      ],
       "SW": [
         42.98174,
         -77.732828
@@ -46,9 +43,6 @@
       "shortName": "Lehigh Valley Trail (North)",
       "color": "green",
       "length": 5.7,
-      "trailheads": [
-
-      ],
       "SW": [
         42.984307,
         -77.637049
@@ -63,9 +57,6 @@
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         42.977797,
         -77.637586
@@ -75,7 +66,5 @@
         -77.587699
       ]
     }
-  },
-  "points": {
   }
 }

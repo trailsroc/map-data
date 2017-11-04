@@ -8851,351 +8851,523 @@
 <wpt lat="43.023798" lon="-77.564056"><name>point-intersection:mponds:b2923a43</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 1",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.024854" lon="-77.568327"><name>point-intersection:mponds:e4947e1b</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 2",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.021673" lon="-77.573337"><name>point-intersection:mponds:65e3312c</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 3",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.025306" lon="-77.571605"><name>point-intersection:mponds:a3cb1cd5</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 4",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02576" lon="-77.57265"><name>point-intersection:mponds:f1c03a8e</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 5",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.029247" lon="-77.573386"><name>point-intersection:mponds:1234b7bc</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 6",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.031833" lon="-77.575782"><name>point-intersection:mponds:18003abc</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 7",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.028702" lon="-77.571449"><name>point-intersection:mponds:1d4ca60a</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 8",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.025461" lon="-77.569466"><name>point-intersection:mponds:38ff474f</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 9",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.028425" lon="-77.570467"><name>point-intersection:mponds:6a01959f</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 10",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.030256" lon="-77.572626"><name>point-intersection:mponds:f9fd6274</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 11",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.032246" lon="-77.575247"><name>point-intersection:mponds:fe2f1e65</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 12",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01234355245723" lon="-77.57108330726624"><name>point-intersection:mponds:b4a44963</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 13",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.011472751569" lon="-77.57060050964355"><name>point-intersection:mponds:4daed6c6</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 14",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.00874259307606" lon="-77.56791830062866"><name>point-intersection:mponds:1ea3b0c8</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 15",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.00386252473692" lon="-77.5679612159729"><name>point-intersection:mponds:4185470f</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 16",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.001971590192866" lon="-77.56728529930115"><name>point-intersection:mponds:23993fcc</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 17",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.00622414962688" lon="-77.56484985351562"><name>point-intersection:mponds:aecbdb71</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 18",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.007728" lon="-77.561355"><name>point-intersection:mponds:57b0926f</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 19",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.008716" lon="-77.563487"><name>point-intersection:mponds:90c10bbd</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 20",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01021" lon="-77.56326"><name>point-intersection:mponds:8b3746f3</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 21",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.015848" lon="-77.555585"><name>point-intersection:mponds:5dda83c8</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 22",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01924" lon="-77.556083"><name>point-intersection:mponds:74ddd00c</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 23",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.022804" lon="-77.55783"><name>point-intersection:mponds:da9f5338</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 24",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.026927" lon="-77.550668"><name>point-intersection:mponds:cbbab4d7</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 25",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.030594" lon="-77.549292"><name>point-intersection:mponds:739032d4</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 26",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.031458" lon="-77.551947"><name>point-intersection:mponds:5d7ab784</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 27",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.027212" lon="-77.555783"><name>point-intersection:mponds:ce8bad4c</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 28",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.022461" lon="-77.560745"><name>point-intersection:mponds:45a2b6d0</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 29",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01867" lon="-77.55863"><name>point-intersection:mponds:4f2aa978</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 30",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.016015" lon="-77.556262"><name>point-intersection:mponds:3a3f6377</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 31",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.035436" lon="-77.555492"><name>point-intersection:mponds:de7405d9</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 32",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.034698" lon="-77.548347"><name>point-intersection:mponds:62f5b105</name><desc>{
   "type": "point-intersection",
   "name": "Intersection 33",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03191370198331" lon="-77.57124423980713"><name>point-campsite:mponds:54b3c284</name><desc>{
   "type": "point-campsite",
   "name": "Youth Camping Area",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03516825200764" lon="-77.56419539451599"><name>point-shelter:mponds:06d7ef34</name><desc>{
   "type": "point-shelter",
   "name": "Evergreen Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.035254514841" lon="-77.56263971328735"><name>point-lodge:mponds:50235033</name><desc>{
   "type": "point-lodge",
   "name": "West Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03445461846262" lon="-77.56127715110779"><name>point-lodge:mponds:ac99bde7</name><desc>{
   "type": "point-lodge",
   "name": "East Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.034917304893874" lon="-77.56219983100891"><name>point-restroom:mponds:5d66edeb</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.0350114101818" lon="-77.56171703338623"><name>point-parking:mponds:a2320c0c</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.032933218145914" lon="-77.55181431770325"><name>point-scenic:mponds:ee5e1ff5</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.020558" lon="-77.563184"><name>point-scenic:mponds:ae5c1220</name><desc>{
   "type": "point-scenic",
   "comments": "Round Pond N",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02829036134602" lon="-77.55547285079956"><name>point-admin:mponds:3767f571</name><desc>{
   "type": "point-admin",
   "name": "Park Office",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.027090376714526" lon="-77.5494110584259"><name>point-poi:mponds:62befea6</name><desc>{
   "type": "point-poi",
   "name": "Water Tower",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02470602391365" lon="-77.5509774684906"><name>point-scenic:mponds:40699441</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.0166346161345" lon="-77.56494641304016"><name>point-lodge:mponds:8af3275d</name><desc>{
   "type": "point-lodge",
   "name": "Cavalry Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01654832713171" lon="-77.56467819213867"><name>point-restroom:mponds:e5687f26</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.009990008133954" lon="-77.56341218948364"><name>point-parking:mponds:4a7f6612</name><desc>{
   "type": "point-parking",
   "name": "Horse Trailer Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01348891140191" lon="-77.55576252937317"><name>point-scenic:mponds:4f6572d8</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01206897693338" lon="-77.56338000297546"><name>point-scenic:mponds:5a9feb96</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.006420293790086" lon="-77.56626605987549"><name>point-scenic:mponds:dfb160a4</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.000017824906486" lon="-77.56627678871155"><name>point-scenic:mponds:5bff3bbf</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.00326621971138" lon="-77.56928086280823"><name>point-scenic:mponds:e1f43567</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.004976658090406" lon="-77.57439851760864"><name>point-scenic:mponds:8efcf259</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.0081384898865" lon="-77.5695812702179"><name>point-scenic:mponds:b364888c</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01617179188251" lon="-77.57655501365662"><name>point-scenic:mponds:7f1cb113</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01544224826686" lon="-77.57168412208557"><name>point-parking:mponds:33948276</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.0157795652094" lon="-77.57121205329895"><name>point-restroom:mponds:5e79217e</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01588154438541" lon="-77.57101893424988"><name>point-shelter:mponds:492e117f</name><desc>{
   "type": "point-shelter",
   "name": "Lookout Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.019205" lon="-77.577893"><name>point-scenic:mponds:a8428bb9</name><desc>{
   "type": "point-scenic",
   "comments": "Birdsong",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02135679302117" lon="-77.58315324783325"><name>point-poi:mponds:3e63f235</name><desc>{
   "type": "point-poi",
   "name": "Sharon&#x2019;s Sensory Garden",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02174094359814" lon="-77.583287358284"><name>point-restroom:mponds:eba36165</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02179363439459" lon="-77.58340805768967"><name>point-poi:mponds:20315d36</name><desc>{
   "type": "point-poi",
   "name": "Nature Center",
   "allowsDirections": true,
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02160779558068" lon="-77.58367896080017"><name>point-poi:mponds:e417627b</name><desc>{
   "type": "point-poi",
   "name": "Wild Wings",
   "allowsDirections": true,
   "url": "http://www.wildwingsinc.org",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02237648453568" lon="-77.58289575576782"><name>point-parking:mponds:da0757ec</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.021811734404686" lon="-77.57363677024841"><name>point-shelter:mponds:709233bb</name><desc>{
   "type": "point-shelter",
   "name": "Algonkian Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.023686371090825" lon="-77.57352948188782"><name>point-shelter:mponds:4e436edb</name><desc>{
   "type": "point-shelter",
   "name": "Devil&#x2019;s Bathtub Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02307457126796" lon="-77.57376551628113"><name>point-restroom:mponds:49c144cc</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.030135" lon="-77.577886"><name>point-scenic:mponds:a61cdc33</name><desc>{
   "type": "point-scenic",
   "comments": "Grasslands",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.0289334807087" lon="-77.56993532180786"><name>point-lodge:mponds:bc950497</name><desc>{
   "type": "point-lodge",
   "name": "Hopkins Point Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02864329353784" lon="-77.56825089454651"><name>point-shelter:mponds:098f97aa</name><desc>{
   "type": "point-shelter",
   "name": "Pond View Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02861976478822" lon="-77.56929159164429"><name>point-restroom:mponds:48c22ca3</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02888642342283" lon="-77.56874442100525"><name>point-parking:mponds:7dccfd27</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03331749292003" lon="-77.56154537200928"><name>point-parking:mponds:a5a60661</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03298027232916" lon="-77.56107330322266"><name>point-restroom:mponds:1a435c3e</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03373313435469" lon="-77.5606119632721"><name>point-shelter:mponds:d62a47d9</name><desc>{
   "type": "point-shelter",
   "name": "Southview Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.03269794668851" lon="-77.55614876747131"><name>point-lodge:mponds:92c6d0e5</name><desc>{
   "type": "point-lodge",
   "name": "Cobblestone House Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.028698193918636" lon="-77.55922794342041"><name>point-shelter:mponds:9b480cd1</name><desc>{
   "type": "point-shelter",
   "name": "Canfieldwoods Shelter",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.027411943524505" lon="-77.55963563919067"><name>point-lodge:mponds:bf67eec3</name><desc>{
   "type": "point-lodge",
   "name": "Stewart Lodge",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02875309425032" lon="-77.5583267211914"><name>point-parking:mponds:7d193d12</name><desc>{
   "type": "point-parking",
   "name": "Beach Area",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02753743255437" lon="-77.5590991973877"><name>point-restroom:mponds:3fb32c49</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02804722910002" lon="-77.55847692489624"><name>point-sports:mponds:c67e5893</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.026502140385844" lon="-77.5621247291565"><name>point-boatLaunch:mponds:cf35c73f</name><desc>{
   "type": "point-boatLaunch",
   "name": "Boat Launch",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.02511388030075" lon="-77.56873369216919"><name>point-scenic:mponds:6350aa26</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.01530104527564" lon="-77.56637334823608"><name>point-parking:mponds:faf9fb58</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.015449" lon="-77.576164"><name>point-poi:mponds:e381ae05</name><desc>{
   "type": "point-poi",
   "name": "Boardwalk",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt><wpt lat="43.018782" lon="-77.578212"><name>point-poi:mponds:30fb2bb3</name><desc>{
   "type": "point-poi",
   "name": "David&#x2019;s Nature Trail",
-  "parkID": "park-mponds"
+  "parentIDs": [
+    "park-mponds"
+  ]
 }</desc></wpt></gpx>

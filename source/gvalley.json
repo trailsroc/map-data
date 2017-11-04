@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-gvalley": {
       "name": "Genesee Valley Park",
@@ -28,9 +28,6 @@
       "name": "Red Creek Trail",
       "color": "red",
       "length": 0.57,
-      "trailheads": [
-
-      ],
       "SW": [
         43.114323,
         -77.642387
@@ -45,9 +42,6 @@
       "url": "http://www.monroecounty.gov/parks-geneseevalley.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.119445,
         -77.641307
@@ -58,7 +52,5 @@
       ],
       "parkID": "park-gvalley"
     }
-  },
-  "points": {
   }
 }

@@ -371,93 +371,139 @@
 <wpt lat="43.19142614301769" lon="-77.73398995399475"><name>point-lodge:gcanal:e94fc88e</name><desc>{
   "type": "point-lodge",
   "name": "Rotary Lodge",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19949017864023" lon="-77.73789525032043"><name>point-lodge:gcanal:fd231fb1</name><desc>{
   "type": "point-lodge",
   "name": "Millennium Lodge",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19179377985084" lon="-77.73767530918121"><name>point-shelter:gcanal:528636b2</name><desc>{
   "type": "point-shelter",
   "name": "Towpath Shelter",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19050313014528" lon="-77.73977279663086"><name>point-shelter:gcanal:0dfbe6be</name><desc>{
   "type": "point-shelter",
   "name": "Thomas X. Grasso Lodge Shelter",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.198848849149535" lon="-77.73754119873047"><name>point-parking:gcanal:e14aedc3</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19731588793222" lon="-77.73604989051819"><name>point-parking:gcanal:519bd3ca</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19638905341315" lon="-77.73321211338043"><name>point-parking:gcanal:f0b52314</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19181724595646" lon="-77.73718178272247"><name>point-parking:gcanal:74ac102f</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19155129623077" lon="-77.73353934288025"><name>point-parking:gcanal:3817b73f</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19127361219223" lon="-77.73537397384644"><name>point-parking:gcanal:cdc7d6e5</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19129707849787" lon="-77.73634493350983"><name>point-parking:gcanal:3b94a595</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.190405352540296" lon="-77.7391505241394"><name>point-parking:gcanal:135e9c0e</name><desc>{
   "type": "point-parking",
   "name": "Parking",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.191019393302675" lon="-77.73691892623901"><name>point-restroom:gcanal:d01102a5</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19941783388258" lon="-77.73808568716049"><name>point-restroom:gcanal:228d3605</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19962118109123" lon="-77.73695647716522"><name>point-sports:gcanal:48059c36</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19129316744756" lon="-77.73480266332626"><name>point-sports:gcanal:fde29665</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19937286277377" lon="-77.73945093154907"><name>point-sports:gcanal:e12644db</name><desc>{
   "type": "point-sports",
   "name": "Baseball Field",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19886449141244" lon="-77.73594260215759"><name>point-sports:gcanal:311be249</name><desc>{
   "type": "point-sports",
   "name": "Soccer Field",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.199474536537736" lon="-77.73850679397583"><name>point-sports:gcanal:f7085fa2</name><desc>{
   "type": "point-sports",
   "name": "Tennis Court",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.189857795057584" lon="-77.73777723312378"><name>point-poi:gcanal:6953dee5</name><desc>{
   "type": "point-poi",
   "name": "Dock",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.19342856363022" lon="-77.73868918418884"><name>point-scenic:gcanal:e03dcc62</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.18998686262099" lon="-77.73727297782898"><name>point-scenic:gcanal:733640c9</name><desc>{
   "type": "point-scenic",
   "name": "Scenic Point",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt><wpt lat="43.1906361074367" lon="-77.73598551750183"><name>point-poi:gcanal:06692c62</name><desc>{
   "type": "point-poi",
   "name": "Dog Park",
-  "parkID": "park-gcanal"
+  "parentIDs": [
+    "park-gcanal"
+  ]
 }</desc></wpt></gpx>

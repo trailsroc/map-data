@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-fowt-finn": {
       "name": "Finn Park",
@@ -247,7 +247,5 @@
       ],
       "parkID": "park-fowt-rt104"
     }
-  },
-  "points": {
   }
 }

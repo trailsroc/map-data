@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "parks": {
     "park-nhamp": {
       "name": "Northampton Park",
@@ -24,9 +24,6 @@
       "name": "Creek Trail",
       "color": "red",
       "length": 1.3,
-      "trailheads": [
-
-      ],
       "SW": [
         43.179364,
         -77.863955
@@ -42,16 +39,6 @@
       "name": "Fairview Trail",
       "color": "dark_green",
       "length": 1.1,
-      "trailheads": [
-        [
-          43.186977,
-          -77.884919
-        ],
-        [
-          43.185055,
-          -77.876065
-        ]
-      ],
       "SW": [
         43.18486,
         -77.884988
@@ -67,12 +54,6 @@
       "name": "Farm Trail",
       "color": "purple",
       "length": 1.5,
-      "trailheads": [
-        [
-          43.180534,
-          -77.87082
-        ]
-      ],
       "SW": [
         43.180452,
         -77.87129
@@ -88,12 +69,6 @@
       "name": "Gardner Trail",
       "color": "blue",
       "length": 1.8,
-      "trailheads": [
-        [
-          43.18802,
-          -77.884229
-        ]
-      ],
       "SW": [
         43.187996,
         -77.899395
@@ -109,12 +84,6 @@
       "name": "Loop Trail",
       "color": "orange",
       "length": 0.4,
-      "trailheads": [
-        [
-          43.184684,
-          -77.889448
-        ]
-      ],
       "SW": [
         43.184684,
         -77.891191
@@ -129,9 +98,6 @@
       "url": "http://www.monroecounty.gov/parks-northampton.php",
       "name": "",
       "color": "unmarked_trail",
-      "trailheads": [
-
-      ],
       "SW": [
         43.179554,
         -77.893262
@@ -142,7 +108,5 @@
       ],
       "parkID": "park-nhamp"
     }
-  },
-  "points": {
   }
 }

@@ -169,23 +169,33 @@
 <wpt lat="43.11660904446119" lon="-77.63824045658112"><name>point-shelter:gvalley:a2ba401c</name><desc>{
   "type": "point-shelter",
   "name": "Hawthorne Shelter",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.115226739802786" lon="-77.63851940631866"><name>point-shelter:gvalley:2e3c0893</name><desc>{
   "type": "point-shelter",
   "name": "Dogwood Shelter",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11494479280905" lon="-77.63878226280212"><name>point-shelter:gvalley:6abbc7cb</name><desc>{
   "type": "point-shelter",
   "name": "Tupelo Shelter",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12007054291502" lon="-77.63773620128632"><name>point-shelter:gvalley:bc92685f</name><desc>{
   "type": "point-shelter",
   "name": "Canalside Shelter",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12003138678775" lon="-77.6364541053772"><name>point-shelter:gvalley:78d5e7de</name><desc>{
   "type": "point-shelter",
   "name": "Roundhouse Shelter",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12125696168864" lon="-77.63568699359894"><name>point-shelter:gvalley:d5fa4c8a</name><desc>{
   "type": "point-shelter",
   "name": "Riverbend Shelter",
@@ -193,58 +203,82 @@
     43.120685290828085,
     -77.6365453004837
   ],
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.105079746221556" lon="-77.64915704727173"><name>point-parking:gvalley:b1dee8aa</name><desc>{
   "type": "point-parking",
   "name": "Crittenden",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11326287368589" lon="-77.6513859629631"><name>point-parking:gvalley:f3aee93d</name><desc>{
   "type": "point-parking",
   "comments": "S Golf S",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11371713346524" lon="-77.65096217393875"><name>point-parking:gvalley:09eed831</name><desc>{
   "type": "point-parking",
   "comments": "S Golf N",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11708677422128" lon="-77.63762354850769"><name>point-parking:gvalley:2833d45b</name><desc>{
   "type": "point-parking",
   "comments": "Hawthorne",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11833198672078" lon="-77.63887882232666"><name>point-parking:gvalley:1c740757</name><desc>{
   "type": "point-parking",
   "comments": "Hawthorne-390",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.119725968135015" lon="-77.64065980911255"><name>point-parking:gvalley:96562764</name><desc>{
   "type": "point-parking",
   "name": "Parking (Under Expressway)",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.119483198374816" lon="-77.63680279254913"><name>point-parking:gvalley:461038b9</name><desc>{
   "type": "point-parking",
   "comments": "Main",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.120685290828085" lon="-77.6365453004837"><name>point-parking:gvalley:7cafe065</name><desc>{
   "type": "point-parking",
   "comments": "Riverbend",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12403301340834" lon="-77.63603568077087"><name>point-parking:gvalley:c14187b7</name><desc>{
   "type": "point-parking",
   "comments": "Sports Complex",
   "name": "Parking",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11583762049947" lon="-77.63871252536774"><name>point-restroom:gvalley:2433dff0</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.120207589163115" lon="-77.63588547706604"><name>point-restroom:gvalley:e5be971f</name><desc>{
   "type": "point-restroom",
   "name": "Restroom",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.1102259037987" lon="-77.65377044677734"><name>point-poi:gvalley:f23af8e6</name><desc>{
   "type": "point-poi",
   "name": "South Golf Course",
@@ -254,71 +288,103 @@
     43.11326287368589,
     -77.6513859629631
   ],
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11830849237985" lon="-77.64402866363525"><name>point-poi:gvalley:21321d31</name><desc>{
   "type": "point-poi",
   "name": "North Golf Course",
   "url": "http://golftheparks.com/courses/Genesee.html",
   "allowsDirections": true,
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11431432330361" lon="-77.65075027942657"><name>point-poi:gvalley:3a1cb616</name><desc>{
   "type": "point-poi",
   "name": "Club House",
   "url": "http://golftheparks.com/courses/Genesee.html",
   "allowsDirections": true,
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12415047403197" lon="-77.63480186462402"><name>point-poi:gvalley:835e8fb7</name><desc>{
   "type": "point-poi",
   "name": "Sports Complex",
   "url": "http://www.cityofrochester.gov/GVPSC/",
   "allowsDirections": true,
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.104178928332615" lon="-77.6502513885498"><name>point-sports:gvalley:eca35ec0</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 1",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.105432236569804" lon="-77.64812707901001"><name>point-sports:gvalley:78d76325</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 2",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.10615287718743" lon="-77.64729022979736"><name>point-sports:gvalley:bc7b88df</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 3",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11522282388119" lon="-77.64040231704712"><name>point-sports:gvalley:5aabc3d9</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 4",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11628794531343" lon="-77.63928651809692"><name>point-sports:gvalley:a1d0653d</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 5",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11807354847455" lon="-77.63990879058838"><name>point-sports:gvalley:1cbf6037</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 6",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11727473244876" lon="-77.64059543609619"><name>point-sports:gvalley:c8a97e85</name><desc>{
   "type": "point-sports",
   "name": "Softball Field 7",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11741570074049" lon="-77.6389217376709"><name>point-sports:gvalley:97f1fd32</name><desc>{
   "type": "point-sports",
   "name": "Soccer Field",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.11595118098243" lon="-77.64140009880066"><name>point-sports:gvalley:5fcb6d15</name><desc>{
   "type": "point-sports",
   "name": "Cricket Field",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12051300541173" lon="-77.6373016834259"><name>point-sports:gvalley:893f529e</name><desc>{
   "type": "point-sports",
   "name": "Playground",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.12022325157193" lon="-77.64172196388245"><name>point-boatLaunch:gvalley:4be6b9e7</name><desc>{
   "type": "point-boatLaunch",
   "name": "Canoe Launch (Under Expressway)",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt><wpt lat="43.122646961017516" lon="-77.63649702072144"><name>point-boatLaunch:gvalley:d751173f</name><desc>{
   "type": "point-boatLaunch",
   "name": "Boat Launch",
-  "parkID": "park-gvalley"
+  "parentIDs": [
+    "park-gvalley"
+  ]
 }</desc></wpt></gpx>
