@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
@@ -6,55 +6,55 @@
     </metadata>
     <wpt lon="-77.538305" lat="43.166120">
         <name>point-parking:tryon:main</name>
-        <desc>{ "type": "point-parking", "comments": "Tryon", "name": "Parking", "parentIDs": [ "park-tryon", "trail-tryon-white", "trail-tryon-red", "trail-tryon-blue" ] }</desc>
+        <desc>{"type":"point-parking","comments":"Tryon","name":"Parking","parentIDs":["park-tryon","trail-tryon-white","trail-tryon-red","trail-tryon-blue"],"shortName":"Parking"}</desc>
     </wpt>
     <wpt lon="-77.537518" lat="43.161807">
         <name>point-intersection:tryon:6b2e1fd2</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 1", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 1","parentIDs":["park-tryon"],"shortName":"1"}</desc>
     </wpt>
     <wpt lon="-77.537680" lat="43.162969">
         <name>point-intersection:tryon:88e3588a</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 2", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 2","parentIDs":["park-tryon"],"shortName":"2"}</desc>
     </wpt>
     <wpt lon="-77.537693" lat="43.163572">
         <name>point-intersection:tryon:a63ad4ec</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 3", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 3","parentIDs":["park-tryon"],"shortName":"3"}</desc>
     </wpt>
     <wpt lon="-77.535788" lat="43.164565">
         <name>point-intersection:tryon:508a03b2</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 4", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 4","parentIDs":["park-tryon"],"shortName":"4"}</desc>
     </wpt>
     <wpt lon="-77.534992" lat="43.167377">
         <name>point-intersection:tryon:698c4a0e</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 5", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 5","parentIDs":["park-tryon"],"shortName":"5"}</desc>
     </wpt>
     <wpt lon="-77.533633" lat="43.169408">
         <name>point-intersection:tryon:a186ef0b</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 6", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 6","parentIDs":["park-tryon"],"shortName":"6"}</desc>
     </wpt>
     <wpt lon="-77.536540" lat="43.168377">
         <name>point-intersection:tryon:4816d56d</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 7", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 7","parentIDs":["park-tryon"],"shortName":"7"}</desc>
     </wpt>
     <wpt lon="-77.536371" lat="43.169231">
         <name>point-intersection:tryon:1f8795d4</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 8", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 8","parentIDs":["park-tryon"],"shortName":"8"}</desc>
     </wpt>
     <wpt lon="-77.535981" lat="43.169808">
         <name>point-intersection:tryon:b7730d51</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 9", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 9","parentIDs":["park-tryon"],"shortName":"9"}</desc>
     </wpt>
     <wpt lon="-77.535244" lat="43.170210">
         <name>point-intersection:tryon:8085d89b</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 10", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 10","parentIDs":["park-tryon"],"shortName":"10"}</desc>
     </wpt>
     <wpt lon="-77.536295" lat="43.170942">
         <name>point-intersection:tryon:dcfe88e8</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 11", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 11","parentIDs":["park-tryon"],"shortName":"11"}</desc>
     </wpt>
     <wpt lon="-77.535857" lat="43.171661">
         <name>point-intersection:tryon:038661bf</name>
-        <desc>{ "type": "point-intersection", "name": "Intersection 12", "parentIDs": [ "park-tryon" ] }</desc>
+        <desc>{"type":"point-intersection","name":"Intersection 12","parentIDs":["park-tryon"],"shortName":"12"}</desc>
     </wpt>
     <trk>
         <name>border:park-tryon</name>
@@ -64,32 +64,32 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.538886" lat="43.162121"></trkpt>
-            <trkpt lon="-77.538930" lat="43.161591"></trkpt>
-            <trkpt lon="-77.538985" lat="43.160892"></trkpt>
-            <trkpt lon="-77.538989" lat="43.160853"></trkpt>
-            <trkpt lon="-77.539060" lat="43.160069"></trkpt>
-            <trkpt lon="-77.538605" lat="43.158450"></trkpt>
-            <trkpt lon="-77.538365" lat="43.158462"></trkpt>
-            <trkpt lon="-77.534024" lat="43.166359"></trkpt>
-            <trkpt lon="-77.533384" lat="43.167524"></trkpt>
-            <trkpt lon="-77.534456" lat="43.167493"></trkpt>
-            <trkpt lon="-77.534473" lat="43.167951"></trkpt>
-            <trkpt lon="-77.534375" lat="43.168269"></trkpt>
-            <trkpt lon="-77.533189" lat="43.169338"></trkpt>
-            <trkpt lon="-77.533314" lat="43.169871"></trkpt>
-            <trkpt lon="-77.533497" lat="43.170078"></trkpt>
-            <trkpt lon="-77.534629" lat="43.170584"></trkpt>
-            <trkpt lon="-77.535488" lat="43.172436"></trkpt>
-            <trkpt lon="-77.538551" lat="43.172520"></trkpt>
-            <trkpt lon="-77.539085" lat="43.171266"></trkpt>
-            <trkpt lon="-77.538750" lat="43.170254"></trkpt>
-            <trkpt lon="-77.538652" lat="43.166839"></trkpt>
-            <trkpt lon="-77.538656" lat="43.165824"></trkpt>
-            <trkpt lon="-77.537831" lat="43.165850"></trkpt>
-            <trkpt lon="-77.537977" lat="43.165413"></trkpt>
-            <trkpt lon="-77.538689" lat="43.165382"></trkpt>
-            <trkpt lon="-77.538861" lat="43.162721"></trkpt>
+            <trkpt lon="-77.538886" lat="43.162121"/>
+            <trkpt lon="-77.538930" lat="43.161591"/>
+            <trkpt lon="-77.538985" lat="43.160892"/>
+            <trkpt lon="-77.538989" lat="43.160853"/>
+            <trkpt lon="-77.539060" lat="43.160069"/>
+            <trkpt lon="-77.538605" lat="43.158450"/>
+            <trkpt lon="-77.538365" lat="43.158462"/>
+            <trkpt lon="-77.534024" lat="43.166359"/>
+            <trkpt lon="-77.533384" lat="43.167524"/>
+            <trkpt lon="-77.534456" lat="43.167493"/>
+            <trkpt lon="-77.534473" lat="43.167951"/>
+            <trkpt lon="-77.534375" lat="43.168269"/>
+            <trkpt lon="-77.533189" lat="43.169338"/>
+            <trkpt lon="-77.533314" lat="43.169871"/>
+            <trkpt lon="-77.533497" lat="43.170078"/>
+            <trkpt lon="-77.534629" lat="43.170584"/>
+            <trkpt lon="-77.535488" lat="43.172436"/>
+            <trkpt lon="-77.538551" lat="43.172520"/>
+            <trkpt lon="-77.539085" lat="43.171266"/>
+            <trkpt lon="-77.538750" lat="43.170254"/>
+            <trkpt lon="-77.538652" lat="43.166839"/>
+            <trkpt lon="-77.538656" lat="43.165824"/>
+            <trkpt lon="-77.537831" lat="43.165850"/>
+            <trkpt lon="-77.537977" lat="43.165413"/>
+            <trkpt lon="-77.538689" lat="43.165382"/>
+            <trkpt lon="-77.538861" lat="43.162721"/>
         </trkseg>
     </trk>
     <trk>

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
@@ -6,75 +6,75 @@
     </metadata>
     <wpt lon="-77.573261" lat="43.139613">
         <name>point-scenic:city_parks:45996ff8</name>
-        <desc>{ "name": "City Overlook", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"City Overlook","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.575447" lat="43.141464">
         <name>point-parking:city_parks:b475e6c9</name>
-        <desc>{ "name": "Parking (Lake Riley Lodge)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack" ] }</desc>
+        <desc>{"name":"Parking (Lake Riley Lodge)","parentIDs":["park-cobbs","trail-cobbs-singletrack"],"shortName":"Lake Riley Lodge"}</desc>
     </wpt>
     <wpt lon="-77.576800" lat="43.138204">
         <name>point-sports:city_parks:bebe19e9</name>
-        <desc>{ "name": "Tennis Courts", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Tennis Courts","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.566163" lat="43.139619">
         <name>point-poi:city_parks:920e3907</name>
-        <desc>{ "url": "http://www.cityofrochester.gov/washingtongrove/", "name": "Washington Grove", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"url":"http://www.cityofrochester.gov/washingtongrove/","name":"Washington Grove","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.567728" lat="43.141021">
         <name>point-poi:city_parks:4b36dc1f</name>
-        <desc>{ "url": "https://rocwiki.org/The_Water_Towers", "name": "Water Towers", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"url":"https://rocwiki.org/The_Water_Towers","name":"Water Towers","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.563462" lat="43.139635">
         <name>point-parking:city_parks:01ba2f1c</name>
-        <desc>{ "name": "Parking (Cobbs Hill Dr)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack" ] }</desc>
+        <desc>{"name":"Parking (Cobbs Hill Dr)","parentIDs":["park-cobbs","trail-cobbs-singletrack"],"shortName":"Cobbs Hill Dr"}</desc>
     </wpt>
     <wpt lon="-77.569616" lat="43.139647">
         <name>point-parking:city_parks:5fb684fb</name>
-        <desc>{ "name": "Parking (Reservoir E)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack", "trail-cobbs-reservoir-loop" ] }</desc>
+        <desc>{"name":"Parking (Reservoir E)","parentIDs":["park-cobbs","trail-cobbs-singletrack","trail-cobbs-reservoir-loop"],"shortName":"Reservoir E"}</desc>
     </wpt>
     <wpt lon="-77.572805" lat="43.139603">
         <name>point-parking:city_parks:023098f9</name>
-        <desc>{ "name": "Parking (Reservoir N)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack", "trail-cobbs-reservoir-loop", "trail-cobbs-gravel" ] }</desc>
+        <desc>{"name":"Parking (Reservoir N)","parentIDs":["park-cobbs","trail-cobbs-singletrack","trail-cobbs-reservoir-loop","trail-cobbs-gravel"],"shortName":"Reservoir N"}</desc>
     </wpt>
     <wpt lon="-77.575259" lat="43.138712">
         <name>point-poi:city_parks:9534e85b</name>
-        <desc>{ "name": "Switchback", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Switchback","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.570223" lat="43.142475">
         <name>point-sports:city_parks:1e798f21</name>
-        <desc>{ "name": "Ball Fields", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Ball Fields","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.575707" lat="43.140621">
         <name>point-sports:city_parks:04fafe31</name>
-        <desc>{ "name": "Ball Field", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Ball Field","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.574149" lat="43.140701">
         <name>point-sports:city_parks:066d7674</name>
-        <desc>{ "name": "Basketball Courts", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Basketball Courts","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.574734" lat="43.141337">
         <name>point-lodge:city_parks:6c3616e8</name>
-        <desc>{ "url": "http://www.cityofrochester.gov/article.aspx?id=8589935140", "name": "Lake Riley Lodge", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"url":"http://www.cityofrochester.gov/article.aspx?id=8589935140","name":"Lake Riley Lodge","parentIDs":["park-cobbs"],"shortName":"Lake Riley"}</desc>
     </wpt>
     <wpt lon="-77.574012" lat="43.141371">
         <name>point-parking:city_parks:df222926</name>
-        <desc>{ "name": "Parking (Lake Riley)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack" ] }</desc>
+        <desc>{"name":"Parking (Lake Riley)","parentIDs":["park-cobbs","trail-cobbs-singletrack"],"shortName":"Lake Riley"}</desc>
     </wpt>
     <wpt lon="-77.574756" lat="43.140874">
         <name>point-sports:city_parks:2ba121c6</name>
-        <desc>{ "name": "Playground", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Playground","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <wpt lon="-77.574732" lat="43.139795">
         <name>point-parking:city_parks:23741d82</name>
-        <desc>{ "directionsCoordinate": [ 43.141275, -77.573697 ], "name": "Parking (Fields)", "parentIDs": [ "park-cobbs", "trail-cobbs-singletrack" ] }</desc>
+        <desc>{"directionsCoordinate":[43.141275,-77.573697],"name":"Parking (Fields)","parentIDs":["park-cobbs","trail-cobbs-singletrack"],"shortName":"Fields"}</desc>
     </wpt>
     <wpt lon="-77.566082" lat="43.141759">
         <name>point-lodge:city_parks:5d87bb65</name>
-        <desc>{ "url": "http://www.cityofrochester.gov/article.aspx?id=8589935131", "name": "Tay House Lodge", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"url":"http://www.cityofrochester.gov/article.aspx?id=8589935131","name":"Tay House Lodge","parentIDs":["park-cobbs"],"shortName":"Tay House"}</desc>
     </wpt>
     <wpt lon="-77.574921" lat="43.138060">
         <name>point-scenic:city_parks:8f62adda</name>
-        <desc>{ "name": "Scenic Point", "parentIDs": [ "park-cobbs" ] }</desc>
+        <desc>{"name":"Scenic Point","parentIDs":["park-cobbs"]}</desc>
     </wpt>
     <rte>
         <name>seg:trail-cobbs-singletrack:d05687d1</name>
@@ -83,14 +83,14 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567680" lat="43.140897"></rtept>
-        <rtept lon="-77.567683" lat="43.140797"></rtept>
-        <rtept lon="-77.567682" lat="43.140722"></rtept>
-        <rtept lon="-77.567658" lat="43.140653"></rtept>
-        <rtept lon="-77.567569" lat="43.140600"></rtept>
-        <rtept lon="-77.567472" lat="43.140561"></rtept>
-        <rtept lon="-77.567414" lat="43.140491"></rtept>
-        <rtept lon="-77.567284" lat="43.140426"></rtept>
+        <rtept lon="-77.567680" lat="43.140897"/>
+        <rtept lon="-77.567683" lat="43.140797"/>
+        <rtept lon="-77.567682" lat="43.140722"/>
+        <rtept lon="-77.567658" lat="43.140653"/>
+        <rtept lon="-77.567569" lat="43.140600"/>
+        <rtept lon="-77.567472" lat="43.140561"/>
+        <rtept lon="-77.567414" lat="43.140491"/>
+        <rtept lon="-77.567284" lat="43.140426"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:7330df08</name>
@@ -99,12 +99,12 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566603" lat="43.140726"></rtept>
-        <rtept lon="-77.566648" lat="43.140737"></rtept>
-        <rtept lon="-77.566725" lat="43.140751"></rtept>
-        <rtept lon="-77.566793" lat="43.140778"></rtept>
-        <rtept lon="-77.566886" lat="43.140814"></rtept>
-        <rtept lon="-77.567007" lat="43.140835"></rtept>
+        <rtept lon="-77.566603" lat="43.140726"/>
+        <rtept lon="-77.566648" lat="43.140737"/>
+        <rtept lon="-77.566725" lat="43.140751"/>
+        <rtept lon="-77.566793" lat="43.140778"/>
+        <rtept lon="-77.566886" lat="43.140814"/>
+        <rtept lon="-77.567007" lat="43.140835"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:c1211dcd</name>
@@ -113,11 +113,11 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567794" lat="43.139426"></rtept>
-        <rtept lon="-77.567805" lat="43.139363"></rtept>
-        <rtept lon="-77.567880" lat="43.139254"></rtept>
-        <rtept lon="-77.567912" lat="43.139144"></rtept>
-        <rtept lon="-77.567944" lat="43.139027"></rtept>
+        <rtept lon="-77.567794" lat="43.139426"/>
+        <rtept lon="-77.567805" lat="43.139363"/>
+        <rtept lon="-77.567880" lat="43.139254"/>
+        <rtept lon="-77.567912" lat="43.139144"/>
+        <rtept lon="-77.567944" lat="43.139027"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:86dda610</name>
@@ -126,10 +126,10 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563889" lat="43.139747"></rtept>
-        <rtept lon="-77.563815" lat="43.139694"></rtept>
-        <rtept lon="-77.563740" lat="43.139653"></rtept>
-        <rtept lon="-77.563632" lat="43.139623"></rtept>
+        <rtept lon="-77.563889" lat="43.139747"/>
+        <rtept lon="-77.563815" lat="43.139694"/>
+        <rtept lon="-77.563740" lat="43.139653"/>
+        <rtept lon="-77.563632" lat="43.139623"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:2f30647b</name>
@@ -138,9 +138,9 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565841" lat="43.141117"></rtept>
-        <rtept lon="-77.565700" lat="43.141116"></rtept>
-        <rtept lon="-77.565543" lat="43.141064"></rtept>
+        <rtept lon="-77.565841" lat="43.141117"/>
+        <rtept lon="-77.565700" lat="43.141116"/>
+        <rtept lon="-77.565543" lat="43.141064"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:c4aa595e</name>
@@ -149,8 +149,8 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565543" lat="43.141064"></rtept>
-        <rtept lon="-77.565409" lat="43.140979"></rtept>
+        <rtept lon="-77.565543" lat="43.141064"/>
+        <rtept lon="-77.565409" lat="43.140979"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:f3c30ba4</name>
@@ -159,8 +159,8 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565409" lat="43.140979"></rtept>
-        <rtept lon="-77.565277" lat="43.140978"></rtept>
+        <rtept lon="-77.565409" lat="43.140979"/>
+        <rtept lon="-77.565277" lat="43.140978"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:d442fe67</name>
@@ -169,11 +169,11 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565277" lat="43.140978"></rtept>
-        <rtept lon="-77.565144" lat="43.141040"></rtept>
-        <rtept lon="-77.564983" lat="43.141086"></rtept>
-        <rtept lon="-77.564897" lat="43.141125"></rtept>
-        <rtept lon="-77.564768" lat="43.141195"></rtept>
+        <rtept lon="-77.565277" lat="43.140978"/>
+        <rtept lon="-77.565144" lat="43.141040"/>
+        <rtept lon="-77.564983" lat="43.141086"/>
+        <rtept lon="-77.564897" lat="43.141125"/>
+        <rtept lon="-77.564768" lat="43.141195"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:b01cebf7</name>
@@ -182,8 +182,8 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564768" lat="43.141195"></rtept>
-        <rtept lon="-77.564576" lat="43.141233"></rtept>
+        <rtept lon="-77.564768" lat="43.141195"/>
+        <rtept lon="-77.564576" lat="43.141233"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:86ab570a</name>
@@ -192,11 +192,11 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564576" lat="43.141233"></rtept>
-        <rtept lon="-77.564468" lat="43.141291"></rtept>
-        <rtept lon="-77.564329" lat="43.141342"></rtept>
-        <rtept lon="-77.564167" lat="43.141352"></rtept>
-        <rtept lon="-77.563937" lat="43.141386"></rtept>
+        <rtept lon="-77.564576" lat="43.141233"/>
+        <rtept lon="-77.564468" lat="43.141291"/>
+        <rtept lon="-77.564329" lat="43.141342"/>
+        <rtept lon="-77.564167" lat="43.141352"/>
+        <rtept lon="-77.563937" lat="43.141386"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:f42be19d</name>
@@ -205,9 +205,9 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563937" lat="43.141386"></rtept>
-        <rtept lon="-77.563869" lat="43.141239"></rtept>
-        <rtept lon="-77.563861" lat="43.141102"></rtept>
+        <rtept lon="-77.563937" lat="43.141386"/>
+        <rtept lon="-77.563869" lat="43.141239"/>
+        <rtept lon="-77.563861" lat="43.141102"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:8d702ac6</name>
@@ -216,10 +216,10 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563861" lat="43.141102"></rtept>
-        <rtept lon="-77.563695" lat="43.141000"></rtept>
-        <rtept lon="-77.563539" lat="43.140993"></rtept>
-        <rtept lon="-77.563396" lat="43.141038"></rtept>
+        <rtept lon="-77.563861" lat="43.141102"/>
+        <rtept lon="-77.563695" lat="43.141000"/>
+        <rtept lon="-77.563539" lat="43.140993"/>
+        <rtept lon="-77.563396" lat="43.141038"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:5cb9e7a0</name>
@@ -228,14 +228,14 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563396" lat="43.141038"></rtept>
-        <rtept lon="-77.563357" lat="43.141010"></rtept>
-        <rtept lon="-77.563395" lat="43.140929"></rtept>
-        <rtept lon="-77.563502" lat="43.140804"></rtept>
-        <rtept lon="-77.563717" lat="43.140624"></rtept>
-        <rtept lon="-77.563845" lat="43.140548"></rtept>
-        <rtept lon="-77.563942" lat="43.140459"></rtept>
-        <rtept lon="-77.564114" lat="43.140302"></rtept>
+        <rtept lon="-77.563396" lat="43.141038"/>
+        <rtept lon="-77.563357" lat="43.141010"/>
+        <rtept lon="-77.563395" lat="43.140929"/>
+        <rtept lon="-77.563502" lat="43.140804"/>
+        <rtept lon="-77.563717" lat="43.140624"/>
+        <rtept lon="-77.563845" lat="43.140548"/>
+        <rtept lon="-77.563942" lat="43.140459"/>
+        <rtept lon="-77.564114" lat="43.140302"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9f0bf893</name>
@@ -244,10 +244,10 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564114" lat="43.140302"></rtept>
-        <rtept lon="-77.564053" lat="43.140169"></rtept>
-        <rtept lon="-77.563931" lat="43.140040"></rtept>
-        <rtept lon="-77.563870" lat="43.139989"></rtept>
+        <rtept lon="-77.564114" lat="43.140302"/>
+        <rtept lon="-77.564053" lat="43.140169"/>
+        <rtept lon="-77.563931" lat="43.140040"/>
+        <rtept lon="-77.563870" lat="43.139989"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9b1c0e70</name>
@@ -256,10 +256,10 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563870" lat="43.139989"></rtept>
-        <rtept lon="-77.563804" lat="43.139935"></rtept>
-        <rtept lon="-77.563821" lat="43.139809"></rtept>
-        <rtept lon="-77.563889" lat="43.139747"></rtept>
+        <rtept lon="-77.563870" lat="43.139989"/>
+        <rtept lon="-77.563804" lat="43.139935"/>
+        <rtept lon="-77.563821" lat="43.139809"/>
+        <rtept lon="-77.563889" lat="43.139747"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:45adcfe7</name>
@@ -268,10 +268,10 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.569977" lat="43.141303"></rtept>
-        <rtept lon="-77.569817" lat="43.140901"></rtept>
-        <rtept lon="-77.569661" lat="43.140863"></rtept>
-        <rtept lon="-77.569312" lat="43.140769"></rtept>
+        <rtept lon="-77.569977" lat="43.141303"/>
+        <rtept lon="-77.569817" lat="43.140901"/>
+        <rtept lon="-77.569661" lat="43.140863"/>
+        <rtept lon="-77.569312" lat="43.140769"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:97d175a4</name>
@@ -280,9 +280,9 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.569312" lat="43.140769"></rtept>
-        <rtept lon="-77.569194" lat="43.140748"></rtept>
-        <rtept lon="-77.569073" lat="43.140707"></rtept>
+        <rtept lon="-77.569312" lat="43.140769"/>
+        <rtept lon="-77.569194" lat="43.140748"/>
+        <rtept lon="-77.569073" lat="43.140707"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:956ec5a2</name>
@@ -291,13 +291,13 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.569073" lat="43.140707"></rtept>
-        <rtept lon="-77.568883" lat="43.140624"></rtept>
-        <rtept lon="-77.568712" lat="43.140499"></rtept>
-        <rtept lon="-77.568572" lat="43.140358"></rtept>
-        <rtept lon="-77.568433" lat="43.140241"></rtept>
-        <rtept lon="-77.568223" lat="43.140185"></rtept>
-        <rtept lon="-77.568064" lat="43.140166"></rtept>
+        <rtept lon="-77.569073" lat="43.140707"/>
+        <rtept lon="-77.568883" lat="43.140624"/>
+        <rtept lon="-77.568712" lat="43.140499"/>
+        <rtept lon="-77.568572" lat="43.140358"/>
+        <rtept lon="-77.568433" lat="43.140241"/>
+        <rtept lon="-77.568223" lat="43.140185"/>
+        <rtept lon="-77.568064" lat="43.140166"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:62c90223</name>
@@ -306,11 +306,11 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568064" lat="43.140166"></rtept>
-        <rtept lon="-77.568289" lat="43.140047"></rtept>
-        <rtept lon="-77.568485" lat="43.139963"></rtept>
-        <rtept lon="-77.568743" lat="43.139884"></rtept>
-        <rtept lon="-77.569040" lat="43.139816"></rtept>
+        <rtept lon="-77.568064" lat="43.140166"/>
+        <rtept lon="-77.568289" lat="43.140047"/>
+        <rtept lon="-77.568485" lat="43.139963"/>
+        <rtept lon="-77.568743" lat="43.139884"/>
+        <rtept lon="-77.569040" lat="43.139816"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:cff00a46</name>
@@ -319,14 +319,14 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565409" lat="43.140979"></rtept>
-        <rtept lon="-77.565469" lat="43.140937"></rtept>
-        <rtept lon="-77.565539" lat="43.140887"></rtept>
-        <rtept lon="-77.565581" lat="43.140806"></rtept>
-        <rtept lon="-77.565667" lat="43.140712"></rtept>
-        <rtept lon="-77.565732" lat="43.140665"></rtept>
-        <rtept lon="-77.565839" lat="43.140657"></rtept>
-        <rtept lon="-77.565966" lat="43.140726"></rtept>
+        <rtept lon="-77.565409" lat="43.140979"/>
+        <rtept lon="-77.565469" lat="43.140937"/>
+        <rtept lon="-77.565539" lat="43.140887"/>
+        <rtept lon="-77.565581" lat="43.140806"/>
+        <rtept lon="-77.565667" lat="43.140712"/>
+        <rtept lon="-77.565732" lat="43.140665"/>
+        <rtept lon="-77.565839" lat="43.140657"/>
+        <rtept lon="-77.565966" lat="43.140726"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:e7ccfaf8</name>
@@ -335,9 +335,9 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565966" lat="43.140726"></rtept>
-        <rtept lon="-77.566053" lat="43.140806"></rtept>
-        <rtept lon="-77.566062" lat="43.140882"></rtept>
+        <rtept lon="-77.565966" lat="43.140726"/>
+        <rtept lon="-77.566053" lat="43.140806"/>
+        <rtept lon="-77.566062" lat="43.140882"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:789ab5d7</name>
@@ -346,13 +346,13 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567697" lat="43.139857"></rtept>
-        <rtept lon="-77.567633" lat="43.139856"></rtept>
-        <rtept lon="-77.567537" lat="43.139862"></rtept>
-        <rtept lon="-77.567473" lat="43.139853"></rtept>
-        <rtept lon="-77.567392" lat="43.139849"></rtept>
-        <rtept lon="-77.567360" lat="43.139829"></rtept>
-        <rtept lon="-77.567322" lat="43.139802"></rtept>
+        <rtept lon="-77.567697" lat="43.139857"/>
+        <rtept lon="-77.567633" lat="43.139856"/>
+        <rtept lon="-77.567537" lat="43.139862"/>
+        <rtept lon="-77.567473" lat="43.139853"/>
+        <rtept lon="-77.567392" lat="43.139849"/>
+        <rtept lon="-77.567360" lat="43.139829"/>
+        <rtept lon="-77.567322" lat="43.139802"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:503b99fc</name>
@@ -361,9 +361,9 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568924" lat="43.138494"></rtept>
-        <rtept lon="-77.568699" lat="43.138446"></rtept>
-        <rtept lon="-77.568594" lat="43.138409"></rtept>
+        <rtept lon="-77.568924" lat="43.138494"/>
+        <rtept lon="-77.568699" lat="43.138446"/>
+        <rtept lon="-77.568594" lat="43.138409"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:5bd644c2</name>
@@ -372,24 +372,24 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565581" lat="43.140806"></rtept>
-        <rtept lon="-77.565546" lat="43.140766"></rtept>
-        <rtept lon="-77.565512" lat="43.140740"></rtept>
-        <rtept lon="-77.565447" lat="43.140741"></rtept>
-        <rtept lon="-77.565458" lat="43.140688"></rtept>
-        <rtept lon="-77.565427" lat="43.140645"></rtept>
-        <rtept lon="-77.565418" lat="43.140559"></rtept>
-        <rtept lon="-77.565442" lat="43.140490"></rtept>
-        <rtept lon="-77.565466" lat="43.140444"></rtept>
-        <rtept lon="-77.565447" lat="43.140406"></rtept>
-        <rtept lon="-77.565394" lat="43.140377"></rtept>
-        <rtept lon="-77.565335" lat="43.140260"></rtept>
-        <rtept lon="-77.565327" lat="43.140228"></rtept>
-        <rtept lon="-77.565351" lat="43.140197"></rtept>
-        <rtept lon="-77.565370" lat="43.140142"></rtept>
-        <rtept lon="-77.565311" lat="43.140096"></rtept>
-        <rtept lon="-77.565329" lat="43.140056"></rtept>
-        <rtept lon="-77.565415" lat="43.140015"></rtept>
+        <rtept lon="-77.565581" lat="43.140806"/>
+        <rtept lon="-77.565546" lat="43.140766"/>
+        <rtept lon="-77.565512" lat="43.140740"/>
+        <rtept lon="-77.565447" lat="43.140741"/>
+        <rtept lon="-77.565458" lat="43.140688"/>
+        <rtept lon="-77.565427" lat="43.140645"/>
+        <rtept lon="-77.565418" lat="43.140559"/>
+        <rtept lon="-77.565442" lat="43.140490"/>
+        <rtept lon="-77.565466" lat="43.140444"/>
+        <rtept lon="-77.565447" lat="43.140406"/>
+        <rtept lon="-77.565394" lat="43.140377"/>
+        <rtept lon="-77.565335" lat="43.140260"/>
+        <rtept lon="-77.565327" lat="43.140228"/>
+        <rtept lon="-77.565351" lat="43.140197"/>
+        <rtept lon="-77.565370" lat="43.140142"/>
+        <rtept lon="-77.565311" lat="43.140096"/>
+        <rtept lon="-77.565329" lat="43.140056"/>
+        <rtept lon="-77.565415" lat="43.140015"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:ec859345</name>
@@ -398,9 +398,9 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565415" lat="43.140015"></rtept>
-        <rtept lon="-77.565353" lat="43.139962"></rtept>
-        <rtept lon="-77.565319" lat="43.139845"></rtept>
+        <rtept lon="-77.565415" lat="43.140015"/>
+        <rtept lon="-77.565353" lat="43.139962"/>
+        <rtept lon="-77.565319" lat="43.139845"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:784b5b77</name>
@@ -409,12 +409,12 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565319" lat="43.139845"></rtept>
-        <rtept lon="-77.565217" lat="43.139874"></rtept>
-        <rtept lon="-77.565083" lat="43.139874"></rtept>
-        <rtept lon="-77.564999" lat="43.139899"></rtept>
-        <rtept lon="-77.564946" lat="43.139927"></rtept>
-        <rtept lon="-77.564911" lat="43.139960"></rtept>
+        <rtept lon="-77.565319" lat="43.139845"/>
+        <rtept lon="-77.565217" lat="43.139874"/>
+        <rtept lon="-77.565083" lat="43.139874"/>
+        <rtept lon="-77.564999" lat="43.139899"/>
+        <rtept lon="-77.564946" lat="43.139927"/>
+        <rtept lon="-77.564911" lat="43.139960"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:919e7f19</name>
@@ -423,14 +423,14 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564911" lat="43.139960"></rtept>
-        <rtept lon="-77.564814" lat="43.139915"></rtept>
-        <rtept lon="-77.564723" lat="43.139890"></rtept>
-        <rtept lon="-77.564648" lat="43.139872"></rtept>
-        <rtept lon="-77.564560" lat="43.139878"></rtept>
-        <rtept lon="-77.564469" lat="43.139902"></rtept>
-        <rtept lon="-77.564386" lat="43.139931"></rtept>
-        <rtept lon="-77.564291" lat="43.139950"></rtept>
+        <rtept lon="-77.564911" lat="43.139960"/>
+        <rtept lon="-77.564814" lat="43.139915"/>
+        <rtept lon="-77.564723" lat="43.139890"/>
+        <rtept lon="-77.564648" lat="43.139872"/>
+        <rtept lon="-77.564560" lat="43.139878"/>
+        <rtept lon="-77.564469" lat="43.139902"/>
+        <rtept lon="-77.564386" lat="43.139931"/>
+        <rtept lon="-77.564291" lat="43.139950"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:556dc15a</name>
@@ -439,8 +439,8 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564151" lat="43.139867"></rtept>
-        <rtept lon="-77.564291" lat="43.139950"></rtept>
+        <rtept lon="-77.564151" lat="43.139867"/>
+        <rtept lon="-77.564291" lat="43.139950"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9b1fd3f3</name>
@@ -449,11 +449,11 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564291" lat="43.139950"></rtept>
-        <rtept lon="-77.564342" lat="43.139980"></rtept>
-        <rtept lon="-77.564404" lat="43.140021"></rtept>
-        <rtept lon="-77.564479" lat="43.140050"></rtept>
-        <rtept lon="-77.564514" lat="43.140068"></rtept>
+        <rtept lon="-77.564291" lat="43.139950"/>
+        <rtept lon="-77.564342" lat="43.139980"/>
+        <rtept lon="-77.564404" lat="43.140021"/>
+        <rtept lon="-77.564479" lat="43.140050"/>
+        <rtept lon="-77.564514" lat="43.140068"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:14787875</name>
@@ -462,10 +462,10 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564514" lat="43.140068"></rtept>
-        <rtept lon="-77.564562" lat="43.140093"></rtept>
-        <rtept lon="-77.564640" lat="43.140124"></rtept>
-        <rtept lon="-77.564720" lat="43.140209"></rtept>
+        <rtept lon="-77.564514" lat="43.140068"/>
+        <rtept lon="-77.564562" lat="43.140093"/>
+        <rtept lon="-77.564640" lat="43.140124"/>
+        <rtept lon="-77.564720" lat="43.140209"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:93e652d6</name>
@@ -474,19 +474,19 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564720" lat="43.140209"></rtept>
-        <rtept lon="-77.564787" lat="43.140279"></rtept>
-        <rtept lon="-77.564847" lat="43.140316"></rtept>
-        <rtept lon="-77.564932" lat="43.140418"></rtept>
-        <rtept lon="-77.564994" lat="43.140438"></rtept>
-        <rtept lon="-77.565053" lat="43.140516"></rtept>
-        <rtept lon="-77.565069" lat="43.140592"></rtept>
-        <rtept lon="-77.565136" lat="43.140673"></rtept>
-        <rtept lon="-77.565235" lat="43.140718"></rtept>
-        <rtept lon="-77.565321" lat="43.140761"></rtept>
-        <rtept lon="-77.565392" lat="43.140757"></rtept>
-        <rtept lon="-77.565453" lat="43.140835"></rtept>
-        <rtept lon="-77.565539" lat="43.140887"></rtept>
+        <rtept lon="-77.564720" lat="43.140209"/>
+        <rtept lon="-77.564787" lat="43.140279"/>
+        <rtept lon="-77.564847" lat="43.140316"/>
+        <rtept lon="-77.564932" lat="43.140418"/>
+        <rtept lon="-77.564994" lat="43.140438"/>
+        <rtept lon="-77.565053" lat="43.140516"/>
+        <rtept lon="-77.565069" lat="43.140592"/>
+        <rtept lon="-77.565136" lat="43.140673"/>
+        <rtept lon="-77.565235" lat="43.140718"/>
+        <rtept lon="-77.565321" lat="43.140761"/>
+        <rtept lon="-77.565392" lat="43.140757"/>
+        <rtept lon="-77.565453" lat="43.140835"/>
+        <rtept lon="-77.565539" lat="43.140887"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9e468158</name>
@@ -495,14 +495,14 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565415" lat="43.140015"></rtept>
-        <rtept lon="-77.565480" lat="43.139994"></rtept>
-        <rtept lon="-77.565550" lat="43.139961"></rtept>
-        <rtept lon="-77.565630" lat="43.139939"></rtept>
-        <rtept lon="-77.565740" lat="43.139918"></rtept>
-        <rtept lon="-77.565837" lat="43.139894"></rtept>
-        <rtept lon="-77.565920" lat="43.139876"></rtept>
-        <rtept lon="-77.566006" lat="43.139884"></rtept>
+        <rtept lon="-77.565415" lat="43.140015"/>
+        <rtept lon="-77.565480" lat="43.139994"/>
+        <rtept lon="-77.565550" lat="43.139961"/>
+        <rtept lon="-77.565630" lat="43.139939"/>
+        <rtept lon="-77.565740" lat="43.139918"/>
+        <rtept lon="-77.565837" lat="43.139894"/>
+        <rtept lon="-77.565920" lat="43.139876"/>
+        <rtept lon="-77.566006" lat="43.139884"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:4f11fe6b</name>
@@ -511,20 +511,20 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566006" lat="43.139884"></rtept>
-        <rtept lon="-77.566095" lat="43.139894"></rtept>
-        <rtept lon="-77.566172" lat="43.139892"></rtept>
-        <rtept lon="-77.566285" lat="43.139890"></rtept>
-        <rtept lon="-77.566373" lat="43.139888"></rtept>
-        <rtept lon="-77.566457" lat="43.139861"></rtept>
-        <rtept lon="-77.566575" lat="43.139822"></rtept>
-        <rtept lon="-77.566679" lat="43.139800"></rtept>
-        <rtept lon="-77.566789" lat="43.139794"></rtept>
-        <rtept lon="-77.566913" lat="43.139783"></rtept>
-        <rtept lon="-77.567020" lat="43.139794"></rtept>
-        <rtept lon="-77.567111" lat="43.139818"></rtept>
-        <rtept lon="-77.567173" lat="43.139839"></rtept>
-        <rtept lon="-77.567215" lat="43.139872"></rtept>
+        <rtept lon="-77.566006" lat="43.139884"/>
+        <rtept lon="-77.566095" lat="43.139894"/>
+        <rtept lon="-77.566172" lat="43.139892"/>
+        <rtept lon="-77.566285" lat="43.139890"/>
+        <rtept lon="-77.566373" lat="43.139888"/>
+        <rtept lon="-77.566457" lat="43.139861"/>
+        <rtept lon="-77.566575" lat="43.139822"/>
+        <rtept lon="-77.566679" lat="43.139800"/>
+        <rtept lon="-77.566789" lat="43.139794"/>
+        <rtept lon="-77.566913" lat="43.139783"/>
+        <rtept lon="-77.567020" lat="43.139794"/>
+        <rtept lon="-77.567111" lat="43.139818"/>
+        <rtept lon="-77.567173" lat="43.139839"/>
+        <rtept lon="-77.567215" lat="43.139872"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:7f01d5ae</name>
@@ -533,12 +533,12 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567870" lat="43.140074"></rtept>
-        <rtept lon="-77.567687" lat="43.140123"></rtept>
-        <rtept lon="-77.567579" lat="43.140170"></rtept>
-        <rtept lon="-77.567440" lat="43.140248"></rtept>
-        <rtept lon="-77.567333" lat="43.140326"></rtept>
-        <rtept lon="-77.567319" lat="43.140354"></rtept>
+        <rtept lon="-77.567870" lat="43.140074"/>
+        <rtept lon="-77.567687" lat="43.140123"/>
+        <rtept lon="-77.567579" lat="43.140170"/>
+        <rtept lon="-77.567440" lat="43.140248"/>
+        <rtept lon="-77.567333" lat="43.140326"/>
+        <rtept lon="-77.567319" lat="43.140354"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:1751933d</name>
@@ -547,8 +547,8 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567319" lat="43.140354"></rtept>
-        <rtept lon="-77.567284" lat="43.140426"></rtept>
+        <rtept lon="-77.567319" lat="43.140354"/>
+        <rtept lon="-77.567284" lat="43.140426"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:1022c5e8</name>
@@ -557,13 +557,13 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567284" lat="43.140426"></rtept>
-        <rtept lon="-77.567204" lat="43.140491"></rtept>
-        <rtept lon="-77.567146" lat="43.140577"></rtept>
-        <rtept lon="-77.567089" lat="43.140673"></rtept>
-        <rtept lon="-77.567054" lat="43.140722"></rtept>
-        <rtept lon="-77.567023" lat="43.140779"></rtept>
-        <rtept lon="-77.567007" lat="43.140835"></rtept>
+        <rtept lon="-77.567284" lat="43.140426"/>
+        <rtept lon="-77.567204" lat="43.140491"/>
+        <rtept lon="-77.567146" lat="43.140577"/>
+        <rtept lon="-77.567089" lat="43.140673"/>
+        <rtept lon="-77.567054" lat="43.140722"/>
+        <rtept lon="-77.567023" lat="43.140779"/>
+        <rtept lon="-77.567007" lat="43.140835"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:2e4fa083</name>
@@ -572,17 +572,17 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567007" lat="43.140835"></rtept>
-        <rtept lon="-77.567001" lat="43.140855"></rtept>
-        <rtept lon="-77.567012" lat="43.140934"></rtept>
-        <rtept lon="-77.567019" lat="43.141002"></rtept>
-        <rtept lon="-77.566995" lat="43.141062"></rtept>
-        <rtept lon="-77.566796" lat="43.141078"></rtept>
-        <rtept lon="-77.566699" lat="43.141093"></rtept>
-        <rtept lon="-77.566549" lat="43.141156"></rtept>
-        <rtept lon="-77.566421" lat="43.141187"></rtept>
-        <rtept lon="-77.566185" lat="43.141211"></rtept>
-        <rtept lon="-77.566015" lat="43.141249"></rtept>
+        <rtept lon="-77.567007" lat="43.140835"/>
+        <rtept lon="-77.567001" lat="43.140855"/>
+        <rtept lon="-77.567012" lat="43.140934"/>
+        <rtept lon="-77.567019" lat="43.141002"/>
+        <rtept lon="-77.566995" lat="43.141062"/>
+        <rtept lon="-77.566796" lat="43.141078"/>
+        <rtept lon="-77.566699" lat="43.141093"/>
+        <rtept lon="-77.566549" lat="43.141156"/>
+        <rtept lon="-77.566421" lat="43.141187"/>
+        <rtept lon="-77.566185" lat="43.141211"/>
+        <rtept lon="-77.566015" lat="43.141249"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:a753b441</name>
@@ -591,8 +591,8 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566015" lat="43.141249"></rtept>
-        <rtept lon="-77.565841" lat="43.141117"></rtept>
+        <rtept lon="-77.566015" lat="43.141249"/>
+        <rtept lon="-77.565841" lat="43.141117"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:cdc587b7</name>
@@ -601,9 +601,9 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565841" lat="43.141117"></rtept>
-        <rtept lon="-77.565966" lat="43.141023"></rtept>
-        <rtept lon="-77.566062" lat="43.140882"></rtept>
+        <rtept lon="-77.565841" lat="43.141117"/>
+        <rtept lon="-77.565966" lat="43.141023"/>
+        <rtept lon="-77.566062" lat="43.140882"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9d3da589</name>
@@ -612,9 +612,9 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566062" lat="43.140882"></rtept>
-        <rtept lon="-77.566233" lat="43.140828"></rtept>
-        <rtept lon="-77.566413" lat="43.140778"></rtept>
+        <rtept lon="-77.566062" lat="43.140882"/>
+        <rtept lon="-77.566233" lat="43.140828"/>
+        <rtept lon="-77.566413" lat="43.140778"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:3c5cd6b8</name>
@@ -623,9 +623,9 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566413" lat="43.140778"></rtept>
-        <rtept lon="-77.566459" lat="43.140765"></rtept>
-        <rtept lon="-77.566603" lat="43.140726"></rtept>
+        <rtept lon="-77.566413" lat="43.140778"/>
+        <rtept lon="-77.566459" lat="43.140765"/>
+        <rtept lon="-77.566603" lat="43.140726"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:2b7ce57e</name>
@@ -634,11 +634,11 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566603" lat="43.140726"></rtept>
-        <rtept lon="-77.566759" lat="43.140608"></rtept>
-        <rtept lon="-77.566941" lat="43.140452"></rtept>
-        <rtept lon="-77.567006" lat="43.140287"></rtept>
-        <rtept lon="-77.567057" lat="43.140218"></rtept>
+        <rtept lon="-77.566603" lat="43.140726"/>
+        <rtept lon="-77.566759" lat="43.140608"/>
+        <rtept lon="-77.566941" lat="43.140452"/>
+        <rtept lon="-77.567006" lat="43.140287"/>
+        <rtept lon="-77.567057" lat="43.140218"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:868e3418</name>
@@ -647,9 +647,9 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567057" lat="43.140218"></rtept>
-        <rtept lon="-77.567161" lat="43.140076"></rtept>
-        <rtept lon="-77.567215" lat="43.139872"></rtept>
+        <rtept lon="-77.567057" lat="43.140218"/>
+        <rtept lon="-77.567161" lat="43.140076"/>
+        <rtept lon="-77.567215" lat="43.139872"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:560a2e1e</name>
@@ -658,8 +658,8 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567215" lat="43.139872"></rtept>
-        <rtept lon="-77.567322" lat="43.139802"></rtept>
+        <rtept lon="-77.567215" lat="43.139872"/>
+        <rtept lon="-77.567322" lat="43.139802"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:0cb0ab48</name>
@@ -668,10 +668,10 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567322" lat="43.139802"></rtept>
-        <rtept lon="-77.567456" lat="43.139708"></rtept>
-        <rtept lon="-77.567585" lat="43.139559"></rtept>
-        <rtept lon="-77.567794" lat="43.139426"></rtept>
+        <rtept lon="-77.567322" lat="43.139802"/>
+        <rtept lon="-77.567456" lat="43.139708"/>
+        <rtept lon="-77.567585" lat="43.139559"/>
+        <rtept lon="-77.567794" lat="43.139426"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:01be7410</name>
@@ -680,11 +680,11 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567794" lat="43.139426"></rtept>
-        <rtept lon="-77.567783" lat="43.139528"></rtept>
-        <rtept lon="-77.567740" lat="43.139637"></rtept>
-        <rtept lon="-77.567708" lat="43.139802"></rtept>
-        <rtept lon="-77.567697" lat="43.139857"></rtept>
+        <rtept lon="-77.567794" lat="43.139426"/>
+        <rtept lon="-77.567783" lat="43.139528"/>
+        <rtept lon="-77.567740" lat="43.139637"/>
+        <rtept lon="-77.567708" lat="43.139802"/>
+        <rtept lon="-77.567697" lat="43.139857"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:befe5230</name>
@@ -693,10 +693,10 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567697" lat="43.139857"></rtept>
-        <rtept lon="-77.567676" lat="43.139958"></rtept>
-        <rtept lon="-77.567768" lat="43.140037"></rtept>
-        <rtept lon="-77.567870" lat="43.140074"></rtept>
+        <rtept lon="-77.567697" lat="43.139857"/>
+        <rtept lon="-77.567676" lat="43.139958"/>
+        <rtept lon="-77.567768" lat="43.140037"/>
+        <rtept lon="-77.567870" lat="43.140074"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:2746e1ba</name>
@@ -705,9 +705,9 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567870" lat="43.140074"></rtept>
-        <rtept lon="-77.567939" lat="43.140100"></rtept>
-        <rtept lon="-77.568064" lat="43.140166"></rtept>
+        <rtept lon="-77.567870" lat="43.140074"/>
+        <rtept lon="-77.567939" lat="43.140100"/>
+        <rtept lon="-77.568064" lat="43.140166"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:b035a2e1</name>
@@ -716,13 +716,13 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563861" lat="43.141102"></rtept>
-        <rtept lon="-77.563878" lat="43.141010"></rtept>
-        <rtept lon="-77.563953" lat="43.140848"></rtept>
-        <rtept lon="-77.564175" lat="43.140743"></rtept>
-        <rtept lon="-77.564409" lat="43.140589"></rtept>
-        <rtept lon="-77.564569" lat="43.140427"></rtept>
-        <rtept lon="-77.564720" lat="43.140209"></rtept>
+        <rtept lon="-77.563861" lat="43.141102"/>
+        <rtept lon="-77.563878" lat="43.141010"/>
+        <rtept lon="-77.563953" lat="43.140848"/>
+        <rtept lon="-77.564175" lat="43.140743"/>
+        <rtept lon="-77.564409" lat="43.140589"/>
+        <rtept lon="-77.564569" lat="43.140427"/>
+        <rtept lon="-77.564720" lat="43.140209"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:af5bcd0e</name>
@@ -731,10 +731,10 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564911" lat="43.139960"></rtept>
-        <rtept lon="-77.564779" lat="43.139982"></rtept>
-        <rtept lon="-77.564640" lat="43.140017"></rtept>
-        <rtept lon="-77.564514" lat="43.140068"></rtept>
+        <rtept lon="-77.564911" lat="43.139960"/>
+        <rtept lon="-77.564779" lat="43.139982"/>
+        <rtept lon="-77.564640" lat="43.140017"/>
+        <rtept lon="-77.564514" lat="43.140068"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:53b8a902</name>
@@ -743,11 +743,11 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564514" lat="43.140068"></rtept>
-        <rtept lon="-77.564392" lat="43.140129"></rtept>
-        <rtept lon="-77.564368" lat="43.140148"></rtept>
-        <rtept lon="-77.564228" lat="43.140260"></rtept>
-        <rtept lon="-77.564114" lat="43.140302"></rtept>
+        <rtept lon="-77.564514" lat="43.140068"/>
+        <rtept lon="-77.564392" lat="43.140129"/>
+        <rtept lon="-77.564368" lat="43.140148"/>
+        <rtept lon="-77.564228" lat="43.140260"/>
+        <rtept lon="-77.564114" lat="43.140302"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:ef7d88d6</name>
@@ -756,16 +756,16 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563889" lat="43.139747"></rtept>
-        <rtept lon="-77.564038" lat="43.139665"></rtept>
-        <rtept lon="-77.564197" lat="43.139517"></rtept>
-        <rtept lon="-77.564360" lat="43.139335"></rtept>
-        <rtept lon="-77.564560" lat="43.139157"></rtept>
-        <rtept lon="-77.564836" lat="43.138904"></rtept>
-        <rtept lon="-77.564926" lat="43.138863"></rtept>
-        <rtept lon="-77.565012" lat="43.138842"></rtept>
-        <rtept lon="-77.565073" lat="43.138869"></rtept>
-        <rtept lon="-77.565118" lat="43.138914"></rtept>
+        <rtept lon="-77.563889" lat="43.139747"/>
+        <rtept lon="-77.564038" lat="43.139665"/>
+        <rtept lon="-77.564197" lat="43.139517"/>
+        <rtept lon="-77.564360" lat="43.139335"/>
+        <rtept lon="-77.564560" lat="43.139157"/>
+        <rtept lon="-77.564836" lat="43.138904"/>
+        <rtept lon="-77.564926" lat="43.138863"/>
+        <rtept lon="-77.565012" lat="43.138842"/>
+        <rtept lon="-77.565073" lat="43.138869"/>
+        <rtept lon="-77.565118" lat="43.138914"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:49ddd50c</name>
@@ -774,8 +774,8 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564092" lat="43.139872"></rtept>
-        <rtept lon="-77.563870" lat="43.139989"></rtept>
+        <rtept lon="-77.564092" lat="43.139872"/>
+        <rtept lon="-77.563870" lat="43.139989"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:1280be74</name>
@@ -784,8 +784,8 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567057" lat="43.140218"></rtept>
-        <rtept lon="-77.567319" lat="43.140354"></rtept>
+        <rtept lon="-77.567057" lat="43.140218"/>
+        <rtept lon="-77.567319" lat="43.140354"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:87328ac1</name>
@@ -794,8 +794,8 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565319" lat="43.139845"></rtept>
-        <rtept lon="-77.565949" lat="43.138896"></rtept>
+        <rtept lon="-77.565319" lat="43.139845"/>
+        <rtept lon="-77.565949" lat="43.138896"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:699176c5</name>
@@ -804,15 +804,15 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565966" lat="43.140726"></rtept>
-        <rtept lon="-77.566082" lat="43.140589"></rtept>
-        <rtept lon="-77.566113" lat="43.140517"></rtept>
-        <rtept lon="-77.566106" lat="43.140396"></rtept>
-        <rtept lon="-77.566032" lat="43.140274"></rtept>
-        <rtept lon="-77.565989" lat="43.140162"></rtept>
-        <rtept lon="-77.566063" lat="43.140050"></rtept>
-        <rtept lon="-77.566076" lat="43.139978"></rtept>
-        <rtept lon="-77.566006" lat="43.139884"></rtept>
+        <rtept lon="-77.565966" lat="43.140726"/>
+        <rtept lon="-77.566082" lat="43.140589"/>
+        <rtept lon="-77.566113" lat="43.140517"/>
+        <rtept lon="-77.566106" lat="43.140396"/>
+        <rtept lon="-77.566032" lat="43.140274"/>
+        <rtept lon="-77.565989" lat="43.140162"/>
+        <rtept lon="-77.566063" lat="43.140050"/>
+        <rtept lon="-77.566076" lat="43.139978"/>
+        <rtept lon="-77.566006" lat="43.139884"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:362a5472</name>
@@ -821,8 +821,8 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565281" lat="43.141174"></rtept>
-        <rtept lon="-77.565543" lat="43.141064"></rtept>
+        <rtept lon="-77.565281" lat="43.141174"/>
+        <rtept lon="-77.565543" lat="43.141064"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:8b7398d0</name>
@@ -831,9 +831,9 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565277" lat="43.140978"></rtept>
-        <rtept lon="-77.564547" lat="43.141043"></rtept>
-        <rtept lon="-77.564398" lat="43.141080"></rtept>
+        <rtept lon="-77.565277" lat="43.140978"/>
+        <rtept lon="-77.564547" lat="43.141043"/>
+        <rtept lon="-77.564398" lat="43.141080"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:119b64b9</name>
@@ -842,10 +842,10 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564398" lat="43.141080"></rtept>
-        <rtept lon="-77.564307" lat="43.141102"></rtept>
-        <rtept lon="-77.563999" lat="43.141115"></rtept>
-        <rtept lon="-77.563861" lat="43.141102"></rtept>
+        <rtept lon="-77.564398" lat="43.141080"/>
+        <rtept lon="-77.564307" lat="43.141102"/>
+        <rtept lon="-77.563999" lat="43.141115"/>
+        <rtept lon="-77.563861" lat="43.141102"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:09d67ef0</name>
@@ -854,10 +854,10 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563396" lat="43.141038"></rtept>
-        <rtept lon="-77.562988" lat="43.141363"></rtept>
-        <rtept lon="-77.563101" lat="43.141632"></rtept>
-        <rtept lon="-77.563174" lat="43.141806"></rtept>
+        <rtept lon="-77.563396" lat="43.141038"/>
+        <rtept lon="-77.562988" lat="43.141363"/>
+        <rtept lon="-77.563101" lat="43.141632"/>
+        <rtept lon="-77.563174" lat="43.141806"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:1e645f62</name>
@@ -866,10 +866,10 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563937" lat="43.141386"></rtept>
-        <rtept lon="-77.563789" lat="43.141407"></rtept>
-        <rtept lon="-77.563654" lat="43.141457"></rtept>
-        <rtept lon="-77.563101" lat="43.141632"></rtept>
+        <rtept lon="-77.563937" lat="43.141386"/>
+        <rtept lon="-77.563789" lat="43.141407"/>
+        <rtept lon="-77.563654" lat="43.141457"/>
+        <rtept lon="-77.563101" lat="43.141632"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:d591892b</name>
@@ -878,8 +878,8 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564576" lat="43.141233"></rtept>
-        <rtept lon="-77.564398" lat="43.141080"></rtept>
+        <rtept lon="-77.564576" lat="43.141233"/>
+        <rtept lon="-77.564398" lat="43.141080"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:4f7b2d00</name>
@@ -888,21 +888,21 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.576788" lat="43.137406"></rtept>
-        <rtept lon="-77.576994" lat="43.137637"></rtept>
-        <rtept lon="-77.576911" lat="43.137715"></rtept>
-        <rtept lon="-77.576831" lat="43.137819"></rtept>
-        <rtept lon="-77.576750" lat="43.137897"></rtept>
-        <rtept lon="-77.576670" lat="43.137995"></rtept>
-        <rtept lon="-77.576611" lat="43.138060"></rtept>
-        <rtept lon="-77.576554" lat="43.138130"></rtept>
-        <rtept lon="-77.576506" lat="43.138199"></rtept>
-        <rtept lon="-77.576452" lat="43.138259"></rtept>
-        <rtept lon="-77.576380" lat="43.138310"></rtept>
-        <rtept lon="-77.576294" lat="43.138377"></rtept>
-        <rtept lon="-77.576184" lat="43.138432"></rtept>
-        <rtept lon="-77.576093" lat="43.138475"></rtept>
-        <rtept lon="-77.576042" lat="43.138516"></rtept>
+        <rtept lon="-77.576788" lat="43.137406"/>
+        <rtept lon="-77.576994" lat="43.137637"/>
+        <rtept lon="-77.576911" lat="43.137715"/>
+        <rtept lon="-77.576831" lat="43.137819"/>
+        <rtept lon="-77.576750" lat="43.137897"/>
+        <rtept lon="-77.576670" lat="43.137995"/>
+        <rtept lon="-77.576611" lat="43.138060"/>
+        <rtept lon="-77.576554" lat="43.138130"/>
+        <rtept lon="-77.576506" lat="43.138199"/>
+        <rtept lon="-77.576452" lat="43.138259"/>
+        <rtept lon="-77.576380" lat="43.138310"/>
+        <rtept lon="-77.576294" lat="43.138377"/>
+        <rtept lon="-77.576184" lat="43.138432"/>
+        <rtept lon="-77.576093" lat="43.138475"/>
+        <rtept lon="-77.576042" lat="43.138516"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:1daace27</name>
@@ -911,8 +911,8 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.576042" lat="43.138516"></rtept>
-        <rtept lon="-77.576319" lat="43.138759"></rtept>
+        <rtept lon="-77.576042" lat="43.138516"/>
+        <rtept lon="-77.576319" lat="43.138759"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:45dcff93</name>
@@ -921,36 +921,36 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.570155" lat="43.139982"></rtept>
-        <rtept lon="-77.570623" lat="43.139987"></rtept>
-        <rtept lon="-77.570784" lat="43.140008"></rtept>
-        <rtept lon="-77.570953" lat="43.140032"></rtept>
-        <rtept lon="-77.571135" lat="43.140057"></rtept>
-        <rtept lon="-77.571348" lat="43.140073"></rtept>
-        <rtept lon="-77.571483" lat="43.140066"></rtept>
-        <rtept lon="-77.571616" lat="43.140044"></rtept>
-        <rtept lon="-77.571779" lat="43.140012"></rtept>
-        <rtept lon="-77.571970" lat="43.139974"></rtept>
-        <rtept lon="-77.572124" lat="43.139938"></rtept>
-        <rtept lon="-77.572327" lat="43.139879"></rtept>
-        <rtept lon="-77.572552" lat="43.139808"></rtept>
-        <rtept lon="-77.572780" lat="43.139731"></rtept>
-        <rtept lon="-77.572925" lat="43.139688"></rtept>
-        <rtept lon="-77.573128" lat="43.139607"></rtept>
-        <rtept lon="-77.573230" lat="43.139576"></rtept>
-        <rtept lon="-77.573363" lat="43.139542"></rtept>
-        <rtept lon="-77.573510" lat="43.139479"></rtept>
-        <rtept lon="-77.573655" lat="43.139414"></rtept>
-        <rtept lon="-77.573785" lat="43.139365"></rtept>
-        <rtept lon="-77.573963" lat="43.139284"></rtept>
-        <rtept lon="-77.574127" lat="43.139218"></rtept>
-        <rtept lon="-77.574256" lat="43.139147"></rtept>
-        <rtept lon="-77.574355" lat="43.139070"></rtept>
-        <rtept lon="-77.574506" lat="43.138973"></rtept>
-        <rtept lon="-77.574620" lat="43.138892"></rtept>
-        <rtept lon="-77.574737" lat="43.138800"></rtept>
-        <rtept lon="-77.574854" lat="43.138713"></rtept>
-        <rtept lon="-77.574936" lat="43.138627"></rtept>
+        <rtept lon="-77.570155" lat="43.139982"/>
+        <rtept lon="-77.570623" lat="43.139987"/>
+        <rtept lon="-77.570784" lat="43.140008"/>
+        <rtept lon="-77.570953" lat="43.140032"/>
+        <rtept lon="-77.571135" lat="43.140057"/>
+        <rtept lon="-77.571348" lat="43.140073"/>
+        <rtept lon="-77.571483" lat="43.140066"/>
+        <rtept lon="-77.571616" lat="43.140044"/>
+        <rtept lon="-77.571779" lat="43.140012"/>
+        <rtept lon="-77.571970" lat="43.139974"/>
+        <rtept lon="-77.572124" lat="43.139938"/>
+        <rtept lon="-77.572327" lat="43.139879"/>
+        <rtept lon="-77.572552" lat="43.139808"/>
+        <rtept lon="-77.572780" lat="43.139731"/>
+        <rtept lon="-77.572925" lat="43.139688"/>
+        <rtept lon="-77.573128" lat="43.139607"/>
+        <rtept lon="-77.573230" lat="43.139576"/>
+        <rtept lon="-77.573363" lat="43.139542"/>
+        <rtept lon="-77.573510" lat="43.139479"/>
+        <rtept lon="-77.573655" lat="43.139414"/>
+        <rtept lon="-77.573785" lat="43.139365"/>
+        <rtept lon="-77.573963" lat="43.139284"/>
+        <rtept lon="-77.574127" lat="43.139218"/>
+        <rtept lon="-77.574256" lat="43.139147"/>
+        <rtept lon="-77.574355" lat="43.139070"/>
+        <rtept lon="-77.574506" lat="43.138973"/>
+        <rtept lon="-77.574620" lat="43.138892"/>
+        <rtept lon="-77.574737" lat="43.138800"/>
+        <rtept lon="-77.574854" lat="43.138713"/>
+        <rtept lon="-77.574936" lat="43.138627"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:b81e341f</name>
@@ -959,19 +959,19 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.575532" lat="43.138825"></rtept>
-        <rtept lon="-77.575327" lat="43.139088"></rtept>
-        <rtept lon="-77.575294" lat="43.139110"></rtept>
-        <rtept lon="-77.575118" lat="43.139225"></rtept>
-        <rtept lon="-77.574876" lat="43.139370"></rtept>
-        <rtept lon="-77.574645" lat="43.139511"></rtept>
-        <rtept lon="-77.574372" lat="43.139652"></rtept>
-        <rtept lon="-77.574200" lat="43.139734"></rtept>
-        <rtept lon="-77.573991" lat="43.139797"></rtept>
-        <rtept lon="-77.573787" lat="43.139875"></rtept>
-        <rtept lon="-77.573557" lat="43.139961"></rtept>
-        <rtept lon="-77.573363" lat="43.140040"></rtept>
-        <rtept lon="-77.573171" lat="43.140124"></rtept>
+        <rtept lon="-77.575532" lat="43.138825"/>
+        <rtept lon="-77.575327" lat="43.139088"/>
+        <rtept lon="-77.575294" lat="43.139110"/>
+        <rtept lon="-77.575118" lat="43.139225"/>
+        <rtept lon="-77.574876" lat="43.139370"/>
+        <rtept lon="-77.574645" lat="43.139511"/>
+        <rtept lon="-77.574372" lat="43.139652"/>
+        <rtept lon="-77.574200" lat="43.139734"/>
+        <rtept lon="-77.573991" lat="43.139797"/>
+        <rtept lon="-77.573787" lat="43.139875"/>
+        <rtept lon="-77.573557" lat="43.139961"/>
+        <rtept lon="-77.573363" lat="43.140040"/>
+        <rtept lon="-77.573171" lat="43.140124"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-reservoir-loop:272a6862</name>
@@ -979,25 +979,25 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.574110" lat="43.138944"></rtept>
-        <rtept lon="-77.573940" lat="43.139028"></rtept>
-        <rtept lon="-77.573667" lat="43.139110"></rtept>
-        <rtept lon="-77.573425" lat="43.139165"></rtept>
-        <rtept lon="-77.573174" lat="43.139210"></rtept>
-        <rtept lon="-77.572885" lat="43.139233"></rtept>
-        <rtept lon="-77.572643" lat="43.139248"></rtept>
-        <rtept lon="-77.572407" lat="43.139265"></rtept>
-        <rtept lon="-77.572145" lat="43.139312"></rtept>
-        <rtept lon="-77.571926" lat="43.139363"></rtept>
-        <rtept lon="-77.571732" lat="43.139425"></rtept>
-        <rtept lon="-77.571538" lat="43.139494"></rtept>
-        <rtept lon="-77.571367" lat="43.139570"></rtept>
-        <rtept lon="-77.571202" lat="43.139645"></rtept>
-        <rtept lon="-77.571046" lat="43.139731"></rtept>
-        <rtept lon="-77.570829" lat="43.139804"></rtept>
-        <rtept lon="-77.570624" lat="43.139823"></rtept>
-        <rtept lon="-77.570386" lat="43.139818"></rtept>
-        <rtept lon="-77.570215" lat="43.139772"></rtept>
+        <rtept lon="-77.574110" lat="43.138944"/>
+        <rtept lon="-77.573940" lat="43.139028"/>
+        <rtept lon="-77.573667" lat="43.139110"/>
+        <rtept lon="-77.573425" lat="43.139165"/>
+        <rtept lon="-77.573174" lat="43.139210"/>
+        <rtept lon="-77.572885" lat="43.139233"/>
+        <rtept lon="-77.572643" lat="43.139248"/>
+        <rtept lon="-77.572407" lat="43.139265"/>
+        <rtept lon="-77.572145" lat="43.139312"/>
+        <rtept lon="-77.571926" lat="43.139363"/>
+        <rtept lon="-77.571732" lat="43.139425"/>
+        <rtept lon="-77.571538" lat="43.139494"/>
+        <rtept lon="-77.571367" lat="43.139570"/>
+        <rtept lon="-77.571202" lat="43.139645"/>
+        <rtept lon="-77.571046" lat="43.139731"/>
+        <rtept lon="-77.570829" lat="43.139804"/>
+        <rtept lon="-77.570624" lat="43.139823"/>
+        <rtept lon="-77.570386" lat="43.139818"/>
+        <rtept lon="-77.570215" lat="43.139772"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-reservoir-loop:f606b9c1</name>
@@ -1005,37 +1005,37 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.570215" lat="43.139772"></rtept>
-        <rtept lon="-77.569995" lat="43.139694"></rtept>
-        <rtept lon="-77.569786" lat="43.139564"></rtept>
-        <rtept lon="-77.569641" lat="43.139431"></rtept>
-        <rtept lon="-77.569531" lat="43.139276"></rtept>
-        <rtept lon="-77.569467" lat="43.139147"></rtept>
-        <rtept lon="-77.569429" lat="43.139029"></rtept>
-        <rtept lon="-77.569402" lat="43.138939"></rtept>
-        <rtept lon="-77.569402" lat="43.138853"></rtept>
-        <rtept lon="-77.569397" lat="43.138748"></rtept>
-        <rtept lon="-77.569408" lat="43.138646"></rtept>
-        <rtept lon="-77.569445" lat="43.138505"></rtept>
-        <rtept lon="-77.569499" lat="43.138403"></rtept>
-        <rtept lon="-77.569569" lat="43.138286"></rtept>
-        <rtept lon="-77.569692" lat="43.138156"></rtept>
-        <rtept lon="-77.569821" lat="43.138035"></rtept>
-        <rtept lon="-77.569923" lat="43.137957"></rtept>
-        <rtept lon="-77.570062" lat="43.137878"></rtept>
-        <rtept lon="-77.570239" lat="43.137816"></rtept>
-        <rtept lon="-77.570400" lat="43.137769"></rtept>
-        <rtept lon="-77.570577" lat="43.137734"></rtept>
-        <rtept lon="-77.573780" lat="43.137577"></rtept>
-        <rtept lon="-77.574010" lat="43.137595"></rtept>
-        <rtept lon="-77.574205" lat="43.137648"></rtept>
-        <rtept lon="-77.574371" lat="43.137721"></rtept>
-        <rtept lon="-77.574500" lat="43.137811"></rtept>
-        <rtept lon="-77.574586" lat="43.137905"></rtept>
-        <rtept lon="-77.574640" lat="43.137984"></rtept>
-        <rtept lon="-77.574665" lat="43.138023"></rtept>
-        <rtept lon="-77.574736" lat="43.138022"></rtept>
-        <rtept lon="-77.574775" lat="43.138140"></rtept>
+        <rtept lon="-77.570215" lat="43.139772"/>
+        <rtept lon="-77.569995" lat="43.139694"/>
+        <rtept lon="-77.569786" lat="43.139564"/>
+        <rtept lon="-77.569641" lat="43.139431"/>
+        <rtept lon="-77.569531" lat="43.139276"/>
+        <rtept lon="-77.569467" lat="43.139147"/>
+        <rtept lon="-77.569429" lat="43.139029"/>
+        <rtept lon="-77.569402" lat="43.138939"/>
+        <rtept lon="-77.569402" lat="43.138853"/>
+        <rtept lon="-77.569397" lat="43.138748"/>
+        <rtept lon="-77.569408" lat="43.138646"/>
+        <rtept lon="-77.569445" lat="43.138505"/>
+        <rtept lon="-77.569499" lat="43.138403"/>
+        <rtept lon="-77.569569" lat="43.138286"/>
+        <rtept lon="-77.569692" lat="43.138156"/>
+        <rtept lon="-77.569821" lat="43.138035"/>
+        <rtept lon="-77.569923" lat="43.137957"/>
+        <rtept lon="-77.570062" lat="43.137878"/>
+        <rtept lon="-77.570239" lat="43.137816"/>
+        <rtept lon="-77.570400" lat="43.137769"/>
+        <rtept lon="-77.570577" lat="43.137734"/>
+        <rtept lon="-77.573780" lat="43.137577"/>
+        <rtept lon="-77.574010" lat="43.137595"/>
+        <rtept lon="-77.574205" lat="43.137648"/>
+        <rtept lon="-77.574371" lat="43.137721"/>
+        <rtept lon="-77.574500" lat="43.137811"/>
+        <rtept lon="-77.574586" lat="43.137905"/>
+        <rtept lon="-77.574640" lat="43.137984"/>
+        <rtept lon="-77.574665" lat="43.138023"/>
+        <rtept lon="-77.574736" lat="43.138022"/>
+        <rtept lon="-77.574775" lat="43.138140"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-reservoir-loop:adf6bcc4</name>
@@ -1043,15 +1043,15 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.574775" lat="43.138140"></rtept>
-        <rtept lon="-77.574787" lat="43.138202"></rtept>
-        <rtept lon="-77.574728" lat="43.138246"></rtept>
-        <rtept lon="-77.574704" lat="43.138344"></rtept>
-        <rtept lon="-77.574649" lat="43.138488"></rtept>
-        <rtept lon="-77.574571" lat="43.138614"></rtept>
-        <rtept lon="-77.574468" lat="43.138736"></rtept>
-        <rtept lon="-77.574327" lat="43.138832"></rtept>
-        <rtept lon="-77.574121" lat="43.138934"></rtept>
+        <rtept lon="-77.574775" lat="43.138140"/>
+        <rtept lon="-77.574787" lat="43.138202"/>
+        <rtept lon="-77.574728" lat="43.138246"/>
+        <rtept lon="-77.574704" lat="43.138344"/>
+        <rtept lon="-77.574649" lat="43.138488"/>
+        <rtept lon="-77.574571" lat="43.138614"/>
+        <rtept lon="-77.574468" lat="43.138736"/>
+        <rtept lon="-77.574327" lat="43.138832"/>
+        <rtept lon="-77.574121" lat="43.138934"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-gravel:25e553f0</name>
@@ -1060,20 +1060,20 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.577193" lat="43.137352"></rtept>
-        <rtept lon="-77.576958" lat="43.137380"></rtept>
-        <rtept lon="-77.576788" lat="43.137406"></rtept>
-        <rtept lon="-77.576723" lat="43.137416"></rtept>
-        <rtept lon="-77.576493" lat="43.137485"></rtept>
-        <rtept lon="-77.576317" lat="43.137565"></rtept>
-        <rtept lon="-77.576119" lat="43.137690"></rtept>
-        <rtept lon="-77.575922" lat="43.137834"></rtept>
-        <rtept lon="-77.575725" lat="43.137928"></rtept>
-        <rtept lon="-77.575476" lat="43.138022"></rtept>
-        <rtept lon="-77.575321" lat="43.138059"></rtept>
-        <rtept lon="-77.575150" lat="43.138095"></rtept>
-        <rtept lon="-77.575058" lat="43.138109"></rtept>
-        <rtept lon="-77.574786" lat="43.138151"></rtept>
+        <rtept lon="-77.577193" lat="43.137352"/>
+        <rtept lon="-77.576958" lat="43.137380"/>
+        <rtept lon="-77.576788" lat="43.137406"/>
+        <rtept lon="-77.576723" lat="43.137416"/>
+        <rtept lon="-77.576493" lat="43.137485"/>
+        <rtept lon="-77.576317" lat="43.137565"/>
+        <rtept lon="-77.576119" lat="43.137690"/>
+        <rtept lon="-77.575922" lat="43.137834"/>
+        <rtept lon="-77.575725" lat="43.137928"/>
+        <rtept lon="-77.575476" lat="43.138022"/>
+        <rtept lon="-77.575321" lat="43.138059"/>
+        <rtept lon="-77.575150" lat="43.138095"/>
+        <rtept lon="-77.575058" lat="43.138109"/>
+        <rtept lon="-77.574786" lat="43.138151"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:0a429fa8</name>
@@ -1082,8 +1082,8 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568245" lat="43.138581"></rtept>
-        <rtept lon="-77.568764" lat="43.138909"></rtept>
+        <rtept lon="-77.568245" lat="43.138581"/>
+        <rtept lon="-77.568764" lat="43.138909"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:4a8ac818</name>
@@ -1092,8 +1092,8 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568764" lat="43.138909"></rtept>
-        <rtept lon="-77.568022" lat="43.138946"></rtept>
+        <rtept lon="-77.568764" lat="43.138909"/>
+        <rtept lon="-77.568022" lat="43.138946"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:43334cf1</name>
@@ -1102,11 +1102,11 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.563889" lat="43.139747"></rtept>
-        <rtept lon="-77.563933" lat="43.139810"></rtept>
-        <rtept lon="-77.563996" lat="43.139825"></rtept>
-        <rtept lon="-77.564092" lat="43.139872"></rtept>
-        <rtept lon="-77.564151" lat="43.139867"></rtept>
+        <rtept lon="-77.563889" lat="43.139747"/>
+        <rtept lon="-77.563933" lat="43.139810"/>
+        <rtept lon="-77.563996" lat="43.139825"/>
+        <rtept lon="-77.564092" lat="43.139872"/>
+        <rtept lon="-77.564151" lat="43.139867"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:768fcc7b</name>
@@ -1115,14 +1115,14 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.564151" lat="43.139867"></rtept>
-        <rtept lon="-77.564436" lat="43.139629"></rtept>
-        <rtept lon="-77.564493" lat="43.139526"></rtept>
-        <rtept lon="-77.564616" lat="43.139328"></rtept>
-        <rtept lon="-77.564747" lat="43.139254"></rtept>
-        <rtept lon="-77.564854" lat="43.139152"></rtept>
-        <rtept lon="-77.565026" lat="43.139042"></rtept>
-        <rtept lon="-77.565118" lat="43.138914"></rtept>
+        <rtept lon="-77.564151" lat="43.139867"/>
+        <rtept lon="-77.564436" lat="43.139629"/>
+        <rtept lon="-77.564493" lat="43.139526"/>
+        <rtept lon="-77.564616" lat="43.139328"/>
+        <rtept lon="-77.564747" lat="43.139254"/>
+        <rtept lon="-77.564854" lat="43.139152"/>
+        <rtept lon="-77.565026" lat="43.139042"/>
+        <rtept lon="-77.565118" lat="43.138914"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:282d15ca</name>
@@ -1131,12 +1131,12 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565118" lat="43.138914"></rtept>
-        <rtept lon="-77.565240" lat="43.138928"></rtept>
-        <rtept lon="-77.565372" lat="43.138907"></rtept>
-        <rtept lon="-77.565595" lat="43.138917"></rtept>
-        <rtept lon="-77.565803" lat="43.138868"></rtept>
-        <rtept lon="-77.565949" lat="43.138896"></rtept>
+        <rtept lon="-77.565118" lat="43.138914"/>
+        <rtept lon="-77.565240" lat="43.138928"/>
+        <rtept lon="-77.565372" lat="43.138907"/>
+        <rtept lon="-77.565595" lat="43.138917"/>
+        <rtept lon="-77.565803" lat="43.138868"/>
+        <rtept lon="-77.565949" lat="43.138896"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:ff2a4c49</name>
@@ -1145,16 +1145,16 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565949" lat="43.138896"></rtept>
-        <rtept lon="-77.566217" lat="43.138886"></rtept>
-        <rtept lon="-77.566458" lat="43.138810"></rtept>
-        <rtept lon="-77.566706" lat="43.138764"></rtept>
-        <rtept lon="-77.566861" lat="43.138745"></rtept>
-        <rtept lon="-77.567004" lat="43.138797"></rtept>
-        <rtept lon="-77.567175" lat="43.138852"></rtept>
-        <rtept lon="-77.567335" lat="43.138898"></rtept>
-        <rtept lon="-77.567600" lat="43.138952"></rtept>
-        <rtept lon="-77.567944" lat="43.139027"></rtept>
+        <rtept lon="-77.565949" lat="43.138896"/>
+        <rtept lon="-77.566217" lat="43.138886"/>
+        <rtept lon="-77.566458" lat="43.138810"/>
+        <rtept lon="-77.566706" lat="43.138764"/>
+        <rtept lon="-77.566861" lat="43.138745"/>
+        <rtept lon="-77.567004" lat="43.138797"/>
+        <rtept lon="-77.567175" lat="43.138852"/>
+        <rtept lon="-77.567335" lat="43.138898"/>
+        <rtept lon="-77.567600" lat="43.138952"/>
+        <rtept lon="-77.567944" lat="43.139027"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:76444451</name>
@@ -1163,11 +1163,11 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.567944" lat="43.139027"></rtept>
-        <rtept lon="-77.568022" lat="43.138946"></rtept>
-        <rtept lon="-77.568057" lat="43.138910"></rtept>
-        <rtept lon="-77.568111" lat="43.138769"></rtept>
-        <rtept lon="-77.568245" lat="43.138581"></rtept>
+        <rtept lon="-77.567944" lat="43.139027"/>
+        <rtept lon="-77.568022" lat="43.138946"/>
+        <rtept lon="-77.568057" lat="43.138910"/>
+        <rtept lon="-77.568111" lat="43.138769"/>
+        <rtept lon="-77.568245" lat="43.138581"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:a328a8af</name>
@@ -1176,9 +1176,9 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568245" lat="43.138581"></rtept>
-        <rtept lon="-77.568384" lat="43.138541"></rtept>
-        <rtept lon="-77.568594" lat="43.138409"></rtept>
+        <rtept lon="-77.568245" lat="43.138581"/>
+        <rtept lon="-77.568384" lat="43.138541"/>
+        <rtept lon="-77.568594" lat="43.138409"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:e6e34663</name>
@@ -1187,14 +1187,14 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568594" lat="43.138409"></rtept>
-        <rtept lon="-77.568738" lat="43.138220"></rtept>
-        <rtept lon="-77.568873" lat="43.137879"></rtept>
-        <rtept lon="-77.568934" lat="43.137749"></rtept>
-        <rtept lon="-77.569132" lat="43.137682"></rtept>
-        <rtept lon="-77.569520" lat="43.137668"></rtept>
-        <rtept lon="-77.569645" lat="43.137732"></rtept>
-        <rtept lon="-77.569782" lat="43.137801"></rtept>
+        <rtept lon="-77.568594" lat="43.138409"/>
+        <rtept lon="-77.568738" lat="43.138220"/>
+        <rtept lon="-77.568873" lat="43.137879"/>
+        <rtept lon="-77.568934" lat="43.137749"/>
+        <rtept lon="-77.569132" lat="43.137682"/>
+        <rtept lon="-77.569520" lat="43.137668"/>
+        <rtept lon="-77.569645" lat="43.137732"/>
+        <rtept lon="-77.569782" lat="43.137801"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:89f84217</name>
@@ -1203,10 +1203,10 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.566015" lat="43.141249"></rtept>
-        <rtept lon="-77.565881" lat="43.141317"></rtept>
-        <rtept lon="-77.565472" lat="43.141547"></rtept>
-        <rtept lon="-77.565281" lat="43.141174"></rtept>
+        <rtept lon="-77.566015" lat="43.141249"/>
+        <rtept lon="-77.565881" lat="43.141317"/>
+        <rtept lon="-77.565472" lat="43.141547"/>
+        <rtept lon="-77.565281" lat="43.141174"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:8e4843b4</name>
@@ -1215,8 +1215,8 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565281" lat="43.141174"></rtept>
-        <rtept lon="-77.564768" lat="43.141195"></rtept>
+        <rtept lon="-77.565281" lat="43.141174"/>
+        <rtept lon="-77.564768" lat="43.141195"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:49bb4b16</name>
@@ -1225,16 +1225,16 @@
                 <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.576958" lat="43.137380"></rtept>
-        <rtept lon="-77.577086" lat="43.137439"></rtept>
-        <rtept lon="-77.577280" lat="43.137493"></rtept>
-        <rtept lon="-77.577355" lat="43.137588"></rtept>
-        <rtept lon="-77.577376" lat="43.137689"></rtept>
-        <rtept lon="-77.577376" lat="43.137783"></rtept>
-        <rtept lon="-77.577247" lat="43.137979"></rtept>
-        <rtept lon="-77.577000" lat="43.138261"></rtept>
-        <rtept lon="-77.576818" lat="43.138456"></rtept>
-        <rtept lon="-77.576319" lat="43.138759"></rtept>
+        <rtept lon="-77.576958" lat="43.137380"/>
+        <rtept lon="-77.577086" lat="43.137439"/>
+        <rtept lon="-77.577280" lat="43.137493"/>
+        <rtept lon="-77.577355" lat="43.137588"/>
+        <rtept lon="-77.577376" lat="43.137689"/>
+        <rtept lon="-77.577376" lat="43.137783"/>
+        <rtept lon="-77.577247" lat="43.137979"/>
+        <rtept lon="-77.577000" lat="43.138261"/>
+        <rtept lon="-77.576818" lat="43.138456"/>
+        <rtept lon="-77.576319" lat="43.138759"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:d73aa8a1</name>
@@ -1243,15 +1243,15 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.576319" lat="43.138759"></rtept>
-        <rtept lon="-77.576250" lat="43.138801"></rtept>
-        <rtept lon="-77.576153" lat="43.138989"></rtept>
-        <rtept lon="-77.575981" lat="43.139185"></rtept>
-        <rtept lon="-77.575654" lat="43.139537"></rtept>
-        <rtept lon="-77.575397" lat="43.139743"></rtept>
-        <rtept lon="-77.575075" lat="43.139831"></rtept>
-        <rtept lon="-77.574484" lat="43.139848"></rtept>
-        <rtept lon="-77.573952" lat="43.140052"></rtept>
+        <rtept lon="-77.576319" lat="43.138759"/>
+        <rtept lon="-77.576250" lat="43.138801"/>
+        <rtept lon="-77.576153" lat="43.138989"/>
+        <rtept lon="-77.575981" lat="43.139185"/>
+        <rtept lon="-77.575654" lat="43.139537"/>
+        <rtept lon="-77.575397" lat="43.139743"/>
+        <rtept lon="-77.575075" lat="43.139831"/>
+        <rtept lon="-77.574484" lat="43.139848"/>
+        <rtept lon="-77.573952" lat="43.140052"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:0f22b24e</name>
@@ -1260,10 +1260,10 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.573952" lat="43.140052"></rtept>
-        <rtept lon="-77.573933" lat="43.140291"></rtept>
-        <rtept lon="-77.573775" lat="43.140742"></rtept>
-        <rtept lon="-77.573697" lat="43.141275"></rtept>
+        <rtept lon="-77.573952" lat="43.140052"/>
+        <rtept lon="-77.573933" lat="43.140291"/>
+        <rtept lon="-77.573775" lat="43.140742"/>
+        <rtept lon="-77.573697" lat="43.141275"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:765e2b90</name>
@@ -1272,9 +1272,9 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.576042" lat="43.138516"></rtept>
-        <rtept lon="-77.575795" lat="43.138867"></rtept>
-        <rtept lon="-77.575530" lat="43.138818"></rtept>
+        <rtept lon="-77.576042" lat="43.138516"/>
+        <rtept lon="-77.575795" lat="43.138867"/>
+        <rtept lon="-77.575530" lat="43.138818"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:31bcc382</name>
@@ -1283,14 +1283,14 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.575530" lat="43.138818"></rtept>
-        <rtept lon="-77.575422" lat="43.138760"></rtept>
-        <rtept lon="-77.575470" lat="43.138607"></rtept>
-        <rtept lon="-77.575411" lat="43.138560"></rtept>
-        <rtept lon="-77.575125" lat="43.138863"></rtept>
-        <rtept lon="-77.575012" lat="43.138871"></rtept>
-        <rtept lon="-77.575019" lat="43.138631"></rtept>
-        <rtept lon="-77.574936" lat="43.138627"></rtept>
+        <rtept lon="-77.575530" lat="43.138818"/>
+        <rtept lon="-77.575422" lat="43.138760"/>
+        <rtept lon="-77.575470" lat="43.138607"/>
+        <rtept lon="-77.575411" lat="43.138560"/>
+        <rtept lon="-77.575125" lat="43.138863"/>
+        <rtept lon="-77.575012" lat="43.138871"/>
+        <rtept lon="-77.575019" lat="43.138631"/>
+        <rtept lon="-77.574936" lat="43.138627"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:0e690070</name>
@@ -1299,11 +1299,11 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.569645" lat="43.137732"></rtept>
-        <rtept lon="-77.569415" lat="43.137934"></rtept>
-        <rtept lon="-77.569150" lat="43.138095"></rtept>
-        <rtept lon="-77.569045" lat="43.138262"></rtept>
-        <rtept lon="-77.568941" lat="43.138498"></rtept>
+        <rtept lon="-77.569645" lat="43.137732"/>
+        <rtept lon="-77.569415" lat="43.137934"/>
+        <rtept lon="-77.569150" lat="43.138095"/>
+        <rtept lon="-77.569045" lat="43.138262"/>
+        <rtept lon="-77.568941" lat="43.138498"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:5397d3db</name>
@@ -1312,8 +1312,8 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568941" lat="43.138498"></rtept>
-        <rtept lon="-77.568764" lat="43.138909"></rtept>
+        <rtept lon="-77.568941" lat="43.138498"/>
+        <rtept lon="-77.568764" lat="43.138909"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:c6de937b</name>
@@ -1322,10 +1322,10 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.568764" lat="43.138909"></rtept>
-        <rtept lon="-77.568633" lat="43.139213"></rtept>
-        <rtept lon="-77.568966" lat="43.139712"></rtept>
-        <rtept lon="-77.569043" lat="43.139815"></rtept>
+        <rtept lon="-77.568764" lat="43.138909"/>
+        <rtept lon="-77.568633" lat="43.139213"/>
+        <rtept lon="-77.568966" lat="43.139712"/>
+        <rtept lon="-77.569043" lat="43.139815"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:bdc9299a</name>
@@ -1334,14 +1334,14 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.569043" lat="43.139815"></rtept>
-        <rtept lon="-77.569218" lat="43.140032"></rtept>
-        <rtept lon="-77.569317" lat="43.140126"></rtept>
-        <rtept lon="-77.569496" lat="43.140131"></rtept>
-        <rtept lon="-77.569748" lat="43.140126"></rtept>
-        <rtept lon="-77.569914" lat="43.140063"></rtept>
-        <rtept lon="-77.570155" lat="43.139982"></rtept>
-        <rtept lon="-77.570253" lat="43.139858"></rtept>
+        <rtept lon="-77.569043" lat="43.139815"/>
+        <rtept lon="-77.569218" lat="43.140032"/>
+        <rtept lon="-77.569317" lat="43.140126"/>
+        <rtept lon="-77.569496" lat="43.140131"/>
+        <rtept lon="-77.569748" lat="43.140126"/>
+        <rtept lon="-77.569914" lat="43.140063"/>
+        <rtept lon="-77.570155" lat="43.139982"/>
+        <rtept lon="-77.570253" lat="43.139858"/>
     </rte>
     <rte>
         <name>seg:trail-cobbs-singletrack:9cc91574</name>
@@ -1350,12 +1350,12 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.565841" lat="43.141117"></rtept>
-        <rtept lon="-77.566088" lat="43.141115"></rtept>
-        <rtept lon="-77.566310" lat="43.141039"></rtept>
-        <rtept lon="-77.566365" lat="43.140944"></rtept>
-        <rtept lon="-77.566365" lat="43.140944"></rtept>
-        <rtept lon="-77.566413" lat="43.140778"></rtept>
+        <rtept lon="-77.565841" lat="43.141117"/>
+        <rtept lon="-77.566088" lat="43.141115"/>
+        <rtept lon="-77.566310" lat="43.141039"/>
+        <rtept lon="-77.566365" lat="43.140944"/>
+        <rtept lon="-77.566365" lat="43.140944"/>
+        <rtept lon="-77.566413" lat="43.140778"/>
     </rte>
     <trk>
         <name>border:park-cobbs</name>
@@ -1365,51 +1365,51 @@
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.578288" lat="43.137816"></trkpt>
-            <trkpt lon="-77.575536" lat="43.136209"></trkpt>
-            <trkpt lon="-77.575140" lat="43.136322"></trkpt>
-            <trkpt lon="-77.574760" lat="43.136355"></trkpt>
-            <trkpt lon="-77.572497" lat="43.136403"></trkpt>
-            <trkpt lon="-77.572140" lat="43.136389"></trkpt>
-            <trkpt lon="-77.571920" lat="43.136865"></trkpt>
-            <trkpt lon="-77.571700" lat="43.136932"></trkpt>
-            <trkpt lon="-77.571619" lat="43.137091"></trkpt>
-            <trkpt lon="-77.571334" lat="43.137254"></trkpt>
-            <trkpt lon="-77.570653" lat="43.137369"></trkpt>
-            <trkpt lon="-77.568966" lat="43.137603"></trkpt>
-            <trkpt lon="-77.568142" lat="43.138431"></trkpt>
-            <trkpt lon="-77.567775" lat="43.138558"></trkpt>
-            <trkpt lon="-77.567015" lat="43.138698"></trkpt>
-            <trkpt lon="-77.566074" lat="43.138703"></trkpt>
-            <trkpt lon="-77.564052" lat="43.138765"></trkpt>
-            <trkpt lon="-77.563891" lat="43.138825"></trkpt>
-            <trkpt lon="-77.563552" lat="43.140116"></trkpt>
-            <trkpt lon="-77.563327" lat="43.140497"></trkpt>
-            <trkpt lon="-77.562979" lat="43.141336"></trkpt>
-            <trkpt lon="-77.562719" lat="43.141607"></trkpt>
-            <trkpt lon="-77.562835" lat="43.141707"></trkpt>
-            <trkpt lon="-77.566261" lat="43.141569"></trkpt>
-            <trkpt lon="-77.566248" lat="43.141662"></trkpt>
-            <trkpt lon="-77.568158" lat="43.141524"></trkpt>
-            <trkpt lon="-77.568523" lat="43.141643"></trkpt>
-            <trkpt lon="-77.569786" lat="43.141269"></trkpt>
-            <trkpt lon="-77.570666" lat="43.141146"></trkpt>
-            <trkpt lon="-77.571251" lat="43.141060"></trkpt>
-            <trkpt lon="-77.573405" lat="43.140540"></trkpt>
-            <trkpt lon="-77.573509" lat="43.140768"></trkpt>
-            <trkpt lon="-77.572451" lat="43.141069"></trkpt>
-            <trkpt lon="-77.572704" lat="43.141530"></trkpt>
-            <trkpt lon="-77.570423" lat="43.142081"></trkpt>
-            <trkpt lon="-77.569592" lat="43.142197"></trkpt>
-            <trkpt lon="-77.568928" lat="43.142342"></trkpt>
-            <trkpt lon="-77.568473" lat="43.142531"></trkpt>
-            <trkpt lon="-77.567891" lat="43.142917"></trkpt>
-            <trkpt lon="-77.567131" lat="43.143390"></trkpt>
-            <trkpt lon="-77.566268" lat="43.143692"></trkpt>
-            <trkpt lon="-77.566379" lat="43.143946"></trkpt>
-            <trkpt lon="-77.568881" lat="43.143522"></trkpt>
-            <trkpt lon="-77.571650" lat="43.143173"></trkpt>
-            <trkpt lon="-77.575340" lat="43.142991"></trkpt>
+            <trkpt lon="-77.578288" lat="43.137816"/>
+            <trkpt lon="-77.575536" lat="43.136209"/>
+            <trkpt lon="-77.575140" lat="43.136322"/>
+            <trkpt lon="-77.574760" lat="43.136355"/>
+            <trkpt lon="-77.572497" lat="43.136403"/>
+            <trkpt lon="-77.572140" lat="43.136389"/>
+            <trkpt lon="-77.571920" lat="43.136865"/>
+            <trkpt lon="-77.571700" lat="43.136932"/>
+            <trkpt lon="-77.571619" lat="43.137091"/>
+            <trkpt lon="-77.571334" lat="43.137254"/>
+            <trkpt lon="-77.570653" lat="43.137369"/>
+            <trkpt lon="-77.568966" lat="43.137603"/>
+            <trkpt lon="-77.568142" lat="43.138431"/>
+            <trkpt lon="-77.567775" lat="43.138558"/>
+            <trkpt lon="-77.567015" lat="43.138698"/>
+            <trkpt lon="-77.566074" lat="43.138703"/>
+            <trkpt lon="-77.564052" lat="43.138765"/>
+            <trkpt lon="-77.563891" lat="43.138825"/>
+            <trkpt lon="-77.563552" lat="43.140116"/>
+            <trkpt lon="-77.563327" lat="43.140497"/>
+            <trkpt lon="-77.562979" lat="43.141336"/>
+            <trkpt lon="-77.562719" lat="43.141607"/>
+            <trkpt lon="-77.562835" lat="43.141707"/>
+            <trkpt lon="-77.566261" lat="43.141569"/>
+            <trkpt lon="-77.566248" lat="43.141662"/>
+            <trkpt lon="-77.568158" lat="43.141524"/>
+            <trkpt lon="-77.568523" lat="43.141643"/>
+            <trkpt lon="-77.569786" lat="43.141269"/>
+            <trkpt lon="-77.570666" lat="43.141146"/>
+            <trkpt lon="-77.571251" lat="43.141060"/>
+            <trkpt lon="-77.573405" lat="43.140540"/>
+            <trkpt lon="-77.573509" lat="43.140768"/>
+            <trkpt lon="-77.572451" lat="43.141069"/>
+            <trkpt lon="-77.572704" lat="43.141530"/>
+            <trkpt lon="-77.570423" lat="43.142081"/>
+            <trkpt lon="-77.569592" lat="43.142197"/>
+            <trkpt lon="-77.568928" lat="43.142342"/>
+            <trkpt lon="-77.568473" lat="43.142531"/>
+            <trkpt lon="-77.567891" lat="43.142917"/>
+            <trkpt lon="-77.567131" lat="43.143390"/>
+            <trkpt lon="-77.566268" lat="43.143692"/>
+            <trkpt lon="-77.566379" lat="43.143946"/>
+            <trkpt lon="-77.568881" lat="43.143522"/>
+            <trkpt lon="-77.571650" lat="43.143173"/>
+            <trkpt lon="-77.575340" lat="43.142991"/>
         </trkseg>
     </trk>
     <trk>

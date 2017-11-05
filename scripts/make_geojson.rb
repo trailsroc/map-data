@@ -5,6 +5,7 @@ require 'nokogiri'
 
 # initialize ################################
 
+$data_version = 4
 $pretty = true
 $dry_run = false
 $source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
@@ -272,7 +273,7 @@ def parse_gpx(filename)
         end
 
         #register_and_validate_unique_id(point_id, "waypoint")
-        poi_type = point["type"]
+        poi_type = point["type"] || point_id.split(":").first
         if !$metadata[:poiTypes].include?(poi_type)
             $metadata[:poiTypes].push(poi_type)
         end
@@ -284,6 +285,11 @@ def parse_gpx(filename)
         if point['name']
             feature_property(feature, 'name', point['name'])
         end
+
+        short_name = point["shortName"] || point["name"]
+        if short_name
+            feature_property(feature, 'shortName', short_name)
+        end
         if point["parentIDs"]
             point["parentIDs"].each do |parent_id|
                 validate_id_exists(parent_id, "waypoint parentID")
@@ -291,7 +297,7 @@ def parse_gpx(filename)
             feature_property(feature, "parentIDs", point["parentIDs"].join(","))
         end
         optional_property(feature, 'url', point)
-        default_allows_directions = ['boat_launch', 'lodge', 'parking', 'shelter'].include?(point['type'])
+        default_allows_directions = ['point-boat_launch', 'point-lodge', 'point-parking', 'point-smparking', 'point-shelter'].include?(poi_type)
         optional_property(feature, 'allowsDirections', point, dflt: default_allows_directions)
         if point['directionsCoordinate']
             feature_property(feature, 'directionsCoordinate', point['directionsCoordinate'].reverse)
@@ -362,7 +368,7 @@ def parse_json(filename)
     debug_trace('Parsing JSON ' + filename)
 
     data = JSON.load(IO.read(filename))
-    if data["version"] != 3
+    if data["version"] != $data_version
         abort_msg("Incompatible JSON data version for #{filename}", nil)
     end
 
