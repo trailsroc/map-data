@@ -1,9 +1,69 @@
-<?xml version="1.0"?>
+
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-10-23T22:58:23.667Z</time>
+        <time>2017-11-05T14:12:06.048Z</time>
     </metadata>
+    <wpt lon="-77.543201" lat="43.186261">
+        <name>point-parking:ibaywest:homewood</name>
+        <desc>{ "type": "point-parking", "comments": "Bay West N", "name": "Parking (Homewood Ln)", "parentIDs": [ "park-ibaywest", "trail-ibaywest-blue" ] }</desc>
+    </wpt>
+    <wpt lon="-77.529223" lat="43.183771">
+        <name>point-parking:ibaywest:edb06c00</name>
+        <desc>{ "type": "point-parking", "comments": "Bay West S", "name": "Parking (Orchard Park Blvd)", "parentIDs": [ "park-ibaywest", "trail-ibaywest-purple" ] }</desc>
+    </wpt>
+    <wpt lon="-77.538536" lat="43.185883">
+        <name>point-intersection:ibaywest:77cfc46a</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 1", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.539711" lat="43.185299">
+        <name>point-intersection:ibaywest:d368a7ee</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 2", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.537788" lat="43.185284">
+        <name>point-intersection:ibaywest:05838712</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 3", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.537704" lat="43.185398">
+        <name>point-intersection:ibaywest:39d2a102</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 4", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.536987" lat="43.185574">
+        <name>point-intersection:ibaywest:6537e338</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 5", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.536392" lat="43.185371">
+        <name>point-intersection:ibaywest:d0850b39</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 6", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.533768" lat="43.185764">
+        <name>point-intersection:ibaywest:91122bc8</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 7", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.533897" lat="43.186600">
+        <name>point-intersection:ibaywest:69c11970</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 8", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.532318" lat="43.185661">
+        <name>point-intersection:ibaywest:cc978433</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 9", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.531860" lat="43.185078">
+        <name>point-intersection:ibaywest:d93fe4e2</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 10", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.531403" lat="43.185230">
+        <name>point-intersection:ibaywest:23f33ef4</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 11", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.530075" lat="43.184269">
+        <name>point-intersection:ibaywest:24c0953d</name>
+        <desc>{ "type": "point-intersection", "name": "Intersection 12", "parentIDs": [ "park-ibaywest" ] }</desc>
+    </wpt>
+    <wpt lon="-77.530172" lat="43.189061">
+        <name>point-parking:ibaywest:0625c28e</name>
+        <desc>{ "type": "point-parking", "comments": "Bay West N", "name": "Parking (Fish &amp; Game Lot)", "parentIDs": [ "park-ibaywest", "trail-ibaywest-blue", "trail-ibaywest-green" ] }</desc>
+    </wpt>
     <rte>
         <name>border:park-ibaywest</name>
         <extensions>
@@ -11,63 +71,63 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.529192" lat="43.188291"/>
-        <rtept lon="-77.529794" lat="43.189278"/>
-        <rtept lon="-77.530971" lat="43.189354"/>
-        <rtept lon="-77.535305" lat="43.189288"/>
-        <rtept lon="-77.533701" lat="43.188573"/>
-        <rtept lon="-77.533972" lat="43.188433"/>
-        <rtept lon="-77.534209" lat="43.188688"/>
-        <rtept lon="-77.534660" lat="43.188390"/>
-        <rtept lon="-77.537098" lat="43.188328"/>
-        <rtept lon="-77.537053" lat="43.187499"/>
-        <rtept lon="-77.537858" lat="43.187483"/>
-        <rtept lon="-77.537955" lat="43.186918"/>
-        <rtept lon="-77.538461" lat="43.186487"/>
-        <rtept lon="-77.540383" lat="43.186346"/>
-        <rtept lon="-77.540450" lat="43.186596"/>
-        <rtept lon="-77.542742" lat="43.186463"/>
-        <rtept lon="-77.542705" lat="43.185628"/>
-        <rtept lon="-77.540732" lat="43.185728"/>
-        <rtept lon="-77.540613" lat="43.185386"/>
-        <rtept lon="-77.541071" lat="43.184790"/>
-        <rtept lon="-77.542045" lat="43.184408"/>
-        <rtept lon="-77.542660" lat="43.184165"/>
-        <rtept lon="-77.542625" lat="43.183758"/>
-        <rtept lon="-77.541138" lat="43.184183"/>
-        <rtept lon="-77.540701" lat="43.184423"/>
-        <rtept lon="-77.540480" lat="43.184751"/>
-        <rtept lon="-77.533242" lat="43.185177"/>
-        <rtept lon="-77.533115" lat="43.184412"/>
-        <rtept lon="-77.534373" lat="43.183534"/>
-        <rtept lon="-77.534303" lat="43.183320"/>
-        <rtept lon="-77.532841" lat="43.183388"/>
-        <rtept lon="-77.532852" lat="43.182462"/>
-        <rtept lon="-77.531846" lat="43.182514"/>
-        <rtept lon="-77.531917" lat="43.183351"/>
-        <rtept lon="-77.531865" lat="43.183691"/>
-        <rtept lon="-77.531692" lat="43.184065"/>
-        <rtept lon="-77.531336" lat="43.184114"/>
-        <rtept lon="-77.530222" lat="43.183782"/>
-        <rtept lon="-77.529031" lat="43.183603"/>
-        <rtept lon="-77.528795" lat="43.183435"/>
-        <rtept lon="-77.528671" lat="43.183280"/>
-        <rtept lon="-77.528244" lat="43.183194"/>
-        <rtept lon="-77.528724" lat="43.181879"/>
-        <rtept lon="-77.528432" lat="43.181836"/>
-        <rtept lon="-77.528360" lat="43.181863"/>
-        <rtept lon="-77.528191" lat="43.182152"/>
-        <rtept lon="-77.528230" lat="43.182180"/>
-        <rtept lon="-77.528014" lat="43.182303"/>
-        <rtept lon="-77.527341" lat="43.183071"/>
-        <rtept lon="-77.527477" lat="43.183812"/>
-        <rtept lon="-77.527495" lat="43.184680"/>
-        <rtept lon="-77.527938" lat="43.185078"/>
-        <rtept lon="-77.528227" lat="43.185367"/>
-        <rtept lon="-77.528543" lat="43.186027"/>
-        <rtept lon="-77.528914" lat="43.186442"/>
-        <rtept lon="-77.528923" lat="43.187373"/>
-        <rtept lon="-77.528905" lat="43.188169"/>
+        <rtept lon="-77.529192" lat="43.188291"></rtept>
+        <rtept lon="-77.529794" lat="43.189278"></rtept>
+        <rtept lon="-77.530971" lat="43.189354"></rtept>
+        <rtept lon="-77.535305" lat="43.189288"></rtept>
+        <rtept lon="-77.533701" lat="43.188573"></rtept>
+        <rtept lon="-77.533972" lat="43.188433"></rtept>
+        <rtept lon="-77.534209" lat="43.188688"></rtept>
+        <rtept lon="-77.534660" lat="43.188390"></rtept>
+        <rtept lon="-77.537098" lat="43.188328"></rtept>
+        <rtept lon="-77.537053" lat="43.187499"></rtept>
+        <rtept lon="-77.537858" lat="43.187483"></rtept>
+        <rtept lon="-77.537955" lat="43.186918"></rtept>
+        <rtept lon="-77.538461" lat="43.186487"></rtept>
+        <rtept lon="-77.540383" lat="43.186346"></rtept>
+        <rtept lon="-77.540450" lat="43.186596"></rtept>
+        <rtept lon="-77.542742" lat="43.186463"></rtept>
+        <rtept lon="-77.542705" lat="43.185628"></rtept>
+        <rtept lon="-77.540732" lat="43.185728"></rtept>
+        <rtept lon="-77.540613" lat="43.185386"></rtept>
+        <rtept lon="-77.541071" lat="43.184790"></rtept>
+        <rtept lon="-77.542045" lat="43.184408"></rtept>
+        <rtept lon="-77.542660" lat="43.184165"></rtept>
+        <rtept lon="-77.542625" lat="43.183758"></rtept>
+        <rtept lon="-77.541138" lat="43.184183"></rtept>
+        <rtept lon="-77.540701" lat="43.184423"></rtept>
+        <rtept lon="-77.540480" lat="43.184751"></rtept>
+        <rtept lon="-77.533242" lat="43.185177"></rtept>
+        <rtept lon="-77.533115" lat="43.184412"></rtept>
+        <rtept lon="-77.534373" lat="43.183534"></rtept>
+        <rtept lon="-77.534303" lat="43.183320"></rtept>
+        <rtept lon="-77.532841" lat="43.183388"></rtept>
+        <rtept lon="-77.532852" lat="43.182462"></rtept>
+        <rtept lon="-77.531846" lat="43.182514"></rtept>
+        <rtept lon="-77.531917" lat="43.183351"></rtept>
+        <rtept lon="-77.531865" lat="43.183691"></rtept>
+        <rtept lon="-77.531692" lat="43.184065"></rtept>
+        <rtept lon="-77.531336" lat="43.184114"></rtept>
+        <rtept lon="-77.530222" lat="43.183782"></rtept>
+        <rtept lon="-77.529031" lat="43.183603"></rtept>
+        <rtept lon="-77.528795" lat="43.183435"></rtept>
+        <rtept lon="-77.528671" lat="43.183280"></rtept>
+        <rtept lon="-77.528244" lat="43.183194"></rtept>
+        <rtept lon="-77.528724" lat="43.181879"></rtept>
+        <rtept lon="-77.528432" lat="43.181836"></rtept>
+        <rtept lon="-77.528360" lat="43.181863"></rtept>
+        <rtept lon="-77.528191" lat="43.182152"></rtept>
+        <rtept lon="-77.528230" lat="43.182180"></rtept>
+        <rtept lon="-77.528014" lat="43.182303"></rtept>
+        <rtept lon="-77.527341" lat="43.183071"></rtept>
+        <rtept lon="-77.527477" lat="43.183812"></rtept>
+        <rtept lon="-77.527495" lat="43.184680"></rtept>
+        <rtept lon="-77.527938" lat="43.185078"></rtept>
+        <rtept lon="-77.528227" lat="43.185367"></rtept>
+        <rtept lon="-77.528543" lat="43.186027"></rtept>
+        <rtept lon="-77.528914" lat="43.186442"></rtept>
+        <rtept lon="-77.528923" lat="43.187373"></rtept>
+        <rtept lon="-77.528905" lat="43.188169"></rtept>
     </rte>
     <trk>
         <name>seg:trail-ibaywest-blue:6aeb4247</name>
@@ -3599,90 +3659,4 @@
             </trkpt>
         </trkseg>
     </trk>
-<wpt lat="43.189061" lon="-77.530172"><name>point-parking:ibaywest:0625c28e</name><desc>{
-  "type": "point-parking",
-  "comments": "Bay West N",
-  "name": "Parking",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.183771" lon="-77.529223"><name>point-parking:ibaywest:edb06c00</name><desc>{
-  "type": "point-parking",
-  "comments": "Bay West S",
-  "name": "Parking",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185883" lon="-77.538536"><name>point-intersection:ibaywest:77cfc46a</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 1",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185299" lon="-77.539711"><name>point-intersection:ibaywest:d368a7ee</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 2",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185284" lon="-77.537788"><name>point-intersection:ibaywest:05838712</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 3",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185398" lon="-77.537704"><name>point-intersection:ibaywest:39d2a102</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 4",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185574" lon="-77.536987"><name>point-intersection:ibaywest:6537e338</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 5",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185371" lon="-77.536392"><name>point-intersection:ibaywest:d0850b39</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 6",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185764" lon="-77.533768"><name>point-intersection:ibaywest:91122bc8</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 7",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.1866" lon="-77.533897"><name>point-intersection:ibaywest:69c11970</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 8",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185661" lon="-77.532318"><name>point-intersection:ibaywest:cc978433</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 9",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.185078" lon="-77.53186"><name>point-intersection:ibaywest:d93fe4e2</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 10",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.18523" lon="-77.531403"><name>point-intersection:ibaywest:23f33ef4</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 11",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt><wpt lat="43.184269" lon="-77.530075"><name>point-intersection:ibaywest:24c0953d</name><desc>{
-  "type": "point-intersection",
-  "name": "Intersection 12",
-  "parentIDs": [
-    "park-ibaywest"
-  ]
-}</desc></wpt></gpx>
+</gpx>

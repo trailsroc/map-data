@@ -1,9 +1,101 @@
-<?xml version="1.0"?>
+
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-10-23T23:00:32.719Z</time>
+        <time>2017-11-05T14:26:55.829Z</time>
     </metadata>
+    <wpt lon="-77.590095" lat="42.978852">
+        <name>point-poi:lehigh:b405ad6d</name>
+        <desc>{ "type": "point-poi", "name": "Great Bend Nature Park", "SW": [ 42.976206714433175, -77.59536266326904 ], "NE": [ 42.98367909085195, -77.58255243301392 ], "parentIDs": [ "park-lehigh-park" ] }</desc>
+    </wpt>
+    <wpt lon="-77.700784" lat="42.987024">
+        <name>point-parking:lehigh:aba338a9</name>
+        <desc>{ "type": "point-parking", "name": "Parking (E River Rd)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.679546" lat="42.990715">
+        <name>point-parking:lehigh:03746ff8</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Fishell Rd)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.645355" lat="42.992204">
+        <name>point-parking:lehigh:creekside</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Creekside, Rush)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.597977" lat="42.985226">
+        <name>point-parking:lehigh:junction</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Rochester Junction)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main", "trail-lehigh-valley-north" ] }</desc>
+    </wpt>
+    <wpt lon="-77.587986" lat="42.978211">
+        <name>point-parking:lehigh:great-bend</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Great Bend Park)", "parentIDs": [ "park-lehigh-park" ] }</desc>
+    </wpt>
+    <wpt lon="-77.508432" lat="42.997652">
+        <name>point-parking:lehigh:b715181d</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Mendon/251)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.493943" lat="43.001336">
+        <name>point-parking:lehigh:5aaf9804</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Mile Square)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.482039" lat="43.002827">
+        <name>point-parking:lehigh:fcbd5759</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Old Dutch Rd)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main", "trail-vht-lehigh-blackdiamond" ] }</desc>
+    </wpt>
+    <wpt lon="-77.612067" lat="42.993293">
+        <name>point-parking:lehigh:1c7856fb</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Rush/251)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-north" ] }</desc>
+    </wpt>
+    <wpt lon="-77.623287" lat="43.003120">
+        <name>point-parking:lehigh:98be4d26</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Pinnacle Rd)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-north" ] }</desc>
+    </wpt>
+    <wpt lon="-77.630418" lat="43.026133">
+        <name>point-parking:lehigh:c28b9dbc</name>
+        <desc>{ "type": "point-parking", "name": "Parking (15A)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-north" ] }</desc>
+    </wpt>
+    <wpt lon="-77.581048" lat="42.981885">
+        <name>point-scenic:lehigh:be474d76</name>
+        <desc>{ "type": "point-scenic", "comments": "East of Clover St", "name": "Scenic Point", "parentIDs": [ "park-lehigh-park" ] }</desc>
+    </wpt>
+    <wpt lon="-77.597866" lat="42.985142">
+        <name>point-lodge:lehigh:e0e064a0</name>
+        <desc>{ "name": "Freight House Lodge", "parentIDs": [ "park-lehigh-park" ] }</desc>
+    </wpt>
+    <wpt lon="-77.597726" lat="42.985059">
+        <name>point-restroom:lehigh:9bd84cd0</name>
+        <desc>{ "type": "point-restroom", "comments": "Junction", "name": "Restroom", "parentIDs": [ "park-lehigh-park" ] }</desc>
+    </wpt>
+    <wpt lon="-77.642822" lat="42.991994">
+        <name>point-parking:lehigh:a625314d</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Lehigh St, Rush)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.598477" lat="42.984975">
+        <name>point-parking:lehigh:aac0f815</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Plains Rd)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main", "trail-lehigh-valley-north" ] }</desc>
+    </wpt>
+    <wpt lon="-77.574677" lat="42.982933">
+        <name>point-parking:lehigh:a0c14b65</name>
+        <desc>{ "type": "point-parking", "name": "Parking (Quaker Meeting House)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.583598" lat="42.981660">
+        <name>point-parking:lehigh:65</name>
+        <desc>{ "type": "point-parking", "name": "Parking (65)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.623085" lat="43.003541">
+        <name>point-lodge:lehigh:stevens</name>
+        <desc>{"name": Stevens-Connor Lodge", "parentIDs": ["park-lehigh-park"]}</desc>
+    </wpt>
+    <wpt lon="-77.542665" lat="42.988427">
+        <name>point-smparking:lehigh:chamberlain</name>
+        <desc>{ "name": "Shoulder Parking (Chamberlain)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.524078" lat="42.991637">
+        <name>point-smparking:lehigh:wbloom</name>
+        <desc>{ "name": "Shoulder Parking (W Bloomfield)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
+    <wpt lon="-77.505589" lat="42.998999">
+        <name>point-parking:lehigh:mstation</name>
+        <desc>{ "name": "Parking (Mendon Station)", "parentIDs": [ "park-lehigh-park", "trail-lehigh-valley-main" ] }</desc>
+    </wpt>
     <rte>
         <name>seg:trail-lehigh-valley-main:7a6bd777</name>
         <extensions>
@@ -11,30 +103,30 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.732828" lat="42.984535"/>
-        <rtept lon="-77.732514" lat="42.984486"/>
-        <rtept lon="-77.732211" lat="42.984485"/>
-        <rtept lon="-77.732211" lat="42.984485"/>
-        <rtept lon="-77.731342" lat="42.984551"/>
-        <rtept lon="-77.731025" lat="42.984579"/>
-        <rtept lon="-77.730818" lat="42.984545"/>
-        <rtept lon="-77.730338" lat="42.984521"/>
-        <rtept lon="-77.728300" lat="42.984695"/>
-        <rtept lon="-77.727960" lat="42.984764"/>
-        <rtept lon="-77.727465" lat="42.984869"/>
-        <rtept lon="-77.727465" lat="42.984869"/>
-        <rtept lon="-77.726706" lat="42.984937"/>
-        <rtept lon="-77.724334" lat="42.985136"/>
-        <rtept lon="-77.723025" lat="42.985239"/>
-        <rtept lon="-77.723025" lat="42.985239"/>
-        <rtept lon="-77.720693" lat="42.985414"/>
-        <rtept lon="-77.720438" lat="42.985432"/>
-        <rtept lon="-77.718275" lat="42.985622"/>
-        <rtept lon="-77.715257" lat="42.985849"/>
-        <rtept lon="-77.709219" lat="42.986367"/>
-        <rtept lon="-77.703219" lat="42.986848"/>
-        <rtept lon="-77.700944" lat="42.987040"/>
-        <rtept lon="-77.700659" lat="42.987069"/>
+        <rtept lon="-77.732828" lat="42.984535"></rtept>
+        <rtept lon="-77.732514" lat="42.984486"></rtept>
+        <rtept lon="-77.732211" lat="42.984485"></rtept>
+        <rtept lon="-77.732211" lat="42.984485"></rtept>
+        <rtept lon="-77.731342" lat="42.984551"></rtept>
+        <rtept lon="-77.731025" lat="42.984579"></rtept>
+        <rtept lon="-77.730818" lat="42.984545"></rtept>
+        <rtept lon="-77.730338" lat="42.984521"></rtept>
+        <rtept lon="-77.728300" lat="42.984695"></rtept>
+        <rtept lon="-77.727960" lat="42.984764"></rtept>
+        <rtept lon="-77.727465" lat="42.984869"></rtept>
+        <rtept lon="-77.727465" lat="42.984869"></rtept>
+        <rtept lon="-77.726706" lat="42.984937"></rtept>
+        <rtept lon="-77.724334" lat="42.985136"></rtept>
+        <rtept lon="-77.723025" lat="42.985239"></rtept>
+        <rtept lon="-77.723025" lat="42.985239"></rtept>
+        <rtept lon="-77.720693" lat="42.985414"></rtept>
+        <rtept lon="-77.720438" lat="42.985432"></rtept>
+        <rtept lon="-77.718275" lat="42.985622"></rtept>
+        <rtept lon="-77.715257" lat="42.985849"></rtept>
+        <rtept lon="-77.709219" lat="42.986367"></rtept>
+        <rtept lon="-77.703219" lat="42.986848"></rtept>
+        <rtept lon="-77.700944" lat="42.987040"></rtept>
+        <rtept lon="-77.700659" lat="42.987069"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:9c5dff4a</name>
@@ -43,16 +135,16 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.700659" lat="42.987069"/>
-        <rtept lon="-77.700117" lat="42.987135"/>
-        <rtept lon="-77.697239" lat="42.987373"/>
-        <rtept lon="-77.691199" lat="42.987870"/>
-        <rtept lon="-77.688183" lat="42.988645"/>
-        <rtept lon="-77.685169" lat="42.989563"/>
-        <rtept lon="-77.682249" lat="42.990401"/>
-        <rtept lon="-77.681214" lat="42.990619"/>
-        <rtept lon="-77.680883" lat="42.990668"/>
-        <rtept lon="-77.680809" lat="42.990733"/>
+        <rtept lon="-77.700659" lat="42.987069"></rtept>
+        <rtept lon="-77.700117" lat="42.987135"></rtept>
+        <rtept lon="-77.697239" lat="42.987373"></rtept>
+        <rtept lon="-77.691199" lat="42.987870"></rtept>
+        <rtept lon="-77.688183" lat="42.988645"></rtept>
+        <rtept lon="-77.685169" lat="42.989563"></rtept>
+        <rtept lon="-77.682249" lat="42.990401"></rtept>
+        <rtept lon="-77.681214" lat="42.990619"></rtept>
+        <rtept lon="-77.680883" lat="42.990668"></rtept>
+        <rtept lon="-77.680809" lat="42.990733"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:64e190be</name>
@@ -61,12 +153,12 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.680809" lat="42.990733"/>
-        <rtept lon="-77.680370" lat="42.990716"/>
-        <rtept lon="-77.679986" lat="42.990708"/>
-        <rtept lon="-77.679317" lat="42.990637"/>
-        <rtept lon="-77.678477" lat="42.990431"/>
-        <rtept lon="-77.678460" lat="42.990463"/>
+        <rtept lon="-77.680809" lat="42.990733"></rtept>
+        <rtept lon="-77.680370" lat="42.990716"></rtept>
+        <rtept lon="-77.679986" lat="42.990708"></rtept>
+        <rtept lon="-77.679317" lat="42.990637"></rtept>
+        <rtept lon="-77.678477" lat="42.990431"></rtept>
+        <rtept lon="-77.678460" lat="42.990463"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:845fde72</name>
@@ -75,10 +167,10 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.543562" lat="42.988217"/>
-        <rtept lon="-77.542765" lat="42.988364"/>
-        <rtept lon="-77.542595" lat="42.988395"/>
-        <rtept lon="-77.542493" lat="42.988411"/>
+        <rtept lon="-77.543562" lat="42.988217"></rtept>
+        <rtept lon="-77.542765" lat="42.988364"></rtept>
+        <rtept lon="-77.542595" lat="42.988395"></rtept>
+        <rtept lon="-77.542493" lat="42.988411"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:bb9e0539</name>
@@ -87,19 +179,19 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.542493" lat="42.988411"/>
-        <rtept lon="-77.541751" lat="42.988546"/>
-        <rtept lon="-77.539982" lat="42.988851"/>
-        <rtept lon="-77.538138" lat="42.989161"/>
-        <rtept lon="-77.536334" lat="42.989476"/>
-        <rtept lon="-77.534536" lat="42.989774"/>
-        <rtept lon="-77.532749" lat="42.990078"/>
-        <rtept lon="-77.530959" lat="42.990403"/>
-        <rtept lon="-77.529170" lat="42.990710"/>
-        <rtept lon="-77.527373" lat="42.991000"/>
-        <rtept lon="-77.525625" lat="42.991333"/>
-        <rtept lon="-77.524140" lat="42.991590"/>
-        <rtept lon="-77.523978" lat="42.991618"/>
+        <rtept lon="-77.542493" lat="42.988411"></rtept>
+        <rtept lon="-77.541751" lat="42.988546"></rtept>
+        <rtept lon="-77.539982" lat="42.988851"></rtept>
+        <rtept lon="-77.538138" lat="42.989161"></rtept>
+        <rtept lon="-77.536334" lat="42.989476"></rtept>
+        <rtept lon="-77.534536" lat="42.989774"></rtept>
+        <rtept lon="-77.532749" lat="42.990078"></rtept>
+        <rtept lon="-77.530959" lat="42.990403"></rtept>
+        <rtept lon="-77.529170" lat="42.990710"></rtept>
+        <rtept lon="-77.527373" lat="42.991000"></rtept>
+        <rtept lon="-77.525625" lat="42.991333"></rtept>
+        <rtept lon="-77.524140" lat="42.991590"></rtept>
+        <rtept lon="-77.523978" lat="42.991618"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:f96494f5</name>
@@ -108,20 +200,20 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.523978" lat="42.991618"/>
-        <rtept lon="-77.523849" lat="42.991641"/>
-        <rtept lon="-77.522136" lat="42.991940"/>
-        <rtept lon="-77.520422" lat="42.992249"/>
-        <rtept lon="-77.518675" lat="42.992605"/>
-        <rtept lon="-77.517052" lat="42.993044"/>
-        <rtept lon="-77.515601" lat="42.993532"/>
-        <rtept lon="-77.514199" lat="42.994104"/>
-        <rtept lon="-77.513138" lat="42.994622"/>
-        <rtept lon="-77.511845" lat="42.995291"/>
-        <rtept lon="-77.510779" lat="42.995939"/>
-        <rtept lon="-77.509912" lat="42.996557"/>
-        <rtept lon="-77.509913" lat="42.996673"/>
-        <rtept lon="-77.508676" lat="42.997610"/>
+        <rtept lon="-77.523978" lat="42.991618"></rtept>
+        <rtept lon="-77.523849" lat="42.991641"></rtept>
+        <rtept lon="-77.522136" lat="42.991940"></rtept>
+        <rtept lon="-77.520422" lat="42.992249"></rtept>
+        <rtept lon="-77.518675" lat="42.992605"></rtept>
+        <rtept lon="-77.517052" lat="42.993044"></rtept>
+        <rtept lon="-77.515601" lat="42.993532"></rtept>
+        <rtept lon="-77.514199" lat="42.994104"></rtept>
+        <rtept lon="-77.513138" lat="42.994622"></rtept>
+        <rtept lon="-77.511845" lat="42.995291"></rtept>
+        <rtept lon="-77.510779" lat="42.995939"></rtept>
+        <rtept lon="-77.509912" lat="42.996557"></rtept>
+        <rtept lon="-77.509913" lat="42.996673"></rtept>
+        <rtept lon="-77.508676" lat="42.997610"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:a01d72d7</name>
@@ -130,10 +222,10 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.508676" lat="42.997610"/>
-        <rtept lon="-77.508255" lat="42.997773"/>
-        <rtept lon="-77.506268" lat="42.998708"/>
-        <rtept lon="-77.505226" lat="42.998994"/>
+        <rtept lon="-77.508676" lat="42.997610"></rtept>
+        <rtept lon="-77.508255" lat="42.997773"></rtept>
+        <rtept lon="-77.506268" lat="42.998708"></rtept>
+        <rtept lon="-77.505226" lat="42.998994"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:fcab3499</name>
@@ -142,9 +234,9 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.505226" lat="42.998994"/>
-        <rtept lon="-77.500128" lat="43.000048"/>
-        <rtept lon="-77.493932" lat="43.001337"/>
+        <rtept lon="-77.505226" lat="42.998994"></rtept>
+        <rtept lon="-77.500128" lat="43.000048"></rtept>
+        <rtept lon="-77.493932" lat="43.001337"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:dcb26f75</name>
@@ -153,14 +245,17 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.493932" lat="43.001337"/>
-        <rtept lon="-77.492122" lat="43.001725"/>
-        <rtept lon="-77.489938" lat="43.002151"/>
-        <rtept lon="-77.487674" lat="43.002558"/>
-        <rtept lon="-77.486586" lat="43.002701"/>
-        <rtept lon="-77.485505" lat="43.002777"/>
-        <rtept lon="-77.483821" lat="43.002847"/>
-        <rtept lon="-77.482145" lat="43.002834"/>
+        <rtept lon="-77.493932" lat="43.001337"></rtept>
+        <rtept lon="-77.492122" lat="43.001725"></rtept>
+        <rtept lon="-77.489938" lat="43.002151"></rtept>
+        <rtept lon="-77.487674" lat="43.002558"></rtept>
+        <rtept lon="-77.486586" lat="43.002701"></rtept>
+        <rtept lon="-77.485505" lat="43.002777"></rtept>
+        <rtept lon="-77.484888" lat="43.002829"></rtept>
+        <rtept lon="-77.483821" lat="43.002847"></rtept>
+        <rtept lon="-77.483052" lat="43.002859"></rtept>
+        <rtept lon="-77.482300" lat="43.002843"></rtept>
+        <rtept lon="-77.482087" lat="43.002827"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:9923b6cd</name>
@@ -169,9 +264,9 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.596708" lat="42.984642"/>
-        <rtept lon="-77.596093" lat="42.984307"/>
-        <rtept lon="-77.597910" lat="42.985328"/>
+        <rtept lon="-77.596708" lat="42.984642"></rtept>
+        <rtept lon="-77.596093" lat="42.984307"></rtept>
+        <rtept lon="-77.597910" lat="42.985328"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:aeb18387</name>
@@ -180,15 +275,15 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.597910" lat="42.985328"/>
-        <rtept lon="-77.598410" lat="42.985586"/>
-        <rtept lon="-77.602383" lat="42.988355"/>
-        <rtept lon="-77.604877" lat="42.990143"/>
-        <rtept lon="-77.606375" lat="42.990971"/>
-        <rtept lon="-77.607820" lat="42.991491"/>
-        <rtept lon="-77.608822" lat="42.991964"/>
-        <rtept lon="-77.611457" lat="42.993084"/>
-        <rtept lon="-77.611969" lat="42.993300"/>
+        <rtept lon="-77.597910" lat="42.985328"></rtept>
+        <rtept lon="-77.598410" lat="42.985586"></rtept>
+        <rtept lon="-77.602383" lat="42.988355"></rtept>
+        <rtept lon="-77.604877" lat="42.990143"></rtept>
+        <rtept lon="-77.606375" lat="42.990971"></rtept>
+        <rtept lon="-77.607820" lat="42.991491"></rtept>
+        <rtept lon="-77.608822" lat="42.991964"></rtept>
+        <rtept lon="-77.611457" lat="42.993084"></rtept>
+        <rtept lon="-77.611969" lat="42.993300"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:379eedc9</name>
@@ -197,17 +292,17 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.611969" lat="42.993300"/>
-        <rtept lon="-77.612417" lat="42.993490"/>
-        <rtept lon="-77.613670" lat="42.994019"/>
-        <rtept lon="-77.617867" lat="42.995782"/>
-        <rtept lon="-77.621071" lat="42.997130"/>
-        <rtept lon="-77.621670" lat="42.997465"/>
-        <rtept lon="-77.622138" lat="42.997817"/>
-        <rtept lon="-77.622481" lat="42.998237"/>
-        <rtept lon="-77.622684" lat="42.998644"/>
-        <rtept lon="-77.622976" lat="42.999865"/>
-        <rtept lon="-77.623418" lat="43.002353"/>
+        <rtept lon="-77.611969" lat="42.993300"></rtept>
+        <rtept lon="-77.612417" lat="42.993490"></rtept>
+        <rtept lon="-77.613670" lat="42.994019"></rtept>
+        <rtept lon="-77.617867" lat="42.995782"></rtept>
+        <rtept lon="-77.621071" lat="42.997130"></rtept>
+        <rtept lon="-77.621670" lat="42.997465"></rtept>
+        <rtept lon="-77.622138" lat="42.997817"></rtept>
+        <rtept lon="-77.622481" lat="42.998237"></rtept>
+        <rtept lon="-77.622684" lat="42.998644"></rtept>
+        <rtept lon="-77.622976" lat="42.999865"></rtept>
+        <rtept lon="-77.623418" lat="43.002353"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:071c36b2</name>
@@ -216,14 +311,14 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.623418" lat="43.002353"/>
-        <rtept lon="-77.623561" lat="43.002903"/>
-        <rtept lon="-77.623534" lat="43.003730"/>
-        <rtept lon="-77.623372" lat="43.004265"/>
-        <rtept lon="-77.622938" lat="43.006254"/>
-        <rtept lon="-77.622944" lat="43.006950"/>
-        <rtept lon="-77.623352" lat="43.008805"/>
-        <rtept lon="-77.623587" lat="43.009893"/>
+        <rtept lon="-77.623418" lat="43.002353"></rtept>
+        <rtept lon="-77.623561" lat="43.002903"></rtept>
+        <rtept lon="-77.623534" lat="43.003730"></rtept>
+        <rtept lon="-77.623372" lat="43.004265"></rtept>
+        <rtept lon="-77.622938" lat="43.006254"></rtept>
+        <rtept lon="-77.622944" lat="43.006950"></rtept>
+        <rtept lon="-77.623352" lat="43.008805"></rtept>
+        <rtept lon="-77.623587" lat="43.009893"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-unnamed-trails:f825999a</name>
@@ -232,8 +327,8 @@
                 <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.637586" lat="43.040679"/>
-        <rtept lon="-77.636365" lat="43.041158"/>
+        <rtept lon="-77.637586" lat="43.040679"></rtept>
+        <rtept lon="-77.636365" lat="43.041158"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-unnamed-trails:e1542d36</name>
@@ -242,14 +337,14 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.594800" lat="42.983910"/>
-        <rtept lon="-77.593240" lat="42.983134"/>
-        <rtept lon="-77.593100" lat="42.983061"/>
-        <rtept lon="-77.592287" lat="42.982541"/>
-        <rtept lon="-77.591717" lat="42.982119"/>
-        <rtept lon="-77.591234" lat="42.981620"/>
-        <rtept lon="-77.590827" lat="42.981033"/>
-        <rtept lon="-77.590563" lat="42.980456"/>
+        <rtept lon="-77.594800" lat="42.983910"></rtept>
+        <rtept lon="-77.593240" lat="42.983134"></rtept>
+        <rtept lon="-77.593100" lat="42.983061"></rtept>
+        <rtept lon="-77.592287" lat="42.982541"></rtept>
+        <rtept lon="-77.591717" lat="42.982119"></rtept>
+        <rtept lon="-77.591234" lat="42.981620"></rtept>
+        <rtept lon="-77.590827" lat="42.981033"></rtept>
+        <rtept lon="-77.590563" lat="42.980456"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-unnamed-trails:3e16f749</name>
@@ -258,18 +353,18 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.590563" lat="42.980456"/>
-        <rtept lon="-77.590465" lat="42.980040"/>
-        <rtept lon="-77.590428" lat="42.979376"/>
-        <rtept lon="-77.590494" lat="42.978864"/>
-        <rtept lon="-77.590006" lat="42.978702"/>
-        <rtept lon="-77.589678" lat="42.978544"/>
-        <rtept lon="-77.589561" lat="42.978449"/>
-        <rtept lon="-77.589454" lat="42.978175"/>
-        <rtept lon="-77.589410" lat="42.977868"/>
-        <rtept lon="-77.589348" lat="42.977797"/>
-        <rtept lon="-77.588317" lat="42.978019"/>
-        <rtept lon="-77.587699" lat="42.978257"/>
+        <rtept lon="-77.590563" lat="42.980456"></rtept>
+        <rtept lon="-77.590465" lat="42.980040"></rtept>
+        <rtept lon="-77.590428" lat="42.979376"></rtept>
+        <rtept lon="-77.590494" lat="42.978864"></rtept>
+        <rtept lon="-77.590006" lat="42.978702"></rtept>
+        <rtept lon="-77.589678" lat="42.978544"></rtept>
+        <rtept lon="-77.589561" lat="42.978449"></rtept>
+        <rtept lon="-77.589454" lat="42.978175"></rtept>
+        <rtept lon="-77.589410" lat="42.977868"></rtept>
+        <rtept lon="-77.589348" lat="42.977797"></rtept>
+        <rtept lon="-77.588317" lat="42.978019"></rtept>
+        <rtept lon="-77.587699" lat="42.978257"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-unnamed-trails:b27db0a1</name>
@@ -278,19 +373,19 @@
                 <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.590563" lat="42.980456"/>
-        <rtept lon="-77.590551" lat="42.980812"/>
-        <rtept lon="-77.590490" lat="42.981069"/>
-        <rtept lon="-77.590407" lat="42.981227"/>
-        <rtept lon="-77.590335" lat="42.981346"/>
-        <rtept lon="-77.590126" lat="42.981528"/>
-        <rtept lon="-77.589860" lat="42.981747"/>
-        <rtept lon="-77.589581" lat="42.981887"/>
-        <rtept lon="-77.589493" lat="42.981923"/>
-        <rtept lon="-77.589192" lat="42.982014"/>
-        <rtept lon="-77.588801" lat="42.982071"/>
-        <rtept lon="-77.588443" lat="42.982074"/>
-        <rtept lon="-77.587969" lat="42.982085"/>
+        <rtept lon="-77.590563" lat="42.980456"></rtept>
+        <rtept lon="-77.590551" lat="42.980812"></rtept>
+        <rtept lon="-77.590490" lat="42.981069"></rtept>
+        <rtept lon="-77.590407" lat="42.981227"></rtept>
+        <rtept lon="-77.590335" lat="42.981346"></rtept>
+        <rtept lon="-77.590126" lat="42.981528"></rtept>
+        <rtept lon="-77.589860" lat="42.981747"></rtept>
+        <rtept lon="-77.589581" lat="42.981887"></rtept>
+        <rtept lon="-77.589493" lat="42.981923"></rtept>
+        <rtept lon="-77.589192" lat="42.982014"></rtept>
+        <rtept lon="-77.588801" lat="42.982071"></rtept>
+        <rtept lon="-77.588443" lat="42.982074"></rtept>
+        <rtept lon="-77.587969" lat="42.982085"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:7bf77cab</name>
@@ -299,29 +394,29 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.678460" lat="42.990463"/>
-        <rtept lon="-77.678382" lat="42.990601"/>
-        <rtept lon="-77.678391" lat="42.991056"/>
-        <rtept lon="-77.678316" lat="42.991232"/>
-        <rtept lon="-77.678115" lat="42.991532"/>
-        <rtept lon="-77.677917" lat="42.991647"/>
-        <rtept lon="-77.677917" lat="42.991647"/>
-        <rtept lon="-77.676112" lat="42.992148"/>
-        <rtept lon="-77.673197" lat="42.992896"/>
-        <rtept lon="-77.671535" lat="42.993224"/>
-        <rtept lon="-77.670099" lat="42.993349"/>
-        <rtept lon="-77.669294" lat="42.993435"/>
-        <rtept lon="-77.669045" lat="42.993457"/>
-        <rtept lon="-77.668422" lat="42.993502"/>
-        <rtept lon="-77.666834" lat="42.993519"/>
-        <rtept lon="-77.663690" lat="42.993358"/>
-        <rtept lon="-77.660456" lat="42.993160"/>
-        <rtept lon="-77.658205" lat="42.993028"/>
-        <rtept lon="-77.653933" lat="42.992774"/>
-        <rtept lon="-77.650699" lat="42.992619"/>
-        <rtept lon="-77.647801" lat="42.992446"/>
-        <rtept lon="-77.646072" lat="42.992324"/>
-        <rtept lon="-77.645172" lat="42.992260"/>
+        <rtept lon="-77.678460" lat="42.990463"></rtept>
+        <rtept lon="-77.678382" lat="42.990601"></rtept>
+        <rtept lon="-77.678391" lat="42.991056"></rtept>
+        <rtept lon="-77.678316" lat="42.991232"></rtept>
+        <rtept lon="-77.678115" lat="42.991532"></rtept>
+        <rtept lon="-77.677917" lat="42.991647"></rtept>
+        <rtept lon="-77.677917" lat="42.991647"></rtept>
+        <rtept lon="-77.676112" lat="42.992148"></rtept>
+        <rtept lon="-77.673197" lat="42.992896"></rtept>
+        <rtept lon="-77.671535" lat="42.993224"></rtept>
+        <rtept lon="-77.670099" lat="42.993349"></rtept>
+        <rtept lon="-77.669294" lat="42.993435"></rtept>
+        <rtept lon="-77.669045" lat="42.993457"></rtept>
+        <rtept lon="-77.668422" lat="42.993502"></rtept>
+        <rtept lon="-77.666834" lat="42.993519"></rtept>
+        <rtept lon="-77.663690" lat="42.993358"></rtept>
+        <rtept lon="-77.660456" lat="42.993160"></rtept>
+        <rtept lon="-77.658205" lat="42.993028"></rtept>
+        <rtept lon="-77.653933" lat="42.992774"></rtept>
+        <rtept lon="-77.650699" lat="42.992619"></rtept>
+        <rtept lon="-77.647801" lat="42.992446"></rtept>
+        <rtept lon="-77.646072" lat="42.992324"></rtept>
+        <rtept lon="-77.645172" lat="42.992260"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:d1322bb8</name>
@@ -330,8 +425,8 @@
                 <gpxx:DisplayColor>Red</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.645172" lat="42.992260"/>
-        <rtept lon="-77.642761" lat="42.992145"/>
+        <rtept lon="-77.645172" lat="42.992260"></rtept>
+        <rtept lon="-77.642761" lat="42.992145"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:fa8186b9</name>
@@ -340,26 +435,26 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.642761" lat="42.992145"/>
-        <rtept lon="-77.639332" lat="42.992000"/>
-        <rtept lon="-77.634599" lat="42.991957"/>
-        <rtept lon="-77.631965" lat="42.991927"/>
-        <rtept lon="-77.629360" lat="42.991898"/>
-        <rtept lon="-77.626720" lat="42.991857"/>
-        <rtept lon="-77.623259" lat="42.991822"/>
-        <rtept lon="-77.621360" lat="42.991622"/>
-        <rtept lon="-77.618623" lat="42.991225"/>
-        <rtept lon="-77.616917" lat="42.990819"/>
-        <rtept lon="-77.615266" lat="42.990382"/>
-        <rtept lon="-77.611538" lat="42.989213"/>
-        <rtept lon="-77.607906" lat="42.988049"/>
-        <rtept lon="-77.605485" lat="42.987266"/>
-        <rtept lon="-77.605485" lat="42.987266"/>
-        <rtept lon="-77.604950" lat="42.987099"/>
-        <rtept lon="-77.604950" lat="42.987099"/>
-        <rtept lon="-77.600336" lat="42.985660"/>
-        <rtept lon="-77.599302" lat="42.985299"/>
-        <rtept lon="-77.598364" lat="42.984989"/>
+        <rtept lon="-77.642761" lat="42.992145"></rtept>
+        <rtept lon="-77.639332" lat="42.992000"></rtept>
+        <rtept lon="-77.634599" lat="42.991957"></rtept>
+        <rtept lon="-77.631965" lat="42.991927"></rtept>
+        <rtept lon="-77.629360" lat="42.991898"></rtept>
+        <rtept lon="-77.626720" lat="42.991857"></rtept>
+        <rtept lon="-77.623259" lat="42.991822"></rtept>
+        <rtept lon="-77.621360" lat="42.991622"></rtept>
+        <rtept lon="-77.618623" lat="42.991225"></rtept>
+        <rtept lon="-77.616917" lat="42.990819"></rtept>
+        <rtept lon="-77.615266" lat="42.990382"></rtept>
+        <rtept lon="-77.611538" lat="42.989213"></rtept>
+        <rtept lon="-77.607906" lat="42.988049"></rtept>
+        <rtept lon="-77.605485" lat="42.987266"></rtept>
+        <rtept lon="-77.605485" lat="42.987266"></rtept>
+        <rtept lon="-77.604950" lat="42.987099"></rtept>
+        <rtept lon="-77.604950" lat="42.987099"></rtept>
+        <rtept lon="-77.600336" lat="42.985660"></rtept>
+        <rtept lon="-77.599302" lat="42.985299"></rtept>
+        <rtept lon="-77.598364" lat="42.984989"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:b406fd3c</name>
@@ -368,10 +463,10 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.598364" lat="42.984989"/>
-        <rtept lon="-77.598246" lat="42.984953"/>
-        <rtept lon="-77.595843" lat="42.984223"/>
-        <rtept lon="-77.594800" lat="42.983910"/>
+        <rtept lon="-77.598364" lat="42.984989"></rtept>
+        <rtept lon="-77.598246" lat="42.984953"></rtept>
+        <rtept lon="-77.595843" lat="42.984223"></rtept>
+        <rtept lon="-77.594800" lat="42.983910"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:397b045c</name>
@@ -380,10 +475,10 @@
                 <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.594800" lat="42.983910"/>
-        <rtept lon="-77.591234" lat="42.982766"/>
-        <rtept lon="-77.589332" lat="42.982311"/>
-        <rtept lon="-77.587969" lat="42.982085"/>
+        <rtept lon="-77.594800" lat="42.983910"></rtept>
+        <rtept lon="-77.591234" lat="42.982766"></rtept>
+        <rtept lon="-77.589332" lat="42.982311"></rtept>
+        <rtept lon="-77.587969" lat="42.982085"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:81f24998</name>
@@ -392,11 +487,11 @@
                 <gpxx:DisplayColor>Green</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.587969" lat="42.982085"/>
-        <rtept lon="-77.587299" lat="42.981973"/>
-        <rtept lon="-77.584899" lat="42.981740"/>
-        <rtept lon="-77.584232" lat="42.981750"/>
-        <rtept lon="-77.583703" lat="42.981749"/>
+        <rtept lon="-77.587969" lat="42.982085"></rtept>
+        <rtept lon="-77.587299" lat="42.981973"></rtept>
+        <rtept lon="-77.584899" lat="42.981740"></rtept>
+        <rtept lon="-77.584232" lat="42.981750"></rtept>
+        <rtept lon="-77.583703" lat="42.981749"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:017b136c</name>
@@ -405,14 +500,14 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.583703" lat="42.981749"/>
-        <rtept lon="-77.583230" lat="42.981761"/>
-        <rtept lon="-77.581393" lat="42.981785"/>
-        <rtept lon="-77.579261" lat="42.982010"/>
-        <rtept lon="-77.577203" lat="42.982354"/>
-        <rtept lon="-77.575359" lat="42.982684"/>
-        <rtept lon="-77.574887" lat="42.982783"/>
-        <rtept lon="-77.574695" lat="42.982818"/>
+        <rtept lon="-77.583703" lat="42.981749"></rtept>
+        <rtept lon="-77.583230" lat="42.981761"></rtept>
+        <rtept lon="-77.581393" lat="42.981785"></rtept>
+        <rtept lon="-77.579261" lat="42.982010"></rtept>
+        <rtept lon="-77.577203" lat="42.982354"></rtept>
+        <rtept lon="-77.575359" lat="42.982684"></rtept>
+        <rtept lon="-77.574887" lat="42.982783"></rtept>
+        <rtept lon="-77.574695" lat="42.982818"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-main:b4c14602</name>
@@ -421,25 +516,25 @@
                 <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.574695" lat="42.982818"/>
-        <rtept lon="-77.574560" lat="42.982840"/>
-        <rtept lon="-77.573246" lat="42.983063"/>
-        <rtept lon="-77.571234" lat="42.983395"/>
-        <rtept lon="-77.569376" lat="42.983719"/>
-        <rtept lon="-77.567425" lat="42.984084"/>
-        <rtept lon="-77.565475" lat="42.984428"/>
-        <rtept lon="-77.563700" lat="42.984735"/>
-        <rtept lon="-77.561965" lat="42.985020"/>
-        <rtept lon="-77.560090" lat="42.985347"/>
-        <rtept lon="-77.558173" lat="42.985674"/>
-        <rtept lon="-77.556370" lat="42.985993"/>
-        <rtept lon="-77.554536" lat="42.986309"/>
-        <rtept lon="-77.552710" lat="42.986623"/>
-        <rtept lon="-77.551011" lat="42.986917"/>
-        <rtept lon="-77.549327" lat="42.987204"/>
-        <rtept lon="-77.547462" lat="42.987529"/>
-        <rtept lon="-77.545558" lat="42.987868"/>
-        <rtept lon="-77.543562" lat="42.988217"/>
+        <rtept lon="-77.574695" lat="42.982818"></rtept>
+        <rtept lon="-77.574560" lat="42.982840"></rtept>
+        <rtept lon="-77.573246" lat="42.983063"></rtept>
+        <rtept lon="-77.571234" lat="42.983395"></rtept>
+        <rtept lon="-77.569376" lat="42.983719"></rtept>
+        <rtept lon="-77.567425" lat="42.984084"></rtept>
+        <rtept lon="-77.565475" lat="42.984428"></rtept>
+        <rtept lon="-77.563700" lat="42.984735"></rtept>
+        <rtept lon="-77.561965" lat="42.985020"></rtept>
+        <rtept lon="-77.560090" lat="42.985347"></rtept>
+        <rtept lon="-77.558173" lat="42.985674"></rtept>
+        <rtept lon="-77.556370" lat="42.985993"></rtept>
+        <rtept lon="-77.554536" lat="42.986309"></rtept>
+        <rtept lon="-77.552710" lat="42.986623"></rtept>
+        <rtept lon="-77.551011" lat="42.986917"></rtept>
+        <rtept lon="-77.549327" lat="42.987204"></rtept>
+        <rtept lon="-77.547462" lat="42.987529"></rtept>
+        <rtept lon="-77.545558" lat="42.987868"></rtept>
+        <rtept lon="-77.543562" lat="42.988217"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:a65b27c6</name>
@@ -448,12 +543,12 @@
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.623587" lat="43.009893"/>
-        <rtept lon="-77.625452" lat="43.017981"/>
-        <rtept lon="-77.625452" lat="43.017981"/>
-        <rtept lon="-77.625770" lat="43.018717"/>
-        <rtept lon="-77.628108" lat="43.022313"/>
-        <rtept lon="-77.630392" lat="43.025848"/>
+        <rtept lon="-77.623587" lat="43.009893"></rtept>
+        <rtept lon="-77.625452" lat="43.017981"></rtept>
+        <rtept lon="-77.625452" lat="43.017981"></rtept>
+        <rtept lon="-77.625770" lat="43.018717"></rtept>
+        <rtept lon="-77.628108" lat="43.022313"></rtept>
+        <rtept lon="-77.630392" lat="43.025848"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:f5215d09</name>
@@ -462,14 +557,14 @@
                 <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.630392" lat="43.025848"/>
-        <rtept lon="-77.631867" lat="43.027958"/>
-        <rtept lon="-77.632992" lat="43.030036"/>
-        <rtept lon="-77.633811" lat="43.032353"/>
-        <rtept lon="-77.633961" lat="43.033145"/>
-        <rtept lon="-77.634238" lat="43.034486"/>
-        <rtept lon="-77.635347" lat="43.039299"/>
-        <rtept lon="-77.636365" lat="43.041158"/>
+        <rtept lon="-77.630392" lat="43.025848"></rtept>
+        <rtept lon="-77.631867" lat="43.027958"></rtept>
+        <rtept lon="-77.632992" lat="43.030036"></rtept>
+        <rtept lon="-77.633811" lat="43.032353"></rtept>
+        <rtept lon="-77.633961" lat="43.033145"></rtept>
+        <rtept lon="-77.634238" lat="43.034486"></rtept>
+        <rtept lon="-77.635347" lat="43.039299"></rtept>
+        <rtept lon="-77.636365" lat="43.041158"></rtept>
     </rte>
     <rte>
         <name>seg:trail-lehigh-valley-north:3b2ab4c6</name>
@@ -478,111 +573,11 @@
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
-        <rtept lon="-77.636365" lat="43.041158"/>
-        <rtept lon="-77.636853" lat="43.042179"/>
-        <rtept lon="-77.637049" lat="43.043427"/>
-        <rtept lon="-77.636762" lat="43.045167"/>
-        <rtept lon="-77.636101" lat="43.047854"/>
-        <rtept lon="-77.636038" lat="43.048082"/>
+        <rtept lon="-77.636365" lat="43.041158"></rtept>
+        <rtept lon="-77.636853" lat="43.042179"></rtept>
+        <rtept lon="-77.637049" lat="43.043427"></rtept>
+        <rtept lon="-77.636762" lat="43.045167"></rtept>
+        <rtept lon="-77.636101" lat="43.047854"></rtept>
+        <rtept lon="-77.636038" lat="43.048082"></rtept>
     </rte>
-<wpt lat="42.97885197672802" lon="-77.5900948047638"><name>point-poi:lehigh:b405ad6d</name><desc>{
-  "type": "point-poi",
-  "name": "Great Bend Nature Park",
-  "SW": [
-    42.976206714433175,
-    -77.59536266326904
-  ],
-  "NE": [
-    42.98367909085195,
-    -77.58255243301392
-  ],
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.98702449026875" lon="-77.70078420639038"><name>point-parking:lehigh:aba338a9</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.99071501002129" lon="-77.67954647541046"><name>point-parking:lehigh:03746ff8</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.9919941815274" lon="-77.64282166957855"><name>point-parking:lehigh:a625314d</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.9849623330313" lon="-77.59835600852966"><name>point-parking:lehigh:aac0f815</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.98293346382646" lon="-77.57467746734619"><name>point-parking:lehigh:a0c14b65</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.99765203799735" lon="-77.50843226909637"><name>point-parking:lehigh:b715181d</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="43.0013360348093" lon="-77.49394297599792"><name>point-parking:lehigh:5aaf9804</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="43.00282683335733" lon="-77.48203933238983"><name>point-parking:lehigh:fcbd5759</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.99329294498958" lon="-77.6120674610138"><name>point-parking:lehigh:1c7856fb</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="43.002301134840465" lon="-77.62341856956482"><name>point-parking:lehigh:98be4d26</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="43.02602370401501" lon="-77.63028502464294"><name>point-parking:lehigh:c28b9dbc</name><desc>{
-  "type": "point-parking",
-  "name": "Parking",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.981885" lon="-77.581048"><name>point-scenic:lehigh:be474d76</name><desc>{
-  "type": "point-scenic",
-  "comments": "East of Clover St",
-  "name": "Scenic Point",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.985142" lon="-77.597866"><name>point-poi:lehigh:e0e064a0</name><desc>{
-  "type": "point-poi",
-  "name": "Freight House Replica",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt><wpt lat="42.985059" lon="-77.597726"><name>point-restroom:lehigh:9bd84cd0</name><desc>{
-  "type": "point-restroom",
-  "comments": "Junction",
-  "name": "Restroom",
-  "parentIDs": [
-    "park-lehigh-park"
-  ]
-}</desc></wpt></gpx>
+</gpx>

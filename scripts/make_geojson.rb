@@ -38,6 +38,12 @@ def register_and_validate_unique_id(id)
     return id
 end
 
+def validate_id_exists(id)
+    if !$metadata[:idlist].include?(id)
+        abort_msg("ID does not exist:", id)
+    end
+end
+
 def trail_metadata_for(trail_id_or_plural)
     return trail_id_or_plural.split(",").map do |id|
         trail = $metadata[:trails][id]
@@ -174,18 +180,22 @@ def parse_gpx(filename)
             case track_type(name)
             when "border"
                 park_id = park_id_from_border_id(name)
+                validate_id_exists(park_id)
                 if !unprocessed_borders[park_id]
                     unprocessed_borders[park_id] = []
                 end
                 unprocessed_borders[park_id].push(node)
             when "innerBorder"
                 park_id = park_id_from_border_id(name)
+                validate_id_exists(park_id)
                 if !unprocessed_inner_borders[park_id]
                     unprocessed_inner_borders[park_id] = []
                 end
                 unprocessed_inner_borders[park_id].push(node)
             when "seg"
                 segment_id = name
+                register_and_validate_unique_id(segment_id)
+                
                 trail_ids = trail_ids_from_segment_id(name)
                 trails = trail_metadata_for(trail_ids)
                 coordinates = collect_coords(node)
@@ -260,6 +270,7 @@ def parse_gpx(filename)
             next
         end
 
+        register_and_validate_unique_id(point_id)
         poi_type = point["type"]
         if !$metadata[:poiTypes].include?(poi_type)
             $metadata[:poiTypes].push(poi_type)
@@ -273,7 +284,10 @@ def parse_gpx(filename)
             feature_property(feature, 'name', point['name'])
         end
         if point["parentIDs"]
-           feature_property(feature, "parentIDs", point["parentIDs"].join(","))
+            point["parentIDs"].each do |parent_id|
+                validate_id_exists(parent_id)
+            end
+            feature_property(feature, "parentIDs", point["parentIDs"].join(","))
         end
         optional_property(feature, 'url', point)
         default_allows_directions = ['boat_launch', 'lodge', 'parking', 'shelter'].include?(point['type'])
@@ -356,6 +370,7 @@ def parse_json(filename)
     if data['parks']
         data["parks"].each do |park_id, park|
             $metadata[:parks][park_id] = park
+            register_and_validate_unique_id(park_id)
 
             feature = create_feature('park', park_id)
             feature['geometry'] = create_point_geometry(park['mainPin'].reverse)
@@ -392,6 +407,7 @@ def parse_json(filename)
             end
             
             $metadata[:trails][trail_id] = trail
+            register_and_validate_unique_id(trail_id)
 
             feature = create_feature('trail', trail_id)
             feature['geometry'] = create_point_geometry(center_of(trail['SW'], trail['NE']))
