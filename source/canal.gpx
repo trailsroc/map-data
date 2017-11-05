@@ -150,19 +150,19 @@
     </wpt>
     <wpt lon="-77.615641" lat="43.162423">
         <name>point-poi:canal:footbridge1</name>
-        <desc>{"name": "Footbridge", "parentIDs": ["gv_riverway_park", "gv_riverway_south"]}</desc>
+        <desc>{"name": "Footbridge", "parentIDs": ["park-gv-riverway-park", "trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.611153" lat="43.157490">
         <name>point-poi:canal:footbridge2</name>
-        <desc>{"name": "Footbridge", "parentIDs": ["gv_riverway_park", "gv_riverway_south"]}</desc>
+        <desc>{"name": "Footbridge", "parentIDs": ["park-gv-riverway-park", "trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.633298" lat="43.131286">
         <name>point-poi:canal:footbridge3</name>
-        <desc>{"name": "Footbridge", "parentIDs": ["gv_riverway_park", "gv_riverway_south"]}</desc>
+        <desc>{"name": "Footbridge", "parentIDs": ["park-gv-riverway-park", "trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.622898" lat="43.133008">
         <name>point-poi:canal:footbridge4</name>
-        <desc>{"name": "Footbridge", "parentIDs": ["gv_riverway_park", "gv_riverway_south"]}</desc>
+        <desc>{"name": "Footbridge", "parentIDs": ["park-gv-riverway-park", "trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.639921" lat="43.122100">
         <name>point-poi:canal:68872019</name>

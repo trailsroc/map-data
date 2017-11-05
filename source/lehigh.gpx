@@ -82,7 +82,7 @@
     </wpt>
     <wpt lon="-77.623085" lat="43.003541">
         <name>point-lodge:lehigh:stevens</name>
-        <desc>{"name": Stevens-Connor Lodge", "parentIDs": ["park-lehigh-park"]}</desc>
+        <desc>{"name": "Stevens-Connor Lodge", "parentIDs": ["park-lehigh-park"]}</desc>
     </wpt>
     <wpt lon="-77.542665" lat="42.988427">
         <name>point-smparking:lehigh:chamberlain</name>

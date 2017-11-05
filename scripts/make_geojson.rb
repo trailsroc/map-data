@@ -8,7 +8,7 @@ require 'nokogiri'
 $pretty = true
 $dry_run = false
 $source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
-$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
+$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson-2/'
 #$gpx_filenames = ['mponds']
 $gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
 $json_filenames = $gpx_filenames
@@ -27,20 +27,20 @@ end
 $r = Random.new
 def random_id()
     id = $r.bytes(4).unpack("H*")[0]
-    return register_and_validate_unique_id(id)
+    return register_and_validate_unique_id(id, "random_id")
 end
 
-def register_and_validate_unique_id(id)
+def register_and_validate_unique_id(id, ctx)
     if $metadata[:idlist].include?(id)
-        abort_msg("Duplicate ID detected:", id)
+        abort_msg("Duplicate ID detected (#{ctx}):", id)
     end
     $metadata[:idlist].push(id)
     return id
 end
 
-def validate_id_exists(id)
+def validate_id_exists(id, ctx)
     if !$metadata[:idlist].include?(id)
-        abort_msg("ID does not exist:", id)
+        abort_msg("ID does not exist (#{ctx}):", id)
     end
 end
 
@@ -69,11 +69,12 @@ def surface_of(trail_id)
     return surface_map[trail_id.split(",")[0]] || "singletrack"
 end
 
-def create_feature(trailsroc_type, trailsroc_id)
-    if $metadata[:idlist].include?(trailsroc_id)
-        abort_msg('Duplicate feature ID detected', trailsroc_id)
-    end
-    $metadata[:idlist].push(trailsroc_id)
+def create_feature(trailsroc_type, trailsroc_id, ctx)
+    register_and_validate_unique_id(trailsroc_id, ctx)
+    # if $metadata[:idlist].include?(trailsroc_id)
+    #     abort_msg("Duplicate feature ID detected (#{ctx})", trailsroc_id)
+    # end
+    # $metadata[:idlist].push(trailsroc_id)
 
     feature = {}
     feature['properties'] = {}
@@ -180,26 +181,26 @@ def parse_gpx(filename)
             case track_type(name)
             when "border"
                 park_id = park_id_from_border_id(name)
-                validate_id_exists(park_id)
+                validate_id_exists(park_id, "border")
                 if !unprocessed_borders[park_id]
                     unprocessed_borders[park_id] = []
                 end
                 unprocessed_borders[park_id].push(node)
             when "innerBorder"
                 park_id = park_id_from_border_id(name)
-                validate_id_exists(park_id)
+                validate_id_exists(park_id, "innerBorder")
                 if !unprocessed_inner_borders[park_id]
                     unprocessed_inner_borders[park_id] = []
                 end
                 unprocessed_inner_borders[park_id].push(node)
             when "seg"
                 segment_id = name
-                register_and_validate_unique_id(segment_id)
-                
+                #register_and_validate_unique_id(segment_id, "segment")
+
                 trail_ids = trail_ids_from_segment_id(name)
                 trails = trail_metadata_for(trail_ids)
                 coordinates = collect_coords(node)
-                feature = create_feature('trailSegment', segment_id)
+                feature = create_feature('trailSegment', segment_id, "segment")
                 feature['geometry']['type'] = 'LineString'
                 feature['geometry']['coordinates'] = coordinates
                 feature_property(feature, 'trailIDs', trail_ids)
@@ -239,7 +240,7 @@ def parse_gpx(filename)
             outer_coords = collect_polygon(node)
             border_id = "border:#{park_id}:#{random_id()}"
 
-            feature = create_feature('parkBorder', border_id)
+            feature = create_feature('parkBorder', border_id, "border")
             feature_property(feature, "parkID", park_id)
             feature['geometry']['type'] = 'Polygon'
             polygons = [outer_coords]
@@ -270,13 +271,13 @@ def parse_gpx(filename)
             next
         end
 
-        register_and_validate_unique_id(point_id)
+        #register_and_validate_unique_id(point_id, "waypoint")
         poi_type = point["type"]
         if !$metadata[:poiTypes].include?(poi_type)
             $metadata[:poiTypes].push(poi_type)
         end
 
-        feature = create_feature(poi_type, point_id)
+        feature = create_feature(poi_type, point_id, "waypoint")
 
         feature['geometry'] = create_point_geometry([node["lon"].to_f, node["lat"].to_f])
 
@@ -285,7 +286,7 @@ def parse_gpx(filename)
         end
         if point["parentIDs"]
             point["parentIDs"].each do |parent_id|
-                validate_id_exists(parent_id)
+                validate_id_exists(parent_id, "waypoint parentID")
             end
             feature_property(feature, "parentIDs", point["parentIDs"].join(","))
         end
@@ -370,9 +371,9 @@ def parse_json(filename)
     if data['parks']
         data["parks"].each do |park_id, park|
             $metadata[:parks][park_id] = park
-            register_and_validate_unique_id(park_id)
+            #register_and_validate_unique_id(park_id, "JSON park")
 
-            feature = create_feature('park', park_id)
+            feature = create_feature('park', park_id, "JSON park")
             feature['geometry'] = create_point_geometry(park['mainPin'].reverse)
 
             shortName = nil_or_blank(park['shortName']) ? park['name'] : park['shortName']
@@ -407,9 +408,9 @@ def parse_json(filename)
             end
             
             $metadata[:trails][trail_id] = trail
-            register_and_validate_unique_id(trail_id)
+            #register_and_validate_unique_id(trail_id, "JSON trail")
 
-            feature = create_feature('trail', trail_id)
+            feature = create_feature('trail', trail_id, "JSON trail")
             feature['geometry'] = create_point_geometry(center_of(trail['SW'], trail['NE']))
 
             if trail['parkID']

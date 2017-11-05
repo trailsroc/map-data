@@ -18,11 +18,11 @@
     </wpt>
     <wpt lon="-77.497061" lat="43.242224">
         <name>point-parking:webstertr:6558a4ac</name>
-        <desc>{ "type": "point-parking", "name": "Parking (Vosburg Hollow)", "parentIDs": [ "park-fowt-vosburg-main", "trail-gosnell-big-field", "trail-gosnell-vosburg-connector", "trail-fowt-vosburg-main", "trail-fowt-hojack-main" ] }</desc>
+        <desc>{ "type": "point-parking", "name": "Parking (Vosburg Hollow)", "parentIDs": [ "trail-gosnell-big-field", "trail-gosnell-vosburg-connector", "trail-fowt-vosburg-main", "trail-fowt-hojack-main" ] }</desc>
     </wpt>
     <wpt lon="-77.496684" lat="43.241745">
         <name>point-poi:webstertr:06304f5e</name>
-        <desc>{ "type": "point-poi", "name": "Fishing", "comments": "Vosburg", "url": "http://www.dec.ny.gov/outdoor/71612.html", "parentIDs": [ "park-fowt-vosburg-main" ] }</desc>
+        <desc>{ "type": "point-poi", "name": "Fishing", "comments": "Vosburg", "url": "http://www.dec.ny.gov/outdoor/71612.html", "parentIDs": [ "trail-fowt-vosburg-main" ] }</desc>
     </wpt>
     <wpt lon="-77.444172" lat="43.221044">
         <name>point-parking:webstertr:ae14aca2</name>
