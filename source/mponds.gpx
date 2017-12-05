@@ -262,11 +262,11 @@
     </wpt>
     <wpt lon="-77.573637" lat="43.021812">
         <name>point-shelter:mponds:709233bb</name>
-        <desc>{"type":"point-shelter","name":"Algonkian Shelter","parentIDs":["park-mponds"],"shortName":"Algonkian"}</desc>
+        <desc>{"type":"point-shelter","name":"Algonkian Shelter","parentIDs":["park-mponds"],"shortName":"Algonkian","keywords":"algonquin"}</desc>
     </wpt>
     <wpt lon="-77.573529" lat="43.023686">
         <name>point-shelter:mponds:4e436edb</name>
-        <desc>{"type":"point-shelter","name":"Devil&#x2019;s Bathtub Shelter","parentIDs":["park-mponds"],"shortName":"Devil&#x2019;s Bathtub"}</desc>
+        <desc>{"type":"point-shelter","name":"Devil&#x2019;s Bathtub Shelter","parentIDs":["park-mponds"],"shortName":"Devil&#x2019;s Bathtub","keywords":"devils tub"}</desc>
     </wpt>
     <wpt lon="-77.573766" lat="43.023075">
         <name>point-restroom:mponds:49c144cc</name>
@@ -354,7 +354,7 @@
     </wpt>
     <wpt lon="-77.573953" lat="43.023517">
         <name>point-parking:mponds:bathtub</name>
-        <desc>{"name":"Parking (Devil&#x2019;s Bathtub)","parentIDs":["park-mponds","trail-mponds-grasslands","trail-mponds-bathtub"],"shortName":"Devil&#x2019;s Bathtub"}</desc>
+        <desc>{"name":"Parking (Devil&#x2019;s Bathtub)","parentIDs":["park-mponds","trail-mponds-grasslands","trail-mponds-bathtub"],"shortName":"Devil&#x2019;s Bathtub","keywords":"devils tub"}</desc>
     </wpt>
     <wpt lon="-77.578880" lat="43.023345">
         <name>point-smparking:mponds:grassland</name>

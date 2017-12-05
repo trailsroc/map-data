@@ -20,7 +20,8 @@
         -77.362952
       ],
       "url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
-      "hideInListView": false
+      "hideInListView": false,
+      "keywords": "rail"
     }
   },
   "trails": {
@@ -37,7 +38,8 @@
       "name": "Auburn Trail",
       "color": "brown",
       "length": 9,
-      "visibilityConstraint": "largeTrailSystem"
+      "visibilityConstraint": "largeTrailSystem",
+      "keywords": "rail"
     },
     "trail-auburntr-shoulder": {
       "url": "http://www.victorhikingtrails.org/map/trails/auburn.php",

@@ -16,7 +16,8 @@
         -77.482145
       ],
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
-      "hideInListView": false
+      "hideInListView": false,
+      "keywords": "rail"
     }
   },
   "trails": {
@@ -34,7 +35,8 @@
       "NE": [
         43.002847,
         -77.482145
-      ]
+      ],
+      "keywords": "rail"
     },
     "trail-lehigh-valley-north": {
       "visibilityConstraint": "largeTrailSystem",
@@ -50,7 +52,8 @@
       "NE": [
         43.048082,
         -77.596093
-      ]
+      ],
+      "keywords": "rail"
     },
     "trail-lehigh-valley-unnamed-trails": {
       "visibilityConstraint": "largeTrailSystem",

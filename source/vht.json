@@ -16,7 +16,8 @@
       "name": "Lehigh Black Diamond Trail",
       "color": "green",
       "length": 2.5,
-      "visibilityConstraint": "largeTrailSystem"
+      "visibilityConstraint": "largeTrailSystem",
+      "keywords": "rail"
     },
     "trail-lvt-auburntr-ramp": {
       "url": "http://www.victorhikingtrails.org/",

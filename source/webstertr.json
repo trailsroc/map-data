@@ -46,7 +46,8 @@
         43.24749,
         -77.419303
       ],
-      "url": "http://www.webstertrails.org/hojack/hojack.php"
+      "url": "http://www.webstertrails.org/hojack/hojack.php",
+      "keywords": "rail"
     },
     "park-fowt-rt104": {
       "name": "Route 104 Bike Path",
@@ -68,7 +69,8 @@
         43.219702,
         -77.400315
       ],
-      "hideInListView": true
+      "hideInListView": true,
+      "keywords": "rail"
     },
     "park-fmcp": {
       "name": "Four Mile Creek Preserve",
@@ -201,7 +203,8 @@
         43.24749,
         -77.419303
       ],
-      "parkID": "park-fowt-hojack"
+      "parkID": "park-fowt-hojack",
+      "keywords": "rail"
     },
     "trail-fowt-bird-sanctuary": {
       "name": "Bird Sanctuary Trail",
@@ -245,7 +248,8 @@
         43.219702,
         -77.400315
       ],
-      "parkID": "park-fowt-rt104"
+      "parkID": "park-fowt-rt104",
+      "keywords": "rail"
     }
   }
 }

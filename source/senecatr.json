@@ -20,7 +20,8 @@
         -77.436878
       ],
       "url": "http://www.victorhikingtrails.org/",
-      "hideInListView": false
+      "hideInListView": false,
+      "keywords": "senaca"
     }
   },
   "trails": {
@@ -37,7 +38,8 @@
       "NE": [
         43.034866,
         -77.412195
-      ]
+      ],
+      "keywords": "senaca"
     },
     "trail-senecatr-hunting": {
       "url": "http://www.victorhikingtrails.org/",

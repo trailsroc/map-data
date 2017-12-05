@@ -14,7 +14,7 @@
     </wpt>
     <wpt lon="-77.520883" lat="43.129779">
         <name>point-scenic:corbetts:tunnel</name>
-        <desc>{"name":"Corbett&#x2019;s Glen Tunnel","parentIDs":["park-corbetts"]}</desc>
+        <desc>{"name":"Corbett&#x2019;s Glen Tunnel","parentIDs":["park-corbetts"],"keywords":"corbetts"}</desc>
     </wpt>
     <wpt lon="-77.518504" lat="43.130169">
         <name>point-scenic:corbetts:waterfalls1</name>

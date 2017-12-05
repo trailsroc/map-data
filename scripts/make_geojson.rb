@@ -9,7 +9,7 @@ $data_version = 4
 $pretty = true
 $dry_run = false
 $source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
-$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson-2/'
+$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
 #$gpx_filenames = ['mponds']
 $gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
 $json_filenames = $gpx_filenames
@@ -303,6 +303,7 @@ def parse_gpx(filename)
             feature_property(feature, 'directionsCoordinate', point['directionsCoordinate'].reverse)
         end
         optional_property(feature, 'visibilityConstraint', point)
+        optional_property(feature, "keywords", point)
 
         gpx_features.push(feature)
     end
@@ -395,6 +396,7 @@ def parse_json(filename)
             optional_property(feature, 'annotationIconName', park)
             optional_property(feature, 'hideInListView', park, dflt: nil_or_blank(park['name']))
             optional_property(feature, 'visibilityConstraint', park)
+            optional_property(feature, "keywords", park)
             
             if park['directionsCoordinate']
                 feature_property(feature, 'directionsCoordinate', park['directionsCoordinate'].reverse)
@@ -435,6 +437,7 @@ def parse_json(filename)
 
             optional_property(feature, 'hideInListView', trail, dflt: nil_or_blank(trail['name']))
             optional_property(feature, 'visibilityConstraint', trail)
+            optional_property(feature, "keywords", trail)
 
             json_features << feature
         end

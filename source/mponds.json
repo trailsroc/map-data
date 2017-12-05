@@ -22,6 +22,7 @@
     "trail-mponds-bathtub": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "Devil’s Bathtub Trail",
+      "keywords": "devils tub",
       "color": "grass",
       "length": 0.67,
       "SW": [
@@ -37,6 +38,7 @@
     "trail-mponds-birdsong": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "Birdsong/Nature Trail",
+      "keywords": "bird song nature",
       "color": "yellow",
       "length": 1,
       "SW": [

@@ -17,7 +17,8 @@
         -77.609638
       ],
       "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
-      "hideInListView": false
+      "hideInListView": false,
+      "keywords": "rail canal"
     },
     "park-gv-greenway-park": {
       "name": "Genesee Valley Greenway",
@@ -35,7 +36,8 @@
         -77.644888
       ],
       "url": "http://fogvg.org",
-      "hideInListView": false
+      "hideInListView": false,
+      "keywords": "rail"
     },
     "park-ecanal-park-park-w": {
       "name": "Erie Canal Heritage Trail",
@@ -186,6 +188,7 @@
       "visibilityConstraint": "extraLargeTrailSystem",
       "length": 34,
       "hideInListView": false,
+      "keywords": "rail",
       "SW": [
         42.725963,
         -77.882524
@@ -246,6 +249,7 @@
       "visibilityConstraint": "largeTrailSystem",
       "length": 4.3,
       "hideInListView": false,
+      "keywords": "rail canal",
       "SW": [
         43.11488,
         -77.656806
@@ -263,6 +267,7 @@
       "visibilityConstraint": "largeTrailSystem",
       "length": 2.4,
       "hideInListView": false,
+      "keywords": "rail canal",
       "SW": [
         43.173716,
         -77.62977
@@ -280,6 +285,7 @@
       "visibilityConstraint": "largeTrailSystem",
       "length": 3,
       "hideInListView": false,
+      "keywords": "rail canal",
       "SW": [
         43.21954,
         -77.628874
@@ -296,6 +302,7 @@
       "color": "sky",
       "length": 3.25,
       "hideInListView": false,
+      "keywords": "rail canal",
       "SW": [
         43.121451,
         -77.639772
