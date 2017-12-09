@@ -5,16 +5,17 @@ require 'nokogiri'
 
 # initialize ################################
 
-$data_version = 4
+$data_version = 5
 $pretty = true
 $dry_run = false
-$source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
-$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
+$source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source-v5/'
+$dest_dir = '/Users/mike/Downloads/geojson/'
+#$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
 #$gpx_filenames = ['mponds']
 $gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
 $json_filenames = $gpx_filenames
 
-$metadata = {:parks => {}, :trails => {}, :poiTypes => [], :bundle => {}, :idlist => []}
+$metadata = {:parks => {}, :trailSystems => {}, :trails => {}, :poiTypes => [], :bundle => {}, :idlist => []}
 
 # ls ../source/*.gpx | cut -d '/' -f 3 | cut -d '.' -f 1 | pbcopy
 # ls ../source/*.json | cut -d '/' -f 3 | cut -d '.' -f 1 | pbcopy
@@ -206,6 +207,11 @@ def parse_gpx(filename)
                 feature['geometry']['coordinates'] = coordinates
                 feature_property(feature, 'trailIDs', trail_ids)
 
+                style = (trails.map { |t| t["style"] } - [nil]).uniq.first
+                if style
+                    feature_property(feature, "style", style)
+                end
+
                 if trails.count == 1
                     trailName = trails[0]['name']
                     shortName = trails[0]['shortName']
@@ -243,6 +249,11 @@ def parse_gpx(filename)
 
             feature = create_feature('parkBorder', border_id, "border")
             feature_property(feature, "parkID", park_id)
+            # optional_property(feature, 'allowsDirections', point, dflt: default_allows_directions)
+
+            park = $metadata[:parks][park_id]
+            optional_property(feature, "style", park)
+
             feature['geometry']['type'] = 'Polygon'
             polygons = [outer_coords]
 
@@ -302,7 +313,6 @@ def parse_gpx(filename)
         if point['directionsCoordinate']
             feature_property(feature, 'directionsCoordinate', point['directionsCoordinate'].reverse)
         end
-        optional_property(feature, 'visibilityConstraint', point)
         optional_property(feature, "keywords", point)
 
         gpx_features.push(feature)
@@ -375,6 +385,34 @@ def parse_json(filename)
 
     json_features = []
 
+    if data["trailSystems"]
+        data["trailSystems"].each do |system_id, item|
+            $metadata[:trailSystems][system_id] = item
+            feature = create_feature('trailSystem', system_id, "JSON trailSystem")
+            feature['geometry'] = create_point_geometry(item['mainPin'].reverse)
+
+            shortName = nil_or_blank(item['shortName']) ? item['name'] : item['shortName']
+            if !nil_or_blank(shortName)
+                feature_property(feature, 'shortName', shortName)
+            end
+
+            if !nil_or_blank(item['name'])
+                optional_property(feature, 'name', item)
+            end
+            optional_property(feature, 'url', item)
+            optional_property(feature, 'allowsDirections', item, dflt: true)
+            optional_property(feature, 'annotationIconName', item)
+            optional_property(feature, 'isSearchable', item)
+            optional_property(feature, "keywords", item)
+            
+            if item['directionsCoordinate']
+                feature_property(feature, 'directionsCoordinate', item['directionsCoordinate'].reverse)
+            end
+
+            json_features << feature
+        end
+    end
+
     if data['parks']
         data["parks"].each do |park_id, park|
             $metadata[:parks][park_id] = park
@@ -394,9 +432,9 @@ def parse_json(filename)
             optional_property(feature, 'url', park)
             optional_property(feature, 'allowsDirections', park, dflt: true)
             optional_property(feature, 'annotationIconName', park)
-            optional_property(feature, 'hideInListView', park, dflt: nil_or_blank(park['name']))
-            optional_property(feature, 'visibilityConstraint', park)
+            optional_property(feature, 'isSearchable', park, dflt: !nil_or_blank(park['name']))
             optional_property(feature, "keywords", park)
+            optional_property(feature, "style", park)
             
             if park['directionsCoordinate']
                 feature_property(feature, 'directionsCoordinate', park['directionsCoordinate'].reverse)
@@ -421,8 +459,8 @@ def parse_json(filename)
             feature = create_feature('trail', trail_id, "JSON trail")
             feature['geometry'] = create_point_geometry(center_of(trail['SW'], trail['NE']))
 
-            if trail['parkID']
-                feature_property(feature, 'parkID', trail['parkID'])
+            if trail.has_key?('parentID')
+                feature_property(feature, 'parentID', trail['parentID'])
             end
             if !nil_or_blank(trail['name'])
                 optional_property(feature, 'name', trail)
@@ -435,9 +473,11 @@ def parse_json(filename)
                 feature_property(feature, 'shortName', shortName)
             end
 
-            optional_property(feature, 'hideInListView', trail, dflt: nil_or_blank(trail['name']))
-            optional_property(feature, 'visibilityConstraint', trail)
             optional_property(feature, "keywords", trail)
+            optional_property(feature, "style", trail)
+            optional_property(feature, "blazes", trail, dflt: "color")
+            optional_property(feature, "isPrimary", trail)
+            optional_property(feature, "isSearchable", trail)
 
             json_features << feature
         end

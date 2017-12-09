@@ -1,4 +1,5 @@
 # usage: ruby schema_migrator.rb
+# MIGRATOR for version -> 2
 
 require "json"
 require "nokogiri"
