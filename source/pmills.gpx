@@ -122,7 +122,7 @@
     </wpt>
     <wpt lon="-77.483575" lat="43.037751">
         <name>point-parking:pmills:woolston-w</name>
-        <desc>{"type":"point-parking","name":"Parking (Woolston west)","parentIDs":["park-pmills","trail-auburntr-main"],"shortName":"Woolston west"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Woolston west)","parentIDs":["park-pmills","trail-auburntr-main","tsystem-auburntr"],"shortName":"Woolston west"}</desc>
     </wpt>
     <wpt lon="-77.476962" lat="43.039886">
         <name>point-parking:pmills:1405706a</name>

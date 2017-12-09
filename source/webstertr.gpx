@@ -18,7 +18,7 @@
     </wpt>
     <wpt lon="-77.497061" lat="43.242224">
         <name>point-parking:webstertr:6558a4ac</name>
-        <desc>{"type":"point-parking","name":"Parking (Vosburg Hollow)","parentIDs":["trail-gosnell-big-field","trail-gosnell-vosburg-connector","trail-fowt-vosburg-main","trail-fowt-hojack-main"],"shortName":"Vosburg Hollow"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Vosburg Hollow)","parentIDs":["trail-gosnell-big-field","trail-gosnell-vosburg-connector","trail-fowt-vosburg-main","trail-fowt-hojack-main","tsystem-fowt-hojack"],"shortName":"Vosburg Hollow"}</desc>
     </wpt>
     <wpt lon="-77.496684" lat="43.241745">
         <name>point-poi:webstertr:06304f5e</name>
@@ -26,7 +26,7 @@
     </wpt>
     <wpt lon="-77.444172" lat="43.221044">
         <name>point-parking:webstertr:ae14aca2</name>
-        <desc>{"type":"point-parking","name":"Parking (N Ponds Orchard Rd)","parentIDs":["trail-fowt-nponds-loop","trail-fowt-hojack-main"],"shortName":"N Ponds Orchard Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (N Ponds Orchard Rd)","parentIDs":["trail-fowt-nponds-loop","trail-fowt-hojack-main","tsystem-fowt-hojack"],"shortName":"N Ponds Orchard Rd"}</desc>
     </wpt>
     <wpt lon="-77.419662" lat="43.265097">
         <name>point-parking:webstertr:5ca22918</name>
@@ -58,7 +58,7 @@
     </wpt>
     <wpt lon="-77.439351" lat="43.215891">
         <name>point-parking:webstertr:4b1caab4</name>
-        <desc>{"type":"point-parking","comments":"N Ponds RT 104","name":"Parking (N Ponds by 104)","parentIDs":["trail-fowt-rt104-path","trail-fowt-nponds-loop"],"shortName":"N Ponds by 104"}</desc>
+        <desc>{"type":"point-parking","comments":"N Ponds RT 104","name":"Parking (N Ponds by 104)","parentIDs":["trail-fowt-rt104-path","trail-fowt-nponds-loop","tsystem-fowt-rt104"],"shortName":"N Ponds by 104"}</desc>
     </wpt>
     <trk>
         <name>border:park-fowt-finn</name>

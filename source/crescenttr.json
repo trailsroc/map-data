@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "parks": {
-    "park-crescenttr": {
+  "version": 5,
+  "trailSystems": {
+    "tsystem-crescenttr": {
       "name": "Crescent Trail System",
       "mainPin": [
         43.069686,
@@ -20,8 +20,10 @@
         -77.425743
       ],
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
-      "hideInListView": false
-    },
+      "isSearchable": true
+    }
+  },
+  "parks": {
     "park-crescenttr-mccoord": {
       "name": "McCoord Woods",
       "mainPin": [
@@ -40,12 +42,11 @@
         43.065006,
         -77.454421
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
+      "style": "minorPark",
       "advisories": [
         "generalHuntingAdvisory"
       ],
-      "hideInListView": true
+      "isSearchable": false
     },
     "park-crescenttr-dewitt": {
       "name": "Dewitt Hill",
@@ -68,9 +69,8 @@
       "advisories": [
         "generalHuntingAdvisory"
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundariesAdvisoriesOnly",
-      "hideInListView": true
+      "style": "minorPark",
+      "isSearchable": false
     },
     "park-crescenttr-howell": {
       "name": "Howell Road Park",
@@ -89,9 +89,8 @@
       "advisories": [
         "generalHuntingAdvisory"
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
-      "hideInListView": true
+      "style": "minorPark",
+      "isSearchable": false
     },
     "park-white-brook": {
       "name": "White Brook Nature Area",
@@ -114,19 +113,17 @@
       "advisories": [
         "generalHuntingAdvisory"
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
-      "hideInListView": true
+      "style": "minorPark",
+      "isSearchable": false
     }
   },
   "trails": {
     "trail-crescenttr-main": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
-      "name": "Crescent Trail",
-      "shortName": "Crescent Trail (Main)",
+      "name": "Crescent Trail (Orange)",
+      "shortName": "Crescent Trail",
       "length": 17.8,
       "color": "orange",
-      "visibilityConstraint": "largeTrailSystem",
       "SW": [
         43.034866,
         -77.48281
@@ -134,13 +131,17 @@
       "NE": [
         43.108284,
         -77.371976
-      ]
+      ],
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-crescenttr"
     },
     "trail-crescenttr-blue": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Blue)",
+      "shortName": "Blue",
       "color": "sky",
-      "hideInListView": true,
+      "isPrimary": false,
       "SW": [
         43.03883,
         -77.462642
@@ -148,13 +149,15 @@
       "NE": [
         43.108284,
         -77.371976
-      ]
+      ],
+      "parentID": "tsystem-crescenttr"
     },
     "trail-crescenttr-green": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
-      "name": "Crescent Trail (Other)",
+      "name": "Crescent Trail (Green)",
+      "shortName": "Green",
       "color": "dark_green",
-      "hideInListView": true,
+      "isPrimary": false,
       "SW": [
         43.047677,
         -77.459921
@@ -162,13 +165,15 @@
       "NE": [
         43.094171,
         -77.372005
-      ]
+      ],
+      "parentID": "tsystem-crescenttr"
     },
     "trail-crescenttr-red": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Red)",
+      "shortName": "Red",
       "color": "red",
-      "hideInListView": true,
+      "isPrimary": false,
       "SW": [
         43.046413,
         -77.461532
@@ -176,13 +181,15 @@
       "NE": [
         43.105032,
         -77.392751
-      ]
+      ],
+      "parentID": "tsystem-crescenttr"
     },
     "trail-crescenttr-white": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (White)",
+      "shortName": "White",
       "color": "black",
-      "hideInListView": true,
+      "isPrimary": false,
       "SW": [
         43.034866,
         -77.464245
@@ -190,13 +197,15 @@
       "NE": [
         43.104094,
         -77.38653
-      ]
+      ],
+      "parentID": "tsystem-crescenttr"
     },
     "trail-crescenttr-yellow": {
       "url": "http://www.perinton.org/Departments/parks/hikingctha/",
       "name": "Crescent Trail (Yellow)",
+      "shortName": "Yellow",
       "color": "yellow",
-      "hideInListView": true,
+      "isPrimary": false,
       "SW": [
         43.044898,
         -77.446091
@@ -204,7 +213,8 @@
       "NE": [
         43.095319,
         -77.371976
-      ]
+      ],
+      "parentID": "tsystem-crescenttr"
     }
   }
 }

@@ -6,39 +6,39 @@
     </metadata>
     <wpt lon="-77.366203" lat="42.963682">
         <name>point-parking:auburntr:mertensia</name>
-        <desc>{"name":"Parking (Mertensia Rd)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Mertensia Rd"}</desc>
+        <desc>{"name":"Parking (Mertensia Rd)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Mertensia Rd"}</desc>
     </wpt>
     <wpt lon="-77.390207" lat="42.969000">
         <name>point-parking:auburntr:defb7dfa</name>
-        <desc>{"name":"Parking (Brace Rd)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Brace Rd"}</desc>
+        <desc>{"name":"Parking (Brace Rd)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Brace Rd"}</desc>
     </wpt>
     <wpt lon="-77.408509" lat="42.973867">
         <name>point-parking:auburntr:e853fb8c</name>
-        <desc>{"name":"Parking (Mickey Finn&#x2019;s)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Mickey Finn&#x2019;s"}</desc>
+        <desc>{"name":"Parking (Mickey Finn&#x2019;s)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Mickey Finn&#x2019;s","keywords":"finns"}</desc>
     </wpt>
     <wpt lon="-77.437035" lat="42.992805">
         <name>point-smparking:auburntr:da80497c</name>
-        <desc>{"name":"Shoulder Parking (251)","shortName":"Shoulder Parking","parentIDs":["park-auburntr-park","trail-auburntr-main"]}</desc>
+        <desc>{"name":"Shoulder Parking (251)","shortName":"Shoulder Parking","parentIDs":["tsystem-auburntr","trail-auburntr-main"]}</desc>
     </wpt>
     <wpt lon="-77.467477" lat="43.008981">
         <name>point-parking:auburntr:d740510c</name>
-        <desc>{"type":"parking","name":"Parking (Fishers Fire Hall)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Fishers Fire Hall"}</desc>
+        <desc>{"name":"Parking (Fishers Fire Hall)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Fishers Fire Hall"}</desc>
     </wpt>
     <wpt lon="-77.471707" lat="43.016602">
         <name>point-parking:auburntr:fishersn</name>
-        <desc>{"name":"Parking (Fishers Rd)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Fishers Rd"}</desc>
+        <desc>{"name":"Parking (Fishers Rd)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Fishers Rd"}</desc>
     </wpt>
     <wpt lon="-77.453491" lat="43.001971">
         <name>point-parking:auburntr:26f5ddc1</name>
-        <desc>{"name":"Parking (Phillips Rd)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Phillips Rd"}</desc>
+        <desc>{"name":"Parking (Phillips Rd)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Phillips Rd"}</desc>
     </wpt>
     <wpt lon="-77.482431" lat="43.026709">
         <name>point-parking:auburntr:971807fb</name>
-        <desc>{"name":"Parking (Railroad Mills)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Railroad Mills"}</desc>
+        <desc>{"name":"Parking (Railroad Mills)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Railroad Mills"}</desc>
     </wpt>
     <wpt lon="-77.384341" lat="42.968810">
         <name>point-parking:auburntr:f7f78462</name>
-        <desc>{"name":"Parking (Break of Day Rd)","parentIDs":["park-auburntr-park","trail-auburntr-main"],"shortName":"Break of Day Rd"}</desc>
+        <desc>{"name":"Parking (Break of Day Rd)","parentIDs":["tsystem-auburntr","trail-auburntr-main"],"shortName":"Break of Day Rd"}</desc>
     </wpt>
     <trk>
         <name>seg:trail-auburntr-main:57c8e6d2</name>

@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-gcanal": {
       "name": "Greece Canal Park",
@@ -32,7 +34,7 @@
         43.19823,
         -77.736039
       ],
-      "parkID": "park-gcanal"
+      "parentID": "park-gcanal"
     },
     "trail-gcanal-farm-artifact": {
       "url": "http://www.monroecounty.gov/parks-greececanal.php",
@@ -47,7 +49,7 @@
         43.200313,
         -77.732296
       ],
-      "parkID": "park-gcanal"
+      "parentID": "park-gcanal"
     },
     "trail-gcanal-unnamed": {
       "url": "http://www.monroecounty.gov/parks-greececanal.php",
@@ -61,7 +63,7 @@
         43.203086,
         -77.734541
       ],
-      "parkID": "park-gcanal"
+      "parentID": "park-gcanal"
     },
     "trail-gcanal-west": {
       "url": "http://www.monroecounty.gov/parks-greececanal.php",
@@ -76,7 +78,7 @@
         43.202309,
         -77.738348
       ],
-      "parkID": "park-gcanal"
+      "parentID": "park-gcanal"
     }
   }
 }

@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-mponds": {
       "name": "Mendon Ponds Park",
@@ -33,7 +35,7 @@
         43.02576,
         -77.571605
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-birdsong": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -49,7 +51,7 @@
         43.022065,
         -77.576936
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-eesker": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -64,7 +66,7 @@
         43.02724,
         -77.54829
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-fern-valley": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -79,7 +81,7 @@
         43.038938,
         -77.569298
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-grasslands": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -94,7 +96,7 @@
         43.031531,
         -77.574108
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-nmeadow": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -109,7 +111,7 @@
         43.033785,
         -77.54875
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-pine-woods": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -124,7 +126,7 @@
         43.036353,
         -77.54691
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-quaker": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -139,7 +141,7 @@
         43.016097,
         -77.568526
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-smeadow": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -154,7 +156,7 @@
         43.012347,
         -77.561334
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-swamp": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -169,7 +171,7 @@
         43.018762,
         -77.575555
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -183,7 +185,7 @@
         43.03819,
         -77.54752
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     },
     "trail-mponds-wesker": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
@@ -198,7 +200,7 @@
         43.034403,
         -77.568559
       ],
-      "parkID": "park-mponds"
+      "parentID": "park-mponds"
     }
   }
 }

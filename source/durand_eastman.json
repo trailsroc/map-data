@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-dureast": {
       "name": "Durand-Eastman Park",
@@ -37,7 +39,7 @@
         43.23487,
         -77.554653
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-eastman-lake": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -52,7 +54,7 @@
         43.236777,
         -77.558366
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-trott-lake": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -67,7 +69,7 @@
         43.229054,
         -77.558647
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-yellow": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -82,7 +84,7 @@
         43.237187,
         -77.560029
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-purple": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -97,7 +99,7 @@
         43.229638,
         -77.562216
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-lakeshore-trail": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -112,7 +114,7 @@
         43.24238,
         -77.546882
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     },
     "trail-dureast-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
@@ -126,7 +128,7 @@
         43.237431,
         -77.547766
       ],
-      "parkID": "park-dureast"
+      "parentID": "park-dureast"
     }
   }
 }

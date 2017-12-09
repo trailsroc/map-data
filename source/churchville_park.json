@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-churchville": {
       "name": "Churchville Park",

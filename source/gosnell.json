@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-gosnell": {
       "name": "Gosnell Big Woods Preserve",
@@ -39,7 +41,7 @@
         43.246981,
         -77.48805
       ],
-      "parkID": "park-gosnell"
+      "parentID": "park-gosnell"
     },
     "trail-gosnell-big-woods": {
       "url": "http://www.webstertrails.org/gosnell/gosnell.php",
@@ -54,7 +56,7 @@
         43.249984,
         -77.482145
       ],
-      "parkID": "park-gosnell"
+      "parentID": "park-gosnell"
     },
     "trail-gosnell-vosburg-connector": {
       "url": "http://www.webstertrails.org/gosnell/gosnell.php",
@@ -69,7 +71,7 @@
         43.242487,
         -77.494126
       ],
-      "parkID": "park-gosnell"
+      "parentID": "park-gosnell"
     },
     "trail-gosnell-meadow": {
       "url": "http://www.webstertrails.org/gosnell/gosnell.php",
@@ -84,7 +86,7 @@
         43.245008,
         -77.484868
       ],
-      "parkID": "park-gosnell"
+      "parentID": "park-gosnell"
     },
     "trail-gosnell-ridge": {
       "url": "http://www.webstertrails.org/gosnell/gosnell.php",
@@ -99,7 +101,7 @@
         43.248644,
         -77.479757
       ],
-      "parkID": "park-gosnell"
+      "parentID": "park-gosnell"
     }
   }
 }

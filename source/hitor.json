@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-hitor": {
       "name": "High Tor Wildlife Management Area",
@@ -35,7 +37,7 @@
         42.633083,
         -77.35627
       ],
-      "parkID": "park-hitor"
+      "parentID": "park-hitor"
     },
     "trail-hitor-fltbht": {
       "name": "Finger Lakes Bristol Hills Trail",
@@ -49,8 +51,8 @@
         42.626923,
         -77.3283
       ],
-      "parkID": "park-hitor",
-      "keywords": "flt"
+      "keywords": "flt",
+      "parentID": "park-hitor"
     },
     "trail-hitor-unnamed": {
       "name": "",
@@ -63,7 +65,7 @@
         42.635132,
         -77.334274
       ],
-      "parkID": "park-hitor"
+      "parentID": "park-hitor"
     }
   }
 }

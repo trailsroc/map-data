@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-lmorin": {
       "name": "Lucien Morin Park",
@@ -37,7 +39,7 @@
         43.172604,
         -77.524803
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-east": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -52,7 +54,7 @@
         43.164859,
         -77.51937
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-pink": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -67,7 +69,7 @@
         43.167694,
         -77.528518
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-red": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -82,7 +84,7 @@
         43.169974,
         -77.527115
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-rifle-range-salmon": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -97,7 +99,7 @@
         43.168645,
         -77.525872
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-rifle-range-white": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -112,7 +114,7 @@
         43.174685,
         -77.522927
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-rifle-range-yellow": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -127,7 +129,7 @@
         43.169056,
         -77.52294
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-connector": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -141,7 +143,7 @@
         43.163914,
         -77.520447
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     },
     "trail-lmorin-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
@@ -155,7 +157,7 @@
         43.175612,
         -77.523707
       ],
-      "parkID": "park-lmorin"
+      "parentID": "park-lmorin"
     }
   }
 }

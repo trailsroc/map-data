@@ -6,163 +6,163 @@
     </metadata>
     <wpt lon="-78.021728" lat="43.227844">
         <name>point-parking:canal:b53cb311</name>
-        <desc>{"name":"Parking (Holley/East Ave)","parentIDs":["trail-ecanal-main"],"shortName":"Holley/East Ave"}</desc>
+        <desc>{"name":"Parking (Holley/East Ave)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Holley/East Ave"}</desc>
     </wpt>
     <wpt lon="-78.018888" lat="43.225168">
         <name>point-scenic:canal:4604e82f</name>
-        <desc>{"name":"Holley Canal Falls","parentIDs":["trail-ecanal-main"]}</desc>
+        <desc>{"name":"Holley Canal Falls","parentIDs":["trail-ecanal-main","tsystem-ecanal"]}</desc>
     </wpt>
     <wpt lon="-78.019317" lat="43.225489">
         <name>point-parking:canal:29c2d46e</name>
-        <desc>{"name":"Parking (Holley Canal Falls)","parentIDs":["trail-ecanal-main"],"shortName":"Holley Canal Falls"}</desc>
+        <desc>{"name":"Parking (Holley Canal Falls)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Holley Canal Falls"}</desc>
     </wpt>
     <wpt lon="-77.996513" lat="43.222742">
         <name>point-parking:canal:a1141611</name>
-        <desc>{"name":"Parking (Sans Souci Park)","parentIDs":["trail-ecanal-main"],"shortName":"Sans Souci Park"}</desc>
+        <desc>{"name":"Parking (Sans Souci Park)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Sans Souci Park"}</desc>
     </wpt>
     <wpt lon="-77.937887" lat="43.217119">
         <name>point-parking:canal:73e70228</name>
-        <desc>{"name":"Parking (Brockport)","parentIDs":["trail-ecanal-main"],"shortName":"Brockport"}</desc>
+        <desc>{"name":"Parking (Brockport)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Brockport"}</desc>
     </wpt>
     <wpt lon="-77.800365" lat="43.193779">
         <name>point-parking:canal:0715b10e</name>
-        <desc>{"name":"Parking (Spencerport)","parentIDs":["trail-ecanal-main"],"shortName":"Spencerport"}</desc>
+        <desc>{"name":"Parking (Spencerport)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Spencerport"}</desc>
     </wpt>
     <wpt lon="-77.730931" lat="43.188340">
         <name>point-parking:canal:e817bbe0</name>
-        <desc>{"name":"Parking (Henpeck Park)","parentIDs":["trail-ecanal-main"],"shortName":"Henpeck Park"}</desc>
+        <desc>{"name":"Parking (Henpeck Park)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Henpeck Park"}</desc>
     </wpt>
     <wpt lon="-77.599662" lat="43.104015">
         <name>point-parking:canal:365b1bdfb</name>
-        <desc>{"name":"Parking (S Clinton, South Bank)","parentIDs":["trail-ecanal-main"],"shortName":"S Clinton, South Bank"}</desc>
+        <desc>{"name":"Parking (S Clinton, South Bank)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"S Clinton, South Bank"}</desc>
     </wpt>
     <wpt lon="-77.568610" lat="43.096259">
         <name>point-parking:canal:cdb10f67</name>
-        <desc>{"name":"Parking (Edgewood)","parentIDs":["trail-ecanal-main"],"shortName":"Edgewood"}</desc>
+        <desc>{"name":"Parking (Edgewood)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Edgewood"}</desc>
     </wpt>
     <wpt lon="-77.547754" lat="43.092962">
         <name>point-parking:canal:20ac60ff</name>
-        <desc>{"name":"Parking (Lock 32)","parentIDs":["trail-ecanal-main"],"shortName":"Lock 32"}</desc>
+        <desc>{"name":"Parking (Lock 32)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Lock 32"}</desc>
     </wpt>
     <wpt lon="-77.513600" lat="43.092851">
         <name>point-parking:canal:9434592e</name>
-        <desc>{"name":"Parking (Schoen Pl West)","parentIDs":["trail-ecanal-main"],"shortName":"Schoen Pl West"}</desc>
+        <desc>{"name":"Parking (Schoen Pl West)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Schoen Pl West"}</desc>
     </wpt>
     <wpt lon="-77.510593" lat="43.089902">
         <name>point-parking:canal:c36cb63c</name>
-        <desc>{"name":"Parking (Schoen Pl East)","parentIDs":["trail-ecanal-main"],"shortName":"Schoen Pl East"}</desc>
+        <desc>{"name":"Parking (Schoen Pl East)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Schoen Pl East"}</desc>
     </wpt>
     <wpt lon="-77.511929" lat="43.091454">
         <name>point-parking:canal:7cd1e672</name>
-        <desc>{"name":"Parking (Schoen Place)","parentIDs":["trail-ecanal-main"],"shortName":"Schoen Place"}</desc>
+        <desc>{"name":"Parking (Schoen Place)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Schoen Place"}</desc>
     </wpt>
     <wpt lon="-77.515740" lat="43.093971">
         <name>point-parking:canal:d1e4fb58</name>
-        <desc>{"name":"Parking (Del Monte)","parentIDs":["trail-ecanal-main"],"shortName":"Del Monte"}</desc>
+        <desc>{"name":"Parking (Del Monte)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Del Monte"}</desc>
     </wpt>
     <wpt lon="-77.490357" lat="43.073715">
         <name>point-parking:canal:20544b4b</name>
-        <desc>{"name":"Parking (Great Embankment Park)","parentIDs":["trail-ecanal-main"],"shortName":"Great Embankment Park"}</desc>
+        <desc>{"name":"Parking (Great Embankment Park)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Great Embankment Park"}</desc>
     </wpt>
     <wpt lon="-77.456047" lat="43.101838">
         <name>point-parking:canal:35536941</name>
-        <desc>{"name":"Parking (Fairport/Perinton Park)","parentIDs":["trail-ecanal-main"],"shortName":"Fairport/Perinton Park"}</desc>
+        <desc>{"name":"Parking (Fairport/Perinton Park)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Fairport/Perinton Park"}</desc>
     </wpt>
     <wpt lon="-77.442478" lat="43.102534">
         <name>point-parking:canal:e13cbebd</name>
-        <desc>{"name":"Parking (Fairport Main St)","parentIDs":["trail-ecanal-main"],"shortName":"Fairport Main St"}</desc>
+        <desc>{"name":"Parking (Fairport Main St)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Fairport Main St"}</desc>
     </wpt>
     <wpt lon="-77.440947" lat="43.101518">
         <name>point-parking:canal:4ed5c17e</name>
-        <desc>{"name":"Parking (Fairport)","parentIDs":["trail-ecanal-main"],"shortName":"Fairport"}</desc>
+        <desc>{"name":"Parking (Fairport)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"Fairport"}</desc>
     </wpt>
     <wpt lon="-77.678173" lat="43.105812">
         <name>point-parking:canal:d765e777</name>
-        <desc>{"name":"Parking (Little Black Creek Park)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"Little Black Creek Park"}</desc>
+        <desc>{"name":"Parking (Little Black Creek Park)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"Little Black Creek Park"}</desc>
     </wpt>
     <wpt lon="-77.709686" lat="43.077216">
         <name>point-parking:canal:eec829f0</name>
-        <desc>{"name":"Parking (Brookdale Preserve)","parentIDs":["park-gv-greenway-park","trail-brookdale-preserve-trail","trail-gv-greenway"],"shortName":"Brookdale Preserve"}</desc>
+        <desc>{"name":"Parking (Brookdale Preserve)","parentIDs":["tsystem-gv-greenway","trail-brookdale-preserve-trail","trail-gv-greenway"],"shortName":"Brookdale Preserve"}</desc>
     </wpt>
     <wpt lon="-77.747525" lat="43.018389">
         <name>point-parking:canal:867d1d71</name>
-        <desc>{"name":"Parking (Scottsville)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"Scottsville"}</desc>
+        <desc>{"name":"Parking (Scottsville)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"Scottsville"}</desc>
     </wpt>
     <wpt lon="-77.740234" lat="43.005097">
         <name>point-parking:canal:8af8914a</name>
-        <desc>{"name":"Parking (251)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"251"}</desc>
+        <desc>{"name":"Parking (251)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"251"}</desc>
     </wpt>
     <wpt lon="-77.743267" lat="42.983003">
         <name>point-parking:canal:1c8a4eda</name>
-        <desc>{"name":"Parking (W River Rd)","parentIDs":["park-gv-greenway-park","trail-lehigh-valley-main","trail-gv-greenway-access","trail-gv-greenway"],"shortName":"W River Rd"}</desc>
+        <desc>{"name":"Parking (W River Rd)","parentIDs":["tsystem-gv-greenway","trail-lehigh-valley-main","trail-gv-greenway-access","trail-gv-greenway","tsystem-lehigh"],"shortName":"W River Rd"}</desc>
     </wpt>
     <wpt lon="-77.756364" lat="42.922628">
         <name>point-parking:canal:78ad808c</name>
-        <desc>{"name":"Parking (Avon/Erie-Attica)","parentIDs":["park-gv-greenway-park","trail-gv-greenway-access","trail-gv-greenway"],"shortName":"Avon/Erie-Attica"}</desc>
+        <desc>{"name":"Parking (Avon/Erie-Attica)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway-access","trail-gv-greenway"],"shortName":"Avon/Erie-Attica"}</desc>
     </wpt>
     <wpt lon="-77.784261" lat="42.917369">
         <name>point-parking:canal:76f5fe37</name>
-        <desc>{"name":"Parking (US-20)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"US-20"}</desc>
+        <desc>{"name":"Parking (US-20)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"US-20"}</desc>
     </wpt>
     <wpt lon="-77.851261" lat="42.864674">
         <name>point-parking:canal:d539ea21</name>
-        <desc>{"name":"Parking (York Landing)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"York Landing"}</desc>
+        <desc>{"name":"Parking (York Landing)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"York Landing"}</desc>
     </wpt>
     <wpt lon="-77.851115" lat="42.828022">
         <name>point-parking:canal:1d4e3ce0</name>
-        <desc>{"name":"Parking (Piffard)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"Piffard"}</desc>
+        <desc>{"name":"Parking (Piffard)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"Piffard"}</desc>
     </wpt>
     <wpt lon="-77.870333" lat="42.777203">
         <name>point-parking:canal:00b0404f</name>
-        <desc>{"name":"Parking (Cuylerville)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"Cuylerville"}</desc>
+        <desc>{"name":"Parking (Cuylerville)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"Cuylerville"}</desc>
     </wpt>
     <wpt lon="-77.872275" lat="42.726325">
         <name>point-parking:canal:a6da14e1</name>
-        <desc>{"name":"Parking (Mount Morris)","parentIDs":["park-gv-greenway-park","trail-gv-greenway"],"shortName":"Mount Morris"}</desc>
+        <desc>{"name":"Parking (Mount Morris)","parentIDs":["tsystem-gv-greenway","trail-gv-greenway"],"shortName":"Mount Morris"}</desc>
     </wpt>
     <wpt lon="-77.634651" lat="43.125996">
         <name>point-parking:canal:77b1511e</name>
-        <desc>{"name":"Parking (S Plymouth)","parentIDs":["park-gv-riverway-park","trail-gv-riverway-south"],"shortName":"S Plymouth"}</desc>
+        <desc>{"name":"Parking (S Plymouth)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"],"shortName":"S Plymouth"}</desc>
     </wpt>
     <wpt lon="-77.610359" lat="43.251545">
         <name>point-parking:canal:333633b2</name>
-        <desc>{"name":"Parking (Charlotte)","parentIDs":["park-gv-riverway-park","trail-gv-riverway-north"],"shortName":"Charlotte"}</desc>
+        <desc>{"name":"Parking (Charlotte)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-north"],"shortName":"Charlotte"}</desc>
     </wpt>
     <wpt lon="-77.613469" lat="43.246225">
         <name>point-parking:canal:1be005d2</name>
-        <desc>{"name":"Parking (Petten St)","parentIDs":["park-gv-riverway-park","trail-gv-riverway-north"],"shortName":"Petten St"}</desc>
+        <desc>{"name":"Parking (Petten St)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-north"],"shortName":"Petten St"}</desc>
     </wpt>
     <wpt lon="-77.617868" lat="43.231325">
         <name>point-scenic:canal:00cfb556</name>
-        <desc>{"name":"Scenic Point","parentIDs":["park-gv-riverway-park","trail-gv-riverway-north"]}</desc>
+        <desc>{"name":"Scenic Point","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-north"]}</desc>
     </wpt>
     <wpt lon="-77.617829" lat="43.227546">
         <name>point-parking:canal:853b7ed8</name>
-        <desc>{"name":"Parking (Turning Point Park)","parentIDs":["park-gv-riverway-park","trail-gv-riverway-north"],"shortName":"Turning Point Park"}</desc>
+        <desc>{"name":"Parking (Turning Point Park)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-north"],"shortName":"Turning Point Park"}</desc>
     </wpt>
     <wpt lon="-77.620465" lat="43.197811">
         <name>point-scenic:canal:bb9e6b8b</name>
-        <desc>{"name":"Footbridge","parentIDs":["park-gv-riverway-park","trail-gv-riverway-maplewood"]}</desc>
+        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-maplewood"]}</desc>
     </wpt>
     <wpt lon="-77.630282" lat="43.181457">
         <name>point-parking:canal:6d8ae0d0</name>
-        <desc>{"name":"Parking (Maplewood)","parentIDs":["park-gv-riverway-park","trail-gv-riverway-maplewood"],"shortName":"Maplewood"}</desc>
+        <desc>{"name":"Parking (Maplewood)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-maplewood"],"shortName":"Maplewood"}</desc>
     </wpt>
     <wpt lon="-77.615641" lat="43.162423">
         <name>point-poi:canal:footbridge1</name>
-        <desc>{"name":"Footbridge","parentIDs":["park-gv-riverway-park","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.611153" lat="43.157490">
         <name>point-poi:canal:footbridge2</name>
-        <desc>{"name":"Footbridge","parentIDs":["park-gv-riverway-park","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.633298" lat="43.131286">
         <name>point-poi:canal:footbridge3</name>
-        <desc>{"name":"Footbridge","parentIDs":["park-gv-riverway-park","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.622898" lat="43.133008">
         <name>point-poi:canal:footbridge4</name>
-        <desc>{"name":"Footbridge","parentIDs":["park-gv-riverway-park","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
     <wpt lon="-77.639921" lat="43.122100">
         <name>point-poi:canal:68872019</name>
@@ -170,11 +170,11 @@
     </wpt>
     <wpt lon="-77.616022" lat="43.110751">
         <name>point-poi:canal:9aead71f</name>
-        <desc>{"name":"Construction","parentIDs":["trail-ecanal-main"]}</desc>
+        <desc>{"name":"Construction","parentIDs":["trail-ecanal-main","tsystem-ecanal"]}</desc>
     </wpt>
     <wpt lon="-77.599417" lat="43.106997">
         <name>point-parking:canal:365b1bdf</name>
-        <desc>{"name":"Parking (S Clinton)","parentIDs":["trail-ecanal-main"],"shortName":"S Clinton"}</desc>
+        <desc>{"name":"Parking (S Clinton)","parentIDs":["trail-ecanal-main","tsystem-ecanal"],"shortName":"S Clinton"}</desc>
     </wpt>
     <rte>
         <name>seg:trail-gv-riverway-east:9437ed00</name>

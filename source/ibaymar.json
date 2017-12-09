@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-ibaymar": {
       "name": "Irondequoit Bay Marine Park",
@@ -16,8 +18,7 @@
         43.23545,
         -77.53324
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
+      "style": "minorPark",
       "url": "http://www.monroecounty.gov/parks-baymarine.php"
     }
   },
@@ -34,7 +35,7 @@
         43.234006,
         -77.537374
       ],
-      "parkID": "park-ibaymar"
+      "parentID": "park-ibaymar"
     }
   }
 }

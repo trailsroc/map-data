@@ -6,15 +6,15 @@
     </metadata>
     <wpt lon="-77.410896" lat="42.982776">
         <name>point-poi:vht:72a9105c</name>
-        <desc>{"name":"Victor Hiking Trails Kiosk","parentIDs":["park-auburntr-park"]}</desc>
+        <desc>{"name":"Victor Hiking Trails Kiosk","parentIDs":["tsystem-auburntr"]}</desc>
     </wpt>
     <wpt lon="-77.469571" lat="43.001739">
         <name>point-parking:vht:f4045e98</name>
-        <desc>{"name":"Parking (Wangum Rd)","parentIDs":["trail-vht-lehigh-blackdiamond"],"shortName":"Wangum Rd"}</desc>
+        <desc>{"name":"Parking (Wangum Rd)","parentIDs":["trail-vht-lehigh-blackdiamond","tsystem-auburntr"],"shortName":"Wangum Rd"}</desc>
     </wpt>
     <wpt lon="-77.454762" lat="43.000370">
         <name>point-parking:vht:d12524eb</name>
-        <desc>{"name":"Parking (Phillips Rd)","parentIDs":["trail-vht-lehigh-blackdiamond"],"shortName":"Phillips Rd"}</desc>
+        <desc>{"name":"Parking (Phillips Rd)","parentIDs":["trail-vht-lehigh-blackdiamond","tsystem-auburntr"],"shortName":"Phillips Rd"}</desc>
     </wpt>
     <rte>
         <name>seg:trail-vht-lehigh-blackdiamond:e31bba6f</name>

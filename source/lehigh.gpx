@@ -6,95 +6,95 @@
     </metadata>
     <wpt lon="-77.590095" lat="42.978852">
         <name>point-poi:lehigh:b405ad6d</name>
-        <desc>{"type":"point-poi","name":"Great Bend Nature Park","SW":[42.976206714433175,-77.59536266326904],"NE":[42.98367909085195,-77.58255243301392],"parentIDs":["park-lehigh-park"]}</desc>
+        <desc>{"type":"point-poi","name":"Great Bend Nature Park","SW":[42.976206714433175,-77.59536266326904],"NE":[42.98367909085195,-77.58255243301392],"parentIDs":["tsystem-lehigh"]}</desc>
     </wpt>
     <wpt lon="-77.700784" lat="42.987024">
         <name>point-parking:lehigh:aba338a9</name>
-        <desc>{"type":"point-parking","name":"Parking (E River Rd)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"E River Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (E River Rd)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"E River Rd"}</desc>
     </wpt>
     <wpt lon="-77.679546" lat="42.990715">
         <name>point-parking:lehigh:03746ff8</name>
-        <desc>{"type":"point-parking","name":"Parking (Fishell Rd)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Fishell Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Fishell Rd)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Fishell Rd"}</desc>
     </wpt>
     <wpt lon="-77.645355" lat="42.992204">
         <name>point-parking:lehigh:creekside</name>
-        <desc>{"type":"point-parking","name":"Parking (Creekside, Rush)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Creekside, Rush"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Creekside, Rush)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Creekside, Rush"}</desc>
     </wpt>
     <wpt lon="-77.597977" lat="42.985226">
         <name>point-parking:lehigh:junction</name>
-        <desc>{"type":"point-parking","name":"Parking (Rochester Junction)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main","trail-lehigh-valley-north"],"shortName":"Rochester Junction"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Rochester Junction)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main","trail-lehigh-valley-north"],"shortName":"Rochester Junction"}</desc>
     </wpt>
     <wpt lon="-77.587986" lat="42.978211">
         <name>point-parking:lehigh:great-bend</name>
-        <desc>{"type":"point-parking","name":"Parking (Great Bend Park)","parentIDs":["park-lehigh-park"],"shortName":"Great Bend Park"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Great Bend Park)","parentIDs":["tsystem-lehigh"],"shortName":"Great Bend Park"}</desc>
     </wpt>
     <wpt lon="-77.508432" lat="42.997652">
         <name>point-parking:lehigh:b715181d</name>
-        <desc>{"type":"point-parking","name":"Parking (Mendon/251)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Mendon/251"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Mendon/251)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Mendon/251"}</desc>
     </wpt>
     <wpt lon="-77.493943" lat="43.001336">
         <name>point-parking:lehigh:5aaf9804</name>
-        <desc>{"type":"point-parking","name":"Parking (Mile Square)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Mile Square"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Mile Square)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Mile Square"}</desc>
     </wpt>
     <wpt lon="-77.482039" lat="43.002827">
         <name>point-parking:lehigh:fcbd5759</name>
-        <desc>{"type":"point-parking","name":"Parking (Old Dutch Rd)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main","trail-vht-lehigh-blackdiamond"],"shortName":"Old Dutch Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Old Dutch Rd)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main","trail-vht-lehigh-blackdiamond","tsystem-auburntr"],"shortName":"Old Dutch Rd"}</desc>
     </wpt>
     <wpt lon="-77.612067" lat="42.993293">
         <name>point-parking:lehigh:1c7856fb</name>
-        <desc>{"type":"point-parking","name":"Parking (Rush/251)","parentIDs":["park-lehigh-park","trail-lehigh-valley-north"],"shortName":"Rush/251"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Rush/251)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-north"],"shortName":"Rush/251"}</desc>
     </wpt>
     <wpt lon="-77.623287" lat="43.003120">
         <name>point-parking:lehigh:98be4d26</name>
-        <desc>{"type":"point-parking","name":"Parking (Pinnacle Rd)","parentIDs":["park-lehigh-park","trail-lehigh-valley-north"],"shortName":"Pinnacle Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Pinnacle Rd)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-north"],"shortName":"Pinnacle Rd"}</desc>
     </wpt>
     <wpt lon="-77.630418" lat="43.026133">
         <name>point-parking:lehigh:c28b9dbc</name>
-        <desc>{"type":"point-parking","name":"Parking (15A)","parentIDs":["park-lehigh-park","trail-lehigh-valley-north"],"shortName":"15A"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (15A)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-north"],"shortName":"15A"}</desc>
     </wpt>
     <wpt lon="-77.581048" lat="42.981885">
         <name>point-scenic:lehigh:be474d76</name>
-        <desc>{"type":"point-scenic","comments":"East of Clover St","name":"Scenic Point","parentIDs":["park-lehigh-park"]}</desc>
+        <desc>{"type":"point-scenic","comments":"East of Clover St","name":"Scenic Point","parentIDs":["tsystem-lehigh"]}</desc>
     </wpt>
     <wpt lon="-77.597866" lat="42.985142">
         <name>point-lodge:lehigh:e0e064a0</name>
-        <desc>{"name":"Freight House Lodge","parentIDs":["park-lehigh-park"],"shortName":"Freight House"}</desc>
+        <desc>{"name":"Freight House Lodge","parentIDs":["tsystem-lehigh"],"shortName":"Freight House"}</desc>
     </wpt>
     <wpt lon="-77.597726" lat="42.985059">
         <name>point-restroom:lehigh:9bd84cd0</name>
-        <desc>{"type":"point-restroom","comments":"Junction","name":"Restroom","parentIDs":["park-lehigh-park"]}</desc>
+        <desc>{"type":"point-restroom","comments":"Junction","name":"Restroom","parentIDs":["tsystem-lehigh"]}</desc>
     </wpt>
     <wpt lon="-77.642822" lat="42.991994">
         <name>point-parking:lehigh:a625314d</name>
-        <desc>{"type":"point-parking","name":"Parking (Lehigh St, Rush)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Lehigh St, Rush"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Lehigh St, Rush)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Lehigh St, Rush"}</desc>
     </wpt>
     <wpt lon="-77.598477" lat="42.984975">
         <name>point-parking:lehigh:aac0f815</name>
-        <desc>{"type":"point-parking","name":"Parking (Plains Rd)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main","trail-lehigh-valley-north"],"shortName":"Plains Rd"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Plains Rd)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main","trail-lehigh-valley-north"],"shortName":"Plains Rd"}</desc>
     </wpt>
     <wpt lon="-77.574677" lat="42.982933">
         <name>point-parking:lehigh:a0c14b65</name>
-        <desc>{"type":"point-parking","name":"Parking (Quaker Meeting House)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Quaker Meeting House"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Quaker Meeting House)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Quaker Meeting House"}</desc>
     </wpt>
     <wpt lon="-77.583598" lat="42.981660">
         <name>point-parking:lehigh:65</name>
-        <desc>{"type":"point-parking","name":"Parking (65)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"65"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (65)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"65"}</desc>
     </wpt>
     <wpt lon="-77.623085" lat="43.003541">
         <name>point-lodge:lehigh:stevens</name>
-        <desc>{"name":"Stevens-Connor Lodge","parentIDs":["park-lehigh-park"],"shortName":"Stevens-Connor"}</desc>
+        <desc>{"name":"Stevens-Connor Lodge","parentIDs":["tsystem-lehigh"],"shortName":"Stevens-Connor"}</desc>
     </wpt>
     <wpt lon="-77.542665" lat="42.988427">
         <name>point-smparking:lehigh:chamberlain</name>
-        <desc>{"name":"Shoulder Parking (Chamberlain)","shortName":"Shoulder Parking","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"]}</desc>
+        <desc>{"name":"Shoulder Parking (Chamberlain)","shortName":"Shoulder Parking","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"]}</desc>
     </wpt>
     <wpt lon="-77.524078" lat="42.991637">
         <name>point-smparking:lehigh:wbloom</name>
-        <desc>{"name":"Shoulder Parking (W Bloomfield)","shortName":"Shoulder Parking","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"]}</desc>
+        <desc>{"name":"Shoulder Parking (W Bloomfield)","shortName":"Shoulder Parking","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"]}</desc>
     </wpt>
     <wpt lon="-77.505589" lat="42.998999">
         <name>point-parking:lehigh:mstation</name>
-        <desc>{"name":"Parking (Mendon Station)","parentIDs":["park-lehigh-park","trail-lehigh-valley-main"],"shortName":"Mendon Station"}</desc>
+        <desc>{"name":"Parking (Mendon Station)","parentIDs":["tsystem-lehigh","trail-lehigh-valley-main"],"shortName":"Mendon Station"}</desc>
     </wpt>
     <rte>
         <name>seg:trail-lehigh-valley-main:7a6bd777</name>

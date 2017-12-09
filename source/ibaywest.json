@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-ibaywest": {
       "name": "Irondequoit Bay Park West",
@@ -35,7 +37,7 @@
         43.188755,
         -77.529541
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     },
     "trail-ibaywest-green": {
       "url": "http://www.monroecounty.gov/parks-baywest.php",
@@ -50,7 +52,7 @@
         43.189137,
         -77.53183
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     },
     "trail-ibaywest-purple": {
       "url": "http://www.monroecounty.gov/parks-baywest.php",
@@ -65,7 +67,7 @@
         43.185303,
         -77.528427
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     },
     "trail-ibaywest-red": {
       "url": "http://www.monroecounty.gov/parks-baywest.php",
@@ -80,7 +82,7 @@
         43.186604,
         -77.533012
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     },
     "trail-ibaywest-blue": {
       "url": "http://www.monroecounty.gov/parks-baywest.php",
@@ -95,7 +97,7 @@
         43.189037,
         -77.530457
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     },
     "trail-ibaywest-orange": {
       "url": "http://www.monroecounty.gov/parks-baywest.php",
@@ -110,7 +112,7 @@
         43.186329,
         -77.532318
       ],
-      "parkID": "park-ibaywest"
+      "parentID": "park-ibaywest"
     }
   }
 }

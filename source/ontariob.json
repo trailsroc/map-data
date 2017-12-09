@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-ontariob": {
       "name": "Ontario Beach Park",
@@ -31,7 +33,7 @@
         43.263972,
         -77.59885
       ],
-      "parkID": "park-ontariob"
+      "parentID": "park-ontariob"
     }
   }
 }

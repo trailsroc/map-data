@@ -46,7 +46,7 @@
     </wpt>
     <wpt lon="-77.736345" lat="43.191297">
         <name>point-parking:gcanal:3b94a595</name>
-        <desc>{"type":"point-parking","name":"Parking (Greece Canal Dog Park)","parentIDs":["park-gcanal","trail-ecanal-main"],"shortName":"Greece Canal Dog Park"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Greece Canal Dog Park)","parentIDs":["park-gcanal","trail-ecanal-main","tsystem-ecanal"],"shortName":"Greece Canal Dog Park"}</desc>
     </wpt>
     <wpt lon="-77.739151" lat="43.190405">
         <name>point-parking:gcanal:135e9c0e</name>

@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-senecapk": {
       "name": "Seneca Park",
@@ -36,7 +38,7 @@
         43.21298,
         -77.620262
       ],
-      "parkID": "park-senecapk"
+      "parentID": "park-senecapk"
     },
     "trail-senecapk-olmsted-n": {
       "url": "http://www.monroecounty.gov/parks-seneca.php",
@@ -51,7 +53,7 @@
         43.225213,
         -77.612353
       ],
-      "parkID": "park-senecapk"
+      "parentID": "park-senecapk"
     },
     "trail-senecapk-olmsted-s": {
       "url": "http://www.monroecounty.gov/parks-seneca.php",
@@ -66,7 +68,7 @@
         43.210716,
         -77.619468
       ],
-      "parkID": "park-senecapk"
+      "parentID": "park-senecapk"
     },
     "trail-senecapk-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-seneca.php",
@@ -80,7 +82,7 @@
         43.212724,
         -77.619291
       ],
-      "parkID": "park-senecapk"
+      "parentID": "park-senecapk"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "parks": {
-    "park-auburntr-park": {
+  "version": 5,
+  "trailSystems": {
+    "tsystem-auburntr": {
       "name": "Auburn Trail",
       "mainPin": [
         43.01155,
@@ -20,9 +20,11 @@
         -77.362952
       ],
       "url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
-      "hideInListView": false,
-      "keywords": "rail"
+      "keywords": "rail",
+      "isSearchable": true
     }
+  },
+  "parks": {
   },
   "trails": {
     "trail-auburntr-main": {
@@ -38,8 +40,11 @@
       "name": "Auburn Trail",
       "color": "brown",
       "length": 9,
-      "visibilityConstraint": "largeTrailSystem",
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-auburntr"
     },
     "trail-auburntr-shoulder": {
       "url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
@@ -53,8 +58,12 @@
       ],
       "color": "black",
       "name": "Auburn Trail (Road Segment)",
-      "visibilityConstraint": "largeTrailSystem",
-      "hideInListView": true
+      "shortName": "(Road Segment)",
+      "isSearchable": false,
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-auburntr"
     }
   }
 }

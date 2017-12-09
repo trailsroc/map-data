@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-black-cr": {
       "name": "Black Creek Park",
@@ -36,7 +38,7 @@
         43.06568,
         -77.813216
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-creek": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -51,7 +53,7 @@
         43.087803,
         -77.797092
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-hickory": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -66,7 +68,7 @@
         43.065473,
         -77.795878
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-ridge": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -81,7 +83,7 @@
         43.080563,
         -77.798444
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-unnamed": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -95,7 +97,7 @@
         43.086794,
         -77.798143
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-wetland": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -110,7 +112,7 @@
         43.078994,
         -77.797339
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-blue": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -125,7 +127,7 @@
         43.07855,
         -77.799452
       ],
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     },
     "trail-black-cr-orange": {
       "url": "http://www.monroecounty.gov/parks-blackcreek.php",
@@ -141,7 +143,7 @@
         -77.814016
       ],
       "comments": "aka CobbleRoc Trail",
-      "parkID": "park-black-cr"
+      "parentID": "park-black-cr"
     }
   }
 }

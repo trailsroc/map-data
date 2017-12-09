@@ -114,7 +114,7 @@
     </wpt>
     <wpt lon="-77.556862" lat="43.235675">
         <name>point-poi:durand_eastman:4cf90beb</name>
-        <desc>{"type":"point-poi","name":"White Lady&#x2019;s Castle","parentIDs":["park-dureast"]}</desc>
+        <desc>{"type":"point-poi","name":"White Lady&#x2019;s Castle","parentIDs":["park-dureast"],"keywords":"ladys"}</desc>
     </wpt>
     <rte>
         <name>border:park-dureast</name>

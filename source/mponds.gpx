@@ -242,7 +242,7 @@
     </wpt>
     <wpt lon="-77.583153" lat="43.021357">
         <name>point-poi:mponds:3e63f235</name>
-        <desc>{"type":"point-poi","name":"Sharon&#x2019;s Sensory Garden","parentIDs":["park-mponds"]}</desc>
+        <desc>{"type":"point-poi","name":"Sharon&#x2019;s Sensory Garden","parentIDs":["park-mponds"],"keywords":"sharons"}</desc>
     </wpt>
     <wpt lon="-77.583287" lat="43.021741">
         <name>point-restroom:mponds:eba36165</name>
@@ -346,7 +346,7 @@
     </wpt>
     <wpt lon="-77.578212" lat="43.018782">
         <name>point-poi:mponds:30fb2bb3</name>
-        <desc>{"type":"point-poi","name":"David&#x2019;s Nature Trail","parentIDs":["park-mponds"]}</desc>
+        <desc>{"type":"point-poi","name":"David&#x2019;s Nature Trail","parentIDs":["park-mponds"],"keywords":"davids"}</desc>
     </wpt>
     <wpt lon="-77.573808" lat="43.021630">
         <name>point-parking:mponds:deeppond</name>

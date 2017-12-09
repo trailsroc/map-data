@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-oatka": {
       "name": "Oatka Creek Park",
@@ -36,7 +38,7 @@
         43.009013,
         -77.796461
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-bluebird": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -51,7 +53,7 @@
         43.004032,
         -77.799308
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-gypsum": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -66,7 +68,7 @@
         43.010959,
         -77.796754
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-maple-hill": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -81,7 +83,7 @@
         43.001799,
         -77.792065
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-old-burrell": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -96,7 +98,7 @@
         43.00607,
         -77.796814
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-trout-run": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -111,7 +113,7 @@
         43.012532,
         -77.792253
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-warbler": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -126,7 +128,7 @@
         43.010733,
         -77.801798
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-white-tail": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -141,7 +143,7 @@
         43.005891,
         -77.794635
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-woodland": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -156,7 +158,7 @@
         43.010406,
         -77.803572
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-yellow": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -171,7 +173,7 @@
         43.010124,
         -77.795158
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     },
     "trail-oatka-unnamed": {
       "url": "http://www.monroecounty.gov/parks-oatka.php",
@@ -185,7 +187,7 @@
         43.010415,
         -77.794458
       ],
-      "parkID": "park-oatka"
+      "parentID": "park-oatka"
     }
   }
 }

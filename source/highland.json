@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-highland": {
       "name": "Highland Park",
@@ -31,7 +33,7 @@
         43.132644,
         -77.600811
       ],
-      "parkID": "park-highland"
+      "parentID": "park-highland"
     }
   }
 }

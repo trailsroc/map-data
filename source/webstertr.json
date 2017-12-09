@@ -1,5 +1,51 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+    "tsystem-fowt-hojack": {
+      "name": "Hojack Trail System",
+      "mainPin": [
+        43.228803,
+        -77.463891
+      ],
+      "directionsCoordinate": [
+        43.221044,
+        -77.444172
+      ],
+      "SW": [
+        43.217883,
+        -77.502018
+      ],
+      "NE": [
+        43.24749,
+        -77.419303
+      ],
+      "url": "http://www.webstertrails.org/hojack/hojack.php",
+      "keywords": "rail",
+      "isSearchable": true
+    },
+    "tsystem-fowt-rt104": {
+      "name": "Route 104 Bike Path",
+      "mainPin": [
+        43.21441,
+        -77.467814
+      ],
+      "directionsCoordinate": [
+        43.215891,
+        -77.439351
+      ],
+      "style": "minorPark",
+      "SW": [
+        43.213878,
+        -77.515428
+      ],
+      "NE": [
+        43.219702,
+        -77.400315
+      ],
+      "keywords": "rail",
+      "isSearchable": true
+    }
+  },
   "parks": {
     "park-fowt-finn": {
       "name": "Finn Park",
@@ -21,56 +67,11 @@
         43.21796,
         -77.49236
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
+      "style": "minorPark",
       "advisories": [
         "websterHuntingAdvisorySmall"
       ],
-      "hideInListView": true
-    },
-    "park-fowt-hojack": {
-      "name": "Hojack Trail System",
-      "mainPin": [
-        43.228803,
-        -77.463891
-      ],
-      "directionsCoordinate": [
-        43.221044,
-        -77.444172
-      ],
-      "SW": [
-        43.217883,
-        -77.502018
-      ],
-      "NE": [
-        43.24749,
-        -77.419303
-      ],
-      "url": "http://www.webstertrails.org/hojack/hojack.php",
-      "keywords": "rail"
-    },
-    "park-fowt-rt104": {
-      "name": "Route 104 Bike Path",
-      "mainPin": [
-        43.21441,
-        -77.467814
-      ],
-      "directionsCoordinate": [
-        43.215891,
-        -77.439351
-      ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "largeTrailSystem",
-      "SW": [
-        43.213878,
-        -77.515428
-      ],
-      "NE": [
-        43.219702,
-        -77.400315
-      ],
-      "hideInListView": true,
-      "keywords": "rail"
+      "isSearchable": false
     },
     "park-fmcp": {
       "name": "Four Mile Creek Preserve",
@@ -91,12 +92,11 @@
         43.267525,
         -77.404186
       ],
-      "annotationIconName": "Annotation-SmallParkBadge",
-      "visibilityConstraint": "parkBoundaries",
+      "style": "minorPark",
       "advisories": [
         "websterHuntingAdvisorySmall"
       ],
-      "hideInListView": true
+      "isSearchable": false
     }
   },
   "trails": {
@@ -104,6 +104,8 @@
       "name": "John Ungar Nature Trail",
       "color": "blue",
       "length": 0.35,
+      "isSearchable": true,
+      "isPrimary": false,
       "url": "http://www.webstertrails.org/ungar/ungar.php",
       "SW": [
         43.235142,
@@ -113,11 +115,12 @@
         43.236586,
         -77.486189
       ],
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-finn-main": {
       "name": "Finn Park Nature Trail",
       "color": "red",
+      "isSearchable": true,
       "length": 1.3,
       "url": "http://www.webstertrails.org/finn/finn.php",
       "SW": [
@@ -128,11 +131,13 @@
         43.21796,
         -77.49236
       ],
-      "parkID": "park-fowt-finn"
+      "parentID": "park-fowt-finn"
     },
     "trail-fowt-vosburg-main": {
       "name": "Vosburg Hollow Nature Trail",
       "color": "red",
+      "isSearchable": true,
+      "isPrimary": false,
       "length": 0.35,
       "url": "http://www.webstertrails.org/vosburg/vosburg.php",
       "SW": [
@@ -143,11 +148,13 @@
         43.242128,
         -77.4957
       ],
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-chiyoda-loop": {
       "name": "Chiyoda Trail Loop",
       "color": "pink",
+      "isSearchable": true,
+      "isPrimary": false,
       "length": 1.0,
       "SW": [
         43.22688,
@@ -158,11 +165,13 @@
         -77.420959
       ],
       "comments": "Paved",
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-chiyoda-connector": {
       "name": "Chiyoda Trail Connector",
       "color": "sky",
+      "isSearchable": true,
+      "isPrimary": false,
       "length": 0.27,
       "SW": [
         43.225228,
@@ -172,11 +181,12 @@
         43.226876,
         -77.424807
       ],
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fmcp-blue": {
       "name": "Four Mile Creek Trail",
       "color": "blue",
+      "isSearchable": true,
       "length": 0.75,
       "url": "http://www.webstertrails.org/fmcp/fmcp.php",
       "SW": [
@@ -187,11 +197,12 @@
         43.265625,
         -77.413068
       ],
-      "parkID": "park-fmcp"
+      "parentID": "park-fmcp"
     },
     "trail-fowt-hojack-main": {
       "name": "Hojack Trail",
-      "visibilityConstraint": "largeTrailSystem",
+      "isSearchable": true,
+      "isPrimary": true,
       "color": "grass",
       "length": 4.95,
       "url": "http://www.webstertrails.org/hojack/hojack.php",
@@ -203,11 +214,15 @@
         43.24749,
         -77.419303
       ],
-      "parkID": "park-fowt-hojack",
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-bird-sanctuary": {
       "name": "Bird Sanctuary Trail",
+      "isSearchable": true,
+      "isPrimary": false,
       "color": "dark_green",
       "length": 0.8,
       "url": "http://www.webstertrails.org/bird/bird.php",
@@ -219,10 +234,12 @@
         43.225844,
         -77.428836
       ],
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-nponds-loop": {
       "name": "North Ponds Park Loop",
+      "isSearchable": true,
+      "isPrimary": false,
       "color": "yellow",
       "length": 1.0,
       "SW": [
@@ -233,12 +250,13 @@
         43.220924,
         -77.439484
       ],
-      "parkID": "park-fowt-hojack"
+      "parentID": "tsystem-fowt-hojack"
     },
     "trail-fowt-rt104-path": {
       "name": "Route 104 Bike Path",
+      "isSearchable": true,
+      "isPrimary": true,
       "color": "blue",
-      "visibilityConstraint": "largeTrailSystem",
       "length": 6.1,
       "SW": [
         43.213878,
@@ -248,8 +266,10 @@
         43.219702,
         -77.400315
       ],
-      "parkID": "park-fowt-rt104",
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "parentID": "tsystem-fowt-rt104"
     }
   }
 }

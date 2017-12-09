@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-gvalley": {
       "name": "Genesee Valley Park",
@@ -36,7 +38,7 @@
         43.119573,
         -77.639146
       ],
-      "parkID": "park-gvalley"
+      "parentID": "park-gvalley"
     },
     "trail-gvalley-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-geneseevalley.php",
@@ -50,7 +52,7 @@
         43.120984,
         -77.638387
       ],
-      "parkID": "park-gvalley"
+      "parentID": "park-gvalley"
     }
   }
 }

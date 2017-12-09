@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "parks": {
-    "park-lehigh-park": {
+  "version": 5,
+  "trailSystems": {
+    "tsystem-lehigh": {
       "name": "Lehigh Valley Trail",
       "mainPin": [
         42.986848,
@@ -16,13 +16,14 @@
         -77.482145
       ],
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
-      "hideInListView": false,
-      "keywords": "rail"
+      "keywords": "rail",
+      "isSearchable": true
     }
+  },
+  "parks": {
   },
   "trails": {
     "trail-lehigh-valley-main": {
-      "visibilityConstraint": "largeTrailSystem",
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
       "name": "Lehigh Valley Trail Main Branch",
       "shortName": "Lehigh Valley Trail (Main)",
@@ -36,10 +37,13 @@
         43.002847,
         -77.482145
       ],
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-lehigh"
     },
     "trail-lehigh-valley-north": {
-      "visibilityConstraint": "largeTrailSystem",
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
       "name": "Lehigh Valley Trail North Branch",
       "shortName": "Lehigh Valley Trail (North)",
@@ -53,10 +57,13 @@
         43.048082,
         -77.596093
       ],
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-lehigh"
     },
     "trail-lehigh-valley-unnamed-trails": {
-      "visibilityConstraint": "largeTrailSystem",
       "url": "http://www.monroecounty.gov/parks-lehighvalley.php",
       "name": "",
       "color": "unmarked_trail",
@@ -67,7 +74,9 @@
       "NE": [
         43.041158,
         -77.587699
-      ]
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-lehigh"
     }
   }
 }

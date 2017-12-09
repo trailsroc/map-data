@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-cobbs": {
       "name": "Cobbs Hill Park",
@@ -20,7 +22,6 @@
   },
   "trails": {
     "trail-cobbs-singletrack": {
-      "hideInListView": true,
       "color": "dark_green",
       "length": 0,
       "url": "",
@@ -32,10 +33,9 @@
         43.141806,
         -77.562988
       ],
-      "parkID": "park-cobbs"
+      "parentID": "park-cobbs"
     },
     "trail-cobbs-reservoir-loop": {
-      "hideInListView": true,
       "color": "blue",
       "length": 0,
       "url": "",
@@ -47,10 +47,9 @@
         43.139823,
         -77.569397
       ],
-      "parkID": "park-cobbs"
+      "parentID": "park-cobbs"
     },
     "trail-cobbs-gravel": {
-      "hideInListView": true,
       "color": "unmarked_trail",
       "length": 0,
       "url": "",
@@ -62,7 +61,7 @@
         43.141275,
         -77.573697
       ],
-      "parkID": "park-cobbs"
+      "parentID": "park-cobbs"
     }
   }
 }

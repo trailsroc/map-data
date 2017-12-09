@@ -50,7 +50,7 @@
     </wpt>
     <wpt lon="-77.636803" lat="43.119483">
         <name>point-parking:gvalley:461038b9</name>
-        <desc>{"type":"point-parking","comments":"Main","name":"Parking (Genesee Valley Park)","parentIDs":["park-gvalley","trail-ecanal-main","trail-gv-riverway-east","trail-gv-riverway-south","trail-gv-greenway"],"shortName":"Genesee Valley Park"}</desc>
+        <desc>{"type":"point-parking","comments":"Main","name":"Parking (Genesee Valley Park)","parentIDs":["park-gvalley","trail-ecanal-main","trail-gv-riverway-east","trail-gv-riverway-south","trail-gv-greenway","tsystem-ecanal","tsystem-gv-riverway","tsystem-gv-riverway","tsystem-gv-greenway"],"shortName":"Genesee Valley Park"}</desc>
     </wpt>
     <wpt lon="-77.636545" lat="43.120685">
         <name>point-parking:gvalley:7cafe065</name>
@@ -58,7 +58,7 @@
     </wpt>
     <wpt lon="-77.636036" lat="43.124033">
         <name>point-parking:gvalley:c14187b7</name>
-        <desc>{"type":"point-parking","comments":"Sports Complex","name":"Parking (Sports Complex/Waterways)","parentIDs":["park-gvalley","trail-gv-riverway-south","trail-gv-greenway"],"shortName":"Sports Complex/Waterways"}</desc>
+        <desc>{"type":"point-parking","comments":"Sports Complex","name":"Parking (Sports Complex/Waterways)","parentIDs":["park-gvalley","trail-gv-riverway-south","trail-gv-greenway","tsystem-gv-riverway","tsystem-gv-greenway"],"shortName":"Sports Complex/Waterways"}</desc>
     </wpt>
     <wpt lon="-77.638713" lat="43.115838">
         <name>point-restroom:gvalley:2433dff0</name>

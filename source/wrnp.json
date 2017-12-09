@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-wrnp": {
       "name": "Whiting Road Nature Preserve",
@@ -39,7 +41,7 @@
         43.247743,
         -77.477428
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-red": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -54,7 +56,7 @@
         43.250881,
         -77.471535
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-blue": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -69,7 +71,7 @@
         43.249634,
         -77.468844
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-brown": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -84,7 +86,7 @@
         43.252014,
         -77.469401
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-green": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -99,7 +101,7 @@
         43.255585,
         -77.469958
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-orange": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -114,7 +116,7 @@
         43.245645,
         -77.470089
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     },
     "trail-wrnp-yellow": {
       "url": "http://www.webstertrails.org/wrnp/wrnp.php",
@@ -129,7 +131,7 @@
         43.249507,
         -77.47108
       ],
-      "parkID": "park-wrnp"
+      "parentID": "park-wrnp"
     }
   }
 }

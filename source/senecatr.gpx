@@ -6,43 +6,43 @@
     </metadata>
     <wpt lon="-77.442643" lat="43.034185">
         <name>point-parking:senecatr:8e23a429</name>
-        <desc>{"type":"point-parking","directionsCoordinate":[43.033143,-77.439798],"comments":"Square Dr","name":"Parking (trail access behind Bed/Bath/Beyond)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"trail access behind Bed/Bath/Beyond"}</desc>
+        <desc>{"type":"point-parking","directionsCoordinate":[43.033143,-77.439798],"comments":"Square Dr","name":"Parking (trail access behind Bed/Bath/Beyond)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"trail access behind Bed/Bath/Beyond"}</desc>
     </wpt>
     <wpt lon="-77.435295" lat="43.028995">
         <name>point-parking:senecatr:46d7f85e</name>
-        <desc>{"type":"point-parking","directionsCoordinate":[43.028957,-77.433653],"comments":"Constellation Brands","name":"Parking (Constellation)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"Constellation"}</desc>
+        <desc>{"type":"point-parking","directionsCoordinate":[43.028957,-77.433653],"comments":"Constellation Brands","name":"Parking (Constellation)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"Constellation"}</desc>
     </wpt>
     <wpt lon="-77.436878" lat="42.995138">
         <name>point-parking:senecatr:d26eace8</name>
-        <desc>{"type":"point-parking","comments":"Lehigh Crossing Park","name":"Parking (Lehigh Crossing)","parentIDs":["park-senecatr","trail-senecatr-main","trail-auburntr-main"],"shortName":"Lehigh Crossing"}</desc>
+        <desc>{"type":"point-parking","comments":"Lehigh Crossing Park","name":"Parking (Lehigh Crossing)","parentIDs":["tsystem-senecatr","trail-senecatr-main","trail-auburntr-main","tsystem-auburntr"],"shortName":"Lehigh Crossing"}</desc>
     </wpt>
     <wpt lon="-77.439800" lat="42.996655">
         <name>point-poi:senecatr:d65be60d</name>
-        <desc>{"type":"point-poi","name":"Lehigh Crossing Park","directionsCoordinate":[42.995138,-77.436878],"SW":[42.99278,-77.444425],"NE":[42.999978,-77.434278],"parentIDs":["park-senecatr"]}</desc>
+        <desc>{"type":"point-poi","name":"Lehigh Crossing Park","directionsCoordinate":[42.995138,-77.436878],"SW":[42.99278,-77.444425],"NE":[42.999978,-77.434278],"parentIDs":["tsystem-senecatr"]}</desc>
     </wpt>
     <wpt lon="-77.421345" lat="42.980942">
         <name>point-smparking:senecatr:50bb0ac5</name>
-        <desc>{"type":"point-parking","comments":"Rawson Rd","name":"Shoulder Parking (Rawson Rd)","shortName":"Shoulder Parking","parentIDs":["park-senecatr","trail-auburntr-main","trail-senecatr-main"]}</desc>
+        <desc>{"type":"point-parking","comments":"Rawson Rd","name":"Shoulder Parking (Rawson Rd)","shortName":"Shoulder Parking","parentIDs":["tsystem-senecatr","trail-auburntr-main","trail-senecatr-main","tsystem-auburntr"]}</desc>
     </wpt>
     <wpt lon="-77.412363" lat="42.970552">
         <name>point-parking:senecatr:87da66cb</name>
-        <desc>{"type":"point-parking","comments":"Ganondagan East","name":"Parking (444, lower Ganondagan area)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"444, lower Ganondagan area"}</desc>
+        <desc>{"type":"point-parking","comments":"Ganondagan East","name":"Parking (444, lower Ganondagan area)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"444, lower Ganondagan area"}</desc>
     </wpt>
     <wpt lon="-77.425275" lat="42.961118">
         <name>point-parking:senecatr:7f81f114</name>
-        <desc>{"type":"point-parking","comments":"Ganondagan South","name":"Parking (Boughton Hill Rd)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"Boughton Hill Rd"}</desc>
+        <desc>{"type":"point-parking","comments":"Ganondagan South","name":"Parking (Boughton Hill Rd)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"Boughton Hill Rd"}</desc>
     </wpt>
     <wpt lon="-77.436370" lat="43.025803">
         <name>point-parking:senecatr:dfa32c4f</name>
-        <desc>{"type":"point-parking","comments":"Valentown","name":"Parking (Valentown)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"Valentown"}</desc>
+        <desc>{"type":"point-parking","comments":"Valentown","name":"Parking (Valentown)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"Valentown"}</desc>
     </wpt>
     <wpt lon="-77.440644" lat="42.929320">
         <name>point-parking:senecatr:9a99ff68</name>
-        <desc>{"type":"point-parking","name":"Boughton Park Parking (Permit Required)","shortName":"Permit Required","parentIDs":["park-senecatr","trail-senecatr-main"]}</desc>
+        <desc>{"type":"point-parking","name":"Boughton Park Parking (Permit Required)","shortName":"Permit Required","parentIDs":["tsystem-senecatr","trail-senecatr-main"]}</desc>
     </wpt>
     <wpt lon="-77.439897" lat="43.033274">
         <name>point-parking:senecatr:distillery</name>
-        <desc>{"type":"point-parking","directionsCoordinate":[43.033143,-77.439798],"comments":"Square Dr","name":"Parking (Distillery/Michaels lot)","parentIDs":["park-senecatr","trail-senecatr-main"],"shortName":"Distillery/Michaels lot"}</desc>
+        <desc>{"type":"point-parking","directionsCoordinate":[43.033143,-77.439798],"comments":"Square Dr","name":"Parking (Distillery/Michaels lot)","parentIDs":["tsystem-senecatr","trail-senecatr-main"],"shortName":"Distillery/Michaels lot"}</desc>
     </wpt>
     <trk>
         <name>seg:trail-senecatr-main:b7562351</name>

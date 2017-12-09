@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
   },
   "trails": {
@@ -14,10 +16,14 @@
         -77.437084
       ],
       "name": "Lehigh Black Diamond Trail",
+      "shortName": "Black Diamond Trail",
       "color": "green",
       "length": 2.5,
-      "visibilityConstraint": "largeTrailSystem",
-      "keywords": "rail"
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-auburntr"
     },
     "trail-lvt-auburntr-ramp": {
       "url": "http://www.victorhikingtrails.org/",
@@ -30,8 +36,11 @@
         -77.450404
       ],
       "name": "Auburn/Black Diamond Connector",
-      "hideInListView": true,
-      "color": "unmarked_trail"
+      "isSearchable": false,
+      "isPrimary": false,
+      "color": "unmarked_trail",
+      "blazes": "none",
+      "parentID": "tsystem-auburntr"
     }
   }
 }

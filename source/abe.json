@@ -1,5 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
+  "trailSystems": {
+  },
   "parks": {
     "park-abe": {
       "name": "Abraham Lincoln Park",
@@ -36,7 +38,7 @@
         43.190646,
         -77.510045
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-green-trail": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -51,7 +53,7 @@
         43.185711,
         -77.515025
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-orange-trail": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -66,7 +68,7 @@
         43.189385,
         -77.512124
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-red-trail": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -81,7 +83,7 @@
         43.188333,
         -77.514501
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-unnamed-trails": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -95,7 +97,7 @@
         43.18934,
         -77.509031
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-white-trail": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -110,7 +112,7 @@
         43.189966,
         -77.510281
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     },
     "trail-abe-yellow-trail": {
       "url": "http://www.monroecounty.gov/parks-bayeast.php",
@@ -125,7 +127,7 @@
         43.183226,
         -77.512919
       ],
-      "parkID": "park-abe"
+      "parentID": "park-abe"
     }
   }
 }
