@@ -18,7 +18,9 @@ The GPX+JSON source files have been updated a bit in order to work well with the
 3. `shortName_normalizer.rb` - masages the shortName field so it's properly displayed by the Mapbox Style
 4. `trailSystems.rb` - converts some trails to trail systems, changes trails' parkID field to parentID, changes hideInListView to isSearchable
 
-######
+- - -
+
+## Misc notes
 
 westmost point on erie canal trail:
 43.237757, -78.026937
