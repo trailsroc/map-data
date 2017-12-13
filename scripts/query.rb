@@ -133,7 +133,7 @@ USAGE
 query_text = ARGV.shift
 file_paths = ARGV
 
-if nil_or_blank(query_text) || file_paths.empty?
+if nil_or_blank(query_text) || query_text == "help" || file_paths.empty?
     abort_msg($usage, nil)
 end
 
