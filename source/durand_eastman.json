@@ -105,6 +105,7 @@
       "url": "http://www.monroecounty.gov/parks-durandeastman.php",
       "name": "Lakeshore Bike Path",
       "color": "black",
+      "blazes": "none",
       "length": 2.2,
       "SW": [
         43.227651,

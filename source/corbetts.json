@@ -30,6 +30,7 @@
       "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
       "name": "Glen Road/Tunnel Access",
       "color": "black",
+      "blazes": "none",
       "length": 0.2,
       "SW": [
         43.128434,
@@ -45,6 +46,7 @@
       "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
       "name": "Perimeter Trail",
       "color": "dark_green",
+      "blazes": "none",
       "length": 1.7,
       "SW": [
         43.129893,

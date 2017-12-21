@@ -135,6 +135,7 @@
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
       "name": "Tryon/Ellison Connectors",
       "color": "black",
+      "blazes": "none",
       "SW": [
         43.154026,
         -77.530457

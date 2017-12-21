@@ -25,7 +25,7 @@
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "Devil’s Bathtub Trail",
       "keywords": "devils tub",
-      "color": "grass",
+      "color": "pink",
       "length": 0.67,
       "SW": [
         43.021673,
@@ -71,7 +71,7 @@
     "trail-mponds-fern-valley": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "Fern Valley Trail",
-      "color": "brown",
+      "color": "teal",
       "length": 1.4,
       "SW": [
         43.034532,
@@ -116,7 +116,7 @@
     "trail-mponds-pine-woods": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "Pine Woods Trail",
-      "color": "red_orange",
+      "color": "white",
       "length": 1,
       "SW": [
         43.034019,
