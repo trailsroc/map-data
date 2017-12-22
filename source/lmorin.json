@@ -133,7 +133,8 @@
     },
     "trail-lmorin-connector": {
       "url": "http://www.monroecounty.gov/parks-wetlands.php",
-      "name": "Tryon/Ellison Connectors",
+      "name": "Ellison–Lucien Morin Connectors",
+      "shortName": "Ellison–L.Morin",
       "color": "black",
       "blazes": "none",
       "SW": [

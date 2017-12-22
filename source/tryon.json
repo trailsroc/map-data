@@ -118,7 +118,8 @@
     },
     "trail-tryon-connector": {
       "url": "http://www.monroecounty.gov/parks-tryon.php",
-      "name": "Ellison/L.Morin Connectors",
+      "name": "Tryon–Ellison Connectors",
+      "shortName": "Tryon–Ellison",
       "color": "black",
       "blazes": "none",
       "SW": [
