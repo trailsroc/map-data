@@ -115,6 +115,17 @@
       ],
       "style": "minorPark",
       "isSearchable": false
+    },
+    "park-crescenttr-highacres": {
+      "name": "High Acres Nature Area",
+      "url": "http://highacreslandfill.wm.com/nature-area/index.jsp",
+      "mainPin": [
+        43.091485, -77.381175
+      ],
+      "SW":[43.086696,-77.389362],
+      "NE":[43.094330, -77.371479],
+      "style":"minorPark",
+      "isSearchable": false
     }
   },
   "trails": {

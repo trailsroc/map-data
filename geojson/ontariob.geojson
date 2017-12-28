@@ -1,0 +1,945 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-ontariob",
+        "trailsroc-shortName": "Ontario Beach Park",
+        "trailsroc-name": "Ontario Beach Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ontariobeach.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60631,
+          43.25821
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ontariob-paths",
+        "trailsroc-parentID": "park-ontariob",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ontariobeach.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6045225,
+          43.2590535
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ontariob-paths:66ab06a4",
+        "trailsroc-trailIDs": "trail-ontariob-paths",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610573,
+            43.259825
+          ],
+          [
+            -77.610195,
+            43.26037
+          ],
+          [
+            -77.609315,
+            43.260043
+          ],
+          [
+            -77.60842,
+            43.259714
+          ],
+          [
+            -77.607706,
+            43.259487
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ontariob-paths:5ba3b0d0",
+        "trailsroc-trailIDs": "trail-ontariob-paths",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.607706,
+            43.259487
+          ],
+          [
+            -77.606967,
+            43.259263
+          ],
+          [
+            -77.606193,
+            43.25903
+          ],
+          [
+            -77.606141,
+            43.259047
+          ],
+          [
+            -77.605391,
+            43.25882
+          ],
+          [
+            -77.604622,
+            43.258589
+          ],
+          [
+            -77.603962,
+            43.258386
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ontariob-paths:4159c155",
+        "trailsroc-trailIDs": "trail-ontariob-paths",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.59885,
+            43.263972
+          ],
+          [
+            -77.5992,
+            43.263594
+          ],
+          [
+            -77.599763,
+            43.26297
+          ],
+          [
+            -77.600522,
+            43.262145
+          ],
+          [
+            -77.601301,
+            43.261299
+          ],
+          [
+            -77.6024,
+            43.260091
+          ],
+          [
+            -77.603096,
+            43.259332
+          ],
+          [
+            -77.603961,
+            43.258393
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ontariob-paths:e2abba95",
+        "trailsroc-trailIDs": "trail-ontariob-paths",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603961,
+            43.258393
+          ],
+          [
+            -77.604495,
+            43.257815
+          ],
+          [
+            -77.604954,
+            43.257327
+          ],
+          [
+            -77.605279,
+            43.256991
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ontariob-paths:0467d4db",
+        "trailsroc-trailIDs": "trail-ontariob-paths",
+        "trailsroc-name": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-shortName": "Boardwalk/Pier/Riverwalk",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.605279,
+            43.256991
+          ],
+          [
+            -77.605442,
+            43.256823
+          ],
+          [
+            -77.605655,
+            43.256827
+          ],
+          [
+            -77.605791,
+            43.256768
+          ],
+          [
+            -77.606022,
+            43.256588
+          ],
+          [
+            -77.60658,
+            43.256006
+          ],
+          [
+            -77.6069,
+            43.255672
+          ],
+          [
+            -77.607492,
+            43.255059
+          ],
+          [
+            -77.607865,
+            43.254671
+          ],
+          [
+            -77.608388,
+            43.254135
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-ontariob:67a44398",
+        "trailsroc-parkID": "park-ontariob"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.611676,
+              43.260382
+            ],
+            [
+              -77.610511,
+              43.261391
+            ],
+            [
+              -77.609105,
+              43.260887
+            ],
+            [
+              -77.606852,
+              43.260121
+            ],
+            [
+              -77.603134,
+              43.258944
+            ],
+            [
+              -77.605249,
+              43.256622
+            ],
+            [
+              -77.605565,
+              43.256478
+            ],
+            [
+              -77.605769,
+              43.256493
+            ],
+            [
+              -77.606365,
+              43.255872
+            ],
+            [
+              -77.607277,
+              43.256334
+            ],
+            [
+              -77.607304,
+              43.256471
+            ],
+            [
+              -77.608157,
+              43.256803
+            ],
+            [
+              -77.60884,
+              43.257048
+            ],
+            [
+              -77.609956,
+              43.255491
+            ],
+            [
+              -77.609273,
+              43.255237
+            ],
+            [
+              -77.609994,
+              43.254175
+            ],
+            [
+              -77.611273,
+              43.254592
+            ],
+            [
+              -77.608741,
+              43.258139
+            ],
+            [
+              -77.609433,
+              43.258358
+            ],
+            [
+              -77.609573,
+              43.258132
+            ],
+            [
+              -77.60997,
+              43.258241
+            ],
+            [
+              -77.61012,
+              43.257987
+            ],
+            [
+              -77.610431,
+              43.258085
+            ],
+            [
+              -77.611107,
+              43.2571
+            ],
+            [
+              -77.612207,
+              43.257483
+            ],
+            [
+              -77.613569,
+              43.255897
+            ],
+            [
+              -77.613816,
+              43.255787
+            ],
+            [
+              -77.614342,
+              43.255901
+            ],
+            [
+              -77.61497,
+              43.256065
+            ],
+            [
+              -77.61519,
+              43.25617
+            ],
+            [
+              -77.615356,
+              43.256393
+            ],
+            [
+              -77.615356,
+              43.256522
+            ],
+            [
+              -77.61527,
+              43.256667
+            ],
+            [
+              -77.615275,
+              43.256803
+            ],
+            [
+              -77.61512,
+              43.257002
+            ],
+            [
+              -77.614862,
+              43.257155
+            ],
+            [
+              -77.614326,
+              43.257292
+            ],
+            [
+              -77.614192,
+              43.257358
+            ],
+            [
+              -77.6138,
+              43.257436
+            ],
+            [
+              -77.613484,
+              43.257495
+            ],
+            [
+              -77.612883,
+              43.257733
+            ],
+            [
+              -77.612797,
+              43.257835
+            ],
+            [
+              -77.612062,
+              43.258007
+            ],
+            [
+              -77.611842,
+              43.257964
+            ],
+            [
+              -77.611402,
+              43.258569
+            ],
+            [
+              -77.610871,
+              43.258405
+            ],
+            [
+              -77.609965,
+              43.259335
+            ],
+            [
+              -77.610721,
+              43.259796
+            ],
+            [
+              -77.611676,
+              43.260382
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:6d84ac9c",
+        "trailsroc-name": "Roger Robach Community Center",
+        "trailsroc-shortName": "Roger Robach Community Center",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.609423,
+          43.259823
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:af42f1ca",
+        "trailsroc-name": "Concession Stand",
+        "trailsroc-shortName": "Concession Stand",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.608489,
+          43.25912
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:3ab96db8",
+        "trailsroc-name": "Bocce Courts",
+        "trailsroc-shortName": "Bocce Courts",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.608615,
+          43.258827
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:42ef52a3",
+        "trailsroc-name": "Basketball Courts",
+        "trailsroc-shortName": "Basketball Courts",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.609871,
+          43.259989
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:696030d3",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607567,
+          43.258255
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:72d2dcfc",
+        "trailsroc-name": "Gazebo",
+        "trailsroc-shortName": "Gazebo",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607679,
+          43.259528
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:67d19a61",
+        "trailsroc-name": "Gazebo",
+        "trailsroc-shortName": "Gazebo",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.604402,
+          43.258554
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:35073245",
+        "trailsroc-name": "Volleyball Area",
+        "trailsroc-shortName": "Volleyball Area",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.604911,
+          43.25877
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:ec8219b5",
+        "trailsroc-name": "Bandstand",
+        "trailsroc-shortName": "Bandstand",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.606405,
+          43.258684
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ontariob:27c8e9f6",
+        "trailsroc-name": "Carousel",
+        "trailsroc-shortName": "Carousel",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-url": "http://rocwiki.org/Dentzel_Carousel",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.605531,
+          43.257712
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:ontariob:10978bd5",
+        "trailsroc-name": "Park Office",
+        "trailsroc-shortName": "Park Office",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.610211,
+          43.255311
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ontariob:2601c25c",
+        "trailsroc-name": "Beachfront Shelter",
+        "trailsroc-shortName": "Beachfront",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607513,
+          43.258784
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ontariob:8388931d",
+        "trailsroc-name": "Sandpiper Shelter",
+        "trailsroc-shortName": "Sandpiper",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607685,
+          43.258569
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ontariob:413cf271",
+        "trailsroc-name": "Harborview Shelter",
+        "trailsroc-shortName": "Harborview",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.605652,
+          43.258253
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ontariob:fae3d6c6",
+        "trailsroc-name": "Shoreline Shelter",
+        "trailsroc-shortName": "Shoreline",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.605003,
+          43.258284
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ontariob:d6ef6f9b",
+        "trailsroc-name": "Portside Shelter",
+        "trailsroc-shortName": "Portside",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.604557,
+          43.258303
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:9b5b6dd3",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.611231,
+          43.257897
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:d0102eb1",
+        "trailsroc-name": "Baseball Fields",
+        "trailsroc-shortName": "Baseball Fields",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.614079,
+          43.25687
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ontariob:3e8e6b5b",
+        "trailsroc-name": "Baseball Fields",
+        "trailsroc-shortName": "Baseball Fields",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.612346,
+          43.2576
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ontariob:262feb2f",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.608683,
+          43.25955
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ontariob:f9219612",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607121,
+          43.257897
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ontariob:d49caca7",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.604756,
+          43.257925
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-boatLaunch",
+        "trailsroc-id": "point-boatLaunch:ontariob:ee325d17",
+        "trailsroc-name": "City Boat Launch",
+        "trailsroc-shortName": "City Boat Launch",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.608956,
+          43.253924
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ontariob:565daf5d",
+        "trailsroc-name": "Parking (Estes St, small lot)",
+        "trailsroc-shortName": "Estes St, small lot",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.610447,
+          43.258565
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ontariob:2cb4d6ce",
+        "trailsroc-name": "Parking (Estes St, large lot)",
+        "trailsroc-shortName": "Estes St, large lot",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.609825,
+          43.258581
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ontariob:29618781",
+        "trailsroc-name": "Parking (Large Lot)",
+        "trailsroc-shortName": "Large Lot",
+        "trailsroc-parentIDs": "park-ontariob",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60798,
+          43.257042
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,3947 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-lmorin",
+        "trailsroc-shortName": "Lucien Morin Park",
+        "trailsroc-name": "Lucien Morin Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-keywords": "wetlands",
+        "trailsroc-directionsCoordinate": [
+          -77.52373695373535,
+          43.17538876465969
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52966,
+          43.17003
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-blue",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Blue Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "Blue Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5259745,
+          43.171078
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-east",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "East Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "East Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.521151,
+          43.1622795
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-pink",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Pink Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "pink",
+        "trailsroc-shortName": "Pink Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52954650000001,
+          43.16705949999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-red",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5276255,
+          43.168707
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52762100000001,
+          43.167046
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-rifle-range-white",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "white",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52731349999999,
+          43.1696665
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-rifle-range-yellow",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Rifle Range Yellow Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Rifle Range Yellow Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5254575,
+          43.166928
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-connector",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "black",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-blazes": "none"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.525452,
+          43.15897
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-lmorin-unnamed-trails",
+        "trailsroc-parentID": "park-lmorin",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-wetlands.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.526036,
+          43.173857999999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-blue:05866fce",
+        "trailsroc-trailIDs": "trail-lmorin-blue",
+        "trailsroc-name": "Blue Trail",
+        "trailsroc-shortName": "Blue Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.524803,
+            43.172604
+          ],
+          [
+            -77.524832,
+            43.172502
+          ],
+          [
+            -77.524969,
+            43.172375
+          ],
+          [
+            -77.525202,
+            43.172271
+          ],
+          [
+            -77.525507,
+            43.172229
+          ],
+          [
+            -77.525767,
+            43.172264
+          ],
+          [
+            -77.525944,
+            43.172327
+          ],
+          [
+            -77.526028,
+            43.172355
+          ],
+          [
+            -77.526083,
+            43.172419
+          ],
+          [
+            -77.526227,
+            43.172432
+          ],
+          [
+            -77.526363,
+            43.172418
+          ],
+          [
+            -77.526394,
+            43.172412
+          ],
+          [
+            -77.526385,
+            43.172379
+          ],
+          [
+            -77.526188,
+            43.172279
+          ],
+          [
+            -77.526106,
+            43.172164
+          ],
+          [
+            -77.52606,
+            43.172104
+          ],
+          [
+            -77.526061,
+            43.172061
+          ],
+          [
+            -77.5261,
+            43.172051
+          ],
+          [
+            -77.526304,
+            43.172144
+          ],
+          [
+            -77.526671,
+            43.172236
+          ],
+          [
+            -77.52676,
+            43.172285
+          ],
+          [
+            -77.526823,
+            43.172294
+          ],
+          [
+            -77.526872,
+            43.172281
+          ],
+          [
+            -77.527049,
+            43.172145
+          ],
+          [
+            -77.527137,
+            43.171963
+          ],
+          [
+            -77.527146,
+            43.171903
+          ],
+          [
+            -77.527139,
+            43.171874
+          ],
+          [
+            -77.527004,
+            43.171598
+          ],
+          [
+            -77.526733,
+            43.171214
+          ],
+          [
+            -77.526449,
+            43.170898
+          ],
+          [
+            -77.526453,
+            43.17088
+          ],
+          [
+            -77.526628,
+            43.170834
+          ],
+          [
+            -77.526666,
+            43.170835
+          ],
+          [
+            -77.526873,
+            43.17088
+          ],
+          [
+            -77.526908,
+            43.170864
+          ],
+          [
+            -77.52693,
+            43.170717
+          ],
+          [
+            -77.526922,
+            43.170568
+          ],
+          [
+            -77.52689,
+            43.170536
+          ],
+          [
+            -77.526691,
+            43.170466
+          ],
+          [
+            -77.526495,
+            43.170388
+          ],
+          [
+            -77.526477,
+            43.170362
+          ],
+          [
+            -77.52622,
+            43.170091
+          ],
+          [
+            -77.526012,
+            43.169804
+          ],
+          [
+            -77.525882,
+            43.169552
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-pink:129f2a40",
+        "trailsroc-trailIDs": "trail-lmorin-pink",
+        "trailsroc-name": "Pink Trail",
+        "trailsroc-shortName": "Pink Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "pink"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528518,
+            43.166847
+          ],
+          [
+            -77.528694,
+            43.166847
+          ],
+          [
+            -77.528816,
+            43.166881
+          ],
+          [
+            -77.528961,
+            43.166961
+          ],
+          [
+            -77.529129,
+            43.167148
+          ],
+          [
+            -77.529273,
+            43.167255
+          ],
+          [
+            -77.52935,
+            43.167346
+          ],
+          [
+            -77.529411,
+            43.16751
+          ],
+          [
+            -77.529502,
+            43.167648
+          ],
+          [
+            -77.529579,
+            43.167694
+          ],
+          [
+            -77.529563,
+            43.167587
+          ],
+          [
+            -77.529571,
+            43.167465
+          ],
+          [
+            -77.529556,
+            43.167339
+          ],
+          [
+            -77.529403,
+            43.167228
+          ],
+          [
+            -77.529411,
+            43.167079
+          ],
+          [
+            -77.529571,
+            43.166976
+          ],
+          [
+            -77.529724,
+            43.166957
+          ],
+          [
+            -77.529815,
+            43.166889
+          ],
+          [
+            -77.529853,
+            43.166797
+          ],
+          [
+            -77.529991,
+            43.166717
+          ],
+          [
+            -77.530166,
+            43.166648
+          ],
+          [
+            -77.53038,
+            43.166564
+          ],
+          [
+            -77.530502,
+            43.166515
+          ],
+          [
+            -77.530575,
+            43.166425
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-red:00f7048b",
+        "trailsroc-trailIDs": "trail-lmorin-red",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527115,
+            43.169974
+          ],
+          [
+            -77.527423,
+            43.169801
+          ],
+          [
+            -77.527614,
+            43.169326
+          ],
+          [
+            -77.527651,
+            43.168957
+          ],
+          [
+            -77.527811,
+            43.16849
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-red:c5664a95",
+        "trailsroc-trailIDs": "trail-lmorin-red",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527811,
+            43.16849
+          ],
+          [
+            -77.52798,
+            43.168266
+          ],
+          [
+            -77.528124,
+            43.167924
+          ],
+          [
+            -77.528136,
+            43.167586
+          ],
+          [
+            -77.527901,
+            43.16744
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-red:23ee72d3",
+        "trailsroc-trailIDs": "trail-lmorin-red",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527304,
+            43.168247
+          ],
+          [
+            -77.527817,
+            43.168491
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-salmon:4ad9e088",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527765,
+            43.165846
+          ],
+          [
+            -77.527809,
+            43.165912
+          ],
+          [
+            -77.527938,
+            43.165924
+          ],
+          [
+            -77.528068,
+            43.165889
+          ],
+          [
+            -77.528182,
+            43.165794
+          ],
+          [
+            -77.528266,
+            43.165721
+          ],
+          [
+            -77.528503,
+            43.165683
+          ],
+          [
+            -77.528663,
+            43.165637
+          ],
+          [
+            -77.528747,
+            43.165561
+          ],
+          [
+            -77.5289,
+            43.165458
+          ],
+          [
+            -77.529029,
+            43.165447
+          ],
+          [
+            -77.529144,
+            43.165493
+          ],
+          [
+            -77.529205,
+            43.165576
+          ],
+          [
+            -77.529243,
+            43.165664
+          ],
+          [
+            -77.529289,
+            43.165756
+          ],
+          [
+            -77.52937,
+            43.165895
+          ],
+          [
+            -77.529364,
+            43.165995
+          ],
+          [
+            -77.529226,
+            43.16609
+          ],
+          [
+            -77.529097,
+            43.16622
+          ],
+          [
+            -77.52899,
+            43.16635
+          ],
+          [
+            -77.52883,
+            43.166445
+          ],
+          [
+            -77.528662,
+            43.166495
+          ],
+          [
+            -77.528509,
+            43.166449
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-salmon:4b60f516",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528509,
+            43.166449
+          ],
+          [
+            -77.528357,
+            43.166377
+          ],
+          [
+            -77.528234,
+            43.166361
+          ],
+          [
+            -77.528038,
+            43.16635
+          ],
+          [
+            -77.527821,
+            43.166611
+          ],
+          [
+            -77.527543,
+            43.166841
+          ],
+          [
+            -77.527242,
+            43.167115
+          ],
+          [
+            -77.527142,
+            43.167118
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-salmon:2d35adfb",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527142,
+            43.167118
+          ],
+          [
+            -77.527126,
+            43.167353
+          ],
+          [
+            -77.527096,
+            43.167561
+          ],
+          [
+            -77.527066,
+            43.167679
+          ],
+          [
+            -77.526806,
+            43.168035
+          ],
+          [
+            -77.52663,
+            43.168328
+          ],
+          [
+            -77.526526,
+            43.168493
+          ],
+          [
+            -77.526417,
+            43.168601
+          ],
+          [
+            -77.526264,
+            43.168632
+          ],
+          [
+            -77.526103,
+            43.168635
+          ],
+          [
+            -77.525872,
+            43.168645
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-salmon:b22e676b",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528167,
+            43.167029
+          ],
+          [
+            -77.528056,
+            43.166925
+          ],
+          [
+            -77.528125,
+            43.166796
+          ],
+          [
+            -77.528321,
+            43.166616
+          ],
+          [
+            -77.528516,
+            43.166453
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-salmon:401560cc",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-salmon",
+        "trailsroc-name": "Rifle Range Salmon Trail",
+        "trailsroc-shortName": "Rifle Range Salmon Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527141,
+            43.167119
+          ],
+          [
+            -77.527059,
+            43.167081
+          ],
+          [
+            -77.52691,
+            43.166869
+          ],
+          [
+            -77.526795,
+            43.166574
+          ],
+          [
+            -77.526774,
+            43.166319
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:0832262e",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.522927,
+            43.164861
+          ],
+          [
+            -77.523607,
+            43.165161
+          ],
+          [
+            -77.52364,
+            43.165306
+          ],
+          [
+            -77.523758,
+            43.165403
+          ],
+          [
+            -77.523925,
+            43.165461
+          ],
+          [
+            -77.524411,
+            43.165491
+          ],
+          [
+            -77.524549,
+            43.165476
+          ],
+          [
+            -77.525154,
+            43.165638
+          ],
+          [
+            -77.525475,
+            43.165664
+          ],
+          [
+            -77.525731,
+            43.165728
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:e9adc4f0",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525731,
+            43.165728
+          ],
+          [
+            -77.525838,
+            43.165789
+          ],
+          [
+            -77.526083,
+            43.166125
+          ],
+          [
+            -77.526198,
+            43.166224
+          ],
+          [
+            -77.526476,
+            43.166372
+          ],
+          [
+            -77.526804,
+            43.1663
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:635da251",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.526804,
+            43.1663
+          ],
+          [
+            -77.527529,
+            43.165999
+          ],
+          [
+            -77.527765,
+            43.165846
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:f7fd3af4",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527765,
+            43.165846
+          ],
+          [
+            -77.527992,
+            43.165465
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:2793c3f6",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527992,
+            43.165465
+          ],
+          [
+            -77.528218,
+            43.165081
+          ],
+          [
+            -77.528229,
+            43.164783
+          ],
+          [
+            -77.528205,
+            43.164648
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:0938bb08",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.526025,
+            43.168713
+          ],
+          [
+            -77.525994,
+            43.169059
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:463990d9",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525994,
+            43.169059
+          ],
+          [
+            -77.52597,
+            43.169185
+          ],
+          [
+            -77.525924,
+            43.169307
+          ],
+          [
+            -77.525882,
+            43.169547
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:264995b7",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525882,
+            43.169547
+          ],
+          [
+            -77.525332,
+            43.170278
+          ],
+          [
+            -77.524965,
+            43.170427
+          ],
+          [
+            -77.524775,
+            43.170439
+          ],
+          [
+            -77.524668,
+            43.170271
+          ],
+          [
+            -77.524538,
+            43.170278
+          ],
+          [
+            -77.524378,
+            43.17032
+          ],
+          [
+            -77.524279,
+            43.170381
+          ],
+          [
+            -77.524332,
+            43.170477
+          ],
+          [
+            -77.524447,
+            43.170534
+          ],
+          [
+            -77.52463,
+            43.170561
+          ],
+          [
+            -77.524782,
+            43.170683
+          ],
+          [
+            -77.52489,
+            43.170863
+          ],
+          [
+            -77.52495,
+            43.171077
+          ],
+          [
+            -77.524959,
+            43.171378
+          ],
+          [
+            -77.524844,
+            43.171678
+          ],
+          [
+            -77.524468,
+            43.172112
+          ],
+          [
+            -77.524488,
+            43.172332
+          ],
+          [
+            -77.524607,
+            43.172504
+          ],
+          [
+            -77.524801,
+            43.17261
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:02d918fc",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.524801,
+            43.17261
+          ],
+          [
+            -77.524841,
+            43.17271
+          ],
+          [
+            -77.524791,
+            43.17286
+          ],
+          [
+            -77.524701,
+            43.17298
+          ],
+          [
+            -77.5244,
+            43.17306
+          ],
+          [
+            -77.52417,
+            43.17303
+          ],
+          [
+            -77.524,
+            43.17294
+          ],
+          [
+            -77.523892,
+            43.172814
+          ],
+          [
+            -77.523702,
+            43.172705
+          ],
+          [
+            -77.523532,
+            43.172682
+          ],
+          [
+            -77.523362,
+            43.172715
+          ],
+          [
+            -77.52325,
+            43.17278
+          ],
+          [
+            -77.52332,
+            43.17288
+          ],
+          [
+            -77.52341,
+            43.17327
+          ],
+          [
+            -77.52342,
+            43.17367
+          ],
+          [
+            -77.52345,
+            43.17379
+          ],
+          [
+            -77.523483,
+            43.174115
+          ],
+          [
+            -77.523573,
+            43.174281
+          ],
+          [
+            -77.523671,
+            43.174363
+          ],
+          [
+            -77.523868,
+            43.174615
+          ],
+          [
+            -77.523868,
+            43.174685
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:df22c3e8",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525869,
+            43.168651
+          ],
+          [
+            -77.526357,
+            43.168786
+          ],
+          [
+            -77.526915,
+            43.168546
+          ],
+          [
+            -77.527297,
+            43.168237
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:b07d1bbf",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527297,
+            43.168237
+          ],
+          [
+            -77.527887,
+            43.167424
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:f54311ff",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.527887,
+            43.167424
+          ],
+          [
+            -77.528175,
+            43.167026
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:cf561616",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528175,
+            43.167026
+          ],
+          [
+            -77.528289,
+            43.166927
+          ],
+          [
+            -77.528503,
+            43.166828
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:a6b34325",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528503,
+            43.166828
+          ],
+          [
+            -77.52899,
+            43.166718
+          ],
+          [
+            -77.529811,
+            43.166594
+          ],
+          [
+            -77.530274,
+            43.166463
+          ],
+          [
+            -77.53058,
+            43.166418
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-white:5ad51367",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-white",
+        "trailsroc-name": "Rifle Range White Trail",
+        "trailsroc-shortName": "Rifle Range White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.53058,
+            43.166418
+          ],
+          [
+            -77.531044,
+            43.166366
+          ],
+          [
+            -77.531311,
+            43.166416
+          ],
+          [
+            -77.531486,
+            43.166427
+          ],
+          [
+            -77.53164,
+            43.166418
+          ],
+          [
+            -77.5317,
+            43.1664
+          ],
+          [
+            -77.5316,
+            43.166347
+          ],
+          [
+            -77.531005,
+            43.16616
+          ],
+          [
+            -77.530616,
+            43.165969
+          ],
+          [
+            -77.530479,
+            43.16595
+          ],
+          [
+            -77.530364,
+            43.165843
+          ],
+          [
+            -77.530296,
+            43.165721
+          ],
+          [
+            -77.529739,
+            43.165161
+          ],
+          [
+            -77.529609,
+            43.165088
+          ],
+          [
+            -77.529212,
+            43.165012
+          ],
+          [
+            -77.528976,
+            43.165008
+          ],
+          [
+            -77.528778,
+            43.164947
+          ],
+          [
+            -77.528526,
+            43.164909
+          ],
+          [
+            -77.528327,
+            43.164691
+          ],
+          [
+            -77.528205,
+            43.164649
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-yellow:9b1a4f77",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-yellow",
+        "trailsroc-name": "Rifle Range Yellow Trail",
+        "trailsroc-shortName": "Rifle Range Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.52294,
+            43.16486
+          ],
+          [
+            -77.5231,
+            43.16488
+          ],
+          [
+            -77.52322,
+            43.16484
+          ],
+          [
+            -77.52338,
+            43.16481
+          ],
+          [
+            -77.52354,
+            43.1648
+          ],
+          [
+            -77.52375,
+            43.16482
+          ],
+          [
+            -77.52395,
+            43.16485
+          ],
+          [
+            -77.52414,
+            43.16489
+          ],
+          [
+            -77.52433,
+            43.16499
+          ],
+          [
+            -77.52457,
+            43.16504
+          ],
+          [
+            -77.525022,
+            43.165173
+          ],
+          [
+            -77.52534,
+            43.16526
+          ],
+          [
+            -77.525444,
+            43.165323
+          ],
+          [
+            -77.52561,
+            43.165419
+          ],
+          [
+            -77.525747,
+            43.165469
+          ],
+          [
+            -77.525957,
+            43.165549
+          ],
+          [
+            -77.526147,
+            43.165639
+          ],
+          [
+            -77.526307,
+            43.165659
+          ],
+          [
+            -77.526427,
+            43.165639
+          ],
+          [
+            -77.52662,
+            43.165601
+          ],
+          [
+            -77.526845,
+            43.165547
+          ],
+          [
+            -77.527111,
+            43.165519
+          ],
+          [
+            -77.527325,
+            43.1655
+          ],
+          [
+            -77.527615,
+            43.1655
+          ],
+          [
+            -77.527975,
+            43.165472
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-rifle-range-yellow:8b52ce6c",
+        "trailsroc-trailIDs": "trail-lmorin-rifle-range-yellow",
+        "trailsroc-name": "Rifle Range Yellow Trail",
+        "trailsroc-shortName": "Rifle Range Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525722,
+            43.165723
+          ],
+          [
+            -77.525657,
+            43.166201
+          ],
+          [
+            -77.525702,
+            43.166633
+          ],
+          [
+            -77.525732,
+            43.166811
+          ],
+          [
+            -77.525799,
+            43.166886
+          ],
+          [
+            -77.525942,
+            43.166927
+          ],
+          [
+            -77.525872,
+            43.167183
+          ],
+          [
+            -77.525953,
+            43.167308
+          ],
+          [
+            -77.52614,
+            43.167398
+          ],
+          [
+            -77.526306,
+            43.16759
+          ],
+          [
+            -77.526339,
+            43.167674
+          ],
+          [
+            -77.525483,
+            43.167865
+          ],
+          [
+            -77.524941,
+            43.168055
+          ],
+          [
+            -77.524927,
+            43.168111
+          ],
+          [
+            -77.52514,
+            43.168196
+          ],
+          [
+            -77.524948,
+            43.168271
+          ],
+          [
+            -77.524946,
+            43.168329
+          ],
+          [
+            -77.525414,
+            43.168603
+          ],
+          [
+            -77.525735,
+            43.168816
+          ],
+          [
+            -77.52599,
+            43.169056
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-unnamed-trails:afae1d24",
+        "trailsroc-trailIDs": "trail-lmorin-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.523707,
+            43.175612
+          ],
+          [
+            -77.523778,
+            43.175118
+          ],
+          [
+            -77.523838,
+            43.174952
+          ],
+          [
+            -77.523952,
+            43.174876
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-unnamed-trails:eade4e48",
+        "trailsroc-trailIDs": "trail-lmorin-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.523952,
+            43.174876
+          ],
+          [
+            -77.524123,
+            43.174862
+          ],
+          [
+            -77.524286,
+            43.174816
+          ],
+          [
+            -77.524389,
+            43.174725
+          ],
+          [
+            -77.52453,
+            43.174475
+          ],
+          [
+            -77.524746,
+            43.17418
+          ],
+          [
+            -77.524958,
+            43.173812
+          ],
+          [
+            -77.525326,
+            43.173037
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-unnamed-trails:bac5123f",
+        "trailsroc-trailIDs": "trail-lmorin-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525326,
+            43.173037
+          ],
+          [
+            -77.52546,
+            43.172874
+          ],
+          [
+            -77.525612,
+            43.172788
+          ],
+          [
+            -77.525926,
+            43.172717
+          ],
+          [
+            -77.526329,
+            43.172654
+          ],
+          [
+            -77.52663,
+            43.172615
+          ],
+          [
+            -77.527017,
+            43.172517
+          ],
+          [
+            -77.527258,
+            43.17242
+          ],
+          [
+            -77.52746,
+            43.172285
+          ],
+          [
+            -77.52754,
+            43.172251
+          ],
+          [
+            -77.527902,
+            43.172167
+          ],
+          [
+            -77.528365,
+            43.172104
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-east:a8fb5ba6",
+        "trailsroc-trailIDs": "trail-lmorin-east",
+        "trailsroc-name": "East Trail",
+        "trailsroc-shortName": "East Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.522932,
+            43.164859
+          ],
+          [
+            -77.52283,
+            43.16478
+          ],
+          [
+            -77.5226,
+            43.16467
+          ],
+          [
+            -77.5221,
+            43.16457
+          ],
+          [
+            -77.521934,
+            43.164307
+          ],
+          [
+            -77.521654,
+            43.164241
+          ],
+          [
+            -77.5213,
+            43.16428
+          ],
+          [
+            -77.52114,
+            43.16424
+          ],
+          [
+            -77.52103,
+            43.1641
+          ],
+          [
+            -77.52073,
+            43.16397
+          ],
+          [
+            -77.52055,
+            43.16345
+          ],
+          [
+            -77.52042,
+            43.16331
+          ],
+          [
+            -77.52029,
+            43.16324
+          ],
+          [
+            -77.5202,
+            43.16314
+          ],
+          [
+            -77.52015,
+            43.16305
+          ],
+          [
+            -77.52009,
+            43.16273
+          ],
+          [
+            -77.52003,
+            43.16262
+          ],
+          [
+            -77.52,
+            43.16248
+          ],
+          [
+            -77.51942,
+            43.16174
+          ],
+          [
+            -77.51937,
+            43.1616
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-east:104664eb",
+        "trailsroc-trailIDs": "trail-lmorin-east",
+        "trailsroc-name": "East Trail",
+        "trailsroc-shortName": "East Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51937,
+            43.1616
+          ],
+          [
+            -77.51942,
+            43.16092
+          ],
+          [
+            -77.5194,
+            43.16082
+          ],
+          [
+            -77.51947,
+            43.16073
+          ],
+          [
+            -77.51974,
+            43.16059
+          ],
+          [
+            -77.51982,
+            43.1605
+          ],
+          [
+            -77.51983,
+            43.16009
+          ],
+          [
+            -77.51968,
+            43.15982
+          ],
+          [
+            -77.518604,
+            43.159166
+          ],
+          [
+            -77.518578,
+            43.159168
+          ],
+          [
+            -77.518539,
+            43.159157
+          ],
+          [
+            -77.518478,
+            43.159138
+          ],
+          [
+            -77.518379,
+            43.159019
+          ],
+          [
+            -77.517891,
+            43.158829
+          ],
+          [
+            -77.517891,
+            43.158798
+          ],
+          [
+            -77.517924,
+            43.158713
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-east:68419039",
+        "trailsroc-trailIDs": "trail-lmorin-east",
+        "trailsroc-name": "East Trail",
+        "trailsroc-shortName": "East Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.517924,
+            43.158713
+          ],
+          [
+            -77.517899,
+            43.158527
+          ],
+          [
+            -77.51783,
+            43.158478
+          ],
+          [
+            -77.518005,
+            43.157818
+          ],
+          [
+            -77.518425,
+            43.157787
+          ],
+          [
+            -77.518639,
+            43.157887
+          ],
+          [
+            -77.518723,
+            43.157883
+          ],
+          [
+            -77.518776,
+            43.157909
+          ],
+          [
+            -77.518829,
+            43.15799
+          ],
+          [
+            -77.518829,
+            43.158012
+          ],
+          [
+            -77.518814,
+            43.158051
+          ],
+          [
+            -77.518784,
+            43.158077
+          ],
+          [
+            -77.518761,
+            43.158085
+          ],
+          [
+            -77.518745,
+            43.158123
+          ],
+          [
+            -77.518753,
+            43.158142
+          ],
+          [
+            -77.518936,
+            43.158321
+          ],
+          [
+            -77.518944,
+            43.15834
+          ],
+          [
+            -77.519089,
+            43.158459
+          ],
+          [
+            -77.51918,
+            43.158463
+          ],
+          [
+            -77.519211,
+            43.15844
+          ],
+          [
+            -77.519226,
+            43.158405
+          ],
+          [
+            -77.519226,
+            43.15839
+          ],
+          [
+            -77.519241,
+            43.158352
+          ],
+          [
+            -77.519241,
+            43.158337
+          ],
+          [
+            -77.519508,
+            43.157967
+          ],
+          [
+            -77.520317,
+            43.157803
+          ],
+          [
+            -77.520447,
+            43.15781
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:a2101b71",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525093,
+            43.157078
+          ],
+          [
+            -77.5253,
+            43.156892
+          ],
+          [
+            -77.526681,
+            43.157462
+          ],
+          [
+            -77.527237,
+            43.157616
+          ],
+          [
+            -77.528206,
+            43.15781
+          ],
+          [
+            -77.528236,
+            43.157825
+          ],
+          [
+            -77.528214,
+            43.157858
+          ],
+          [
+            -77.528259,
+            43.157848
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:a152a11f",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528259,
+            43.157848
+          ],
+          [
+            -77.528381,
+            43.157909
+          ],
+          [
+            -77.528526,
+            43.157936
+          ],
+          [
+            -77.528938,
+            43.157887
+          ],
+          [
+            -77.528961,
+            43.157879
+          ],
+          [
+            -77.528969,
+            43.157871
+          ],
+          [
+            -77.529045,
+            43.157848
+          ],
+          [
+            -77.529137,
+            43.15786
+          ],
+          [
+            -77.529152,
+            43.157867
+          ],
+          [
+            -77.529182,
+            43.157894
+          ],
+          [
+            -77.529312,
+            43.157936
+          ],
+          [
+            -77.529327,
+            43.157951
+          ],
+          [
+            -77.529427,
+            43.157978
+          ],
+          [
+            -77.52948,
+            43.15802
+          ],
+          [
+            -77.529526,
+            43.158085
+          ],
+          [
+            -77.529839,
+            43.158287
+          ],
+          [
+            -77.529839,
+            43.15831
+          ],
+          [
+            -77.529831,
+            43.158321
+          ],
+          [
+            -77.529808,
+            43.15834
+          ],
+          [
+            -77.5298,
+            43.158352
+          ],
+          [
+            -77.529785,
+            43.15836
+          ],
+          [
+            -77.52977,
+            43.158363
+          ],
+          [
+            -77.529732,
+            43.158382
+          ],
+          [
+            -77.529716,
+            43.158405
+          ],
+          [
+            -77.529709,
+            43.158424
+          ],
+          [
+            -77.529709,
+            43.15847
+          ],
+          [
+            -77.529701,
+            43.158489
+          ],
+          [
+            -77.529663,
+            43.158531
+          ],
+          [
+            -77.529648,
+            43.158566
+          ],
+          [
+            -77.52961,
+            43.158581
+          ],
+          [
+            -77.52961,
+            43.158588
+          ],
+          [
+            -77.529602,
+            43.158604
+          ],
+          [
+            -77.529602,
+            43.158623
+          ],
+          [
+            -77.529594,
+            43.158638
+          ],
+          [
+            -77.529572,
+            43.158657
+          ],
+          [
+            -77.529541,
+            43.158672
+          ],
+          [
+            -77.529518,
+            43.158691
+          ],
+          [
+            -77.529472,
+            43.158764
+          ],
+          [
+            -77.529457,
+            43.158779
+          ],
+          [
+            -77.529396,
+            43.158817
+          ],
+          [
+            -77.529312,
+            43.158989
+          ],
+          [
+            -77.529259,
+            43.15905
+          ],
+          [
+            -77.529198,
+            43.159096
+          ],
+          [
+            -77.529182,
+            43.159119
+          ],
+          [
+            -77.529167,
+            43.159157
+          ],
+          [
+            -77.529152,
+            43.159176
+          ],
+          [
+            -77.529129,
+            43.159187
+          ],
+          [
+            -77.529114,
+            43.159199
+          ],
+          [
+            -77.529091,
+            43.15921
+          ],
+          [
+            -77.529045,
+            43.15926
+          ],
+          [
+            -77.529037,
+            43.159279
+          ],
+          [
+            -77.529037,
+            43.159309
+          ],
+          [
+            -77.529045,
+            43.159328
+          ],
+          [
+            -77.52906,
+            43.159348
+          ],
+          [
+            -77.529068,
+            43.15937
+          ],
+          [
+            -77.529083,
+            43.159393
+          ],
+          [
+            -77.529083,
+            43.159412
+          ],
+          [
+            -77.529106,
+            43.159466
+          ],
+          [
+            -77.529106,
+            43.159477
+          ],
+          [
+            -77.529121,
+            43.159489
+          ],
+          [
+            -77.529129,
+            43.1595
+          ],
+          [
+            -77.529144,
+            43.159508
+          ],
+          [
+            -77.529259,
+            43.159641
+          ],
+          [
+            -77.529282,
+            43.159691
+          ],
+          [
+            -77.529312,
+            43.159721
+          ],
+          [
+            -77.529587,
+            43.160152
+          ],
+          [
+            -77.529587,
+            43.160172
+          ],
+          [
+            -77.52961,
+            43.160206
+          ],
+          [
+            -77.529678,
+            43.160259
+          ],
+          [
+            -77.529686,
+            43.160278
+          ],
+          [
+            -77.529701,
+            43.160294
+          ],
+          [
+            -77.529732,
+            43.160347
+          ],
+          [
+            -77.529732,
+            43.160393
+          ],
+          [
+            -77.529755,
+            43.160469
+          ],
+          [
+            -77.529755,
+            43.160492
+          ],
+          [
+            -77.529778,
+            43.160549
+          ],
+          [
+            -77.529877,
+            43.16066
+          ],
+          [
+            -77.529877,
+            43.160694
+          ],
+          [
+            -77.529884,
+            43.160713
+          ],
+          [
+            -77.529884,
+            43.16074
+          ],
+          [
+            -77.529907,
+            43.160816
+          ],
+          [
+            -77.529907,
+            43.160839
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:fe1da5a2",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.529907,
+            43.160839
+          ],
+          [
+            -77.529922,
+            43.160889
+          ],
+          [
+            -77.529938,
+            43.160915
+          ],
+          [
+            -77.529945,
+            43.160938
+          ],
+          [
+            -77.529945,
+            43.160957
+          ],
+          [
+            -77.529953,
+            43.160969
+          ],
+          [
+            -77.529961,
+            43.160976
+          ],
+          [
+            -77.530029,
+            43.161129
+          ],
+          [
+            -77.530029,
+            43.16114
+          ],
+          [
+            -77.530022,
+            43.161148
+          ],
+          [
+            -77.530022,
+            43.161182
+          ],
+          [
+            -77.530006,
+            43.161201
+          ],
+          [
+            -77.529999,
+            43.161224
+          ],
+          [
+            -77.529984,
+            43.161251
+          ],
+          [
+            -77.529984,
+            43.161278
+          ],
+          [
+            -77.529976,
+            43.161297
+          ],
+          [
+            -77.529968,
+            43.161304
+          ],
+          [
+            -77.529961,
+            43.16132
+          ],
+          [
+            -77.529671,
+            43.16153
+          ],
+          [
+            -77.529489,
+            43.16174
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:501084ca",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.529489,
+            43.16174
+          ],
+          [
+            -77.528534,
+            43.162075
+          ],
+          [
+            -77.528084,
+            43.162033
+          ],
+          [
+            -77.528053,
+            43.162045
+          ],
+          [
+            -77.528038,
+            43.162056
+          ],
+          [
+            -77.528023,
+            43.162075
+          ],
+          [
+            -77.528023,
+            43.162098
+          ],
+          [
+            -77.528015,
+            43.162117
+          ],
+          [
+            -77.528023,
+            43.16214
+          ],
+          [
+            -77.528038,
+            43.162163
+          ],
+          [
+            -77.528084,
+            43.162193
+          ],
+          [
+            -77.528137,
+            43.162251
+          ],
+          [
+            -77.528252,
+            43.162319
+          ],
+          [
+            -77.528412,
+            43.162579
+          ],
+          [
+            -77.528496,
+            43.162647
+          ],
+          [
+            -77.528503,
+            43.162663
+          ],
+          [
+            -77.528549,
+            43.162704
+          ],
+          [
+            -77.528603,
+            43.162731
+          ],
+          [
+            -77.528633,
+            43.162758
+          ],
+          [
+            -77.528641,
+            43.162769
+          ],
+          [
+            -77.528641,
+            43.162807
+          ],
+          [
+            -77.528664,
+            43.162853
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:d8bb8f7d",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.528664,
+            43.162853
+          ],
+          [
+            -77.528679,
+            43.162861
+          ],
+          [
+            -77.528687,
+            43.162872
+          ],
+          [
+            -77.528694,
+            43.162891
+          ],
+          [
+            -77.528702,
+            43.162903
+          ],
+          [
+            -77.528725,
+            43.16291
+          ],
+          [
+            -77.52877,
+            43.163002
+          ],
+          [
+            -77.528915,
+            43.163097
+          ],
+          [
+            -77.528961,
+            43.16317
+          ],
+          [
+            -77.529007,
+            43.163197
+          ],
+          [
+            -77.529022,
+            43.1632
+          ],
+          [
+            -77.52903,
+            43.163208
+          ],
+          [
+            -77.529037,
+            43.163219
+          ],
+          [
+            -77.529045,
+            43.163227
+          ],
+          [
+            -77.529099,
+            43.163246
+          ],
+          [
+            -77.52916,
+            43.163235
+          ],
+          [
+            -77.529182,
+            43.163239
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:6bbf740d",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.529182,
+            43.163239
+          ],
+          [
+            -77.529243,
+            43.163277
+          ],
+          [
+            -77.529579,
+            43.16325
+          ],
+          [
+            -77.529633,
+            43.163265
+          ],
+          [
+            -77.529709,
+            43.163311
+          ],
+          [
+            -77.529724,
+            43.163326
+          ],
+          [
+            -77.529739,
+            43.163334
+          ],
+          [
+            -77.530273,
+            43.163872
+          ],
+          [
+            -77.530418,
+            43.163914
+          ],
+          [
+            -77.530441,
+            43.163914
+          ],
+          [
+            -77.530457,
+            43.163914
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:241ac532",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.520447,
+            43.15781
+          ],
+          [
+            -77.520477,
+            43.157837
+          ],
+          [
+            -77.520485,
+            43.157856
+          ],
+          [
+            -77.520752,
+            43.15799
+          ],
+          [
+            -77.520775,
+            43.158012
+          ],
+          [
+            -77.521301,
+            43.15823
+          ],
+          [
+            -77.521461,
+            43.158222
+          ],
+          [
+            -77.521568,
+            43.158257
+          ],
+          [
+            -77.52243,
+            43.158226
+          ],
+          [
+            -77.52253,
+            43.158195
+          ],
+          [
+            -77.523026,
+            43.158176
+          ],
+          [
+            -77.523277,
+            43.158089
+          ],
+          [
+            -77.5233,
+            43.15807
+          ],
+          [
+            -77.523354,
+            43.158047
+          ],
+          [
+            -77.523438,
+            43.158035
+          ],
+          [
+            -77.523979,
+            43.157738
+          ],
+          [
+            -77.524048,
+            43.157669
+          ],
+          [
+            -77.524071,
+            43.157654
+          ],
+          [
+            -77.524536,
+            43.157486
+          ],
+          [
+            -77.52504,
+            43.157169
+          ],
+          [
+            -77.525094,
+            43.157086
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-lmorin-connector:14af2979",
+        "trailsroc-trailIDs": "trail-lmorin-connector",
+        "trailsroc-name": "Ellison–Lucien Morin Connectors",
+        "trailsroc-shortName": "Ellison–L.Morin",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525094,
+            43.157086
+          ],
+          [
+            -77.525673,
+            43.157188
+          ],
+          [
+            -77.525688,
+            43.157196
+          ],
+          [
+            -77.525826,
+            43.15723
+          ],
+          [
+            -77.526115,
+            43.157436
+          ],
+          [
+            -77.526146,
+            43.157482
+          ],
+          [
+            -77.526154,
+            43.157505
+          ],
+          [
+            -77.526169,
+            43.157524
+          ],
+          [
+            -77.526192,
+            43.1576
+          ],
+          [
+            -77.526237,
+            43.157631
+          ],
+          [
+            -77.526405,
+            43.157646
+          ],
+          [
+            -77.526596,
+            43.157612
+          ],
+          [
+            -77.526703,
+            43.157623
+          ],
+          [
+            -77.526817,
+            43.157665
+          ],
+          [
+            -77.526863,
+            43.157669
+          ],
+          [
+            -77.526878,
+            43.157665
+          ],
+          [
+            -77.526978,
+            43.157677
+          ],
+          [
+            -77.527008,
+            43.157673
+          ],
+          [
+            -77.527039,
+            43.157661
+          ],
+          [
+            -77.527061,
+            43.157646
+          ],
+          [
+            -77.527069,
+            43.157631
+          ],
+          [
+            -77.527077,
+            43.157619
+          ],
+          [
+            -77.527077,
+            43.157619
+          ],
+          [
+            -77.527061,
+            43.157589
+          ],
+          [
+            -77.527046,
+            43.157578
+          ],
+          [
+            -77.527046,
+            43.15757
+          ],
+          [
+            -77.527039,
+            43.157562
+          ],
+          [
+            -77.527039,
+            43.157558
+          ],
+          [
+            -77.527031,
+            43.157551
+          ],
+          [
+            -77.527023,
+            43.157547
+          ],
+          [
+            -77.527008,
+            43.157543
+          ],
+          [
+            -77.526993,
+            43.157532
+          ],
+          [
+            -77.526939,
+            43.157383
+          ],
+          [
+            -77.526978,
+            43.157261
+          ],
+          [
+            -77.526978,
+            43.157227
+          ],
+          [
+            -77.52697,
+            43.157207
+          ],
+          [
+            -77.52697,
+            43.157101
+          ],
+          [
+            -77.526955,
+            43.157055
+          ],
+          [
+            -77.526939,
+            43.157032
+          ],
+          [
+            -77.526924,
+            43.15699
+          ],
+          [
+            -77.526924,
+            43.156918
+          ],
+          [
+            -77.526917,
+            43.156895
+          ],
+          [
+            -77.526901,
+            43.156872
+          ],
+          [
+            -77.526894,
+            43.156853
+          ],
+          [
+            -77.526848,
+            43.15678
+          ],
+          [
+            -77.52684,
+            43.15675
+          ],
+          [
+            -77.52684,
+            43.156677
+          ],
+          [
+            -77.526833,
+            43.156651
+          ],
+          [
+            -77.526833,
+            43.156628
+          ],
+          [
+            -77.526817,
+            43.156609
+          ],
+          [
+            -77.526802,
+            43.156574
+          ],
+          [
+            -77.526802,
+            43.156559
+          ],
+          [
+            -77.526787,
+            43.156521
+          ],
+          [
+            -77.526794,
+            43.156502
+          ],
+          [
+            -77.526787,
+            43.15649
+          ],
+          [
+            -77.526779,
+            43.156487
+          ],
+          [
+            -77.526764,
+            43.156467
+          ],
+          [
+            -77.526749,
+            43.156456
+          ],
+          [
+            -77.526741,
+            43.156445
+          ],
+          [
+            -77.526733,
+            43.156425
+          ],
+          [
+            -77.526741,
+            43.15641
+          ],
+          [
+            -77.526741,
+            43.156364
+          ],
+          [
+            -77.52597,
+            43.155731
+          ],
+          [
+            -77.525955,
+            43.155704
+          ],
+          [
+            -77.525795,
+            43.15556
+          ],
+          [
+            -77.525787,
+            43.15554
+          ],
+          [
+            -77.525757,
+            43.155499
+          ],
+          [
+            -77.525711,
+            43.155396
+          ],
+          [
+            -77.525688,
+            43.155384
+          ],
+          [
+            -77.525665,
+            43.155365
+          ],
+          [
+            -77.525612,
+            43.155281
+          ],
+          [
+            -77.525604,
+            43.155254
+          ],
+          [
+            -77.525589,
+            43.155228
+          ],
+          [
+            -77.525558,
+            43.155132
+          ],
+          [
+            -77.525543,
+            43.155113
+          ],
+          [
+            -77.525536,
+            43.155094
+          ],
+          [
+            -77.525513,
+            43.155064
+          ],
+          [
+            -77.525497,
+            43.155052
+          ],
+          [
+            -77.52549,
+            43.155037
+          ],
+          [
+            -77.525475,
+            43.155022
+          ],
+          [
+            -77.525467,
+            43.155003
+          ],
+          [
+            -77.525467,
+            43.154991
+          ],
+          [
+            -77.525459,
+            43.15498
+          ],
+          [
+            -77.525459,
+            43.154972
+          ],
+          [
+            -77.525444,
+            43.154957
+          ],
+          [
+            -77.525421,
+            43.154892
+          ],
+          [
+            -77.525421,
+            43.154869
+          ],
+          [
+            -77.525414,
+            43.15485
+          ],
+          [
+            -77.525414,
+            43.154663
+          ],
+          [
+            -77.525406,
+            43.154636
+          ],
+          [
+            -77.525414,
+            43.154617
+          ],
+          [
+            -77.525414,
+            43.154537
+          ],
+          [
+            -77.525406,
+            43.154518
+          ],
+          [
+            -77.525406,
+            43.154354
+          ],
+          [
+            -77.52533,
+            43.154163
+          ],
+          [
+            -77.52533,
+            43.154137
+          ],
+          [
+            -77.525322,
+            43.154106
+          ],
+          [
+            -77.525322,
+            43.154049
+          ],
+          [
+            -77.52533,
+            43.154026
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-lmorin:de6031f2",
+        "trailsroc-parkID": "park-lmorin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.529338,
+              43.176695
+            ],
+            [
+              -77.531262,
+              43.172523
+            ],
+            [
+              -77.529088,
+              43.172568
+            ],
+            [
+              -77.52873,
+              43.173073
+            ],
+            [
+              -77.526578,
+              43.173075
+            ],
+            [
+              -77.525651,
+              43.175079
+            ],
+            [
+              -77.523951,
+              43.175031
+            ],
+            [
+              -77.523874,
+              43.175699
+            ],
+            [
+              -77.523329,
+              43.175661
+            ],
+            [
+              -77.523189,
+              43.175235
+            ],
+            [
+              -77.523065,
+              43.173128
+            ],
+            [
+              -77.522881,
+              43.173121
+            ],
+            [
+              -77.525677,
+              43.165772
+            ],
+            [
+              -77.523964,
+              43.16562
+            ],
+            [
+              -77.523948,
+              43.165755
+            ],
+            [
+              -77.523219,
+              43.165703
+            ],
+            [
+              -77.523208,
+              43.165837
+            ],
+            [
+              -77.521742,
+              43.165695
+            ],
+            [
+              -77.521444,
+              43.165429
+            ],
+            [
+              -77.52108,
+              43.165
+            ],
+            [
+              -77.520627,
+              43.164158
+            ],
+            [
+              -77.519452,
+              43.162419
+            ],
+            [
+              -77.519519,
+              43.162386
+            ],
+            [
+              -77.519317,
+              43.162171
+            ],
+            [
+              -77.518505,
+              43.16231
+            ],
+            [
+              -77.518476,
+              43.161923
+            ],
+            [
+              -77.520395,
+              43.157818
+            ],
+            [
+              -77.520614,
+              43.157964
+            ],
+            [
+              -77.520215,
+              43.158995
+            ],
+            [
+              -77.522385,
+              43.158933
+            ],
+            [
+              -77.52244,
+              43.160435
+            ],
+            [
+              -77.523212,
+              43.16011
+            ],
+            [
+              -77.523831,
+              43.160074
+            ],
+            [
+              -77.524047,
+              43.16022
+            ],
+            [
+              -77.5242,
+              43.160462
+            ],
+            [
+              -77.524507,
+              43.160661
+            ],
+            [
+              -77.524809,
+              43.160989
+            ],
+            [
+              -77.525035,
+              43.161019
+            ],
+            [
+              -77.525637,
+              43.160899
+            ],
+            [
+              -77.525954,
+              43.160977
+            ],
+            [
+              -77.526492,
+              43.161237
+            ],
+            [
+              -77.526683,
+              43.161442
+            ],
+            [
+              -77.526852,
+              43.161511
+            ],
+            [
+              -77.526839,
+              43.161736
+            ],
+            [
+              -77.52757,
+              43.161785
+            ],
+            [
+              -77.528081,
+              43.161824
+            ],
+            [
+              -77.528514,
+              43.161696
+            ],
+            [
+              -77.528658,
+              43.161529
+            ],
+            [
+              -77.528566,
+              43.161403
+            ],
+            [
+              -77.528142,
+              43.161359
+            ],
+            [
+              -77.527666,
+              43.161108
+            ],
+            [
+              -77.527789,
+              43.160723
+            ],
+            [
+              -77.528146,
+              43.160268
+            ],
+            [
+              -77.52843,
+              43.160034
+            ],
+            [
+              -77.528439,
+              43.159848
+            ],
+            [
+              -77.528188,
+              43.159658
+            ],
+            [
+              -77.527792,
+              43.159192
+            ],
+            [
+              -77.52739,
+              43.158961
+            ],
+            [
+              -77.527233,
+              43.158611
+            ],
+            [
+              -77.527339,
+              43.157727
+            ],
+            [
+              -77.528886,
+              43.157988
+            ],
+            [
+              -77.528829,
+              43.158158
+            ],
+            [
+              -77.529064,
+              43.158272
+            ],
+            [
+              -77.529445,
+              43.158046
+            ],
+            [
+              -77.530205,
+              43.158186
+            ],
+            [
+              -77.529792,
+              43.159326
+            ],
+            [
+              -77.530843,
+              43.159569
+            ],
+            [
+              -77.529891,
+              43.161513
+            ],
+            [
+              -77.531442,
+              43.16196
+            ],
+            [
+              -77.530222,
+              43.164394
+            ],
+            [
+              -77.530923,
+              43.164873
+            ],
+            [
+              -77.531582,
+              43.16536
+            ],
+            [
+              -77.531963,
+              43.16623
+            ],
+            [
+              -77.532409,
+              43.16634
+            ],
+            [
+              -77.532788,
+              43.16669
+            ],
+            [
+              -77.532973,
+              43.167157
+            ],
+            [
+              -77.532884,
+              43.167606
+            ],
+            [
+              -77.534397,
+              43.167545
+            ],
+            [
+              -77.534417,
+              43.167947
+            ],
+            [
+              -77.534329,
+              43.168265
+            ],
+            [
+              -77.53312,
+              43.169327
+            ],
+            [
+              -77.533237,
+              43.169919
+            ],
+            [
+              -77.533427,
+              43.170153
+            ],
+            [
+              -77.534547,
+              43.170635
+            ],
+            [
+              -77.535377,
+              43.172424
+            ],
+            [
+              -77.534373,
+              43.175142
+            ],
+            [
+              -77.531966,
+              43.175145
+            ],
+            [
+              -77.531771,
+              43.175472
+            ],
+            [
+              -77.531446,
+              43.175441
+            ],
+            [
+              -77.531223,
+              43.175984
+            ],
+            [
+              -77.531376,
+              43.176021
+            ],
+            [
+              -77.530946,
+              43.177093
+            ],
+            [
+              -77.529338,
+              43.176695
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:lmorin:7f371260",
+        "trailsroc-name": "Parking",
+        "trailsroc-shortName": "Parking",
+        "trailsroc-parentIDs": "park-lmorin,trail-lmorin-rifle-range-white",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.523601,
+          43.175439
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:lmorin:db5928dc",
+        "trailsroc-name": "Wetlands Center",
+        "trailsroc-shortName": "Wetlands Center",
+        "trailsroc-parentIDs": "park-lmorin",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.528383,
+          43.172126
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:lmorin:d9e8843e",
+        "trailsroc-name": "Underpass",
+        "trailsroc-shortName": "Underpass",
+        "trailsroc-parentIDs": "park-lmorin",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52703,
+          43.157434
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

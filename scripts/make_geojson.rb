@@ -6,12 +6,10 @@ require 'nokogiri'
 # initialize ################################
 
 $data_version = 5
-$pretty = false #true
+$pretty = true #true
 $dry_run = false
 $source_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/'
-#$dest_dir = '/Users/mike/Downloads/geojson/'
-#$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/geojson/'
-#$gpx_filenames = ['mponds']
+$dest_dir = '/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/geojson/'
 $gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
 $json_filenames = $gpx_filenames
 

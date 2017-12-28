@@ -1,0 +1,4395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-cobbs",
+        "trailsroc-shortName": "Cobbs Hill Park",
+        "trailsroc-name": "Cobbs Hill Park",
+        "trailsroc-url": "http://www.cityofrochester.gov/cobbshill/",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.570838,
+          43.138995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-cobbs-singletrack",
+        "trailsroc-parentID": "park-cobbs",
+        "trailsroc-url": "",
+        "trailsroc-color": "dark_green",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.570182,
+          43.139593000000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-cobbs-reservoir-loop",
+        "trailsroc-parentID": "park-cobbs",
+        "trailsroc-url": "",
+        "trailsroc-color": "blue",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.572092,
+          43.1387
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-cobbs-gravel",
+        "trailsroc-parentID": "park-cobbs",
+        "trailsroc-url": "",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.575445,
+          43.1393135
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:d05687d1",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56768,
+            43.140897
+          ],
+          [
+            -77.567683,
+            43.140797
+          ],
+          [
+            -77.567682,
+            43.140722
+          ],
+          [
+            -77.567658,
+            43.140653
+          ],
+          [
+            -77.567569,
+            43.1406
+          ],
+          [
+            -77.567472,
+            43.140561
+          ],
+          [
+            -77.567414,
+            43.140491
+          ],
+          [
+            -77.567284,
+            43.140426
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:7330df08",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566603,
+            43.140726
+          ],
+          [
+            -77.566648,
+            43.140737
+          ],
+          [
+            -77.566725,
+            43.140751
+          ],
+          [
+            -77.566793,
+            43.140778
+          ],
+          [
+            -77.566886,
+            43.140814
+          ],
+          [
+            -77.567007,
+            43.140835
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:c1211dcd",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567794,
+            43.139426
+          ],
+          [
+            -77.567805,
+            43.139363
+          ],
+          [
+            -77.56788,
+            43.139254
+          ],
+          [
+            -77.567912,
+            43.139144
+          ],
+          [
+            -77.567944,
+            43.139027
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:86dda610",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563889,
+            43.139747
+          ],
+          [
+            -77.563815,
+            43.139694
+          ],
+          [
+            -77.56374,
+            43.139653
+          ],
+          [
+            -77.563632,
+            43.139623
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:2f30647b",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565841,
+            43.141117
+          ],
+          [
+            -77.5657,
+            43.141116
+          ],
+          [
+            -77.565543,
+            43.141064
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:c4aa595e",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565543,
+            43.141064
+          ],
+          [
+            -77.565409,
+            43.140979
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:f3c30ba4",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565409,
+            43.140979
+          ],
+          [
+            -77.565277,
+            43.140978
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:d442fe67",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565277,
+            43.140978
+          ],
+          [
+            -77.565144,
+            43.14104
+          ],
+          [
+            -77.564983,
+            43.141086
+          ],
+          [
+            -77.564897,
+            43.141125
+          ],
+          [
+            -77.564768,
+            43.141195
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:b01cebf7",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564768,
+            43.141195
+          ],
+          [
+            -77.564576,
+            43.141233
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:86ab570a",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564576,
+            43.141233
+          ],
+          [
+            -77.564468,
+            43.141291
+          ],
+          [
+            -77.564329,
+            43.141342
+          ],
+          [
+            -77.564167,
+            43.141352
+          ],
+          [
+            -77.563937,
+            43.141386
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:f42be19d",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563937,
+            43.141386
+          ],
+          [
+            -77.563869,
+            43.141239
+          ],
+          [
+            -77.563861,
+            43.141102
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:8d702ac6",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563861,
+            43.141102
+          ],
+          [
+            -77.563695,
+            43.141
+          ],
+          [
+            -77.563539,
+            43.140993
+          ],
+          [
+            -77.563396,
+            43.141038
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:5cb9e7a0",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563396,
+            43.141038
+          ],
+          [
+            -77.563357,
+            43.14101
+          ],
+          [
+            -77.563395,
+            43.140929
+          ],
+          [
+            -77.563502,
+            43.140804
+          ],
+          [
+            -77.563717,
+            43.140624
+          ],
+          [
+            -77.563845,
+            43.140548
+          ],
+          [
+            -77.563942,
+            43.140459
+          ],
+          [
+            -77.564114,
+            43.140302
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9f0bf893",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564114,
+            43.140302
+          ],
+          [
+            -77.564053,
+            43.140169
+          ],
+          [
+            -77.563931,
+            43.14004
+          ],
+          [
+            -77.56387,
+            43.139989
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9b1c0e70",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56387,
+            43.139989
+          ],
+          [
+            -77.563804,
+            43.139935
+          ],
+          [
+            -77.563821,
+            43.139809
+          ],
+          [
+            -77.563889,
+            43.139747
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:45adcfe7",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569977,
+            43.141303
+          ],
+          [
+            -77.569817,
+            43.140901
+          ],
+          [
+            -77.569661,
+            43.140863
+          ],
+          [
+            -77.569312,
+            43.140769
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:97d175a4",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569312,
+            43.140769
+          ],
+          [
+            -77.569194,
+            43.140748
+          ],
+          [
+            -77.569073,
+            43.140707
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:956ec5a2",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569073,
+            43.140707
+          ],
+          [
+            -77.568883,
+            43.140624
+          ],
+          [
+            -77.568712,
+            43.140499
+          ],
+          [
+            -77.568572,
+            43.140358
+          ],
+          [
+            -77.568433,
+            43.140241
+          ],
+          [
+            -77.568223,
+            43.140185
+          ],
+          [
+            -77.568064,
+            43.140166
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:62c90223",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568064,
+            43.140166
+          ],
+          [
+            -77.568289,
+            43.140047
+          ],
+          [
+            -77.568485,
+            43.139963
+          ],
+          [
+            -77.568743,
+            43.139884
+          ],
+          [
+            -77.56904,
+            43.139816
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:cff00a46",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565409,
+            43.140979
+          ],
+          [
+            -77.565469,
+            43.140937
+          ],
+          [
+            -77.565539,
+            43.140887
+          ],
+          [
+            -77.565581,
+            43.140806
+          ],
+          [
+            -77.565667,
+            43.140712
+          ],
+          [
+            -77.565732,
+            43.140665
+          ],
+          [
+            -77.565839,
+            43.140657
+          ],
+          [
+            -77.565966,
+            43.140726
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:e7ccfaf8",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565966,
+            43.140726
+          ],
+          [
+            -77.566053,
+            43.140806
+          ],
+          [
+            -77.566062,
+            43.140882
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:789ab5d7",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567697,
+            43.139857
+          ],
+          [
+            -77.567633,
+            43.139856
+          ],
+          [
+            -77.567537,
+            43.139862
+          ],
+          [
+            -77.567473,
+            43.139853
+          ],
+          [
+            -77.567392,
+            43.139849
+          ],
+          [
+            -77.56736,
+            43.139829
+          ],
+          [
+            -77.567322,
+            43.139802
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:503b99fc",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568924,
+            43.138494
+          ],
+          [
+            -77.568699,
+            43.138446
+          ],
+          [
+            -77.568594,
+            43.138409
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:5bd644c2",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565581,
+            43.140806
+          ],
+          [
+            -77.565546,
+            43.140766
+          ],
+          [
+            -77.565512,
+            43.14074
+          ],
+          [
+            -77.565447,
+            43.140741
+          ],
+          [
+            -77.565458,
+            43.140688
+          ],
+          [
+            -77.565427,
+            43.140645
+          ],
+          [
+            -77.565418,
+            43.140559
+          ],
+          [
+            -77.565442,
+            43.14049
+          ],
+          [
+            -77.565466,
+            43.140444
+          ],
+          [
+            -77.565447,
+            43.140406
+          ],
+          [
+            -77.565394,
+            43.140377
+          ],
+          [
+            -77.565335,
+            43.14026
+          ],
+          [
+            -77.565327,
+            43.140228
+          ],
+          [
+            -77.565351,
+            43.140197
+          ],
+          [
+            -77.56537,
+            43.140142
+          ],
+          [
+            -77.565311,
+            43.140096
+          ],
+          [
+            -77.565329,
+            43.140056
+          ],
+          [
+            -77.565415,
+            43.140015
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:ec859345",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565415,
+            43.140015
+          ],
+          [
+            -77.565353,
+            43.139962
+          ],
+          [
+            -77.565319,
+            43.139845
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:784b5b77",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565319,
+            43.139845
+          ],
+          [
+            -77.565217,
+            43.139874
+          ],
+          [
+            -77.565083,
+            43.139874
+          ],
+          [
+            -77.564999,
+            43.139899
+          ],
+          [
+            -77.564946,
+            43.139927
+          ],
+          [
+            -77.564911,
+            43.13996
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:919e7f19",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564911,
+            43.13996
+          ],
+          [
+            -77.564814,
+            43.139915
+          ],
+          [
+            -77.564723,
+            43.13989
+          ],
+          [
+            -77.564648,
+            43.139872
+          ],
+          [
+            -77.56456,
+            43.139878
+          ],
+          [
+            -77.564469,
+            43.139902
+          ],
+          [
+            -77.564386,
+            43.139931
+          ],
+          [
+            -77.564291,
+            43.13995
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:556dc15a",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564151,
+            43.139867
+          ],
+          [
+            -77.564291,
+            43.13995
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9b1fd3f3",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564291,
+            43.13995
+          ],
+          [
+            -77.564342,
+            43.13998
+          ],
+          [
+            -77.564404,
+            43.140021
+          ],
+          [
+            -77.564479,
+            43.14005
+          ],
+          [
+            -77.564514,
+            43.140068
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:14787875",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564514,
+            43.140068
+          ],
+          [
+            -77.564562,
+            43.140093
+          ],
+          [
+            -77.56464,
+            43.140124
+          ],
+          [
+            -77.56472,
+            43.140209
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:93e652d6",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56472,
+            43.140209
+          ],
+          [
+            -77.564787,
+            43.140279
+          ],
+          [
+            -77.564847,
+            43.140316
+          ],
+          [
+            -77.564932,
+            43.140418
+          ],
+          [
+            -77.564994,
+            43.140438
+          ],
+          [
+            -77.565053,
+            43.140516
+          ],
+          [
+            -77.565069,
+            43.140592
+          ],
+          [
+            -77.565136,
+            43.140673
+          ],
+          [
+            -77.565235,
+            43.140718
+          ],
+          [
+            -77.565321,
+            43.140761
+          ],
+          [
+            -77.565392,
+            43.140757
+          ],
+          [
+            -77.565453,
+            43.140835
+          ],
+          [
+            -77.565539,
+            43.140887
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9e468158",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565415,
+            43.140015
+          ],
+          [
+            -77.56548,
+            43.139994
+          ],
+          [
+            -77.56555,
+            43.139961
+          ],
+          [
+            -77.56563,
+            43.139939
+          ],
+          [
+            -77.56574,
+            43.139918
+          ],
+          [
+            -77.565837,
+            43.139894
+          ],
+          [
+            -77.56592,
+            43.139876
+          ],
+          [
+            -77.566006,
+            43.139884
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:4f11fe6b",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566006,
+            43.139884
+          ],
+          [
+            -77.566095,
+            43.139894
+          ],
+          [
+            -77.566172,
+            43.139892
+          ],
+          [
+            -77.566285,
+            43.13989
+          ],
+          [
+            -77.566373,
+            43.139888
+          ],
+          [
+            -77.566457,
+            43.139861
+          ],
+          [
+            -77.566575,
+            43.139822
+          ],
+          [
+            -77.566679,
+            43.1398
+          ],
+          [
+            -77.566789,
+            43.139794
+          ],
+          [
+            -77.566913,
+            43.139783
+          ],
+          [
+            -77.56702,
+            43.139794
+          ],
+          [
+            -77.567111,
+            43.139818
+          ],
+          [
+            -77.567173,
+            43.139839
+          ],
+          [
+            -77.567215,
+            43.139872
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:7f01d5ae",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56787,
+            43.140074
+          ],
+          [
+            -77.567687,
+            43.140123
+          ],
+          [
+            -77.567579,
+            43.14017
+          ],
+          [
+            -77.56744,
+            43.140248
+          ],
+          [
+            -77.567333,
+            43.140326
+          ],
+          [
+            -77.567319,
+            43.140354
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:1751933d",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567319,
+            43.140354
+          ],
+          [
+            -77.567284,
+            43.140426
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:1022c5e8",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567284,
+            43.140426
+          ],
+          [
+            -77.567204,
+            43.140491
+          ],
+          [
+            -77.567146,
+            43.140577
+          ],
+          [
+            -77.567089,
+            43.140673
+          ],
+          [
+            -77.567054,
+            43.140722
+          ],
+          [
+            -77.567023,
+            43.140779
+          ],
+          [
+            -77.567007,
+            43.140835
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:2e4fa083",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567007,
+            43.140835
+          ],
+          [
+            -77.567001,
+            43.140855
+          ],
+          [
+            -77.567012,
+            43.140934
+          ],
+          [
+            -77.567019,
+            43.141002
+          ],
+          [
+            -77.566995,
+            43.141062
+          ],
+          [
+            -77.566796,
+            43.141078
+          ],
+          [
+            -77.566699,
+            43.141093
+          ],
+          [
+            -77.566549,
+            43.141156
+          ],
+          [
+            -77.566421,
+            43.141187
+          ],
+          [
+            -77.566185,
+            43.141211
+          ],
+          [
+            -77.566015,
+            43.141249
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:a753b441",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566015,
+            43.141249
+          ],
+          [
+            -77.565841,
+            43.141117
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:cdc587b7",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565841,
+            43.141117
+          ],
+          [
+            -77.565966,
+            43.141023
+          ],
+          [
+            -77.566062,
+            43.140882
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9d3da589",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566062,
+            43.140882
+          ],
+          [
+            -77.566233,
+            43.140828
+          ],
+          [
+            -77.566413,
+            43.140778
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:3c5cd6b8",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566413,
+            43.140778
+          ],
+          [
+            -77.566459,
+            43.140765
+          ],
+          [
+            -77.566603,
+            43.140726
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:2b7ce57e",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566603,
+            43.140726
+          ],
+          [
+            -77.566759,
+            43.140608
+          ],
+          [
+            -77.566941,
+            43.140452
+          ],
+          [
+            -77.567006,
+            43.140287
+          ],
+          [
+            -77.567057,
+            43.140218
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:868e3418",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567057,
+            43.140218
+          ],
+          [
+            -77.567161,
+            43.140076
+          ],
+          [
+            -77.567215,
+            43.139872
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:560a2e1e",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567215,
+            43.139872
+          ],
+          [
+            -77.567322,
+            43.139802
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:0cb0ab48",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567322,
+            43.139802
+          ],
+          [
+            -77.567456,
+            43.139708
+          ],
+          [
+            -77.567585,
+            43.139559
+          ],
+          [
+            -77.567794,
+            43.139426
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:01be7410",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567794,
+            43.139426
+          ],
+          [
+            -77.567783,
+            43.139528
+          ],
+          [
+            -77.56774,
+            43.139637
+          ],
+          [
+            -77.567708,
+            43.139802
+          ],
+          [
+            -77.567697,
+            43.139857
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:befe5230",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567697,
+            43.139857
+          ],
+          [
+            -77.567676,
+            43.139958
+          ],
+          [
+            -77.567768,
+            43.140037
+          ],
+          [
+            -77.56787,
+            43.140074
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:2746e1ba",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56787,
+            43.140074
+          ],
+          [
+            -77.567939,
+            43.1401
+          ],
+          [
+            -77.568064,
+            43.140166
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:b035a2e1",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563861,
+            43.141102
+          ],
+          [
+            -77.563878,
+            43.14101
+          ],
+          [
+            -77.563953,
+            43.140848
+          ],
+          [
+            -77.564175,
+            43.140743
+          ],
+          [
+            -77.564409,
+            43.140589
+          ],
+          [
+            -77.564569,
+            43.140427
+          ],
+          [
+            -77.56472,
+            43.140209
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:af5bcd0e",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564911,
+            43.13996
+          ],
+          [
+            -77.564779,
+            43.139982
+          ],
+          [
+            -77.56464,
+            43.140017
+          ],
+          [
+            -77.564514,
+            43.140068
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:53b8a902",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564514,
+            43.140068
+          ],
+          [
+            -77.564392,
+            43.140129
+          ],
+          [
+            -77.564368,
+            43.140148
+          ],
+          [
+            -77.564228,
+            43.14026
+          ],
+          [
+            -77.564114,
+            43.140302
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:ef7d88d6",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563889,
+            43.139747
+          ],
+          [
+            -77.564038,
+            43.139665
+          ],
+          [
+            -77.564197,
+            43.139517
+          ],
+          [
+            -77.56436,
+            43.139335
+          ],
+          [
+            -77.56456,
+            43.139157
+          ],
+          [
+            -77.564836,
+            43.138904
+          ],
+          [
+            -77.564926,
+            43.138863
+          ],
+          [
+            -77.565012,
+            43.138842
+          ],
+          [
+            -77.565073,
+            43.138869
+          ],
+          [
+            -77.565118,
+            43.138914
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:49ddd50c",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564092,
+            43.139872
+          ],
+          [
+            -77.56387,
+            43.139989
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:1280be74",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567057,
+            43.140218
+          ],
+          [
+            -77.567319,
+            43.140354
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:87328ac1",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565319,
+            43.139845
+          ],
+          [
+            -77.565949,
+            43.138896
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:699176c5",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565966,
+            43.140726
+          ],
+          [
+            -77.566082,
+            43.140589
+          ],
+          [
+            -77.566113,
+            43.140517
+          ],
+          [
+            -77.566106,
+            43.140396
+          ],
+          [
+            -77.566032,
+            43.140274
+          ],
+          [
+            -77.565989,
+            43.140162
+          ],
+          [
+            -77.566063,
+            43.14005
+          ],
+          [
+            -77.566076,
+            43.139978
+          ],
+          [
+            -77.566006,
+            43.139884
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:362a5472",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565281,
+            43.141174
+          ],
+          [
+            -77.565543,
+            43.141064
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:8b7398d0",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565277,
+            43.140978
+          ],
+          [
+            -77.564547,
+            43.141043
+          ],
+          [
+            -77.564398,
+            43.14108
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:119b64b9",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564398,
+            43.14108
+          ],
+          [
+            -77.564307,
+            43.141102
+          ],
+          [
+            -77.563999,
+            43.141115
+          ],
+          [
+            -77.563861,
+            43.141102
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:09d67ef0",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563396,
+            43.141038
+          ],
+          [
+            -77.562988,
+            43.141363
+          ],
+          [
+            -77.563101,
+            43.141632
+          ],
+          [
+            -77.563174,
+            43.141806
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:1e645f62",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563937,
+            43.141386
+          ],
+          [
+            -77.563789,
+            43.141407
+          ],
+          [
+            -77.563654,
+            43.141457
+          ],
+          [
+            -77.563101,
+            43.141632
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:d591892b",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564576,
+            43.141233
+          ],
+          [
+            -77.564398,
+            43.14108
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:4f7b2d00",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.576788,
+            43.137406
+          ],
+          [
+            -77.576994,
+            43.137637
+          ],
+          [
+            -77.576911,
+            43.137715
+          ],
+          [
+            -77.576831,
+            43.137819
+          ],
+          [
+            -77.57675,
+            43.137897
+          ],
+          [
+            -77.57667,
+            43.137995
+          ],
+          [
+            -77.576611,
+            43.13806
+          ],
+          [
+            -77.576554,
+            43.13813
+          ],
+          [
+            -77.576506,
+            43.138199
+          ],
+          [
+            -77.576452,
+            43.138259
+          ],
+          [
+            -77.57638,
+            43.13831
+          ],
+          [
+            -77.576294,
+            43.138377
+          ],
+          [
+            -77.576184,
+            43.138432
+          ],
+          [
+            -77.576093,
+            43.138475
+          ],
+          [
+            -77.576042,
+            43.138516
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:1daace27",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.576042,
+            43.138516
+          ],
+          [
+            -77.576319,
+            43.138759
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:45dcff93",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.570155,
+            43.139982
+          ],
+          [
+            -77.570623,
+            43.139987
+          ],
+          [
+            -77.570784,
+            43.140008
+          ],
+          [
+            -77.570953,
+            43.140032
+          ],
+          [
+            -77.571135,
+            43.140057
+          ],
+          [
+            -77.571348,
+            43.140073
+          ],
+          [
+            -77.571483,
+            43.140066
+          ],
+          [
+            -77.571616,
+            43.140044
+          ],
+          [
+            -77.571779,
+            43.140012
+          ],
+          [
+            -77.57197,
+            43.139974
+          ],
+          [
+            -77.572124,
+            43.139938
+          ],
+          [
+            -77.572327,
+            43.139879
+          ],
+          [
+            -77.572552,
+            43.139808
+          ],
+          [
+            -77.57278,
+            43.139731
+          ],
+          [
+            -77.572925,
+            43.139688
+          ],
+          [
+            -77.573128,
+            43.139607
+          ],
+          [
+            -77.57323,
+            43.139576
+          ],
+          [
+            -77.573363,
+            43.139542
+          ],
+          [
+            -77.57351,
+            43.139479
+          ],
+          [
+            -77.573655,
+            43.139414
+          ],
+          [
+            -77.573785,
+            43.139365
+          ],
+          [
+            -77.573963,
+            43.139284
+          ],
+          [
+            -77.574127,
+            43.139218
+          ],
+          [
+            -77.574256,
+            43.139147
+          ],
+          [
+            -77.574355,
+            43.13907
+          ],
+          [
+            -77.574506,
+            43.138973
+          ],
+          [
+            -77.57462,
+            43.138892
+          ],
+          [
+            -77.574737,
+            43.1388
+          ],
+          [
+            -77.574854,
+            43.138713
+          ],
+          [
+            -77.574936,
+            43.138627
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:b81e341f",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.575532,
+            43.138825
+          ],
+          [
+            -77.575327,
+            43.139088
+          ],
+          [
+            -77.575294,
+            43.13911
+          ],
+          [
+            -77.575118,
+            43.139225
+          ],
+          [
+            -77.574876,
+            43.13937
+          ],
+          [
+            -77.574645,
+            43.139511
+          ],
+          [
+            -77.574372,
+            43.139652
+          ],
+          [
+            -77.5742,
+            43.139734
+          ],
+          [
+            -77.573991,
+            43.139797
+          ],
+          [
+            -77.573787,
+            43.139875
+          ],
+          [
+            -77.573557,
+            43.139961
+          ],
+          [
+            -77.573363,
+            43.14004
+          ],
+          [
+            -77.573171,
+            43.140124
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-reservoir-loop:272a6862",
+        "trailsroc-trailIDs": "trail-cobbs-reservoir-loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.57411,
+            43.138944
+          ],
+          [
+            -77.57394,
+            43.139028
+          ],
+          [
+            -77.573667,
+            43.13911
+          ],
+          [
+            -77.573425,
+            43.139165
+          ],
+          [
+            -77.573174,
+            43.13921
+          ],
+          [
+            -77.572885,
+            43.139233
+          ],
+          [
+            -77.572643,
+            43.139248
+          ],
+          [
+            -77.572407,
+            43.139265
+          ],
+          [
+            -77.572145,
+            43.139312
+          ],
+          [
+            -77.571926,
+            43.139363
+          ],
+          [
+            -77.571732,
+            43.139425
+          ],
+          [
+            -77.571538,
+            43.139494
+          ],
+          [
+            -77.571367,
+            43.13957
+          ],
+          [
+            -77.571202,
+            43.139645
+          ],
+          [
+            -77.571046,
+            43.139731
+          ],
+          [
+            -77.570829,
+            43.139804
+          ],
+          [
+            -77.570624,
+            43.139823
+          ],
+          [
+            -77.570386,
+            43.139818
+          ],
+          [
+            -77.570215,
+            43.139772
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-reservoir-loop:f606b9c1",
+        "trailsroc-trailIDs": "trail-cobbs-reservoir-loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.570215,
+            43.139772
+          ],
+          [
+            -77.569995,
+            43.139694
+          ],
+          [
+            -77.569786,
+            43.139564
+          ],
+          [
+            -77.569641,
+            43.139431
+          ],
+          [
+            -77.569531,
+            43.139276
+          ],
+          [
+            -77.569467,
+            43.139147
+          ],
+          [
+            -77.569429,
+            43.139029
+          ],
+          [
+            -77.569402,
+            43.138939
+          ],
+          [
+            -77.569402,
+            43.138853
+          ],
+          [
+            -77.569397,
+            43.138748
+          ],
+          [
+            -77.569408,
+            43.138646
+          ],
+          [
+            -77.569445,
+            43.138505
+          ],
+          [
+            -77.569499,
+            43.138403
+          ],
+          [
+            -77.569569,
+            43.138286
+          ],
+          [
+            -77.569692,
+            43.138156
+          ],
+          [
+            -77.569821,
+            43.138035
+          ],
+          [
+            -77.569923,
+            43.137957
+          ],
+          [
+            -77.570062,
+            43.137878
+          ],
+          [
+            -77.570239,
+            43.137816
+          ],
+          [
+            -77.5704,
+            43.137769
+          ],
+          [
+            -77.570577,
+            43.137734
+          ],
+          [
+            -77.57378,
+            43.137577
+          ],
+          [
+            -77.57401,
+            43.137595
+          ],
+          [
+            -77.574205,
+            43.137648
+          ],
+          [
+            -77.574371,
+            43.137721
+          ],
+          [
+            -77.5745,
+            43.137811
+          ],
+          [
+            -77.574586,
+            43.137905
+          ],
+          [
+            -77.57464,
+            43.137984
+          ],
+          [
+            -77.574665,
+            43.138023
+          ],
+          [
+            -77.574736,
+            43.138022
+          ],
+          [
+            -77.574775,
+            43.13814
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-reservoir-loop:adf6bcc4",
+        "trailsroc-trailIDs": "trail-cobbs-reservoir-loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.574775,
+            43.13814
+          ],
+          [
+            -77.574787,
+            43.138202
+          ],
+          [
+            -77.574728,
+            43.138246
+          ],
+          [
+            -77.574704,
+            43.138344
+          ],
+          [
+            -77.574649,
+            43.138488
+          ],
+          [
+            -77.574571,
+            43.138614
+          ],
+          [
+            -77.574468,
+            43.138736
+          ],
+          [
+            -77.574327,
+            43.138832
+          ],
+          [
+            -77.574121,
+            43.138934
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-gravel:25e553f0",
+        "trailsroc-trailIDs": "trail-cobbs-gravel",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.577193,
+            43.137352
+          ],
+          [
+            -77.576958,
+            43.13738
+          ],
+          [
+            -77.576788,
+            43.137406
+          ],
+          [
+            -77.576723,
+            43.137416
+          ],
+          [
+            -77.576493,
+            43.137485
+          ],
+          [
+            -77.576317,
+            43.137565
+          ],
+          [
+            -77.576119,
+            43.13769
+          ],
+          [
+            -77.575922,
+            43.137834
+          ],
+          [
+            -77.575725,
+            43.137928
+          ],
+          [
+            -77.575476,
+            43.138022
+          ],
+          [
+            -77.575321,
+            43.138059
+          ],
+          [
+            -77.57515,
+            43.138095
+          ],
+          [
+            -77.575058,
+            43.138109
+          ],
+          [
+            -77.574786,
+            43.138151
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:0a429fa8",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568245,
+            43.138581
+          ],
+          [
+            -77.568764,
+            43.138909
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:4a8ac818",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568764,
+            43.138909
+          ],
+          [
+            -77.568022,
+            43.138946
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:43334cf1",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563889,
+            43.139747
+          ],
+          [
+            -77.563933,
+            43.13981
+          ],
+          [
+            -77.563996,
+            43.139825
+          ],
+          [
+            -77.564092,
+            43.139872
+          ],
+          [
+            -77.564151,
+            43.139867
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:768fcc7b",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564151,
+            43.139867
+          ],
+          [
+            -77.564436,
+            43.139629
+          ],
+          [
+            -77.564493,
+            43.139526
+          ],
+          [
+            -77.564616,
+            43.139328
+          ],
+          [
+            -77.564747,
+            43.139254
+          ],
+          [
+            -77.564854,
+            43.139152
+          ],
+          [
+            -77.565026,
+            43.139042
+          ],
+          [
+            -77.565118,
+            43.138914
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:282d15ca",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565118,
+            43.138914
+          ],
+          [
+            -77.56524,
+            43.138928
+          ],
+          [
+            -77.565372,
+            43.138907
+          ],
+          [
+            -77.565595,
+            43.138917
+          ],
+          [
+            -77.565803,
+            43.138868
+          ],
+          [
+            -77.565949,
+            43.138896
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:ff2a4c49",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565949,
+            43.138896
+          ],
+          [
+            -77.566217,
+            43.138886
+          ],
+          [
+            -77.566458,
+            43.13881
+          ],
+          [
+            -77.566706,
+            43.138764
+          ],
+          [
+            -77.566861,
+            43.138745
+          ],
+          [
+            -77.567004,
+            43.138797
+          ],
+          [
+            -77.567175,
+            43.138852
+          ],
+          [
+            -77.567335,
+            43.138898
+          ],
+          [
+            -77.5676,
+            43.138952
+          ],
+          [
+            -77.567944,
+            43.139027
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:76444451",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567944,
+            43.139027
+          ],
+          [
+            -77.568022,
+            43.138946
+          ],
+          [
+            -77.568057,
+            43.13891
+          ],
+          [
+            -77.568111,
+            43.138769
+          ],
+          [
+            -77.568245,
+            43.138581
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:a328a8af",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568245,
+            43.138581
+          ],
+          [
+            -77.568384,
+            43.138541
+          ],
+          [
+            -77.568594,
+            43.138409
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:e6e34663",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568594,
+            43.138409
+          ],
+          [
+            -77.568738,
+            43.13822
+          ],
+          [
+            -77.568873,
+            43.137879
+          ],
+          [
+            -77.568934,
+            43.137749
+          ],
+          [
+            -77.569132,
+            43.137682
+          ],
+          [
+            -77.56952,
+            43.137668
+          ],
+          [
+            -77.569645,
+            43.137732
+          ],
+          [
+            -77.569782,
+            43.137801
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:89f84217",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.566015,
+            43.141249
+          ],
+          [
+            -77.565881,
+            43.141317
+          ],
+          [
+            -77.565472,
+            43.141547
+          ],
+          [
+            -77.565281,
+            43.141174
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:8e4843b4",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565281,
+            43.141174
+          ],
+          [
+            -77.564768,
+            43.141195
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:49bb4b16",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.576958,
+            43.13738
+          ],
+          [
+            -77.577086,
+            43.137439
+          ],
+          [
+            -77.57728,
+            43.137493
+          ],
+          [
+            -77.577355,
+            43.137588
+          ],
+          [
+            -77.577376,
+            43.137689
+          ],
+          [
+            -77.577376,
+            43.137783
+          ],
+          [
+            -77.577247,
+            43.137979
+          ],
+          [
+            -77.577,
+            43.138261
+          ],
+          [
+            -77.576818,
+            43.138456
+          ],
+          [
+            -77.576319,
+            43.138759
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:d73aa8a1",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.576319,
+            43.138759
+          ],
+          [
+            -77.57625,
+            43.138801
+          ],
+          [
+            -77.576153,
+            43.138989
+          ],
+          [
+            -77.575981,
+            43.139185
+          ],
+          [
+            -77.575654,
+            43.139537
+          ],
+          [
+            -77.575397,
+            43.139743
+          ],
+          [
+            -77.575075,
+            43.139831
+          ],
+          [
+            -77.574484,
+            43.139848
+          ],
+          [
+            -77.573952,
+            43.140052
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:0f22b24e",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.573952,
+            43.140052
+          ],
+          [
+            -77.573933,
+            43.140291
+          ],
+          [
+            -77.573775,
+            43.140742
+          ],
+          [
+            -77.573697,
+            43.141275
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:765e2b90",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.576042,
+            43.138516
+          ],
+          [
+            -77.575795,
+            43.138867
+          ],
+          [
+            -77.57553,
+            43.138818
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:31bcc382",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.57553,
+            43.138818
+          ],
+          [
+            -77.575422,
+            43.13876
+          ],
+          [
+            -77.57547,
+            43.138607
+          ],
+          [
+            -77.575411,
+            43.13856
+          ],
+          [
+            -77.575125,
+            43.138863
+          ],
+          [
+            -77.575012,
+            43.138871
+          ],
+          [
+            -77.575019,
+            43.138631
+          ],
+          [
+            -77.574936,
+            43.138627
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:0e690070",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569645,
+            43.137732
+          ],
+          [
+            -77.569415,
+            43.137934
+          ],
+          [
+            -77.56915,
+            43.138095
+          ],
+          [
+            -77.569045,
+            43.138262
+          ],
+          [
+            -77.568941,
+            43.138498
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:5397d3db",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568941,
+            43.138498
+          ],
+          [
+            -77.568764,
+            43.138909
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:c6de937b",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.568764,
+            43.138909
+          ],
+          [
+            -77.568633,
+            43.139213
+          ],
+          [
+            -77.568966,
+            43.139712
+          ],
+          [
+            -77.569043,
+            43.139815
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:bdc9299a",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569043,
+            43.139815
+          ],
+          [
+            -77.569218,
+            43.140032
+          ],
+          [
+            -77.569317,
+            43.140126
+          ],
+          [
+            -77.569496,
+            43.140131
+          ],
+          [
+            -77.569748,
+            43.140126
+          ],
+          [
+            -77.569914,
+            43.140063
+          ],
+          [
+            -77.570155,
+            43.139982
+          ],
+          [
+            -77.570253,
+            43.139858
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9cc91574",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.565841,
+            43.141117
+          ],
+          [
+            -77.566088,
+            43.141115
+          ],
+          [
+            -77.56631,
+            43.141039
+          ],
+          [
+            -77.566365,
+            43.140944
+          ],
+          [
+            -77.566365,
+            43.140944
+          ],
+          [
+            -77.566413,
+            43.140778
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:4c00cb68",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569315,
+            43.14077
+          ],
+          [
+            -77.569595,
+            43.140701
+          ],
+          [
+            -77.569626,
+            43.140675
+          ],
+          [
+            -77.569763,
+            43.14056
+          ],
+          [
+            -77.569794,
+            43.14053
+          ],
+          [
+            -77.569908,
+            43.140511
+          ],
+          [
+            -77.570007,
+            43.140499
+          ],
+          [
+            -77.57016,
+            43.140518
+          ],
+          [
+            -77.570358,
+            43.140598
+          ],
+          [
+            -77.570557,
+            43.140671
+          ],
+          [
+            -77.57074,
+            43.140717
+          ],
+          [
+            -77.570816,
+            43.140747
+          ],
+          [
+            -77.570877,
+            43.140747
+          ],
+          [
+            -77.571022,
+            43.14085
+          ],
+          [
+            -77.571045,
+            43.1409
+          ],
+          [
+            -77.571053,
+            43.140926
+          ],
+          [
+            -77.57122,
+            43.141003
+          ],
+          [
+            -77.571541,
+            43.14098
+          ],
+          [
+            -77.571823,
+            43.140877
+          ],
+          [
+            -77.572098,
+            43.140774
+          ],
+          [
+            -77.572365,
+            43.140682
+          ],
+          [
+            -77.572556,
+            43.140587
+          ],
+          [
+            -77.572769,
+            43.140465
+          ],
+          [
+            -77.573006,
+            43.14035
+          ],
+          [
+            -77.57317,
+            43.140122
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:9fe173c2",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.57317,
+            43.140122
+          ],
+          [
+            -77.573524,
+            43.140144
+          ],
+          [
+            -77.57394,
+            43.140054
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-cobbs-singletrack:29455558",
+        "trailsroc-trailIDs": "trail-cobbs-singletrack",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56907,
+            43.140717
+          ],
+          [
+            -77.569107,
+            43.14098
+          ],
+          [
+            -77.569092,
+            43.141064
+          ],
+          [
+            -77.569038,
+            43.141155
+          ],
+          [
+            -77.568954,
+            43.141266
+          ],
+          [
+            -77.568924,
+            43.1413
+          ],
+          [
+            -77.568878,
+            43.14138
+          ],
+          [
+            -77.568863,
+            43.141403
+          ],
+          [
+            -77.568855,
+            43.141422
+          ],
+          [
+            -77.568855,
+            43.14143
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-cobbs:fed0ef6e",
+        "trailsroc-parkID": "park-cobbs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.578288,
+              43.137816
+            ],
+            [
+              -77.575536,
+              43.136209
+            ],
+            [
+              -77.57514,
+              43.136322
+            ],
+            [
+              -77.57476,
+              43.136355
+            ],
+            [
+              -77.572497,
+              43.136403
+            ],
+            [
+              -77.57214,
+              43.136389
+            ],
+            [
+              -77.57192,
+              43.136865
+            ],
+            [
+              -77.5717,
+              43.136932
+            ],
+            [
+              -77.571619,
+              43.137091
+            ],
+            [
+              -77.571334,
+              43.137254
+            ],
+            [
+              -77.570653,
+              43.137369
+            ],
+            [
+              -77.568966,
+              43.137603
+            ],
+            [
+              -77.568142,
+              43.138431
+            ],
+            [
+              -77.567775,
+              43.138558
+            ],
+            [
+              -77.567015,
+              43.138698
+            ],
+            [
+              -77.566074,
+              43.138703
+            ],
+            [
+              -77.564052,
+              43.138765
+            ],
+            [
+              -77.563891,
+              43.138825
+            ],
+            [
+              -77.563552,
+              43.140116
+            ],
+            [
+              -77.563327,
+              43.140497
+            ],
+            [
+              -77.562979,
+              43.141336
+            ],
+            [
+              -77.562719,
+              43.141607
+            ],
+            [
+              -77.562835,
+              43.141707
+            ],
+            [
+              -77.566261,
+              43.141569
+            ],
+            [
+              -77.566248,
+              43.141662
+            ],
+            [
+              -77.568158,
+              43.141524
+            ],
+            [
+              -77.568523,
+              43.141643
+            ],
+            [
+              -77.569786,
+              43.141269
+            ],
+            [
+              -77.570666,
+              43.141146
+            ],
+            [
+              -77.571251,
+              43.14106
+            ],
+            [
+              -77.573405,
+              43.14054
+            ],
+            [
+              -77.573509,
+              43.140768
+            ],
+            [
+              -77.572451,
+              43.141069
+            ],
+            [
+              -77.572704,
+              43.14153
+            ],
+            [
+              -77.570423,
+              43.142081
+            ],
+            [
+              -77.569592,
+              43.142197
+            ],
+            [
+              -77.568928,
+              43.142342
+            ],
+            [
+              -77.568473,
+              43.142531
+            ],
+            [
+              -77.567891,
+              43.142917
+            ],
+            [
+              -77.567131,
+              43.14339
+            ],
+            [
+              -77.566268,
+              43.143692
+            ],
+            [
+              -77.566379,
+              43.143946
+            ],
+            [
+              -77.568881,
+              43.143522
+            ],
+            [
+              -77.57165,
+              43.143173
+            ],
+            [
+              -77.57534,
+              43.142991
+            ],
+            [
+              -77.578288,
+              43.137816
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:city_parks:45996ff8",
+        "trailsroc-name": "City Overlook",
+        "trailsroc-shortName": "City Overlook",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.573261,
+          43.139613
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:b475e6c9",
+        "trailsroc-name": "Parking (Lake Riley Lodge)",
+        "trailsroc-shortName": "Lake Riley Lodge",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.575447,
+          43.141464
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:city_parks:bebe19e9",
+        "trailsroc-name": "Tennis Courts",
+        "trailsroc-shortName": "Tennis Courts",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5768,
+          43.138204
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:city_parks:920e3907",
+        "trailsroc-name": "Washington Grove",
+        "trailsroc-shortName": "Washington Grove",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-url": "http://www.cityofrochester.gov/washingtongrove/",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.566163,
+          43.139619
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:city_parks:4b36dc1f",
+        "trailsroc-name": "Water Towers",
+        "trailsroc-shortName": "Water Towers",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-url": "https://rocwiki.org/The_Water_Towers",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567728,
+          43.141021
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:01ba2f1c",
+        "trailsroc-name": "Parking (Cobbs Hill Dr)",
+        "trailsroc-shortName": "Cobbs Hill Dr",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.563462,
+          43.139635
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:5fb684fb",
+        "trailsroc-name": "Parking (Reservoir E)",
+        "trailsroc-shortName": "Reservoir E",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack,trail-cobbs-reservoir-loop",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.569616,
+          43.139647
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:023098f9",
+        "trailsroc-name": "Parking (Reservoir N)",
+        "trailsroc-shortName": "Reservoir N",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack,trail-cobbs-reservoir-loop,trail-cobbs-gravel",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.572805,
+          43.139603
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:city_parks:9534e85b",
+        "trailsroc-name": "Switchback",
+        "trailsroc-shortName": "Switchback",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.575259,
+          43.138712
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:city_parks:1e798f21",
+        "trailsroc-name": "Ball Fields",
+        "trailsroc-shortName": "Ball Fields",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.570223,
+          43.142475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:city_parks:04fafe31",
+        "trailsroc-name": "Ball Field",
+        "trailsroc-shortName": "Ball Field",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.575707,
+          43.140621
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:city_parks:066d7674",
+        "trailsroc-name": "Basketball Courts",
+        "trailsroc-shortName": "Basketball Courts",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574149,
+          43.140701
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:city_parks:6c3616e8",
+        "trailsroc-name": "Lake Riley Lodge",
+        "trailsroc-shortName": "Lake Riley",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-url": "http://www.cityofrochester.gov/article.aspx?id=8589935140",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574734,
+          43.141337
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:df222926",
+        "trailsroc-name": "Parking (Lake Riley)",
+        "trailsroc-shortName": "Lake Riley",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574012,
+          43.141371
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:city_parks:2ba121c6",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574756,
+          43.140874
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:city_parks:23741d82",
+        "trailsroc-name": "Parking (Fields)",
+        "trailsroc-shortName": "Fields",
+        "trailsroc-parentIDs": "park-cobbs,trail-cobbs-singletrack",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.573697,
+          43.141275
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574732,
+          43.139795
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:city_parks:5d87bb65",
+        "trailsroc-name": "Tay House Lodge",
+        "trailsroc-shortName": "Tay House",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-url": "http://www.cityofrochester.gov/article.aspx?id=8589935131",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.566082,
+          43.141759
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:city_parks:8f62adda",
+        "trailsroc-name": "Scenic Point",
+        "trailsroc-shortName": "Scenic Point",
+        "trailsroc-parentIDs": "park-cobbs",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574921,
+          43.13806
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

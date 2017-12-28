@@ -1,0 +1,5266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-ellison",
+        "trailsroc-shortName": "Ellison Park",
+        "trailsroc-name": "Ellison Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51878023147583,
+          43.14945406346895
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-bridle",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "grass",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5201145,
+          43.1512305
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-butlers-gap",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Butler’s Gap Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "purple",
+        "trailsroc-shortName": "Butler’s Gap Trail",
+        "trailsroc-keywords": "butlers",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5220175,
+          43.1517215
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-coyote-den",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5148835,
+          43.1421505
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-indian-landing",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.519881,
+          43.151545
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-mill-race",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Mill Race Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "brown",
+        "trailsroc-shortName": "Mill Race Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513153,
+          43.149691000000004
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-overlook",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-name": "Overlook Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Overlook Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51103,
+          43.141909
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-ellison-unnamed-trails",
+        "trailsroc-parentID": "park-ellison",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-ellison.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516937,
+          43.1474865
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-butlers-gap:f1bb94c8",
+        "trailsroc-trailIDs": "trail-ellison-butlers-gap",
+        "trailsroc-name": "Butler’s Gap Trail",
+        "trailsroc-shortName": "Butler’s Gap Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525142,
+            43.153097
+          ],
+          [
+            -77.524582,
+            43.152954
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-butlers-gap:a063cb25",
+        "trailsroc-trailIDs": "trail-ellison-butlers-gap",
+        "trailsroc-name": "Butler’s Gap Trail",
+        "trailsroc-shortName": "Butler’s Gap Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.524582,
+            43.152954
+          ],
+          [
+            -77.524411,
+            43.152954
+          ],
+          [
+            -77.52425,
+            43.152954
+          ],
+          [
+            -77.52407,
+            43.152954
+          ],
+          [
+            -77.523684,
+            43.153065
+          ],
+          [
+            -77.523468,
+            43.153032
+          ],
+          [
+            -77.523253,
+            43.152967
+          ],
+          [
+            -77.522875,
+            43.153013
+          ],
+          [
+            -77.522588,
+            43.15294
+          ],
+          [
+            -77.522372,
+            43.15296
+          ],
+          [
+            -77.52222,
+            43.153039
+          ],
+          [
+            -77.522058,
+            43.153059
+          ],
+          [
+            -77.521752,
+            43.153209
+          ],
+          [
+            -77.521483,
+            43.153222
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-butlers-gap:3d0e0d44",
+        "trailsroc-trailIDs": "trail-ellison-butlers-gap",
+        "trailsroc-name": "Butler’s Gap Trail",
+        "trailsroc-shortName": "Butler’s Gap Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.521483,
+            43.153222
+          ],
+          [
+            -77.520728,
+            43.153085
+          ],
+          [
+            -77.520558,
+            43.153032
+          ],
+          [
+            -77.520414,
+            43.152521
+          ],
+          [
+            -77.520189,
+            43.152141
+          ],
+          [
+            -77.520126,
+            43.151997
+          ],
+          [
+            -77.520001,
+            43.15184
+          ],
+          [
+            -77.519686,
+            43.151735
+          ],
+          [
+            -77.519498,
+            43.151558
+          ],
+          [
+            -77.519417,
+            43.151322
+          ],
+          [
+            -77.519498,
+            43.15087
+          ],
+          [
+            -77.519525,
+            43.150693
+          ],
+          [
+            -77.519552,
+            43.150588
+          ],
+          [
+            -77.519498,
+            43.150522
+          ],
+          [
+            -77.519596,
+            43.150371
+          ],
+          [
+            -77.519722,
+            43.150273
+          ],
+          [
+            -77.519827,
+            43.150221
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:1b7700bb",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.518375,
+            43.148061
+          ],
+          [
+            -77.518213,
+            43.147698
+          ],
+          [
+            -77.517916,
+            43.147331
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:eab9f18b",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514605,
+            43.1507
+          ],
+          [
+            -77.51485,
+            43.150401
+          ],
+          [
+            -77.515001,
+            43.150122
+          ],
+          [
+            -77.515071,
+            43.149772
+          ],
+          [
+            -77.51499,
+            43.149529
+          ],
+          [
+            -77.514916,
+            43.149388
+          ],
+          [
+            -77.514959,
+            43.149339
+          ],
+          [
+            -77.515322,
+            43.149165
+          ],
+          [
+            -77.515477,
+            43.149072
+          ],
+          [
+            -77.515704,
+            43.149017
+          ],
+          [
+            -77.515872,
+            43.149017
+          ],
+          [
+            -77.516022,
+            43.149051
+          ],
+          [
+            -77.516185,
+            43.149105
+          ],
+          [
+            -77.516325,
+            43.149167
+          ],
+          [
+            -77.516429,
+            43.149236
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:f67007a1",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.516429,
+            43.149236
+          ],
+          [
+            -77.516545,
+            43.149434
+          ],
+          [
+            -77.516633,
+            43.149701
+          ],
+          [
+            -77.516685,
+            43.149904
+          ],
+          [
+            -77.516756,
+            43.150118
+          ],
+          [
+            -77.516823,
+            43.150387
+          ],
+          [
+            -77.517031,
+            43.150573
+          ],
+          [
+            -77.517298,
+            43.150594
+          ],
+          [
+            -77.517629,
+            43.150521
+          ],
+          [
+            -77.517892,
+            43.150438
+          ],
+          [
+            -77.518257,
+            43.150366
+          ],
+          [
+            -77.518835,
+            43.15028
+          ],
+          [
+            -77.519306,
+            43.150113
+          ],
+          [
+            -77.519545,
+            43.150091
+          ],
+          [
+            -77.519841,
+            43.150225
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:d18ad3ad",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.519841,
+            43.150225
+          ],
+          [
+            -77.520079,
+            43.150359
+          ],
+          [
+            -77.520379,
+            43.150508
+          ],
+          [
+            -77.520671,
+            43.150657
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:28fec242",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.517916,
+            43.147331
+          ],
+          [
+            -77.517694,
+            43.146761
+          ],
+          [
+            -77.517707,
+            43.14632
+          ],
+          [
+            -77.517745,
+            43.145812
+          ],
+          [
+            -77.517709,
+            43.145387
+          ],
+          [
+            -77.517687,
+            43.145055
+          ],
+          [
+            -77.517554,
+            43.144729
+          ],
+          [
+            -77.517493,
+            43.14439
+          ],
+          [
+            -77.517003,
+            43.144084
+          ],
+          [
+            -77.51645,
+            43.143906
+          ],
+          [
+            -77.516072,
+            43.143913
+          ],
+          [
+            -77.515663,
+            43.143926
+          ],
+          [
+            -77.515471,
+            43.143895
+          ],
+          [
+            -77.515006,
+            43.143936
+          ],
+          [
+            -77.514784,
+            43.14399
+          ],
+          [
+            -77.514171,
+            43.143907
+          ],
+          [
+            -77.513574,
+            43.143667
+          ],
+          [
+            -77.513573,
+            43.143665
+          ],
+          [
+            -77.513535,
+            43.143639
+          ],
+          [
+            -77.513298,
+            43.143501
+          ],
+          [
+            -77.513275,
+            43.143475
+          ],
+          [
+            -77.513268,
+            43.143452
+          ],
+          [
+            -77.513298,
+            43.143349
+          ],
+          [
+            -77.513298,
+            43.143318
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:bf25eafb",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.513298,
+            43.143318
+          ],
+          [
+            -77.51329,
+            43.143291
+          ],
+          [
+            -77.51329,
+            43.143265
+          ],
+          [
+            -77.51326,
+            43.143173
+          ],
+          [
+            -77.51326,
+            43.143143
+          ],
+          [
+            -77.513268,
+            43.143108
+          ],
+          [
+            -77.513367,
+            43.142986
+          ],
+          [
+            -77.513405,
+            43.142963
+          ],
+          [
+            -77.513412,
+            43.142952
+          ],
+          [
+            -77.513481,
+            43.142887
+          ],
+          [
+            -77.513527,
+            43.142799
+          ],
+          [
+            -77.51355,
+            43.142693
+          ],
+          [
+            -77.51355,
+            43.142647
+          ],
+          [
+            -77.513535,
+            43.142612
+          ],
+          [
+            -77.513382,
+            43.142418
+          ],
+          [
+            -77.513367,
+            43.142372
+          ],
+          [
+            -77.513367,
+            43.14233
+          ],
+          [
+            -77.513412,
+            43.142277
+          ],
+          [
+            -77.51342,
+            43.142262
+          ],
+          [
+            -77.513428,
+            43.142254
+          ],
+          [
+            -77.513428,
+            43.142242
+          ],
+          [
+            -77.513435,
+            43.142231
+          ],
+          [
+            -77.513451,
+            43.142216
+          ],
+          [
+            -77.513519,
+            43.142174
+          ],
+          [
+            -77.51355,
+            43.142136
+          ],
+          [
+            -77.51355,
+            43.142097
+          ],
+          [
+            -77.513557,
+            43.142075
+          ],
+          [
+            -77.513557,
+            43.142021
+          ],
+          [
+            -77.513565,
+            43.141998
+          ],
+          [
+            -77.513557,
+            43.141972
+          ],
+          [
+            -77.513565,
+            43.141949
+          ],
+          [
+            -77.513565,
+            43.141876
+          ],
+          [
+            -77.513535,
+            43.141819
+          ],
+          [
+            -77.513397,
+            43.141731
+          ],
+          [
+            -77.513069,
+            43.141628
+          ],
+          [
+            -77.513046,
+            43.141628
+          ],
+          [
+            -77.513016,
+            43.141632
+          ],
+          [
+            -77.512627,
+            43.141582
+          ],
+          [
+            -77.512573,
+            43.14156
+          ],
+          [
+            -77.51239,
+            43.141407
+          ],
+          [
+            -77.512367,
+            43.141373
+          ],
+          [
+            -77.51236,
+            43.141354
+          ],
+          [
+            -77.51236,
+            43.141308
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:2b24e45a",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51236,
+            43.141308
+          ],
+          [
+            -77.512398,
+            43.141247
+          ],
+          [
+            -77.512398,
+            43.141212
+          ],
+          [
+            -77.512383,
+            43.141197
+          ],
+          [
+            -77.512367,
+            43.14119
+          ],
+          [
+            -77.512329,
+            43.141163
+          ],
+          [
+            -77.512283,
+            43.141098
+          ],
+          [
+            -77.512268,
+            43.141056
+          ],
+          [
+            -77.512215,
+            43.140984
+          ],
+          [
+            -77.512184,
+            43.140892
+          ],
+          [
+            -77.512184,
+            43.140858
+          ],
+          [
+            -77.512085,
+            43.140705
+          ],
+          [
+            -77.51207,
+            43.140659
+          ],
+          [
+            -77.51207,
+            43.14064
+          ],
+          [
+            -77.512054,
+            43.140625
+          ],
+          [
+            -77.512039,
+            43.140602
+          ],
+          [
+            -77.511917,
+            43.140507
+          ],
+          [
+            -77.511902,
+            43.140488
+          ],
+          [
+            -77.511803,
+            43.14045
+          ],
+          [
+            -77.511658,
+            43.140339
+          ],
+          [
+            -77.511627,
+            43.140297
+          ],
+          [
+            -77.511604,
+            43.140236
+          ],
+          [
+            -77.511604,
+            43.140217
+          ],
+          [
+            -77.511597,
+            43.140202
+          ],
+          [
+            -77.511597,
+            43.140133
+          ],
+          [
+            -77.511604,
+            43.140118
+          ],
+          [
+            -77.511604,
+            43.140091
+          ],
+          [
+            -77.511589,
+            43.140049
+          ],
+          [
+            -77.511589,
+            43.140007
+          ],
+          [
+            -77.511597,
+            43.139984
+          ],
+          [
+            -77.511612,
+            43.139965
+          ],
+          [
+            -77.511653,
+            43.139825
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:e0a0df1f",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.511653,
+            43.139825
+          ],
+          [
+            -77.51166,
+            43.139822
+          ],
+          [
+            -77.511689,
+            43.139614
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:004d291f",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.511689,
+            43.139614
+          ],
+          [
+            -77.511559,
+            43.139362
+          ],
+          [
+            -77.511414,
+            43.139221
+          ],
+          [
+            -77.511368,
+            43.139122
+          ],
+          [
+            -77.511368,
+            43.139011
+          ],
+          [
+            -77.51136,
+            43.138985
+          ],
+          [
+            -77.51136,
+            43.138962
+          ],
+          [
+            -77.511353,
+            43.138943
+          ],
+          [
+            -77.51136,
+            43.13892
+          ],
+          [
+            -77.51136,
+            43.138901
+          ],
+          [
+            -77.511375,
+            43.138863
+          ],
+          [
+            -77.511375,
+            43.138847
+          ],
+          [
+            -77.511383,
+            43.138828
+          ],
+          [
+            -77.511383,
+            43.138805
+          ],
+          [
+            -77.511398,
+            43.13876
+          ],
+          [
+            -77.511398,
+            43.138668
+          ],
+          [
+            -77.511482,
+            43.138474
+          ],
+          [
+            -77.511513,
+            43.138435
+          ],
+          [
+            -77.51152,
+            43.138416
+          ],
+          [
+            -77.511559,
+            43.138374
+          ],
+          [
+            -77.511574,
+            43.138348
+          ],
+          [
+            -77.511597,
+            43.138325
+          ],
+          [
+            -77.511765,
+            43.138062
+          ],
+          [
+            -77.51194,
+            43.137951
+          ],
+          [
+            -77.511948,
+            43.137939
+          ],
+          [
+            -77.511948,
+            43.137932
+          ],
+          [
+            -77.511963,
+            43.137909
+          ],
+          [
+            -77.512215,
+            43.137783
+          ],
+          [
+            -77.51236,
+            43.137642
+          ],
+          [
+            -77.512367,
+            43.137615
+          ],
+          [
+            -77.512657,
+            43.137257
+          ],
+          [
+            -77.51268,
+            43.137238
+          ],
+          [
+            -77.512703,
+            43.137165
+          ],
+          [
+            -77.512703,
+            43.137123
+          ],
+          [
+            -77.512711,
+            43.137108
+          ],
+          [
+            -77.512711,
+            43.137024
+          ],
+          [
+            -77.512733,
+            43.136951
+          ],
+          [
+            -77.51309,
+            43.136662
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-coyote-den:eb34f466",
+        "trailsroc-trailIDs": "trail-ellison-coyote-den",
+        "trailsroc-name": "Coyote Den Trail",
+        "trailsroc-shortName": "Coyote Den Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51309,
+            43.136662
+          ],
+          [
+            -77.513191,
+            43.136578
+          ],
+          [
+            -77.513222,
+            43.136478
+          ],
+          [
+            -77.513405,
+            43.136185
+          ],
+          [
+            -77.51342,
+            43.136135
+          ],
+          [
+            -77.51342,
+            43.136108
+          ],
+          [
+            -77.513428,
+            43.136086
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:82f89426",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514905,
+            43.149381
+          ],
+          [
+            -77.514765,
+            43.149242
+          ],
+          [
+            -77.514647,
+            43.149057
+          ],
+          [
+            -77.514626,
+            43.148966
+          ],
+          [
+            -77.514388,
+            43.148696
+          ],
+          [
+            -77.514253,
+            43.148459
+          ],
+          [
+            -77.514284,
+            43.148405
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:d56256bf",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514284,
+            43.148405
+          ],
+          [
+            -77.514378,
+            43.148413
+          ],
+          [
+            -77.514709,
+            43.148493
+          ],
+          [
+            -77.51515,
+            43.148521
+          ],
+          [
+            -77.515409,
+            43.148487
+          ],
+          [
+            -77.515715,
+            43.148526
+          ],
+          [
+            -77.516082,
+            43.148629
+          ],
+          [
+            -77.516389,
+            43.148706
+          ],
+          [
+            -77.51651,
+            43.148764
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:61f0860d",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51651,
+            43.148764
+          ],
+          [
+            -77.516787,
+            43.148738
+          ],
+          [
+            -77.516944,
+            43.148495
+          ],
+          [
+            -77.517073,
+            43.148428
+          ],
+          [
+            -77.517244,
+            43.148455
+          ],
+          [
+            -77.517468,
+            43.148597
+          ],
+          [
+            -77.517962,
+            43.148731
+          ],
+          [
+            -77.51847,
+            43.148712
+          ],
+          [
+            -77.518885,
+            43.148522
+          ],
+          [
+            -77.5191,
+            43.148416
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:87bb7f75",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.5191,
+            43.148416
+          ],
+          [
+            -77.519356,
+            43.148399
+          ],
+          [
+            -77.519681,
+            43.148435
+          ],
+          [
+            -77.520234,
+            43.148515
+          ],
+          [
+            -77.520589,
+            43.148616
+          ],
+          [
+            -77.520835,
+            43.148981
+          ],
+          [
+            -77.520927,
+            43.149735
+          ],
+          [
+            -77.521109,
+            43.150176
+          ],
+          [
+            -77.521261,
+            43.150362
+          ],
+          [
+            -77.521522,
+            43.150383
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:079bb555",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.521522,
+            43.150383
+          ],
+          [
+            -77.522061,
+            43.150267
+          ],
+          [
+            -77.522563,
+            43.150284
+          ],
+          [
+            -77.523606,
+            43.150717
+          ],
+          [
+            -77.523975,
+            43.150909
+          ],
+          [
+            -77.524441,
+            43.151416
+          ],
+          [
+            -77.524784,
+            43.151964
+          ],
+          [
+            -77.525205,
+            43.152305
+          ],
+          [
+            -77.525714,
+            43.152809
+          ],
+          [
+            -77.525862,
+            43.153166
+          ],
+          [
+            -77.525976,
+            43.153484
+          ],
+          [
+            -77.525812,
+            43.1537
+          ],
+          [
+            -77.52579,
+            43.153834
+          ],
+          [
+            -77.525894,
+            43.153893
+          ],
+          [
+            -77.525948,
+            43.154026
+          ],
+          [
+            -77.52586,
+            43.154062
+          ],
+          [
+            -77.525338,
+            43.154011
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-bridle:025ab4ce",
+        "trailsroc-trailIDs": "trail-ellison-bridle",
+        "trailsroc-name": "Bridle Trail",
+        "trailsroc-shortName": "Bridle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525338,
+            43.154011
+          ],
+          [
+            -77.525303,
+            43.153801
+          ],
+          [
+            -77.525273,
+            43.153633
+          ],
+          [
+            -77.525212,
+            43.153537
+          ],
+          [
+            -77.525142,
+            43.15348
+          ],
+          [
+            -77.525038,
+            43.153443
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:cf5cde45",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.5131,
+            43.136674
+          ],
+          [
+            -77.513138,
+            43.136745
+          ],
+          [
+            -77.513092,
+            43.136818
+          ],
+          [
+            -77.513008,
+            43.136894
+          ],
+          [
+            -77.513,
+            43.136913
+          ],
+          [
+            -77.512985,
+            43.136929
+          ],
+          [
+            -77.512978,
+            43.136951
+          ],
+          [
+            -77.512962,
+            43.136974
+          ],
+          [
+            -77.512962,
+            43.136993
+          ],
+          [
+            -77.512947,
+            43.137016
+          ],
+          [
+            -77.512939,
+            43.137024
+          ],
+          [
+            -77.512939,
+            43.137043
+          ],
+          [
+            -77.512932,
+            43.137051
+          ],
+          [
+            -77.512932,
+            43.137051
+          ],
+          [
+            -77.512962,
+            43.137119
+          ],
+          [
+            -77.512962,
+            43.137196
+          ],
+          [
+            -77.51297,
+            43.137211
+          ],
+          [
+            -77.51297,
+            43.137226
+          ],
+          [
+            -77.512978,
+            43.137238
+          ],
+          [
+            -77.512978,
+            43.137264
+          ],
+          [
+            -77.512978,
+            43.137291
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:151b894a",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.521521,
+            43.154062
+          ],
+          [
+            -77.520976,
+            43.15392
+          ],
+          [
+            -77.520578,
+            43.153809
+          ],
+          [
+            -77.520141,
+            43.153666
+          ],
+          [
+            -77.519846,
+            43.153443
+          ],
+          [
+            -77.519352,
+            43.153151
+          ],
+          [
+            -77.518876,
+            43.152924
+          ],
+          [
+            -77.518722,
+            43.152817
+          ],
+          [
+            -77.518532,
+            43.152653
+          ],
+          [
+            -77.518219,
+            43.152421
+          ],
+          [
+            -77.518219,
+            43.152421
+          ],
+          [
+            -77.517679,
+            43.152252
+          ],
+          [
+            -77.517172,
+            43.151987
+          ],
+          [
+            -77.516596,
+            43.151702
+          ],
+          [
+            -77.516157,
+            43.15151
+          ],
+          [
+            -77.515736,
+            43.151296
+          ],
+          [
+            -77.515398,
+            43.151094
+          ],
+          [
+            -77.515091,
+            43.150925
+          ],
+          [
+            -77.514842,
+            43.150809
+          ],
+          [
+            -77.514604,
+            43.150704
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:aac4c438",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.520669,
+            43.150659
+          ],
+          [
+            -77.520778,
+            43.15077
+          ],
+          [
+            -77.52098,
+            43.150924
+          ],
+          [
+            -77.521022,
+            43.151012
+          ],
+          [
+            -77.521098,
+            43.151135
+          ],
+          [
+            -77.521163,
+            43.1512
+          ],
+          [
+            -77.521263,
+            43.151273
+          ],
+          [
+            -77.521399,
+            43.151325
+          ],
+          [
+            -77.52159,
+            43.151354
+          ],
+          [
+            -77.521776,
+            43.151325
+          ],
+          [
+            -77.522031,
+            43.151234
+          ],
+          [
+            -77.522246,
+            43.151134
+          ],
+          [
+            -77.522614,
+            43.151031
+          ],
+          [
+            -77.522905,
+            43.150988
+          ],
+          [
+            -77.523215,
+            43.151038
+          ],
+          [
+            -77.523516,
+            43.151197
+          ],
+          [
+            -77.523858,
+            43.151454
+          ],
+          [
+            -77.52401,
+            43.151626
+          ],
+          [
+            -77.524308,
+            43.151935
+          ],
+          [
+            -77.524605,
+            43.152271
+          ],
+          [
+            -77.524903,
+            43.152627
+          ],
+          [
+            -77.525067,
+            43.152839
+          ],
+          [
+            -77.525158,
+            43.153074
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:ae58a98c",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525158,
+            43.153074
+          ],
+          [
+            -77.525149,
+            43.153263
+          ],
+          [
+            -77.525038,
+            43.153443
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-indian-landing:e1f54f37",
+        "trailsroc-trailIDs": "trail-ellison-indian-landing",
+        "trailsroc-name": "Indian Landing Trail",
+        "trailsroc-shortName": "Indian Landing Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.525038,
+            43.153443
+          ],
+          [
+            -77.525038,
+            43.153443
+          ],
+          [
+            -77.524895,
+            43.153419
+          ],
+          [
+            -77.524716,
+            43.153374
+          ],
+          [
+            -77.524591,
+            43.153382
+          ],
+          [
+            -77.524433,
+            43.153416
+          ],
+          [
+            -77.524297,
+            43.153465
+          ],
+          [
+            -77.524169,
+            43.153524
+          ],
+          [
+            -77.524051,
+            43.153587
+          ],
+          [
+            -77.523903,
+            43.15366
+          ],
+          [
+            -77.523787,
+            43.153729
+          ],
+          [
+            -77.523674,
+            43.153782
+          ],
+          [
+            -77.523568,
+            43.15382
+          ],
+          [
+            -77.523464,
+            43.153828
+          ],
+          [
+            -77.523388,
+            43.153873
+          ],
+          [
+            -77.523318,
+            43.153929
+          ],
+          [
+            -77.523248,
+            43.153989
+          ],
+          [
+            -77.52313,
+            43.154046
+          ],
+          [
+            -77.523025,
+            43.154066
+          ],
+          [
+            -77.52287,
+            43.154073
+          ],
+          [
+            -77.522691,
+            43.15404
+          ],
+          [
+            -77.522551,
+            43.153958
+          ],
+          [
+            -77.522364,
+            43.153931
+          ],
+          [
+            -77.522205,
+            43.153938
+          ],
+          [
+            -77.522057,
+            43.153987
+          ],
+          [
+            -77.521896,
+            43.154033
+          ],
+          [
+            -77.521717,
+            43.154041
+          ],
+          [
+            -77.521521,
+            43.154062
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-mill-race:014983b1",
+        "trailsroc-trailIDs": "trail-ellison-mill-race",
+        "trailsroc-name": "Mill Race Trail",
+        "trailsroc-shortName": "Mill Race Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.5146,
+            43.150708
+          ],
+          [
+            -77.514491,
+            43.150709
+          ],
+          [
+            -77.51439,
+            43.150816
+          ],
+          [
+            -77.514177,
+            43.151076
+          ],
+          [
+            -77.513843,
+            43.151315
+          ],
+          [
+            -77.51354,
+            43.151426
+          ],
+          [
+            -77.512969,
+            43.151415
+          ],
+          [
+            -77.512405,
+            43.151164
+          ],
+          [
+            -77.511966,
+            43.150328
+          ],
+          [
+            -77.511851,
+            43.149682
+          ],
+          [
+            -77.511772,
+            43.149395
+          ],
+          [
+            -77.511759,
+            43.149055
+          ],
+          [
+            -77.511815,
+            43.148542
+          ],
+          [
+            -77.511794,
+            43.148347
+          ],
+          [
+            -77.511902,
+            43.148052
+          ],
+          [
+            -77.511844,
+            43.147956
+          ],
+          [
+            -77.511706,
+            43.148075
+          ],
+          [
+            -77.511821,
+            43.148269
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:26f06aaa",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.521491,
+            43.150399
+          ],
+          [
+            -77.520987,
+            43.150888
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:38356214",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.516517,
+            43.148757
+          ],
+          [
+            -77.51658,
+            43.148933
+          ],
+          [
+            -77.516446,
+            43.149217
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:f1b115f0",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514736,
+            43.149371
+          ],
+          [
+            -77.514515,
+            43.149425
+          ],
+          [
+            -77.514069,
+            43.149297
+          ],
+          [
+            -77.513767,
+            43.149274
+          ],
+          [
+            -77.513482,
+            43.149337
+          ],
+          [
+            -77.512853,
+            43.149274
+          ],
+          [
+            -77.512383,
+            43.149301
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:8214b2fa",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.513375,
+            43.146015
+          ],
+          [
+            -77.513982,
+            43.14587
+          ],
+          [
+            -77.514823,
+            43.145604
+          ],
+          [
+            -77.514923,
+            43.14554
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:595f50ee",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514923,
+            43.14554
+          ],
+          [
+            -77.514923,
+            43.145468
+          ],
+          [
+            -77.514788,
+            43.144913
+          ],
+          [
+            -77.514808,
+            43.144607
+          ],
+          [
+            -77.514729,
+            43.144489
+          ],
+          [
+            -77.514541,
+            43.144329
+          ],
+          [
+            -77.514094,
+            43.14419
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:6869b907",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514829,
+            43.145066
+          ],
+          [
+            -77.515295,
+            43.144981
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:3350112e",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514915,
+            43.145517
+          ],
+          [
+            -77.515179,
+            43.145459
+          ],
+          [
+            -77.515599,
+            43.145322
+          ],
+          [
+            -77.515719,
+            43.145224
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:3a5a7ade",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514295,
+            43.147285
+          ],
+          [
+            -77.51504,
+            43.147233
+          ],
+          [
+            -77.515296,
+            43.147175
+          ],
+          [
+            -77.515494,
+            43.147048
+          ],
+          [
+            -77.515632,
+            43.146875
+          ],
+          [
+            -77.515711,
+            43.146662
+          ],
+          [
+            -77.51566,
+            43.146475
+          ],
+          [
+            -77.515672,
+            43.146273
+          ],
+          [
+            -77.515716,
+            43.146121
+          ],
+          [
+            -77.515861,
+            43.145975
+          ],
+          [
+            -77.516181,
+            43.145791
+          ],
+          [
+            -77.516463,
+            43.145601
+          ],
+          [
+            -77.516621,
+            43.145472
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:d63a08fa",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.516621,
+            43.145472
+          ],
+          [
+            -77.516736,
+            43.145261
+          ],
+          [
+            -77.516769,
+            43.145075
+          ],
+          [
+            -77.516695,
+            43.14485
+          ],
+          [
+            -77.516533,
+            43.144728
+          ],
+          [
+            -77.516001,
+            43.144402
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:9a7d7be3",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.516596,
+            43.145458
+          ],
+          [
+            -77.516896,
+            43.145523
+          ],
+          [
+            -77.517096,
+            43.145642
+          ],
+          [
+            -77.517237,
+            43.145803
+          ],
+          [
+            -77.517315,
+            43.14604
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:f78782fd",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.509528,
+            43.142157
+          ],
+          [
+            -77.509476,
+            43.14217
+          ],
+          [
+            -77.509346,
+            43.142235
+          ],
+          [
+            -77.509239,
+            43.142254
+          ],
+          [
+            -77.50898,
+            43.142216
+          ],
+          [
+            -77.508865,
+            43.142246
+          ],
+          [
+            -77.508759,
+            43.142319
+          ],
+          [
+            -77.508667,
+            43.142441
+          ],
+          [
+            -77.508659,
+            43.14246
+          ],
+          [
+            -77.508614,
+            43.142509
+          ],
+          [
+            -77.508583,
+            43.142529
+          ],
+          [
+            -77.508499,
+            43.142559
+          ],
+          [
+            -77.508461,
+            43.142563
+          ],
+          [
+            -77.508209,
+            43.142651
+          ],
+          [
+            -77.508118,
+            43.142662
+          ],
+          [
+            -77.508095,
+            43.14267
+          ],
+          [
+            -77.508064,
+            43.142708
+          ],
+          [
+            -77.508057,
+            43.142727
+          ],
+          [
+            -77.508057,
+            43.142788
+          ],
+          [
+            -77.508095,
+            43.142891
+          ],
+          [
+            -77.508194,
+            43.143032
+          ],
+          [
+            -77.508247,
+            43.143082
+          ],
+          [
+            -77.508308,
+            43.143112
+          ],
+          [
+            -77.50853,
+            43.143131
+          ],
+          [
+            -77.508667,
+            43.143196
+          ],
+          [
+            -77.509262,
+            43.143326
+          ],
+          [
+            -77.509293,
+            43.143326
+          ],
+          [
+            -77.509323,
+            43.143318
+          ],
+          [
+            -77.509369,
+            43.143272
+          ],
+          [
+            -77.509392,
+            43.143257
+          ],
+          [
+            -77.509834,
+            43.143246
+          ],
+          [
+            -77.509941,
+            43.143284
+          ],
+          [
+            -77.509956,
+            43.143284
+          ],
+          [
+            -77.509995,
+            43.143265
+          ],
+          [
+            -77.51004,
+            43.143215
+          ],
+          [
+            -77.51004,
+            43.143204
+          ],
+          [
+            -77.510063,
+            43.143169
+          ],
+          [
+            -77.510071,
+            43.143162
+          ],
+          [
+            -77.510078,
+            43.14315
+          ],
+          [
+            -77.510094,
+            43.143143
+          ],
+          [
+            -77.510109,
+            43.143131
+          ],
+          [
+            -77.510109,
+            43.143112
+          ],
+          [
+            -77.510101,
+            43.143093
+          ],
+          [
+            -77.510086,
+            43.143085
+          ],
+          [
+            -77.510078,
+            43.143078
+          ],
+          [
+            -77.510048,
+            43.142994
+          ],
+          [
+            -77.510048,
+            43.142979
+          ],
+          [
+            -77.51001,
+            43.142918
+          ],
+          [
+            -77.510002,
+            43.142895
+          ],
+          [
+            -77.510002,
+            43.142876
+          ],
+          [
+            -77.509979,
+            43.142807
+          ],
+          [
+            -77.509979,
+            43.14278
+          ],
+          [
+            -77.509972,
+            43.142757
+          ],
+          [
+            -77.509972,
+            43.142689
+          ],
+          [
+            -77.509964,
+            43.142677
+          ],
+          [
+            -77.509964,
+            43.14267
+          ],
+          [
+            -77.509956,
+            43.142651
+          ],
+          [
+            -77.509956,
+            43.142647
+          ],
+          [
+            -77.509949,
+            43.142635
+          ],
+          [
+            -77.509949,
+            43.142624
+          ],
+          [
+            -77.509933,
+            43.142605
+          ],
+          [
+            -77.509933,
+            43.142559
+          ],
+          [
+            -77.509941,
+            43.142548
+          ],
+          [
+            -77.509941,
+            43.142536
+          ],
+          [
+            -77.509949,
+            43.142525
+          ],
+          [
+            -77.509949,
+            43.142509
+          ],
+          [
+            -77.509964,
+            43.142487
+          ],
+          [
+            -77.509964,
+            43.142456
+          ],
+          [
+            -77.509956,
+            43.142448
+          ],
+          [
+            -77.509964,
+            43.142441
+          ],
+          [
+            -77.509979,
+            43.142433
+          ],
+          [
+            -77.509987,
+            43.142433
+          ],
+          [
+            -77.510002,
+            43.142418
+          ],
+          [
+            -77.510002,
+            43.14241
+          ],
+          [
+            -77.51001,
+            43.142395
+          ],
+          [
+            -77.51001,
+            43.142368
+          ],
+          [
+            -77.510002,
+            43.142361
+          ],
+          [
+            -77.510002,
+            43.142357
+          ],
+          [
+            -77.510017,
+            43.142342
+          ],
+          [
+            -77.510033,
+            43.142311
+          ],
+          [
+            -77.509972,
+            43.142227
+          ],
+          [
+            -77.509964,
+            43.142208
+          ],
+          [
+            -77.509888,
+            43.142147
+          ],
+          [
+            -77.509865,
+            43.142128
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-overlook:b77d339d",
+        "trailsroc-trailIDs": "trail-ellison-overlook",
+        "trailsroc-name": "Overlook Trail",
+        "trailsroc-shortName": "Overlook Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.513288,
+            43.143301
+          ],
+          [
+            -77.51313,
+            43.143276
+          ],
+          [
+            -77.513115,
+            43.143238
+          ],
+          [
+            -77.513107,
+            43.143227
+          ],
+          [
+            -77.513107,
+            43.1432
+          ],
+          [
+            -77.513039,
+            43.143139
+          ],
+          [
+            -77.512993,
+            43.143066
+          ],
+          [
+            -77.512978,
+            43.143051
+          ],
+          [
+            -77.512962,
+            43.143044
+          ],
+          [
+            -77.512955,
+            43.143032
+          ],
+          [
+            -77.512955,
+            43.142998
+          ],
+          [
+            -77.512947,
+            43.14299
+          ],
+          [
+            -77.512947,
+            43.142967
+          ],
+          [
+            -77.512939,
+            43.142952
+          ],
+          [
+            -77.512939,
+            43.142948
+          ],
+          [
+            -77.512932,
+            43.142941
+          ],
+          [
+            -77.512932,
+            43.142937
+          ],
+          [
+            -77.512924,
+            43.142933
+          ],
+          [
+            -77.512886,
+            43.142853
+          ],
+          [
+            -77.512856,
+            43.142818
+          ],
+          [
+            -77.512817,
+            43.142792
+          ],
+          [
+            -77.512779,
+            43.14275
+          ],
+          [
+            -77.512764,
+            43.142715
+          ],
+          [
+            -77.512764,
+            43.142696
+          ],
+          [
+            -77.512772,
+            43.142673
+          ],
+          [
+            -77.512779,
+            43.142666
+          ],
+          [
+            -77.512779,
+            43.142658
+          ],
+          [
+            -77.512787,
+            43.142654
+          ],
+          [
+            -77.512794,
+            43.142635
+          ],
+          [
+            -77.512802,
+            43.142624
+          ],
+          [
+            -77.512817,
+            43.142616
+          ],
+          [
+            -77.512825,
+            43.142609
+          ],
+          [
+            -77.512848,
+            43.142597
+          ],
+          [
+            -77.512848,
+            43.142586
+          ],
+          [
+            -77.512764,
+            43.142532
+          ],
+          [
+            -77.512558,
+            43.142471
+          ],
+          [
+            -77.512535,
+            43.142456
+          ],
+          [
+            -77.512375,
+            43.142422
+          ],
+          [
+            -77.512367,
+            43.14241
+          ],
+          [
+            -77.512306,
+            43.142372
+          ],
+          [
+            -77.512291,
+            43.142353
+          ],
+          [
+            -77.512032,
+            43.142162
+          ],
+          [
+            -77.512016,
+            43.142136
+          ],
+          [
+            -77.512016,
+            43.14212
+          ],
+          [
+            -77.511993,
+            43.142056
+          ],
+          [
+            -77.511955,
+            43.14201
+          ],
+          [
+            -77.511932,
+            43.141956
+          ],
+          [
+            -77.511841,
+            43.141914
+          ],
+          [
+            -77.511482,
+            43.141582
+          ],
+          [
+            -77.511253,
+            43.141529
+          ],
+          [
+            -77.511063,
+            43.141529
+          ],
+          [
+            -77.510895,
+            43.141487
+          ],
+          [
+            -77.510864,
+            43.141487
+          ],
+          [
+            -77.510834,
+            43.141491
+          ],
+          [
+            -77.510765,
+            43.141525
+          ],
+          [
+            -77.510689,
+            43.14164
+          ],
+          [
+            -77.510666,
+            43.141659
+          ],
+          [
+            -77.510651,
+            43.141678
+          ],
+          [
+            -77.510582,
+            43.14172
+          ],
+          [
+            -77.510498,
+            43.141819
+          ],
+          [
+            -77.510452,
+            43.141972
+          ],
+          [
+            -77.510452,
+            43.141998
+          ],
+          [
+            -77.510445,
+            43.142021
+          ],
+          [
+            -77.510429,
+            43.142044
+          ],
+          [
+            -77.510361,
+            43.142082
+          ],
+          [
+            -77.510147,
+            43.142132
+          ],
+          [
+            -77.510132,
+            43.142132
+          ],
+          [
+            -77.510124,
+            43.142128
+          ],
+          [
+            -77.509933,
+            43.142109
+          ],
+          [
+            -77.509834,
+            43.14212
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-overlook:e9bce1d7",
+        "trailsroc-trailIDs": "trail-ellison-overlook",
+        "trailsroc-name": "Overlook Trail",
+        "trailsroc-shortName": "Overlook Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.509834,
+            43.14212
+          ],
+          [
+            -77.50975,
+            43.14212
+          ],
+          [
+            -77.50972,
+            43.142124
+          ],
+          [
+            -77.509644,
+            43.142124
+          ],
+          [
+            -77.509537,
+            43.142155
+          ],
+          [
+            -77.509476,
+            43.142139
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-overlook:e0399494",
+        "trailsroc-trailIDs": "trail-ellison-overlook",
+        "trailsroc-name": "Overlook Trail",
+        "trailsroc-shortName": "Overlook Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.509476,
+            43.142139
+          ],
+          [
+            -77.50946,
+            43.142143
+          ],
+          [
+            -77.509422,
+            43.142136
+          ],
+          [
+            -77.509407,
+            43.142128
+          ],
+          [
+            -77.509399,
+            43.14212
+          ],
+          [
+            -77.509399,
+            43.142101
+          ],
+          [
+            -77.509392,
+            43.142075
+          ],
+          [
+            -77.509392,
+            43.142056
+          ],
+          [
+            -77.509361,
+            43.142014
+          ],
+          [
+            -77.509293,
+            43.141953
+          ],
+          [
+            -77.509262,
+            43.141907
+          ],
+          [
+            -77.509254,
+            43.14188
+          ],
+          [
+            -77.509254,
+            43.141758
+          ],
+          [
+            -77.509247,
+            43.141735
+          ],
+          [
+            -77.509247,
+            43.141682
+          ],
+          [
+            -77.509239,
+            43.141651
+          ],
+          [
+            -77.509193,
+            43.141571
+          ],
+          [
+            -77.509193,
+            43.14156
+          ],
+          [
+            -77.509232,
+            43.141514
+          ],
+          [
+            -77.509567,
+            43.141285
+          ],
+          [
+            -77.509811,
+            43.141201
+          ],
+          [
+            -77.509933,
+            43.141193
+          ],
+          [
+            -77.510056,
+            43.14114
+          ],
+          [
+            -77.510368,
+            43.140858
+          ],
+          [
+            -77.510468,
+            43.140827
+          ],
+          [
+            -77.510796,
+            43.140831
+          ],
+          [
+            -77.510811,
+            43.140827
+          ],
+          [
+            -77.510841,
+            43.140831
+          ],
+          [
+            -77.511467,
+            43.140682
+          ],
+          [
+            -77.511536,
+            43.140686
+          ],
+          [
+            -77.511597,
+            43.140713
+          ],
+          [
+            -77.511688,
+            43.140789
+          ],
+          [
+            -77.511726,
+            43.14085
+          ],
+          [
+            -77.511734,
+            43.140877
+          ],
+          [
+            -77.511749,
+            43.140903
+          ],
+          [
+            -77.511826,
+            43.140972
+          ],
+          [
+            -77.511864,
+            43.141029
+          ],
+          [
+            -77.512253,
+            43.141258
+          ],
+          [
+            -77.512303,
+            43.141291
+          ],
+          [
+            -77.512355,
+            43.141305
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:e6e63390",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.511687,
+            43.13961
+          ],
+          [
+            -77.511734,
+            43.139587
+          ],
+          [
+            -77.511765,
+            43.139561
+          ],
+          [
+            -77.511772,
+            43.139545
+          ],
+          [
+            -77.511887,
+            43.139439
+          ],
+          [
+            -77.511902,
+            43.139431
+          ],
+          [
+            -77.511902,
+            43.139423
+          ],
+          [
+            -77.511986,
+            43.139404
+          ],
+          [
+            -77.512016,
+            43.139378
+          ],
+          [
+            -77.512047,
+            43.139301
+          ],
+          [
+            -77.512047,
+            43.139278
+          ],
+          [
+            -77.512054,
+            43.139256
+          ],
+          [
+            -77.512039,
+            43.139217
+          ],
+          [
+            -77.512032,
+            43.13921
+          ],
+          [
+            -77.512032,
+            43.139198
+          ],
+          [
+            -77.512039,
+            43.139191
+          ],
+          [
+            -77.512047,
+            43.139191
+          ],
+          [
+            -77.512047,
+            43.139187
+          ],
+          [
+            -77.512032,
+            43.139164
+          ],
+          [
+            -77.512032,
+            43.139156
+          ],
+          [
+            -77.512024,
+            43.139149
+          ],
+          [
+            -77.512024,
+            43.139141
+          ],
+          [
+            -77.512016,
+            43.139133
+          ],
+          [
+            -77.512016,
+            43.139126
+          ],
+          [
+            -77.512009,
+            43.139118
+          ],
+          [
+            -77.512001,
+            43.139114
+          ],
+          [
+            -77.512001,
+            43.139107
+          ],
+          [
+            -77.511993,
+            43.139091
+          ],
+          [
+            -77.511993,
+            43.139076
+          ],
+          [
+            -77.511978,
+            43.139046
+          ],
+          [
+            -77.511978,
+            43.139027
+          ],
+          [
+            -77.511963,
+            43.138992
+          ],
+          [
+            -77.511963,
+            43.138977
+          ],
+          [
+            -77.511955,
+            43.138962
+          ],
+          [
+            -77.511955,
+            43.138931
+          ],
+          [
+            -77.511948,
+            43.138905
+          ],
+          [
+            -77.512032,
+            43.138733
+          ],
+          [
+            -77.512032,
+            43.13871
+          ],
+          [
+            -77.512062,
+            43.138618
+          ],
+          [
+            -77.512077,
+            43.138596
+          ],
+          [
+            -77.512077,
+            43.13858
+          ],
+          [
+            -77.512085,
+            43.138569
+          ],
+          [
+            -77.512085,
+            43.138535
+          ],
+          [
+            -77.51223,
+            43.138374
+          ],
+          [
+            -77.512238,
+            43.138359
+          ],
+          [
+            -77.512238,
+            43.13834
+          ],
+          [
+            -77.512299,
+            43.138203
+          ],
+          [
+            -77.512352,
+            43.138134
+          ],
+          [
+            -77.512703,
+            43.13792
+          ],
+          [
+            -77.512718,
+            43.137905
+          ],
+          [
+            -77.512733,
+            43.137897
+          ],
+          [
+            -77.512779,
+            43.137848
+          ],
+          [
+            -77.512886,
+            43.137779
+          ],
+          [
+            -77.512909,
+            43.137718
+          ],
+          [
+            -77.512909,
+            43.137699
+          ],
+          [
+            -77.512917,
+            43.13768
+          ],
+          [
+            -77.512917,
+            43.137657
+          ],
+          [
+            -77.512924,
+            43.13763
+          ],
+          [
+            -77.512924,
+            43.137547
+          ],
+          [
+            -77.512909,
+            43.137493
+          ],
+          [
+            -77.512909,
+            43.137444
+          ],
+          [
+            -77.512917,
+            43.137424
+          ],
+          [
+            -77.512917,
+            43.137402
+          ],
+          [
+            -77.512939,
+            43.137318
+          ],
+          [
+            -77.512955,
+            43.137299
+          ],
+          [
+            -77.512978,
+            43.137295
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:f1f81ea4",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512978,
+            43.137295
+          ],
+          [
+            -77.513145,
+            43.137367
+          ],
+          [
+            -77.513168,
+            43.137383
+          ],
+          [
+            -77.513191,
+            43.137409
+          ],
+          [
+            -77.513206,
+            43.13744
+          ],
+          [
+            -77.51326,
+            43.137501
+          ],
+          [
+            -77.513611,
+            43.137665
+          ],
+          [
+            -77.513657,
+            43.13773
+          ],
+          [
+            -77.513687,
+            43.137821
+          ],
+          [
+            -77.513687,
+            43.137897
+          ],
+          [
+            -77.513702,
+            43.137962
+          ],
+          [
+            -77.513695,
+            43.137989
+          ],
+          [
+            -77.513695,
+            43.138016
+          ],
+          [
+            -77.51368,
+            43.13805
+          ],
+          [
+            -77.513611,
+            43.138134
+          ],
+          [
+            -77.513466,
+            43.138195
+          ],
+          [
+            -77.513329,
+            43.138309
+          ],
+          [
+            -77.513222,
+            43.138454
+          ],
+          [
+            -77.513191,
+            43.138474
+          ],
+          [
+            -77.51297,
+            43.13855
+          ],
+          [
+            -77.512711,
+            43.138813
+          ],
+          [
+            -77.51265,
+            43.138851
+          ],
+          [
+            -77.512489,
+            43.139046
+          ],
+          [
+            -77.512482,
+            43.139118
+          ],
+          [
+            -77.512489,
+            43.139153
+          ],
+          [
+            -77.512505,
+            43.139183
+          ],
+          [
+            -77.512505,
+            43.139225
+          ],
+          [
+            -77.512497,
+            43.139252
+          ],
+          [
+            -77.512466,
+            43.139305
+          ],
+          [
+            -77.512459,
+            43.139336
+          ],
+          [
+            -77.512444,
+            43.139359
+          ],
+          [
+            -77.512436,
+            43.139385
+          ],
+          [
+            -77.512413,
+            43.139412
+          ],
+          [
+            -77.512405,
+            43.139439
+          ],
+          [
+            -77.512314,
+            43.139565
+          ],
+          [
+            -77.512268,
+            43.139599
+          ],
+          [
+            -77.512215,
+            43.13966
+          ],
+          [
+            -77.512199,
+            43.13969
+          ],
+          [
+            -77.5121,
+            43.139767
+          ],
+          [
+            -77.511887,
+            43.139847
+          ],
+          [
+            -77.511757,
+            43.139839
+          ],
+          [
+            -77.511711,
+            43.139847
+          ],
+          [
+            -77.511688,
+            43.139839
+          ],
+          [
+            -77.511657,
+            43.139828
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-ellison-unnamed-trails:5b02bf93",
+        "trailsroc-trailIDs": "trail-ellison-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.521584,
+            43.153229
+          ],
+          [
+            -77.521614,
+            43.153271
+          ],
+          [
+            -77.521629,
+            43.153297
+          ],
+          [
+            -77.521652,
+            43.153316
+          ],
+          [
+            -77.521667,
+            43.153336
+          ],
+          [
+            -77.521675,
+            43.153358
+          ],
+          [
+            -77.52169,
+            43.153378
+          ],
+          [
+            -77.521767,
+            43.153431
+          ],
+          [
+            -77.52179,
+            43.153439
+          ],
+          [
+            -77.521988,
+            43.153458
+          ],
+          [
+            -77.522064,
+            43.153507
+          ],
+          [
+            -77.522369,
+            43.153564
+          ],
+          [
+            -77.522423,
+            43.153587
+          ],
+          [
+            -77.52243,
+            43.153595
+          ],
+          [
+            -77.522446,
+            43.153599
+          ],
+          [
+            -77.522461,
+            43.153614
+          ],
+          [
+            -77.522476,
+            43.153622
+          ],
+          [
+            -77.522522,
+            43.153622
+          ],
+          [
+            -77.522537,
+            43.153614
+          ],
+          [
+            -77.522545,
+            43.153603
+          ],
+          [
+            -77.522545,
+            43.153587
+          ],
+          [
+            -77.522667,
+            43.153511
+          ],
+          [
+            -77.522682,
+            43.153496
+          ],
+          [
+            -77.522705,
+            43.153481
+          ],
+          [
+            -77.522736,
+            43.153446
+          ],
+          [
+            -77.52298,
+            43.153309
+          ],
+          [
+            -77.522995,
+            43.153305
+          ],
+          [
+            -77.52301,
+            43.153297
+          ],
+          [
+            -77.523041,
+            43.15329
+          ],
+          [
+            -77.523064,
+            43.153278
+          ],
+          [
+            -77.523102,
+            43.153278
+          ],
+          [
+            -77.523209,
+            43.153305
+          ],
+          [
+            -77.523315,
+            43.153362
+          ],
+          [
+            -77.523445,
+            43.153374
+          ],
+          [
+            -77.523476,
+            43.15337
+          ],
+          [
+            -77.523491,
+            43.153362
+          ],
+          [
+            -77.523636,
+            43.153332
+          ],
+          [
+            -77.523689,
+            43.153305
+          ],
+          [
+            -77.523712,
+            43.153278
+          ],
+          [
+            -77.524101,
+            43.153198
+          ],
+          [
+            -77.524109,
+            43.153194
+          ],
+          [
+            -77.524132,
+            43.153194
+          ],
+          [
+            -77.524132,
+            43.153198
+          ],
+          [
+            -77.524155,
+            43.153183
+          ],
+          [
+            -77.524155,
+            43.153179
+          ],
+          [
+            -77.524162,
+            43.153175
+          ],
+          [
+            -77.524246,
+            43.153168
+          ],
+          [
+            -77.524284,
+            43.153179
+          ],
+          [
+            -77.5243,
+            43.153179
+          ],
+          [
+            -77.5243,
+            43.153175
+          ],
+          [
+            -77.524315,
+            43.153172
+          ],
+          [
+            -77.52433,
+            43.153164
+          ],
+          [
+            -77.524338,
+            43.153137
+          ],
+          [
+            -77.524338,
+            43.153126
+          ],
+          [
+            -77.524323,
+            43.153126
+          ],
+          [
+            -77.524345,
+            43.153095
+          ],
+          [
+            -77.524399,
+            43.153072
+          ],
+          [
+            -77.524406,
+            43.153065
+          ],
+          [
+            -77.524414,
+            43.153065
+          ],
+          [
+            -77.524429,
+            43.153061
+          ],
+          [
+            -77.524437,
+            43.153065
+          ],
+          [
+            -77.524445,
+            43.153065
+          ],
+          [
+            -77.524475,
+            43.153038
+          ],
+          [
+            -77.52449,
+            43.153015
+          ],
+          [
+            -77.524513,
+            43.152996
+          ],
+          [
+            -77.524529,
+            43.152988
+          ],
+          [
+            -77.524551,
+            43.152981
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-ellison:31db83bc",
+        "trailsroc-parkID": "park-ellison"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.525607,
+              43.154491
+            ],
+            [
+              -77.528546,
+              43.15375
+            ],
+            [
+              -77.528568,
+              43.153603
+            ],
+            [
+              -77.530525,
+              43.153117
+            ],
+            [
+              -77.530706,
+              43.15309
+            ],
+            [
+              -77.532166,
+              43.152997
+            ],
+            [
+              -77.532346,
+              43.152703
+            ],
+            [
+              -77.529922,
+              43.152608
+            ],
+            [
+              -77.52879,
+              43.153277
+            ],
+            [
+              -77.528667,
+              43.153302
+            ],
+            [
+              -77.528584,
+              43.152987
+            ],
+            [
+              -77.528364,
+              43.152254
+            ],
+            [
+              -77.528321,
+              43.152099
+            ],
+            [
+              -77.528298,
+              43.151987
+            ],
+            [
+              -77.528268,
+              43.151752
+            ],
+            [
+              -77.528265,
+              43.15154
+            ],
+            [
+              -77.528251,
+              43.149498
+            ],
+            [
+              -77.526894,
+              43.149521
+            ],
+            [
+              -77.526312,
+              43.149501
+            ],
+            [
+              -77.525811,
+              43.149467
+            ],
+            [
+              -77.52513,
+              43.149373
+            ],
+            [
+              -77.522973,
+              43.14895
+            ],
+            [
+              -77.521791,
+              43.146837
+            ],
+            [
+              -77.521805,
+              43.146528
+            ],
+            [
+              -77.518812,
+              43.146985
+            ],
+            [
+              -77.518461,
+              43.14713
+            ],
+            [
+              -77.51887,
+              43.147568
+            ],
+            [
+              -77.5186,
+              43.147685
+            ],
+            [
+              -77.518233,
+              43.147311
+            ],
+            [
+              -77.518114,
+              43.147373
+            ],
+            [
+              -77.518047,
+              43.143233
+            ],
+            [
+              -77.513663,
+              43.143206
+            ],
+            [
+              -77.513687,
+              43.135778
+            ],
+            [
+              -77.512993,
+              43.135725
+            ],
+            [
+              -77.512942,
+              43.136341
+            ],
+            [
+              -77.512568,
+              43.136317
+            ],
+            [
+              -77.512572,
+              43.136021
+            ],
+            [
+              -77.512327,
+              43.135997
+            ],
+            [
+              -77.512316,
+              43.136145
+            ],
+            [
+              -77.51211,
+              43.136137
+            ],
+            [
+              -77.512036,
+              43.137189
+            ],
+            [
+              -77.511541,
+              43.137189
+            ],
+            [
+              -77.511181,
+              43.139672
+            ],
+            [
+              -77.511616,
+              43.140423
+            ],
+            [
+              -77.511016,
+              43.140652
+            ],
+            [
+              -77.510473,
+              43.140653
+            ],
+            [
+              -77.509644,
+              43.140015
+            ],
+            [
+              -77.509632,
+              43.139688
+            ],
+            [
+              -77.50897,
+              43.140004
+            ],
+            [
+              -77.509195,
+              43.140032
+            ],
+            [
+              -77.509443,
+              43.140447
+            ],
+            [
+              -77.508891,
+              43.140758
+            ],
+            [
+              -77.507817,
+              43.140884
+            ],
+            [
+              -77.507897,
+              43.142976
+            ],
+            [
+              -77.508209,
+              43.143214
+            ],
+            [
+              -77.509345,
+              43.143424
+            ],
+            [
+              -77.511529,
+              43.143501
+            ],
+            [
+              -77.511406,
+              43.143783
+            ],
+            [
+              -77.511404,
+              43.144277
+            ],
+            [
+              -77.511778,
+              43.144606
+            ],
+            [
+              -77.511752,
+              43.145067
+            ],
+            [
+              -77.512448,
+              43.145845
+            ],
+            [
+              -77.51296,
+              43.146327
+            ],
+            [
+              -77.512981,
+              43.146772
+            ],
+            [
+              -77.512793,
+              43.147417
+            ],
+            [
+              -77.511654,
+              43.14725
+            ],
+            [
+              -77.511621,
+              43.147925
+            ],
+            [
+              -77.511439,
+              43.147964
+            ],
+            [
+              -77.511045,
+              43.148162
+            ],
+            [
+              -77.511197,
+              43.14851
+            ],
+            [
+              -77.511428,
+              43.149279
+            ],
+            [
+              -77.51094,
+              43.150002
+            ],
+            [
+              -77.509767,
+              43.149986
+            ],
+            [
+              -77.510509,
+              43.151274
+            ],
+            [
+              -77.510245,
+              43.151944
+            ],
+            [
+              -77.513562,
+              43.151978
+            ],
+            [
+              -77.513955,
+              43.153322
+            ],
+            [
+              -77.515857,
+              43.15413
+            ],
+            [
+              -77.518278,
+              43.15425
+            ],
+            [
+              -77.519327,
+              43.153688
+            ],
+            [
+              -77.519366,
+              43.153293
+            ],
+            [
+              -77.520049,
+              43.153808
+            ],
+            [
+              -77.520462,
+              43.154248
+            ],
+            [
+              -77.520553,
+              43.154555
+            ],
+            [
+              -77.521222,
+              43.154785
+            ],
+            [
+              -77.522144,
+              43.155132
+            ],
+            [
+              -77.52373,
+              43.155914
+            ],
+            [
+              -77.523448,
+              43.155469
+            ],
+            [
+              -77.523427,
+              43.155257
+            ],
+            [
+              -77.523545,
+              43.15516
+            ],
+            [
+              -77.524792,
+              43.155341
+            ],
+            [
+              -77.524857,
+              43.155339
+            ],
+            [
+              -77.525352,
+              43.155176
+            ],
+            [
+              -77.525657,
+              43.154958
+            ],
+            [
+              -77.525607,
+              43.154491
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ellison:179dd932",
+        "trailsroc-name": "Trading Post (Ft. Schuyler)",
+        "trailsroc-shortName": "Trading Post (Ft. Schuyler)",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.526371,
+          43.153711
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ellison:eda83dd1",
+        "trailsroc-name": "Historical Marker",
+        "trailsroc-shortName": "Historical Marker",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.528023,
+          43.150573
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ellison:b03e0e6b",
+        "trailsroc-name": "Indian Landing Site",
+        "trailsroc-shortName": "Indian Landing Site",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52518,
+          43.153578
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:aa8e9a66",
+        "trailsroc-name": "Disc Golf Course",
+        "trailsroc-shortName": "Disc Golf Course",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52731,
+          43.151658
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:12695ec7",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515851,
+          43.150432
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:755c8b60",
+        "trailsroc-name": "Softball Field 1",
+        "trailsroc-shortName": "Softball Field 1",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51245,
+          43.144335
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:a67d2100",
+        "trailsroc-name": "Softball Field 2",
+        "trailsroc-shortName": "Softball Field 2",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513974,
+          43.145258
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:d67dab5b",
+        "trailsroc-name": "Softball Field 3",
+        "trailsroc-shortName": "Softball Field 3",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516634,
+          43.146057
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:3a58c4ad",
+        "trailsroc-name": "Softball Field 4",
+        "trailsroc-shortName": "Softball Field 4",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.514811,
+          43.146527
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:69941859",
+        "trailsroc-name": "Softball Field 5",
+        "trailsroc-shortName": "Softball Field 5",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.514049,
+          43.149994
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:ellison:89c623ee",
+        "trailsroc-name": "Tennis Courts",
+        "trailsroc-shortName": "Tennis Courts",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.519553,
+          43.147568
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:d76ee126",
+        "trailsroc-name": "Parking (N Landing)",
+        "trailsroc-shortName": "N Landing",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-bridle,trail-ellison-butlers-gap,trail-ellison-indian-landing",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.528168,
+          43.152859
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:fb56ef51",
+        "trailsroc-name": "Parking (Pavilion Lodge)",
+        "trailsroc-shortName": "Pavilion Lodge",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-indian-landing",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.517729,
+          43.152076
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:7fbf9ad1",
+        "trailsroc-name": "Parking (Roadside Shelter)",
+        "trailsroc-shortName": "Roadside Shelter",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-indian-landing",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515347,
+          43.150769
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:1d2bad37",
+        "trailsroc-name": "Parking (Hazelwood)",
+        "trailsroc-shortName": "Hazelwood",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-mill-race,trail-ellison-indian-landing",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.512922,
+          43.150432
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:cb24092a",
+        "trailsroc-name": "Large Parking Lot (Blossom Rd)",
+        "trailsroc-shortName": "Large Parking Lot",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-bridle,trail-ellison-indian-landing,trail-ellison-coyote-den,trail-ellison-butlers-gap",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515304,
+          43.148194
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:16206591",
+        "trailsroc-name": "Parking (Dog Park)",
+        "trailsroc-shortName": "Dog Park",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-bridle,trail-ellison-coyote-den",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.517868,
+          43.148303
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:93a5d1e9",
+        "trailsroc-name": "Tennis Parking",
+        "trailsroc-shortName": "Tennis Parking",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-coyote-den,trail-ellison-bridle",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.520239,
+          43.14763
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:a5a08b4c",
+        "trailsroc-name": "Parking (Softball)",
+        "trailsroc-shortName": "Softball",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.514289,
+          43.14725
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515379,
+          43.146354
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:75087f50",
+        "trailsroc-name": "Parking (South Lodge)",
+        "trailsroc-shortName": "South Lodge",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.514289,
+          43.14725
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51613,
+          43.144452
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:12e2dce1",
+        "trailsroc-name": "Parking (Sycamore Shelter)",
+        "trailsroc-shortName": "Sycamore Shelter",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.513366,
+          43.146015
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.514446,
+          43.144327
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:b87f56bf",
+        "trailsroc-name": "Parking (Penfield Rd)",
+        "trailsroc-shortName": "Penfield Rd",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-coyote-den",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513427,
+          43.135982
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:ellison:da2dffd6",
+        "trailsroc-name": "Parking (East)",
+        "trailsroc-shortName": "East",
+        "trailsroc-parentIDs": "park-ellison,trail-ellison-mill-race",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.512498,
+          43.149389
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ellison:9f026da1",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.527857,
+          43.153282
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ellison:17c3ab1e",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515991,
+          43.149282
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ellison:7acafcc0",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513137,
+          43.151286
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:ellison:1520954e",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.514532,
+          43.144836
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:ellison:a5f51fe9",
+        "trailsroc-name": "Park Office",
+        "trailsroc-shortName": "Park Office",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.518319,
+          43.146894
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:ellison:91d121a6",
+        "trailsroc-name": "Pavilion Lodge",
+        "trailsroc-shortName": "Pavilion",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.518189,
+          43.151879
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:ellison:d13f5e4c",
+        "trailsroc-name": "Hazelwood Lodge",
+        "trailsroc-shortName": "Hazelwood",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513498,
+          43.15106
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:ellison:a3f9abd0",
+        "trailsroc-name": "Creekside Lodge",
+        "trailsroc-shortName": "Creekside",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515807,
+          43.149225
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:ellison:c6eca31c",
+        "trailsroc-name": "South Lodge",
+        "trailsroc-shortName": "South",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.514289,
+          43.14725
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516634,
+          43.144413
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:f1ec46a5",
+        "trailsroc-name": "Old Meadow Shelter",
+        "trailsroc-shortName": "Old Meadow",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513922,
+          43.14933
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:a8a0b8cc",
+        "trailsroc-name": "Orchard Grove Shelter",
+        "trailsroc-shortName": "Orchard Grove",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516936,
+          43.149195
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:7caca62a",
+        "trailsroc-name": "Roadside Shelter",
+        "trailsroc-shortName": "Roadside",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515089,
+          43.150427
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:6ea06d23",
+        "trailsroc-name": "Island Shelter",
+        "trailsroc-shortName": "Island",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.513366,
+          43.146015
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515894,
+          43.145086
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:e10fe95e",
+        "trailsroc-name": "Spruce Shelter",
+        "trailsroc-shortName": "Spruce",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.514289,
+          43.14725
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515304,
+          43.144069
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:0497555f",
+        "trailsroc-name": "Sycamore Shelter",
+        "trailsroc-shortName": "Sycamore",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.513366,
+          43.146015
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.513813,
+          43.144233
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:ellison:df37e0c4",
+        "trailsroc-name": "Circle Shelter",
+        "trailsroc-shortName": "Circle",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.512804,
+          43.143638
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-boatLaunch",
+        "trailsroc-id": "point-boatLaunch:ellison:388d887c",
+        "trailsroc-name": "Boat Launch",
+        "trailsroc-shortName": "Boat Launch",
+        "trailsroc-parentIDs": "park-ellison",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.512043,
+          43.144906
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

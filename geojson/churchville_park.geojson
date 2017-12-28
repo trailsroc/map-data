@@ -1,0 +1,1094 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-churchville",
+        "trailsroc-shortName": "Churchville Park",
+        "trailsroc-name": "Churchville Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-churchville.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-directionsCoordinate": [
+          -77.884596,
+          43.109538
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.90131,
+          43.10825
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-churchville:cb85882c",
+        "trailsroc-parkID": "park-churchville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.882788,
+              43.104383
+            ],
+            [
+              -77.882616,
+              43.10573
+            ],
+            [
+              -77.881265,
+              43.10725
+            ],
+            [
+              -77.87899,
+              43.108221
+            ],
+            [
+              -77.878196,
+              43.109082
+            ],
+            [
+              -77.878411,
+              43.110022
+            ],
+            [
+              -77.87914,
+              43.110523
+            ],
+            [
+              -77.879677,
+              43.110664
+            ],
+            [
+              -77.879312,
+              43.11198
+            ],
+            [
+              -77.879226,
+              43.113641
+            ],
+            [
+              -77.879612,
+              43.113829
+            ],
+            [
+              -77.880149,
+              43.114189
+            ],
+            [
+              -77.880664,
+              43.114361
+            ],
+            [
+              -77.881093,
+              43.114393
+            ],
+            [
+              -77.88929,
+              43.11444
+            ],
+            [
+              -77.889333,
+              43.111463
+            ],
+            [
+              -77.889376,
+              43.111087
+            ],
+            [
+              -77.889633,
+              43.110821
+            ],
+            [
+              -77.889869,
+              43.110617
+            ],
+            [
+              -77.890084,
+              43.110523
+            ],
+            [
+              -77.890406,
+              43.110555
+            ],
+            [
+              -77.89062,
+              43.110508
+            ],
+            [
+              -77.891071,
+              43.110273
+            ],
+            [
+              -77.891285,
+              43.110101
+            ],
+            [
+              -77.891371,
+              43.109897
+            ],
+            [
+              -77.891436,
+              43.109646
+            ],
+            [
+              -77.8915,
+              43.10949
+            ],
+            [
+              -77.891822,
+              43.109223
+            ],
+            [
+              -77.892423,
+              43.109114
+            ],
+            [
+              -77.892777,
+              43.10909
+            ],
+            [
+              -77.893313,
+              43.108941
+            ],
+            [
+              -77.893946,
+              43.108456
+            ],
+            [
+              -77.894354,
+              43.108432
+            ],
+            [
+              -77.894687,
+              43.108166
+            ],
+            [
+              -77.895995,
+              43.10808
+            ],
+            [
+              -77.896424,
+              43.108283
+            ],
+            [
+              -77.896875,
+              43.108299
+            ],
+            [
+              -77.897133,
+              43.108189
+            ],
+            [
+              -77.898538,
+              43.10837
+            ],
+            [
+              -77.899107,
+              43.107806
+            ],
+            [
+              -77.899193,
+              43.106184
+            ],
+            [
+              -77.900898,
+              43.106067
+            ],
+            [
+              -77.901596,
+              43.106427
+            ],
+            [
+              -77.903066,
+              43.106756
+            ],
+            [
+              -77.9046,
+              43.107195
+            ],
+            [
+              -77.906156,
+              43.106654
+            ],
+            [
+              -77.906327,
+              43.10584
+            ],
+            [
+              -77.907357,
+              43.105276
+            ],
+            [
+              -77.907701,
+              43.105495
+            ],
+            [
+              -77.908044,
+              43.11151
+            ],
+            [
+              -77.914052,
+              43.111448
+            ],
+            [
+              -77.914052,
+              43.104868
+            ],
+            [
+              -77.914782,
+              43.105338
+            ],
+            [
+              -77.915039,
+              43.10609
+            ],
+            [
+              -77.915726,
+              43.106278
+            ],
+            [
+              -77.91667,
+              43.106184
+            ],
+            [
+              -77.917142,
+              43.105589
+            ],
+            [
+              -77.918515,
+              43.104555
+            ],
+            [
+              -77.918687,
+              43.097129
+            ],
+            [
+              -77.91431,
+              43.097505
+            ],
+            [
+              -77.914181,
+              43.101641
+            ],
+            [
+              -77.908773,
+              43.103176
+            ],
+            [
+              -77.906928,
+              43.103427
+            ],
+            [
+              -77.905126,
+              43.103427
+            ],
+            [
+              -77.894397,
+              43.10233
+            ],
+            [
+              -77.89341,
+              43.102777
+            ],
+            [
+              -77.89415,
+              43.10291
+            ],
+            [
+              -77.893421,
+              43.103176
+            ],
+            [
+              -77.89312,
+              43.102871
+            ],
+            [
+              -77.892144,
+              43.103278
+            ],
+            [
+              -77.892809,
+              43.104813
+            ],
+            [
+              -77.890867,
+              43.105534
+            ],
+            [
+              -77.890502,
+              43.105111
+            ],
+            [
+              -77.889741,
+              43.105338
+            ],
+            [
+              -77.890009,
+              43.106317
+            ],
+            [
+              -77.891479,
+              43.105847
+            ],
+            [
+              -77.891768,
+              43.106991
+            ],
+            [
+              -77.891328,
+              43.107735
+            ],
+            [
+              -77.890331,
+              43.108197
+            ],
+            [
+              -77.887917,
+              43.108902
+            ],
+            [
+              -77.887305,
+              43.108824
+            ],
+            [
+              -77.886747,
+              43.107343
+            ],
+            [
+              -77.886125,
+              43.1075
+            ],
+            [
+              -77.885513,
+              43.107602
+            ],
+            [
+              -77.884634,
+              43.107586
+            ],
+            [
+              -77.884537,
+              43.109435
+            ],
+            [
+              -77.882917,
+              43.110061
+            ],
+            [
+              -77.880996,
+              43.110602
+            ],
+            [
+              -77.88017,
+              43.110594
+            ],
+            [
+              -77.880256,
+              43.108565
+            ],
+            [
+              -77.881136,
+              43.108119
+            ],
+            [
+              -77.881898,
+              43.107398
+            ],
+            [
+              -77.882327,
+              43.107093
+            ],
+            [
+              -77.882778,
+              43.106623
+            ],
+            [
+              -77.883357,
+              43.105793
+            ],
+            [
+              -77.883421,
+              43.104367
+            ],
+            [
+              -77.882788,
+              43.104383
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:churchville_park:43ff7589",
+        "trailsroc-name": "Churchville Golf Course",
+        "trailsroc-shortName": "Churchville Golf Course",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-url": "http://golftheparks.com/courses/Churchville.html",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.898871,
+          43.114095
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:churchville_park:c541dda3",
+        "trailsroc-name": "Fishing",
+        "trailsroc-shortName": "Fishing",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894933,
+          43.105268
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:churchville_park:e4afd377",
+        "trailsroc-name": "Fishing",
+        "trailsroc-shortName": "Fishing",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883142,
+          43.104978
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-boatLaunch",
+        "trailsroc-id": "point-boatLaunch:churchville_park:221298d1",
+        "trailsroc-name": "Boat Launch",
+        "trailsroc-shortName": "Boat Launch",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894214,
+          43.105628
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:a448283e",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.887005,
+          43.113617
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:0fe37b94",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.882456,
+          43.113727
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:ca4c4744",
+        "trailsroc-name": "Softball Field 1",
+        "trailsroc-shortName": "Softball Field 1",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883491,
+          43.112027
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:98cffb9b",
+        "trailsroc-name": "Softball Field 2",
+        "trailsroc-shortName": "Softball Field 2",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.886999,
+          43.112713
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:97bae774",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.882547,
+          43.112865
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:6d0acb90",
+        "trailsroc-name": "Tennis Courts",
+        "trailsroc-shortName": "Tennis Courts",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883743,
+          43.111111
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:e3e6284b",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.886305,
+          43.110238
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:bff215c5",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.891076,
+          43.109703
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:77b1323b",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.891953,
+          43.10892
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:churchville_park:a353f333",
+        "trailsroc-name": "Skating Rink",
+        "trailsroc-shortName": "Skating Rink",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.886232,
+          43.108675
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:churchville_park:dc040a33",
+        "trailsroc-name": "Cottonwood Lodge",
+        "trailsroc-shortName": "Cottonwood",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883732,
+          43.113093
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:churchville_park:12a4fbeb",
+        "trailsroc-name": "Pinetree Lodge",
+        "trailsroc-shortName": "Pinetree",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.881485,
+          43.112642
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:churchville_park:f7bec07c",
+        "trailsroc-name": "West and East Lodges Lodge",
+        "trailsroc-shortName": "West and East Lodges",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.885878,
+          43.109913
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:churchville_park:170b967f",
+        "trailsroc-name": "Church Lodge",
+        "trailsroc-shortName": "Church",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.886366,
+          43.10824
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:f2924122",
+        "trailsroc-name": "Shadyside Shelter",
+        "trailsroc-shortName": "Shadyside",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.887707,
+          43.111875
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:7eb30d59",
+        "trailsroc-name": "Oak Shelter",
+        "trailsroc-shortName": "Oak",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.888925,
+          43.111757
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:acce560d",
+        "trailsroc-name": "Anderson Shelter",
+        "trailsroc-shortName": "Anderson",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.888432,
+          43.109995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:6b1fb675",
+        "trailsroc-name": "Hickory Grove Shelter",
+        "trailsroc-shortName": "Hickory Grove",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.890341,
+          43.110014
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:343424ef",
+        "trailsroc-name": "Fairview Shelter",
+        "trailsroc-shortName": "Fairview",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.891194,
+          43.10938
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:cde036a8",
+        "trailsroc-name": "Beechwoods Shelter",
+        "trailsroc-shortName": "Beechwoods",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.892042,
+          43.108894
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:churchville_park:f1d25999",
+        "trailsroc-name": "Westview Shelter",
+        "trailsroc-shortName": "Westview",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894037,
+          43.107794
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:churchville_park:730c5d65",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.890658,
+          43.110198
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:churchville_park:7ed5792d",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.882456,
+          43.11238
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:churchville_park:3f9381af",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.887166,
+          43.110226
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:churchville_park:72a79e22",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.886565,
+          43.107954
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:e8774c5d",
+        "trailsroc-name": "Parking (Cottonwood)",
+        "trailsroc-shortName": "Cottonwood",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883904,
+          43.112803
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:aa590c65",
+        "trailsroc-name": "Parking (Pinetree)",
+        "trailsroc-shortName": "Pinetree",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.881211,
+          43.112364
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:c35848c7",
+        "trailsroc-name": "Parking (East Lodge)",
+        "trailsroc-shortName": "East Lodge",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.884966,
+          43.110508
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:f465502c",
+        "trailsroc-name": "Parking (Westview)",
+        "trailsroc-shortName": "Westview",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.889889,
+          43.110623
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894461,
+          43.107782
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:4f721a29",
+        "trailsroc-name": "Parking (Church Lodge)",
+        "trailsroc-shortName": "Church Lodge",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.88502,
+          43.108534
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:churchville_park:26c64459",
+        "trailsroc-name": "Parking (South)",
+        "trailsroc-shortName": "South",
+        "trailsroc-parentIDs": "park-churchville",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.8943,
+          43.105213
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

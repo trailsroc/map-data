@@ -1,0 +1,1096 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "trailSystem",
+        "trailsroc-id": "tsystem-auburntr",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-keywords": "rail",
+        "trailsroc-directionsCoordinate": [
+          -77.467477,
+          43.008981
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.468253,
+          43.01155
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-auburntr-main",
+        "trailsroc-parentID": "tsystem-auburntr",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
+        "trailsroc-color": "brown",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-keywords": "rail",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-blazes": "none",
+        "trailsroc-isPrimary": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.426591,
+          43.0021875
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-auburntr-shoulder",
+        "trailsroc-parentID": "tsystem-auburntr",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-url": "http://www.victorhikingtrails.org/map/trails/auburn.php",
+        "trailsroc-color": "black",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-blazes": "none",
+        "trailsroc-isPrimary": true,
+        "trailsroc-isSearchable": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.39965,
+          42.9744
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:57c8e6d2",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.467422,
+            43.009092
+          ],
+          [
+            -77.4669,
+            43.0079
+          ],
+          [
+            -77.4665,
+            43.0073
+          ],
+          [
+            -77.4661,
+            43.0068
+          ],
+          [
+            -77.4651,
+            43.006
+          ],
+          [
+            -77.4643,
+            43.0056
+          ],
+          [
+            -77.459,
+            43.0037
+          ],
+          [
+            -77.4536,
+            43.0019
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:c8ba34e3",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4536,
+            43.0019
+          ],
+          [
+            -77.4519,
+            43.0013
+          ],
+          [
+            -77.450377,
+            43.000574
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:e9058c90",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.442915,
+            42.996973
+          ],
+          [
+            -77.4422,
+            42.9966
+          ],
+          [
+            -77.441373,
+            42.996075
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:b0ce219f",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.441373,
+            42.996075
+          ],
+          [
+            -77.44,
+            42.9951
+          ],
+          [
+            -77.4368,
+            42.9928
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:5a972da4",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4368,
+            42.9928
+          ],
+          [
+            -77.42939,
+            42.987522
+          ],
+          [
+            -77.426386,
+            42.985415
+          ],
+          [
+            -77.4244,
+            42.9839
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:22fb911b",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.421368,
+            42.980985
+          ],
+          [
+            -77.41693,
+            42.98098
+          ],
+          [
+            -77.4166,
+            42.9809
+          ],
+          [
+            -77.41645,
+            42.98077
+          ],
+          [
+            -77.41647,
+            42.98068
+          ],
+          [
+            -77.4164,
+            42.9806
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:07d0bb6b",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4164,
+            42.9806
+          ],
+          [
+            -77.4151,
+            42.9813
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:b50b0f29",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4151,
+            42.9813
+          ],
+          [
+            -77.4128,
+            42.9807
+          ],
+          [
+            -77.4104,
+            42.98
+          ],
+          [
+            -77.4097,
+            42.98
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:0a67da5c",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4097,
+            42.98
+          ],
+          [
+            -77.4097,
+            42.9797
+          ],
+          [
+            -77.4098,
+            42.9792
+          ],
+          [
+            -77.4116,
+            42.9753
+          ],
+          [
+            -77.4113,
+            42.9753
+          ],
+          [
+            -77.4116,
+            42.9748
+          ],
+          [
+            -77.41161,
+            42.9746
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:4b428386",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.384304,
+            42.96884
+          ],
+          [
+            -77.383814,
+            42.968823
+          ],
+          [
+            -77.38291,
+            42.96884
+          ],
+          [
+            -77.38201,
+            42.9691
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-shoulder:2187c1a5",
+        "trailsroc-trailIDs": "trail-auburntr-shoulder",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail (Road Segment)",
+        "trailsroc-shortName": "(Road Segment)",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.38201,
+            42.9691
+          ],
+          [
+            -77.3817,
+            42.9691
+          ],
+          [
+            -77.3806,
+            42.969
+          ],
+          [
+            -77.3802,
+            42.9689
+          ],
+          [
+            -77.3778,
+            42.9676
+          ],
+          [
+            -77.3778,
+            42.9675
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:2c5f9ba4",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.3778,
+            42.9675
+          ],
+          [
+            -77.3773,
+            42.9674
+          ],
+          [
+            -77.3759,
+            42.9671
+          ],
+          [
+            -77.3747,
+            42.9668
+          ],
+          [
+            -77.368384,
+            42.964267
+          ],
+          [
+            -77.366259,
+            42.963515
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:29b0dc6f",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.366259,
+            42.963515
+          ],
+          [
+            -77.365961,
+            42.9635
+          ],
+          [
+            -77.364797,
+            42.963053
+          ],
+          [
+            -77.364721,
+            42.962944
+          ],
+          [
+            -77.363663,
+            42.962438
+          ],
+          [
+            -77.36347,
+            42.9624
+          ],
+          [
+            -77.362952,
+            42.962013
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:4809373b",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.41161,
+            42.9746
+          ],
+          [
+            -77.40942,
+            42.97397
+          ],
+          [
+            -77.40712,
+            42.97346
+          ],
+          [
+            -77.40614,
+            42.97321
+          ],
+          [
+            -77.4041,
+            42.9729
+          ],
+          [
+            -77.40332,
+            42.97276
+          ],
+          [
+            -77.40261,
+            42.97253
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:f6a2dcb9",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.40261,
+            42.97253
+          ],
+          [
+            -77.39922,
+            42.97136
+          ],
+          [
+            -77.3969,
+            42.9705
+          ],
+          [
+            -77.3959,
+            42.9702
+          ],
+          [
+            -77.3938,
+            42.9696
+          ],
+          [
+            -77.3931,
+            42.9695
+          ],
+          [
+            -77.3916,
+            42.96926
+          ],
+          [
+            -77.39016,
+            42.96909
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:6ba81a9a",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.39016,
+            42.96909
+          ],
+          [
+            -77.386,
+            42.9686
+          ],
+          [
+            -77.38435,
+            42.96839
+          ],
+          [
+            -77.384304,
+            42.96884
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:54b7edb4",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.467422,
+            43.009092
+          ],
+          [
+            -77.468621,
+            43.012036
+          ],
+          [
+            -77.46951,
+            43.01414
+          ],
+          [
+            -77.469909,
+            43.014788
+          ],
+          [
+            -77.470348,
+            43.015383
+          ],
+          [
+            -77.47115,
+            43.016237
+          ],
+          [
+            -77.471812,
+            43.016821
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:1ce1e7c7",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.471812,
+            43.016821
+          ],
+          [
+            -77.472841,
+            43.017596
+          ],
+          [
+            -77.473513,
+            43.017951
+          ],
+          [
+            -77.474905,
+            43.018542
+          ],
+          [
+            -77.476434,
+            43.019364
+          ],
+          [
+            -77.476777,
+            43.019628
+          ],
+          [
+            -77.478953,
+            43.021381
+          ],
+          [
+            -77.480939,
+            43.023185
+          ],
+          [
+            -77.481282,
+            43.023642
+          ],
+          [
+            -77.481712,
+            43.024579
+          ],
+          [
+            -77.482371,
+            43.026797
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:ca7c7df0",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.482371,
+            43.026797
+          ],
+          [
+            -77.482549,
+            43.027499
+          ],
+          [
+            -77.482523,
+            43.028236
+          ],
+          [
+            -77.482393,
+            43.029054
+          ],
+          [
+            -77.482265,
+            43.03025
+          ],
+          [
+            -77.482208,
+            43.031322
+          ],
+          [
+            -77.482264,
+            43.031863
+          ],
+          [
+            -77.482468,
+            43.032263
+          ],
+          [
+            -77.482608,
+            43.032342
+          ],
+          [
+            -77.48335,
+            43.033413
+          ],
+          [
+            -77.484698,
+            43.035084
+          ],
+          [
+            -77.485417,
+            43.036037
+          ],
+          [
+            -77.487,
+            43.038172
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:786d7293",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.487,
+            43.038172
+          ],
+          [
+            -77.49023,
+            43.042362
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-auburntr-main:7f0f35d5",
+        "trailsroc-trailIDs": "trail-auburntr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Auburn Trail",
+        "trailsroc-shortName": "Auburn Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "brown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.450377,
+            43.000574
+          ],
+          [
+            -77.449792,
+            43.000293
+          ],
+          [
+            -77.449792,
+            43.000293
+          ],
+          [
+            -77.446,
+            42.9985
+          ],
+          [
+            -77.442915,
+            42.996973
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:mertensia",
+        "trailsroc-name": "Parking (Mertensia Rd)",
+        "trailsroc-shortName": "Mertensia Rd",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.366203,
+          42.963682
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:defb7dfa",
+        "trailsroc-name": "Parking (Brace Rd)",
+        "trailsroc-shortName": "Brace Rd",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.390207,
+          42.969
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:e853fb8c",
+        "trailsroc-name": "Parking (Mickey Finn’s)",
+        "trailsroc-shortName": "Mickey Finn’s",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-keywords": "finns"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.408509,
+          42.973867
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-smparking",
+        "trailsroc-id": "point-smparking:auburntr:da80497c",
+        "trailsroc-name": "Shoulder Parking (251)",
+        "trailsroc-shortName": "Shoulder Parking",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.437035,
+          42.992805
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:d740510c",
+        "trailsroc-name": "Parking (Fishers Fire Hall)",
+        "trailsroc-shortName": "Fishers Fire Hall",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.467477,
+          43.008981
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:fishersn",
+        "trailsroc-name": "Parking (Fishers Rd)",
+        "trailsroc-shortName": "Fishers Rd",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.471707,
+          43.016602
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:26f5ddc1",
+        "trailsroc-name": "Parking (Phillips Rd)",
+        "trailsroc-shortName": "Phillips Rd",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.453491,
+          43.001971
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:971807fb",
+        "trailsroc-name": "Parking (Railroad Mills)",
+        "trailsroc-shortName": "Railroad Mills",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.482431,
+          43.026709
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:auburntr:f7f78462",
+        "trailsroc-name": "Parking (Break of Day Rd)",
+        "trailsroc-shortName": "Break of Day Rd",
+        "trailsroc-parentIDs": "tsystem-auburntr,trail-auburntr-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.384341,
+          42.96881
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

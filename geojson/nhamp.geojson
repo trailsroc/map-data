@@ -1,0 +1,3064 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-nhamp",
+        "trailsroc-shortName": "Northampton Park",
+        "trailsroc-name": "Northampton Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.89066,
+          43.18365
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-creek",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.8611545,
+          43.182508999999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-fairview",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-name": "Fairview Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "dark_green",
+        "trailsroc-shortName": "Fairview Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.8800785,
+          43.1859185
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-farm",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "purple",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.868319,
+          43.183953
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-gardner",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-name": "Gardner Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "Gardner Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.89176649999999,
+          43.1893805
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-loop",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-name": "Loop Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Loop Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.89005900000001,
+          43.185650499999994
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-nhamp-unnamed-trails",
+        "trailsroc-parentID": "park-nhamp",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-northampton.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.873835,
+          43.1831725
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-fairview:83f33518",
+        "trailsroc-trailIDs": "trail-nhamp-fairview",
+        "trailsroc-name": "Fairview Trail",
+        "trailsroc-shortName": "Fairview Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.875258,
+            43.184848
+          ],
+          [
+            -77.875724,
+            43.184883
+          ],
+          [
+            -77.876065,
+            43.185055
+          ],
+          [
+            -77.876052,
+            43.185258
+          ],
+          [
+            -77.875988,
+            43.186301
+          ],
+          [
+            -77.878489,
+            43.186293
+          ],
+          [
+            -77.880921,
+            43.186173
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-fairview:2212e6a5",
+        "trailsroc-trailIDs": "trail-nhamp-fairview",
+        "trailsroc-name": "Fairview Trail",
+        "trailsroc-shortName": "Fairview Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.880921,
+            43.186173
+          ],
+          [
+            -77.882588,
+            43.186672
+          ],
+          [
+            -77.883235,
+            43.186784
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-fairview:28227771",
+        "trailsroc-trailIDs": "trail-nhamp-fairview",
+        "trailsroc-name": "Fairview Trail",
+        "trailsroc-shortName": "Fairview Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.883235,
+            43.186784
+          ],
+          [
+            -77.884,
+            43.186925
+          ],
+          [
+            -77.884919,
+            43.186977
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:582d63bb",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.863439,
+            43.179488
+          ],
+          [
+            -77.863408,
+            43.180049
+          ],
+          [
+            -77.863295,
+            43.18033
+          ],
+          [
+            -77.863361,
+            43.180751
+          ],
+          [
+            -77.863067,
+            43.181577
+          ],
+          [
+            -77.863192,
+            43.181691
+          ],
+          [
+            -77.863404,
+            43.182202
+          ],
+          [
+            -77.863334,
+            43.183046
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:d95b5a6c",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.863334,
+            43.183046
+          ],
+          [
+            -77.863904,
+            43.183335
+          ],
+          [
+            -77.863823,
+            43.184119
+          ],
+          [
+            -77.863815,
+            43.184323
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:5b71d02e",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.863815,
+            43.184323
+          ],
+          [
+            -77.863813,
+            43.18462
+          ],
+          [
+            -77.86395,
+            43.184809
+          ],
+          [
+            -77.863955,
+            43.185162
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:f809af53",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.863955,
+            43.185162
+          ],
+          [
+            -77.863914,
+            43.185354
+          ],
+          [
+            -77.863154,
+            43.185294
+          ],
+          [
+            -77.862242,
+            43.185611
+          ],
+          [
+            -77.861742,
+            43.185654
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:b8624188",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.861742,
+            43.185654
+          ],
+          [
+            -77.860385,
+            43.185264
+          ],
+          [
+            -77.859832,
+            43.185111
+          ],
+          [
+            -77.859321,
+            43.185146
+          ],
+          [
+            -77.858937,
+            43.185088
+          ],
+          [
+            -77.858422,
+            43.184925
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:05e72512",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.858422,
+            43.184925
+          ],
+          [
+            -77.858486,
+            43.18476
+          ],
+          [
+            -77.858354,
+            43.184365
+          ],
+          [
+            -77.858714,
+            43.183929
+          ],
+          [
+            -77.859109,
+            43.183844
+          ],
+          [
+            -77.859505,
+            43.183759
+          ],
+          [
+            -77.85996,
+            43.183244
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-creek:d6410583",
+        "trailsroc-trailIDs": "trail-nhamp-creek",
+        "trailsroc-name": "Creek Trail",
+        "trailsroc-shortName": "Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.85996,
+            43.183244
+          ],
+          [
+            -77.860338,
+            43.18317
+          ],
+          [
+            -77.862009,
+            43.183164
+          ],
+          [
+            -77.862399,
+            43.182982
+          ],
+          [
+            -77.863307,
+            43.183032
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-farm:6235b41f",
+        "trailsroc-trailIDs": "trail-nhamp-farm",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.87082,
+            43.180534
+          ],
+          [
+            -77.870787,
+            43.181019
+          ],
+          [
+            -77.870699,
+            43.182021
+          ],
+          [
+            -77.870623,
+            43.182934
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-farm:00b95298",
+        "trailsroc-trailIDs": "trail-nhamp-farm",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.870623,
+            43.182934
+          ],
+          [
+            -77.870295,
+            43.18299
+          ],
+          [
+            -77.870152,
+            43.18306
+          ],
+          [
+            -77.86934,
+            43.183077
+          ],
+          [
+            -77.869017,
+            43.183121
+          ],
+          [
+            -77.868822,
+            43.18329
+          ],
+          [
+            -77.868716,
+            43.184049
+          ],
+          [
+            -77.868498,
+            43.184225
+          ],
+          [
+            -77.867996,
+            43.18424
+          ],
+          [
+            -77.867268,
+            43.184292
+          ],
+          [
+            -77.86638,
+            43.184297
+          ],
+          [
+            -77.865958,
+            43.184231
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-farm:f7dca0b7",
+        "trailsroc-trailIDs": "trail-nhamp-farm",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.865958,
+            43.184231
+          ],
+          [
+            -77.865812,
+            43.184299
+          ],
+          [
+            -77.8658,
+            43.184404
+          ],
+          [
+            -77.865691,
+            43.184509
+          ],
+          [
+            -77.865531,
+            43.184722
+          ],
+          [
+            -77.865463,
+            43.185009
+          ],
+          [
+            -77.865393,
+            43.185092
+          ],
+          [
+            -77.865348,
+            43.185195
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-farm:26802a65",
+        "trailsroc-trailIDs": "trail-nhamp-farm",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.865348,
+            43.185195
+          ],
+          [
+            -77.865579,
+            43.185406
+          ],
+          [
+            -77.866101,
+            43.185364
+          ],
+          [
+            -77.866378,
+            43.185461
+          ],
+          [
+            -77.866355,
+            43.186471
+          ],
+          [
+            -77.866457,
+            43.186541
+          ],
+          [
+            -77.866369,
+            43.187218
+          ],
+          [
+            -77.866531,
+            43.187386
+          ],
+          [
+            -77.866893,
+            43.187454
+          ],
+          [
+            -77.867685,
+            43.187431
+          ],
+          [
+            -77.867988,
+            43.187418
+          ],
+          [
+            -77.86833,
+            43.187387
+          ],
+          [
+            -77.868776,
+            43.18739
+          ],
+          [
+            -77.869021,
+            43.187378
+          ],
+          [
+            -77.869549,
+            43.187155
+          ],
+          [
+            -77.869814,
+            43.186954
+          ],
+          [
+            -77.869966,
+            43.186721
+          ],
+          [
+            -77.870117,
+            43.186652
+          ],
+          [
+            -77.870331,
+            43.186345
+          ],
+          [
+            -77.870866,
+            43.18585
+          ],
+          [
+            -77.871083,
+            43.185611
+          ],
+          [
+            -77.871178,
+            43.185536
+          ],
+          [
+            -77.87129,
+            43.185353
+          ],
+          [
+            -77.871219,
+            43.184809
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-farm:8957192e",
+        "trailsroc-trailIDs": "trail-nhamp-farm",
+        "trailsroc-name": "Farm Trail",
+        "trailsroc-shortName": "Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.871219,
+            43.184809
+          ],
+          [
+            -77.871222,
+            43.183938
+          ],
+          [
+            -77.870922,
+            43.183481
+          ],
+          [
+            -77.870842,
+            43.183334
+          ],
+          [
+            -77.870791,
+            43.183151
+          ],
+          [
+            -77.870628,
+            43.182928
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-gardner:ce370af6",
+        "trailsroc-trailIDs": "trail-nhamp-gardner",
+        "trailsroc-name": "Gardner Trail",
+        "trailsroc-shortName": "Gardner Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.888126,
+            43.18889
+          ],
+          [
+            -77.889823,
+            43.188617
+          ],
+          [
+            -77.890523,
+            43.188487
+          ],
+          [
+            -77.891392,
+            43.188517
+          ],
+          [
+            -77.894107,
+            43.188505
+          ],
+          [
+            -77.896379,
+            43.188505
+          ],
+          [
+            -77.897084,
+            43.188539
+          ],
+          [
+            -77.897142,
+            43.18889
+          ],
+          [
+            -77.897434,
+            43.188951
+          ],
+          [
+            -77.897819,
+            43.188959
+          ],
+          [
+            -77.898735,
+            43.189449
+          ],
+          [
+            -77.89909,
+            43.189725
+          ],
+          [
+            -77.899192,
+            43.189893
+          ],
+          [
+            -77.899383,
+            43.190484
+          ],
+          [
+            -77.899395,
+            43.19071
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-gardner:d6287b1f",
+        "trailsroc-trailIDs": "trail-nhamp-gardner",
+        "trailsroc-name": "Gardner Trail",
+        "trailsroc-shortName": "Gardner Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.899395,
+            43.19071
+          ],
+          [
+            -77.898853,
+            43.190765
+          ],
+          [
+            -77.895665,
+            43.190749
+          ],
+          [
+            -77.892447,
+            43.190725
+          ],
+          [
+            -77.891756,
+            43.190731
+          ],
+          [
+            -77.889779,
+            43.190685
+          ],
+          [
+            -77.889688,
+            43.190591
+          ],
+          [
+            -77.889367,
+            43.190031
+          ],
+          [
+            -77.88893,
+            43.189526
+          ],
+          [
+            -77.888429,
+            43.189106
+          ],
+          [
+            -77.888117,
+            43.188893
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-gardner:6c5993f4",
+        "trailsroc-trailIDs": "trail-nhamp-gardner",
+        "trailsroc-name": "Gardner Trail",
+        "trailsroc-shortName": "Gardner Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.888117,
+            43.188893
+          ],
+          [
+            -77.887901,
+            43.18853
+          ],
+          [
+            -77.887592,
+            43.188163
+          ],
+          [
+            -77.887413,
+            43.188095
+          ],
+          [
+            -77.886285,
+            43.188133
+          ],
+          [
+            -77.885709,
+            43.188354
+          ],
+          [
+            -77.885419,
+            43.188386
+          ],
+          [
+            -77.88522,
+            43.188397
+          ],
+          [
+            -77.884917,
+            43.188368
+          ],
+          [
+            -77.884681,
+            43.188294
+          ],
+          [
+            -77.884426,
+            43.188066
+          ],
+          [
+            -77.884229,
+            43.18802
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-loop:d74be7d9",
+        "trailsroc-trailIDs": "trail-nhamp-loop",
+        "trailsroc-name": "Loop Trail",
+        "trailsroc-shortName": "Loop Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.889448,
+            43.184684
+          ],
+          [
+            -77.889856,
+            43.185316
+          ],
+          [
+            -77.890439,
+            43.185304
+          ],
+          [
+            -77.891051,
+            43.18552
+          ],
+          [
+            -77.891191,
+            43.186011
+          ],
+          [
+            -77.89072,
+            43.186389
+          ],
+          [
+            -77.890054,
+            43.186617
+          ],
+          [
+            -77.889211,
+            43.186553
+          ],
+          [
+            -77.888927,
+            43.186171
+          ],
+          [
+            -77.889193,
+            43.18569
+          ],
+          [
+            -77.889853,
+            43.185309
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:940f6af0",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.891154,
+            43.185814
+          ],
+          [
+            -77.891518,
+            43.185844
+          ],
+          [
+            -77.891881,
+            43.18589
+          ],
+          [
+            -77.892355,
+            43.185932
+          ],
+          [
+            -77.892642,
+            43.185903
+          ],
+          [
+            -77.89296,
+            43.185788
+          ],
+          [
+            -77.893262,
+            43.185738
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:68a6fabd",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.892639,
+            43.181539
+          ],
+          [
+            -77.89186,
+            43.181448
+          ],
+          [
+            -77.891131,
+            43.181499
+          ],
+          [
+            -77.890825,
+            43.18148
+          ],
+          [
+            -77.890426,
+            43.181559
+          ],
+          [
+            -77.889953,
+            43.181601
+          ],
+          [
+            -77.889531,
+            43.181707
+          ],
+          [
+            -77.889164,
+            43.181684
+          ],
+          [
+            -77.888923,
+            43.181787
+          ],
+          [
+            -77.888712,
+            43.181941
+          ],
+          [
+            -77.88853,
+            43.18202
+          ],
+          [
+            -77.887467,
+            43.182362
+          ],
+          [
+            -77.887461,
+            43.183747
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:31e34868",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.887461,
+            43.183747
+          ],
+          [
+            -77.887485,
+            43.184616
+          ],
+          [
+            -77.886579,
+            43.184531
+          ],
+          [
+            -77.885584,
+            43.184589
+          ],
+          [
+            -77.885544,
+            43.186028
+          ],
+          [
+            -77.884348,
+            43.185906
+          ],
+          [
+            -77.883427,
+            43.185978
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:5a41c4d6",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.874509,
+            43.183175
+          ],
+          [
+            -77.876451,
+            43.183205
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:60a6d0bb",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.876451,
+            43.183205
+          ],
+          [
+            -77.878728,
+            43.182436
+          ],
+          [
+            -77.878879,
+            43.182364
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:943bde05",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.878879,
+            43.182364
+          ],
+          [
+            -77.878867,
+            43.181937
+          ],
+          [
+            -77.878831,
+            43.181676
+          ],
+          [
+            -77.878934,
+            43.18158
+          ],
+          [
+            -77.879586,
+            43.181604
+          ],
+          [
+            -77.879703,
+            43.181545
+          ],
+          [
+            -77.879757,
+            43.180868
+          ],
+          [
+            -77.879933,
+            43.180833
+          ],
+          [
+            -77.881719,
+            43.180824
+          ],
+          [
+            -77.882346,
+            43.180807
+          ],
+          [
+            -77.883357,
+            43.180856
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:4b2cea17",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.87889,
+            43.18236
+          ],
+          [
+            -77.882546,
+            43.182557
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:eb2cdcc2",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.884309,
+            43.179898
+          ],
+          [
+            -77.8841,
+            43.180222
+          ],
+          [
+            -77.883714,
+            43.180351
+          ],
+          [
+            -77.883447,
+            43.180628
+          ],
+          [
+            -77.883376,
+            43.180844
+          ],
+          [
+            -77.883296,
+            43.181198
+          ],
+          [
+            -77.883113,
+            43.181488
+          ],
+          [
+            -77.883131,
+            43.181778
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:1880607a",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.883131,
+            43.181778
+          ],
+          [
+            -77.882557,
+            43.182554
+          ],
+          [
+            -77.882365,
+            43.18297
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:3852471c",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.882365,
+            43.18297
+          ],
+          [
+            -77.881971,
+            43.183622
+          ],
+          [
+            -77.880908,
+            43.186162
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:47cf98f9",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.88313,
+            43.181784
+          ],
+          [
+            -77.883565,
+            43.182989
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:724692f3",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.883565,
+            43.182989
+          ],
+          [
+            -77.883762,
+            43.183612
+          ],
+          [
+            -77.883762,
+            43.184088
+          ],
+          [
+            -77.883617,
+            43.184696
+          ],
+          [
+            -77.883401,
+            43.185545
+          ],
+          [
+            -77.883395,
+            43.185988
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:d873f5af",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.883395,
+            43.185988
+          ],
+          [
+            -77.883304,
+            43.186141
+          ],
+          [
+            -77.883101,
+            43.18636
+          ],
+          [
+            -77.883127,
+            43.186569
+          ],
+          [
+            -77.883261,
+            43.186791
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:142c5def",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.887463,
+            43.183762
+          ],
+          [
+            -77.8869,
+            43.18362
+          ],
+          [
+            -77.886407,
+            43.183604
+          ],
+          [
+            -77.885022,
+            43.183359
+          ],
+          [
+            -77.883588,
+            43.182989
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:afb6fd51",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.883588,
+            43.182989
+          ],
+          [
+            -77.882386,
+            43.18298
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:d6000e87",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.882386,
+            43.18298
+          ],
+          [
+            -77.881997,
+            43.18295
+          ],
+          [
+            -77.881401,
+            43.183019
+          ],
+          [
+            -77.880751,
+            43.183183
+          ],
+          [
+            -77.879832,
+            43.183356
+          ],
+          [
+            -77.879233,
+            43.183536
+          ],
+          [
+            -77.879022,
+            43.183661
+          ],
+          [
+            -77.87849,
+            43.183674
+          ],
+          [
+            -77.877481,
+            43.183523
+          ],
+          [
+            -77.876477,
+            43.183225
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:6957d6bf",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.874374,
+            43.184463
+          ],
+          [
+            -77.873677,
+            43.184535
+          ],
+          [
+            -77.87299,
+            43.184736
+          ],
+          [
+            -77.87284,
+            43.184819
+          ],
+          [
+            -77.872649,
+            43.184871
+          ],
+          [
+            -77.872261,
+            43.184887
+          ],
+          [
+            -77.87195,
+            43.184823
+          ],
+          [
+            -77.871559,
+            43.184871
+          ],
+          [
+            -77.871268,
+            43.184868
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:86105319",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.854408,
+            43.184707
+          ],
+          [
+            -77.855025,
+            43.184655
+          ],
+          [
+            -77.855236,
+            43.184659
+          ],
+          [
+            -77.855534,
+            43.184802
+          ],
+          [
+            -77.856362,
+            43.184889
+          ],
+          [
+            -77.856763,
+            43.184895
+          ],
+          [
+            -77.857108,
+            43.184922
+          ],
+          [
+            -77.857566,
+            43.184984
+          ],
+          [
+            -77.857797,
+            43.185002
+          ],
+          [
+            -77.858086,
+            43.184975
+          ],
+          [
+            -77.85843,
+            43.184938
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:dd43facf",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.865341,
+            43.185199
+          ],
+          [
+            -77.863953,
+            43.185175
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:39981ee4",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.86181,
+            43.185642
+          ],
+          [
+            -77.861504,
+            43.184972
+          ],
+          [
+            -77.861032,
+            43.184431
+          ],
+          [
+            -77.860777,
+            43.184135
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:02b429c7",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.860777,
+            43.184135
+          ],
+          [
+            -77.860356,
+            43.183968
+          ],
+          [
+            -77.860308,
+            43.183634
+          ],
+          [
+            -77.859949,
+            43.183264
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:e5366acd",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.860826,
+            43.184139
+          ],
+          [
+            -77.861542,
+            43.184148
+          ],
+          [
+            -77.861988,
+            43.184099
+          ],
+          [
+            -77.862172,
+            43.183933
+          ],
+          [
+            -77.862422,
+            43.183892
+          ],
+          [
+            -77.863015,
+            43.183991
+          ],
+          [
+            -77.863432,
+            43.184261
+          ],
+          [
+            -77.863811,
+            43.184316
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:b002ea9c",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.865951,
+            43.184234
+          ],
+          [
+            -77.865627,
+            43.184181
+          ],
+          [
+            -77.865413,
+            43.184079
+          ],
+          [
+            -77.865278,
+            43.183817
+          ],
+          [
+            -77.865251,
+            43.183421
+          ],
+          [
+            -77.865289,
+            43.183178
+          ],
+          [
+            -77.865455,
+            43.182719
+          ],
+          [
+            -77.865425,
+            43.18234
+          ],
+          [
+            -77.865155,
+            43.182058
+          ],
+          [
+            -77.864875,
+            43.181914
+          ],
+          [
+            -77.864567,
+            43.181737
+          ],
+          [
+            -77.864468,
+            43.181588
+          ],
+          [
+            -77.864441,
+            43.181191
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-nhamp-unnamed-trails:f9cc9b05",
+        "trailsroc-trailIDs": "trail-nhamp-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.864441,
+            43.181191
+          ],
+          [
+            -77.864383,
+            43.181039
+          ],
+          [
+            -77.864405,
+            43.180809
+          ],
+          [
+            -77.864382,
+            43.180221
+          ],
+          [
+            -77.864343,
+            43.180055
+          ],
+          [
+            -77.864455,
+            43.179928
+          ],
+          [
+            -77.864807,
+            43.179832
+          ],
+          [
+            -77.865001,
+            43.179674
+          ],
+          [
+            -77.865139,
+            43.179632
+          ],
+          [
+            -77.865732,
+            43.179554
+          ],
+          [
+            -77.865791,
+            43.179869
+          ],
+          [
+            -77.8658,
+            43.180719
+          ],
+          [
+            -77.865865,
+            43.180971
+          ],
+          [
+            -77.865724,
+            43.181039
+          ],
+          [
+            -77.865326,
+            43.181139
+          ],
+          [
+            -77.864955,
+            43.181185
+          ],
+          [
+            -77.86444,
+            43.181202
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-nhamp:4fb17ba9",
+        "trailsroc-parkID": "park-nhamp"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.901368,
+              43.192142
+            ],
+            [
+              -77.894761,
+              43.192055
+            ],
+            [
+              -77.879559,
+              43.18843
+            ],
+            [
+              -77.865728,
+              43.188078
+            ],
+            [
+              -77.854294,
+              43.185931
+            ],
+            [
+              -77.854626,
+              43.17911
+            ],
+            [
+              -77.874641,
+              43.179554
+            ],
+            [
+              -77.885014,
+              43.179833
+            ],
+            [
+              -77.905355,
+              43.180011
+            ],
+            [
+              -77.901368,
+              43.192142
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:nhamp:d8913097",
+        "trailsroc-name": "Knollwood Lodge",
+        "trailsroc-shortName": "Knollwood",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.887427,
+          43.186162
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:nhamp:e6b0696e",
+        "trailsroc-name": "Ski Lodge",
+        "trailsroc-shortName": "Ski",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.875437,
+          43.185436
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:547e2ffa",
+        "trailsroc-name": "Parking (Airfield)",
+        "trailsroc-shortName": "Airfield",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.899041,
+          43.184271
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:46f2380f",
+        "trailsroc-name": "Parking (Ballfield)",
+        "trailsroc-shortName": "Ballfield",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.893283,
+          43.181213
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:c9e14630",
+        "trailsroc-name": "Parking (Loop Trail)",
+        "trailsroc-shortName": "Loop Trail",
+        "trailsroc-parentIDs": "park-nhamp,trail-nhamp-loop",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.889158,
+          43.184786
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:d86658ff",
+        "trailsroc-name": "Parking (Knollwood)",
+        "trailsroc-shortName": "Knollwood",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.88701,
+          43.186232
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:62a20324",
+        "trailsroc-name": "Parking (Salmon Creek Rd)",
+        "trailsroc-shortName": "Salmon Creek Rd",
+        "trailsroc-parentIDs": "park-nhamp,trail-nhamp-fairview",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.885116,
+          43.187012
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:9187810e",
+        "trailsroc-name": "Parking (Salmon Creek/Gardner Trail)",
+        "trailsroc-shortName": "Salmon Creek/Gardner Trail",
+        "trailsroc-parentIDs": "park-nhamp,trail-nhamp-gardner",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883923,
+          43.187861
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:8ed4b415",
+        "trailsroc-name": "Horse Trailer Parking",
+        "trailsroc-shortName": "Horse Trailer Parking",
+        "trailsroc-parentIDs": "park-nhamp,trail-nhamp-gardner",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.899132,
+          43.190741
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:cd0a269a",
+        "trailsroc-name": "Parking (Ski Lodge)",
+        "trailsroc-shortName": "Ski Lodge",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.875061,
+          43.184196
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:nhamp:49cd2fca",
+        "trailsroc-name": "Parking (Farm)",
+        "trailsroc-shortName": "Farm",
+        "trailsroc-parentIDs": "park-nhamp,trail-nhamp-farm",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.872364,
+          43.179792
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:nhamp:5c0d1d22",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.869847,
+          43.180063
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:nhamp:5eba673b",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.875859,
+          43.184932
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:nhamp:8403f44a",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894151,
+          43.182463
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:nhamp:58f18538",
+        "trailsroc-name": "Park Office",
+        "trailsroc-shortName": "Park Office",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.892023,
+          43.182382
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:nhamp:c795e745",
+        "trailsroc-name": "Model Airfield",
+        "trailsroc-shortName": "Model Airfield",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.897291,
+          43.184968
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:nhamp:92163053",
+        "trailsroc-name": "Ski Hill",
+        "trailsroc-shortName": "Ski Hill",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.87527,
+          43.186475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:nhamp:5f293d24",
+        "trailsroc-name": "Springdale Farm",
+        "trailsroc-shortName": "Springdale Farm",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.870314,
+          43.180629
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:nhamp:42bd58e4",
+        "trailsroc-name": "Ogden Historical Society Museum",
+        "trailsroc-shortName": "Ogden Historical Society Museum",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.856574,
+          43.179503
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:nhamp:33255177",
+        "trailsroc-name": "Enchanted Woods",
+        "trailsroc-shortName": "Enchanted Woods",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.870435,
+          43.183499
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:nhamp:d7a1701d",
+        "trailsroc-name": "Scenic Point",
+        "trailsroc-shortName": "Scenic Point",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.88424,
+          43.186767
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:nhamp:e8eb6a6e",
+        "trailsroc-name": "Scenic Point",
+        "trailsroc-shortName": "Scenic Point",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.873715,
+          43.184686
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:nhamp:3b3f901c",
+        "trailsroc-name": "Scenic Point",
+        "trailsroc-shortName": "Scenic Point",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.870834,
+          43.182034
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:nhamp:56840e64",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.872185,
+          43.180917
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:nhamp:d0ad8fdb",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.876901,
+          43.18441
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:nhamp:37d8f298",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.894058,
+          43.180898
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:nhamp:b533ed0d",
+        "trailsroc-name": "Softball Field",
+        "trailsroc-shortName": "Softball Field",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.893649,
+          43.181811
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-campsite",
+        "trailsroc-id": "point-campsite:nhamp:91d24938",
+        "trailsroc-name": "Youth Camping (Permit)",
+        "trailsroc-shortName": "Youth Camping (Permit)",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.893175,
+          43.185372
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:c6aa3fdb",
+        "trailsroc-name": "Intersection 11",
+        "trailsroc-shortName": "11",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.888126,
+          43.18889
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:ecf3b287",
+        "trailsroc-name": "Intersection 12",
+        "trailsroc-shortName": "12",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.892447,
+          43.190725
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:319a8304",
+        "trailsroc-name": "Intersection 21",
+        "trailsroc-shortName": "21",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.863439,
+          43.179488
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:252759cd",
+        "trailsroc-name": "Intersection 22",
+        "trailsroc-shortName": "22",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.863307,
+          43.183032
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:d23ebc0f",
+        "trailsroc-name": "Intersection 23",
+        "trailsroc-shortName": "23",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859949,
+          43.183264
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:9edc0be2",
+        "trailsroc-name": "Intersection 24",
+        "trailsroc-shortName": "24",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.85843,
+          43.184938
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:420529af",
+        "trailsroc-name": "Intersection 25",
+        "trailsroc-shortName": "25",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.860777,
+          43.184135
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:084f477b",
+        "trailsroc-name": "Intersection 26",
+        "trailsroc-shortName": "26",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.86181,
+          43.185642
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:4b5ad1ff",
+        "trailsroc-name": "Intersection 28",
+        "trailsroc-shortName": "28",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.863811,
+          43.184316
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:c93f1613",
+        "trailsroc-name": "Intersection 8",
+        "trailsroc-shortName": "8",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883235,
+          43.186784
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:221741bd",
+        "trailsroc-name": "Intersection 9",
+        "trailsroc-shortName": "9",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883261,
+          43.186791
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:d0de20f2",
+        "trailsroc-name": "Intersection 10",
+        "trailsroc-shortName": "10",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.884557,
+          43.186985
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:2bf52315",
+        "trailsroc-name": "Intersection 13",
+        "trailsroc-shortName": "13",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.871268,
+          43.184868
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:aa03a12a",
+        "trailsroc-name": "Intersection 14",
+        "trailsroc-shortName": "14",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.870628,
+          43.182928
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:916b8566",
+        "trailsroc-name": "Intersection 16",
+        "trailsroc-shortName": "16",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.865951,
+          43.184234
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:faf15c04",
+        "trailsroc-name": "Intersection 1",
+        "trailsroc-shortName": "1",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.874509,
+          43.183175
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:0f0a861d",
+        "trailsroc-name": "Intersection 3",
+        "trailsroc-shortName": "3",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.876451,
+          43.183205
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:26ea8e2b",
+        "trailsroc-name": "Intersection 4",
+        "trailsroc-shortName": "4",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883357,
+          43.180856
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:1b736081",
+        "trailsroc-name": "Intersection 5",
+        "trailsroc-shortName": "5",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883131,
+          43.181778
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:dfb8c1f3",
+        "trailsroc-name": "Intersection 6",
+        "trailsroc-shortName": "6",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.882365,
+          43.18297
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:ed036144",
+        "trailsroc-name": "Intersection 7",
+        "trailsroc-shortName": "7",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.883395,
+          43.185988
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:f3dc69e8",
+        "trailsroc-name": "Intersection 17",
+        "trailsroc-shortName": "17",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.86444,
+          43.181202
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:3cdf8c90",
+        "trailsroc-name": "Intersection 18",
+        "trailsroc-shortName": "18",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.864382,
+          43.180221
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-intersection",
+        "trailsroc-id": "point-intersection:nhamp:2c255087",
+        "trailsroc-name": "Intersection 19",
+        "trailsroc-shortName": "19",
+        "trailsroc-parentIDs": "park-nhamp",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.865732,
+          43.179554
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}
