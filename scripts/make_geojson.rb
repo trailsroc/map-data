@@ -24,12 +24,6 @@ def nil_or_blank(str)
     str == nil || str.strip().empty?
 end
 
-$r = Random.new
-def random_id()
-    id = $r.bytes(4).unpack("H*")[0]
-    return register_and_validate_unique_id(id, "random_id")
-end
-
 def register_and_validate_unique_id(id, ctx)
     if $metadata[:idlist].include?(id)
         abort_msg("Duplicate ID detected (#{ctx}):", id)
@@ -240,10 +234,18 @@ def parse_gpx(filename)
     end
 
     # NB: inner borders will get duplicated if there's > 1 main border
+    # Sequential IDs for each park
+    border_counts = {}
     unprocessed_borders.each do |park_id, nodes|
         nodes.each do |node|
+            if !border_counts.has_key?(park_id)
+                border_counts[park_id] = 0
+            end
+            border_counts[park_id] = border_counts[park_id] + 1
+
             outer_coords = collect_polygon(node)
-            border_id = "border:#{park_id}:#{random_id()}"
+            count_value = border_counts[park_id]
+            border_id = "border:#{park_id}:border#{count_value}"
 
             feature = create_feature('parkBorder', border_id, "border")
             feature_property(feature, "parkID", park_id)

@@ -1931,7 +1931,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-abe:aaaa0945",
+        "trailsroc-id": "border:park-abe:border1",
         "trailsroc-parkID": "park-abe"
       },
       "geometry": {

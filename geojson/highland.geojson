@@ -2468,7 +2468,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-highland:0d6e20c0",
+        "trailsroc-id": "border:park-highland:border1",
         "trailsroc-parkID": "park-highland"
       },
       "geometry": {

@@ -15251,7 +15251,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-crescenttr-mccoord:5f72d1fa",
+        "trailsroc-id": "border:park-crescenttr-mccoord:border1",
         "trailsroc-parkID": "park-crescenttr-mccoord",
         "trailsroc-style": "minorPark"
       },
@@ -15407,7 +15407,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-white-brook:aa72a5fd",
+        "trailsroc-id": "border:park-white-brook:border1",
         "trailsroc-parkID": "park-white-brook",
         "trailsroc-style": "minorPark"
       },
@@ -15519,7 +15519,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-crescenttr-dewitt:08046700",
+        "trailsroc-id": "border:park-crescenttr-dewitt:border1",
         "trailsroc-parkID": "park-crescenttr-dewitt",
         "trailsroc-style": "minorPark"
       },
@@ -15555,7 +15555,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-crescenttr-howell:1ccd89ce",
+        "trailsroc-id": "border:park-crescenttr-howell:border1",
         "trailsroc-parkID": "park-crescenttr-howell",
         "trailsroc-style": "minorPark"
       },
@@ -15639,7 +15639,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-crescenttr-highacres:6dd07626",
+        "trailsroc-id": "border:park-crescenttr-highacres:border1",
         "trailsroc-parkID": "park-crescenttr-highacres",
         "trailsroc-style": "minorPark"
       },

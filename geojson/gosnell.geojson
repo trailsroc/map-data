@@ -3597,7 +3597,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-gosnell:ab1ac949",
+        "trailsroc-id": "border:park-gosnell:border1",
         "trailsroc-parkID": "park-gosnell"
       },
       "geometry": {

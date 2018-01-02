@@ -7271,7 +7271,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-fowt-finn:39e718bf",
+        "trailsroc-id": "border:park-fowt-finn:border1",
         "trailsroc-parkID": "park-fowt-finn",
         "trailsroc-style": "minorPark"
       },
@@ -7383,7 +7383,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-fmcp:2f3747a8",
+        "trailsroc-id": "border:park-fmcp:border1",
         "trailsroc-parkID": "park-fmcp",
         "trailsroc-style": "minorPark"
       },

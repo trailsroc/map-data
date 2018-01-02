@@ -5813,7 +5813,7 @@
     {
       "properties": {
         "trailsroc-type": "parkBorder",
-        "trailsroc-id": "border:park-dureast:6db28366",
+        "trailsroc-id": "border:park-dureast:border1",
         "trailsroc-parkID": "park-dureast"
       },
       "geometry": {
