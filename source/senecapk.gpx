@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T14:56:17.875Z</time>
+    </metadata>
+    <wpt lon="-77.618759" lat="43.213046">
+        <name>point-lodge:senecapk:ce76ad53</name>
+        <desc>{"type":"point-lodge","name":"Wegman Lodge","parentIDs":["park-senecapk"],"shortName":"Wegman"}</desc>
+    </wpt>
+    <wpt lon="-77.622671" lat="43.210968">
+        <name>point-shelter:senecapk:f2df102e</name>
+        <desc>{"type":"point-shelter","name":"Longhouse Shelter","parentIDs":["park-senecapk"],"shortName":"Longhouse"}</desc>
+    </wpt>
+    <wpt lon="-77.623939" lat="43.210114">
+        <name>point-shelter:senecapk:4c207ab7</name>
+        <desc>{"type":"point-shelter","name":"Hawk Shelter","parentIDs":["park-senecapk"],"shortName":"Hawk"}</desc>
+    </wpt>
+    <wpt lon="-77.624005" lat="43.209592">
+        <name>point-shelter:senecapk:676baa81</name>
+        <desc>{"type":"point-shelter","name":"Eagle Shelter","parentIDs":["park-senecapk"],"shortName":"Eagle"}</desc>
+    </wpt>
+    <wpt lon="-77.618647" lat="43.212794">
+        <name>point-parking:senecapk:a4def56d</name>
+        <desc>{"type":"point-parking","comments":"Wegman","name":"Parking (Wegman Lodge)","parentIDs":["park-senecapk","trail-senecapk-olmsted-n"],"shortName":"Wegman Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.624541" lat="43.209866">
+        <name>point-parking:senecapk:479cc96f</name>
+        <desc>{"type":"point-parking","comments":"Hawk-Eagle","name":"Parking (Hawk/Eagle Shelters)","parentIDs":["park-senecapk","trail-senecapk-gorge-overlook","trail-senecapk-olmsted-s"],"shortName":"Hawk/Eagle Shelters"}</desc>
+    </wpt>
+    <wpt lon="-77.622179" lat="43.211178">
+        <name>point-parking:senecapk:7aae089c</name>
+        <desc>{"type":"point-parking","comments":"Longhouse","name":"Parking (Longhouse)","parentIDs":["park-senecapk","trail-senecapk-gorge-overlook"],"shortName":"Longhouse"}</desc>
+    </wpt>
+    <wpt lon="-77.623898" lat="43.203987">
+        <name>point-parking:senecapk:10fa194e</name>
+        <desc>{"type":"point-parking","comments":"Zoo","name":"Parking (Zoo)","parentIDs":["park-senecapk","trail-senecapk-olmsted-s"],"shortName":"Zoo"}</desc>
+    </wpt>
+    <wpt lon="-77.622717" lat="43.211371">
+        <name>point-restroom:senecapk:e628791e</name>
+        <desc>{"type":"point-restroom","comments":"Longhouse","name":"Restroom","parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.624293" lat="43.205331">
+        <name>point-restroom:senecapk:acc6f621</name>
+        <desc>{"type":"point-restroom","comments":"Zoo","name":"Restroom","parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.623879" lat="43.204893">
+        <name>point-admin:senecapk:bb6be01d</name>
+        <desc>{"type":"point-admin","name":"Park Office","parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.623763" lat="43.206046">
+        <name>point-poi:senecapk:33a354f2</name>
+        <desc>{"type":"point-poi","name":"Seneca Park Zoo","url":"http://www2.monroecounty.gov/parks-zoo.php","allowsDirections":true,"directionsCoordinate":[43.203987,-77.623898],"parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.617722" lat="43.213445">
+        <name>point-sports:senecapk:d58fd0c2</name>
+        <desc>{"type":"point-sports","name":"Ball Field","parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.621743" lat="43.201783">
+        <name>point-parking:senecapk:9c0b9286</name>
+        <desc>{"type":"point-parking","comments":"Zoo S","name":"Parking (South)","parentIDs":["park-senecapk","trail-senecapk-olmsted-s"],"shortName":"South"}</desc>
+    </wpt>
+    <wpt lon="-77.623945" lat="43.209936">
+        <name>point-sports:senecapk:17cc09e2</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-senecapk"]}</desc>
+    </wpt>
+    <wpt lon="-77.619125" lat="43.198167">
+        <name>point-smparking:senecapk:ebridge</name>
+        <desc>{"type":"point-parking","comments":"Zoo S","name":"Street Parking (near bridge)","shortName":"Street Parking","parentIDs":["park-senecapk","trail-senecapk-olmsted-s"]}</desc>
+    </wpt>
+    <rte>
+        <name>seg:trail-senecapk-gorge-overlook:8a9027f9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.624522" lat="43.210716"/>
+        <rtept lon="-77.624337" lat="43.210885"/>
+        <rtept lon="-77.624207" lat="43.211052"/>
+        <rtept lon="-77.623982" lat="43.211210"/>
+        <rtept lon="-77.623724" lat="43.211379"/>
+        <rtept lon="-77.623452" lat="43.211496"/>
+        <rtept lon="-77.623132" lat="43.211543"/>
+        <rtept lon="-77.622849" lat="43.211536"/>
+        <rtept lon="-77.622508" lat="43.211578"/>
+        <rtept lon="-77.622222" lat="43.211708"/>
+        <rtept lon="-77.622066" lat="43.211898"/>
+        <rtept lon="-77.621841" lat="43.212091"/>
+        <rtept lon="-77.621514" lat="43.212303"/>
+        <rtept lon="-77.621216" lat="43.212480"/>
+        <rtept lon="-77.620882" lat="43.212636"/>
+        <rtept lon="-77.620614" lat="43.212789"/>
+        <rtept lon="-77.620262" lat="43.212980"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-olmsted-n:39c6397b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.620262" lat="43.212980"/>
+        <rtept lon="-77.619975" lat="43.213167"/>
+        <rtept lon="-77.619688" lat="43.213324"/>
+        <rtept lon="-77.619569" lat="43.213432"/>
+        <rtept lon="-77.619398" lat="43.213588"/>
+        <rtept lon="-77.619195" lat="43.213641"/>
+        <rtept lon="-77.618883" lat="43.213702"/>
+        <rtept lon="-77.618414" lat="43.214197"/>
+        <rtept lon="-77.617694" lat="43.214879"/>
+        <rtept lon="-77.617134" lat="43.215439"/>
+        <rtept lon="-77.616633" lat="43.215856"/>
+        <rtept lon="-77.616062" lat="43.216247"/>
+        <rtept lon="-77.615397" lat="43.216837"/>
+        <rtept lon="-77.614992" lat="43.217280"/>
+        <rtept lon="-77.614570" lat="43.217873"/>
+        <rtept lon="-77.614312" lat="43.218356"/>
+        <rtept lon="-77.614044" lat="43.219233"/>
+        <rtept lon="-77.614014" lat="43.219900"/>
+        <rtept lon="-77.614085" lat="43.220880"/>
+        <rtept lon="-77.614123" lat="43.221073"/>
+        <rtept lon="-77.614523" lat="43.222391"/>
+        <rtept lon="-77.614639" lat="43.222881"/>
+        <rtept lon="-77.614508" lat="43.223274"/>
+        <rtept lon="-77.614634" lat="43.223815"/>
+        <rtept lon="-77.614594" lat="43.223995"/>
+        <rtept lon="-77.614266" lat="43.224229"/>
+        <rtept lon="-77.614106" lat="43.224451"/>
+        <rtept lon="-77.613888" lat="43.224735"/>
+        <rtept lon="-77.613224" lat="43.225045"/>
+        <rtept lon="-77.612833" lat="43.225142"/>
+        <rtept lon="-77.612353" lat="43.225213"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-olmsted-s:56cb4f5a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.624522" lat="43.210716"/>
+        <rtept lon="-77.624755" lat="43.210525"/>
+        <rtept lon="-77.624914" lat="43.210287"/>
+        <rtept lon="-77.625038" lat="43.210033"/>
+        <rtept lon="-77.625038" lat="43.209801"/>
+        <rtept lon="-77.625009" lat="43.209695"/>
+        <rtept lon="-77.624983" lat="43.209565"/>
+        <rtept lon="-77.625001" lat="43.209385"/>
+        <rtept lon="-77.625034" lat="43.209137"/>
+        <rtept lon="-77.625041" lat="43.209065"/>
+        <rtept lon="-77.624998" lat="43.208970"/>
+        <rtept lon="-77.624972" lat="43.208819"/>
+        <rtept lon="-77.625019" lat="43.208684"/>
+        <rtept lon="-77.625096" lat="43.208552"/>
+        <rtept lon="-77.625161" lat="43.208377"/>
+        <rtept lon="-77.625175" lat="43.208240"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-olmsted-s:61874a22</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.625175" lat="43.208240"/>
+        <rtept lon="-77.625194" lat="43.208079"/>
+        <rtept lon="-77.625252" lat="43.207848"/>
+        <rtept lon="-77.625284" lat="43.207584"/>
+        <rtept lon="-77.625321" lat="43.207272"/>
+        <rtept lon="-77.625379" lat="43.207018"/>
+        <rtept lon="-77.625364" lat="43.206822"/>
+        <rtept lon="-77.625390" lat="43.206642"/>
+        <rtept lon="-77.625415" lat="43.206558"/>
+        <rtept lon="-77.625411" lat="43.206465"/>
+        <rtept lon="-77.625364" lat="43.206341"/>
+        <rtept lon="-77.625277" lat="43.206148"/>
+        <rtept lon="-77.625208" lat="43.205973"/>
+        <rtept lon="-77.625197" lat="43.205841"/>
+        <rtept lon="-77.625197" lat="43.205682"/>
+        <rtept lon="-77.625154" lat="43.205486"/>
+        <rtept lon="-77.625081" lat="43.205322"/>
+        <rtept lon="-77.624976" lat="43.205254"/>
+        <rtept lon="-77.624878" lat="43.205224"/>
+        <rtept lon="-77.624802" lat="43.205235"/>
+        <rtept lon="-77.624736" lat="43.205230"/>
+        <rtept lon="-77.624668" lat="43.205177"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-olmsted-s:e8f51951</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.624668" lat="43.205177"/>
+        <rtept lon="-77.624642" lat="43.205061"/>
+        <rtept lon="-77.624642" lat="43.204857"/>
+        <rtept lon="-77.624624" lat="43.204613"/>
+        <rtept lon="-77.624504" lat="43.204301"/>
+        <rtept lon="-77.624326" lat="43.204079"/>
+        <rtept lon="-77.624145" lat="43.203799"/>
+        <rtept lon="-77.623905" lat="43.203426"/>
+        <rtept lon="-77.623767" lat="43.203219"/>
+        <rtept lon="-77.623684" lat="43.203005"/>
+        <rtept lon="-77.623550" lat="43.202854"/>
+        <rtept lon="-77.623441" lat="43.202722"/>
+        <rtept lon="-77.623332" lat="43.202540"/>
+        <rtept lon="-77.623171" lat="43.202398"/>
+        <rtept lon="-77.622579" lat="43.201973"/>
+        <rtept lon="-77.622177" lat="43.201694"/>
+        <rtept lon="-77.621854" lat="43.201352"/>
+        <rtept lon="-77.621692" lat="43.201181"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-olmsted-s:f8385e64</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.621692" lat="43.201181"/>
+        <rtept lon="-77.621461" lat="43.200960"/>
+        <rtept lon="-77.621263" lat="43.200721"/>
+        <rtept lon="-77.620974" lat="43.200514"/>
+        <rtept lon="-77.620730" lat="43.200270"/>
+        <rtept lon="-77.620475" lat="43.199977"/>
+        <rtept lon="-77.620203" lat="43.199691"/>
+        <rtept lon="-77.619919" lat="43.199402"/>
+        <rtept lon="-77.619630" lat="43.199034"/>
+        <rtept lon="-77.619485" lat="43.198768"/>
+        <rtept lon="-77.619468" lat="43.198468"/>
+        <rtept lon="-77.619488" lat="43.198327"/>
+        <rtept lon="-77.619505" lat="43.198208"/>
+        <rtept lon="-77.619510" lat="43.198043"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-unnamed-trails:cd2e3750</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.623476" lat="43.210529"/>
+        <rtept lon="-77.623481" lat="43.210430"/>
+        <rtept lon="-77.623391" lat="43.210376"/>
+        <rtept lon="-77.623226" lat="43.210306"/>
+        <rtept lon="-77.623081" lat="43.210262"/>
+        <rtept lon="-77.622941" lat="43.210241"/>
+        <rtept lon="-77.622841" lat="43.210197"/>
+        <rtept lon="-77.622736" lat="43.210171"/>
+        <rtept lon="-77.622630" lat="43.210171"/>
+        <rtept lon="-77.622480" lat="43.210186"/>
+        <rtept lon="-77.622365" lat="43.210197"/>
+        <rtept lon="-77.622270" lat="43.210197"/>
+        <rtept lon="-77.622170" lat="43.210179"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-unnamed-trails:b4d3b8b3</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.622170" lat="43.210179"/>
+        <rtept lon="-77.622055" lat="43.210146"/>
+        <rtept lon="-77.621990" lat="43.210117"/>
+        <rtept lon="-77.621938" lat="43.210100"/>
+        <rtept lon="-77.621872" lat="43.210078"/>
+        <rtept lon="-77.621819" lat="43.210062"/>
+        <rtept lon="-77.621694" lat="43.210033"/>
+        <rtept lon="-77.621584" lat="43.210047"/>
+        <rtept lon="-77.621484" lat="43.210084"/>
+        <rtept lon="-77.621399" lat="43.210160"/>
+        <rtept lon="-77.621073" lat="43.210456"/>
+        <rtept lon="-77.620828" lat="43.210719"/>
+        <rtept lon="-77.620478" lat="43.211073"/>
+        <rtept lon="-77.620293" lat="43.211288"/>
+        <rtept lon="-77.620167" lat="43.211452"/>
+        <rtept lon="-77.620107" lat="43.211561"/>
+        <rtept lon="-77.620042" lat="43.211711"/>
+        <rtept lon="-77.619922" lat="43.211915"/>
+        <rtept lon="-77.619782" lat="43.212047"/>
+        <rtept lon="-77.619612" lat="43.212178"/>
+        <rtept lon="-77.619386" lat="43.212379"/>
+        <rtept lon="-77.619306" lat="43.212481"/>
+        <rtept lon="-77.619291" lat="43.212536"/>
+        <rtept lon="-77.619296" lat="43.212609"/>
+        <rtept lon="-77.619341" lat="43.212660"/>
+        <rtept lon="-77.619446" lat="43.212693"/>
+        <rtept lon="-77.619642" lat="43.212711"/>
+        <rtept lon="-77.619837" lat="43.212724"/>
+    </rte>
+    <rte>
+        <name>seg:trail-senecapk-unnamed-trails:1024c70f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.619837" lat="43.212724"/>
+        <rtept lon="-77.620030" lat="43.212711"/>
+        <rtept lon="-77.620210" lat="43.212685"/>
+        <rtept lon="-77.620393" lat="43.212643"/>
+        <rtept lon="-77.620545" lat="43.212596"/>
+        <rtept lon="-77.620723" lat="43.212505"/>
+        <rtept lon="-77.620856" lat="43.212415"/>
+        <rtept lon="-77.621023" lat="43.212262"/>
+        <rtept lon="-77.621156" lat="43.212116"/>
+        <rtept lon="-77.621266" lat="43.211959"/>
+        <rtept lon="-77.621301" lat="43.211868"/>
+        <rtept lon="-77.621331" lat="43.211744"/>
+        <rtept lon="-77.621351" lat="43.211634"/>
+        <rtept lon="-77.621379" lat="43.211541"/>
+        <rtept lon="-77.621474" lat="43.211299"/>
+        <rtept lon="-77.621539" lat="43.211125"/>
+        <rtept lon="-77.621587" lat="43.210994"/>
+        <rtept lon="-77.621664" lat="43.210810"/>
+        <rtept lon="-77.622071" lat="43.210152"/>
+    </rte>
+    <trk>
+        <name>border:park-senecapk</name>
+        <type>route</type>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618114" lat="43.193633"/>
+            <trkpt lon="-77.618062" lat="43.194882"/>
+            <trkpt lon="-77.617771" lat="43.196030"/>
+            <trkpt lon="-77.617486" lat="43.196813"/>
+            <trkpt lon="-77.617591" lat="43.197869"/>
+            <trkpt lon="-77.617745" lat="43.198414"/>
+            <trkpt lon="-77.618076" lat="43.198898"/>
+            <trkpt lon="-77.618766" lat="43.199737"/>
+            <trkpt lon="-77.620486" lat="43.201501"/>
+            <trkpt lon="-77.621373" lat="43.202230"/>
+            <trkpt lon="-77.622215" lat="43.203049"/>
+            <trkpt lon="-77.622893" lat="43.204156"/>
+            <trkpt lon="-77.623079" lat="43.204573"/>
+            <trkpt lon="-77.623079" lat="43.204958"/>
+            <trkpt lon="-77.623152" lat="43.205409"/>
+            <trkpt lon="-77.623137" lat="43.205744"/>
+            <trkpt lon="-77.623063" lat="43.206028"/>
+            <trkpt lon="-77.622941" lat="43.206308"/>
+            <trkpt lon="-77.622751" lat="43.206678"/>
+            <trkpt lon="-77.622511" lat="43.207047"/>
+            <trkpt lon="-77.622149" lat="43.207431"/>
+            <trkpt lon="-77.621909" lat="43.207662"/>
+            <trkpt lon="-77.621472" lat="43.208126"/>
+            <trkpt lon="-77.621217" lat="43.208428"/>
+            <trkpt lon="-77.620970" lat="43.208728"/>
+            <trkpt lon="-77.620610" lat="43.209120"/>
+            <trkpt lon="-77.620164" lat="43.209663"/>
+            <trkpt lon="-77.619082" lat="43.210595"/>
+            <trkpt lon="-77.618077" lat="43.211266"/>
+            <trkpt lon="-77.617248" lat="43.211719"/>
+            <trkpt lon="-77.616605" lat="43.212265"/>
+            <trkpt lon="-77.616343" lat="43.212493"/>
+            <trkpt lon="-77.615828" lat="43.213578"/>
+            <trkpt lon="-77.614846" lat="43.216086"/>
+            <trkpt lon="-77.615084" lat="43.216178"/>
+            <trkpt lon="-77.612635" lat="43.222521"/>
+            <trkpt lon="-77.612470" lat="43.223395"/>
+            <trkpt lon="-77.612764" lat="43.225199"/>
+            <trkpt lon="-77.615440" lat="43.225116"/>
+            <trkpt lon="-77.615240" lat="43.222911"/>
+            <trkpt lon="-77.614821" lat="43.221558"/>
+            <trkpt lon="-77.614649" lat="43.219773"/>
+            <trkpt lon="-77.615261" lat="43.218208"/>
+            <trkpt lon="-77.616304" lat="43.216939"/>
+            <trkpt lon="-77.618265" lat="43.215444"/>
+            <trkpt lon="-77.621014" lat="43.213935"/>
+            <trkpt lon="-77.621838" lat="43.213497"/>
+            <trkpt lon="-77.622482" lat="43.213288"/>
+            <trkpt lon="-77.622848" lat="43.213172"/>
+            <trkpt lon="-77.623412" lat="43.212984"/>
+            <trkpt lon="-77.624081" lat="43.212707"/>
+            <trkpt lon="-77.624739" lat="43.212339"/>
+            <trkpt lon="-77.625828" lat="43.211242"/>
+            <trkpt lon="-77.626406" lat="43.209931"/>
+            <trkpt lon="-77.626684" lat="43.208690"/>
+            <trkpt lon="-77.626831" lat="43.208061"/>
+            <trkpt lon="-77.626881" lat="43.207050"/>
+            <trkpt lon="-77.626815" lat="43.206585"/>
+            <trkpt lon="-77.626749" lat="43.206184"/>
+            <trkpt lon="-77.626235" lat="43.204532"/>
+            <trkpt lon="-77.625232" lat="43.203104"/>
+            <trkpt lon="-77.624935" lat="43.202755"/>
+            <trkpt lon="-77.624181" lat="43.202062"/>
+            <trkpt lon="-77.623787" lat="43.201810"/>
+            <trkpt lon="-77.623475" lat="43.201526"/>
+            <trkpt lon="-77.623137" lat="43.201251"/>
+            <trkpt lon="-77.622752" lat="43.200929"/>
+            <trkpt lon="-77.622264" lat="43.200574"/>
+            <trkpt lon="-77.621972" lat="43.200249"/>
+            <trkpt lon="-77.621122" lat="43.199329"/>
+            <trkpt lon="-77.620169" lat="43.197658"/>
+            <trkpt lon="-77.619864" lat="43.196729"/>
+            <trkpt lon="-77.619592" lat="43.195715"/>
+            <trkpt lon="-77.619525" lat="43.194275"/>
+            <trkpt lon="-77.620389" lat="43.192578"/>
+            <trkpt lon="-77.618975" lat="43.191920"/>
+            <trkpt lon="-77.618608" lat="43.191996"/>
+            <trkpt lon="-77.618312" lat="43.192201"/>
+            <trkpt lon="-77.618204" lat="43.192557"/>
+        </trkseg>
+    </trk>
+</gpx>

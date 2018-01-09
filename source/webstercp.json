@@ -1,0 +1,148 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-webstercp": {
+      "name": "Webster Park",
+      "mainPin": [
+        43.252659,
+        -77.459099
+      ],
+      "SW": [
+        43.241116,
+        -77.468527
+      ],
+      "NE": [
+        43.262079,
+        -77.441946
+      ],
+      "directionsCoordinate": [
+        43.256441,
+        -77.449774
+      ],
+      "url": "http://www.monroecounty.gov/parks-webster.php"
+    }
+  },
+  "trails": {
+    "trail-webstercp-connector": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Webster Park Connector Trail",
+      "color": "red",
+      "length": 0.25,
+      "SW": [
+        43.246915,
+        -77.468468
+      ],
+      "NE": [
+        43.24726,
+        -77.463861
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-midnight": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Midnight Trail",
+      "color": "blue",
+      "length": 0.77,
+      "SW": [
+        43.241824,
+        -77.462192
+      ],
+      "NE": [
+        43.244779,
+        -77.460138
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-orchard": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Orchard Trail",
+      "color": "purple",
+      "length": 0.8,
+      "SW": [
+        43.25524,
+        -77.452759
+      ],
+      "NE": [
+        43.258648,
+        -77.451241
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-ridge": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Ridge Trail",
+      "color": "blue",
+      "length": 1.4,
+      "SW": [
+        43.250645,
+        -77.454437
+      ],
+      "NE": [
+        43.259294,
+        -77.452728
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-ryans": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Ryans Point Trail",
+      "color": "orange",
+      "length": 0.5,
+      "SW": [
+        43.248966,
+        -77.45937
+      ],
+      "NE": [
+        43.252739,
+        -77.45403
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.2446,
+        -77.46404
+      ],
+      "NE": [
+        43.259579,
+        -77.447016
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-valley": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "Valley View Trail",
+      "color": "dark_green",
+      "length": 0.6,
+      "SW": [
+        43.251688,
+        -77.45305
+      ],
+      "NE": [
+        43.256092,
+        -77.448722
+      ],
+      "parentID": "park-webstercp"
+    },
+    "trail-webstercp-west": {
+      "url": "http://www.monroecounty.gov/parks-webster.php",
+      "name": "West Trail",
+      "color": "red",
+      "length": 1.6,
+      "SW": [
+        43.24595,
+        -77.46401
+      ],
+      "NE": [
+        43.25375,
+        -77.459549
+      ],
+      "parentID": "park-webstercp"
+    }
+  }
+}

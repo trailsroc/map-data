@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T15:14:45.015Z</time>
+    </metadata>
+    <wpt lon="-77.410896" lat="42.982776">
+        <name>point-poi:vht:72a9105c</name>
+        <desc>{"name":"Victor Hiking Trails Kiosk","parentIDs":["tsystem-auburntr"]}</desc>
+    </wpt>
+    <wpt lon="-77.469571" lat="43.001739">
+        <name>point-parking:vht:f4045e98</name>
+        <desc>{"name":"Parking (Wangum Rd)","parentIDs":["trail-vht-lehigh-blackdiamond","tsystem-auburntr"],"shortName":"Wangum Rd"}</desc>
+    </wpt>
+    <wpt lon="-77.454762" lat="43.000370">
+        <name>point-parking:vht:d12524eb</name>
+        <desc>{"name":"Parking (Phillips Rd)","parentIDs":["trail-vht-lehigh-blackdiamond","tsystem-auburntr"],"shortName":"Phillips Rd"}</desc>
+    </wpt>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:e31bba6f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.481999" lat="43.002825"/>
+        <rtept lon="-77.477867" lat="43.002470"/>
+        <rtept lon="-77.471910" lat="43.001928"/>
+        <rtept lon="-77.469617" lat="43.001753"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:f6bed459</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.469617" lat="43.001753"/>
+        <rtept lon="-77.468444" lat="43.001647"/>
+        <rtept lon="-77.463390" lat="43.001169"/>
+        <rtept lon="-77.459681" lat="43.000836"/>
+        <rtept lon="-77.456740" lat="43.000573"/>
+        <rtept lon="-77.454605" lat="43.000336"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:387c08e4</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.454605" lat="43.000336"/>
+        <rtept lon="-77.453562" lat="43.000311"/>
+        <rtept lon="-77.452452" lat="43.000302"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:5cb97368</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.452452" lat="43.000302"/>
+        <rtept lon="-77.449292" lat="43.000353"/>
+        <rtept lon="-77.446686" lat="43.000349"/>
+        <rtept lon="-77.445598" lat="43.000284"/>
+        <rtept lon="-77.443726" lat="43.000020"/>
+        <rtept lon="-77.442446" lat="42.999746"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:e9daa3cb</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.442446" lat="42.999746"/>
+        <rtept lon="-77.441897" lat="42.999623"/>
+        <rtept lon="-77.439798" lat="42.998837"/>
+        <rtept lon="-77.438884" lat="42.998336"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:26fcbcc5</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.437084" lat="42.995305"/>
+        <rtept lon="-77.437148" lat="42.995414"/>
+        <rtept lon="-77.438951" lat="42.996499"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:e10a688e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.438951" lat="42.996499"/>
+        <rtept lon="-77.438595" lat="42.996774"/>
+        <rtept lon="-77.438563" lat="42.996902"/>
+        <rtept lon="-77.438594" lat="42.997020"/>
+        <rtept lon="-77.438705" lat="42.997133"/>
+        <rtept lon="-77.439075" lat="42.997418"/>
+        <rtept lon="-77.439193" lat="42.997603"/>
+    </rte>
+    <rte>
+        <name>seg:trail-vht-lehigh-blackdiamond:6d2df56c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.439193" lat="42.997603"/>
+        <rtept lon="-77.439189" lat="42.997746"/>
+        <rtept lon="-77.438849" lat="42.998183"/>
+        <rtept lon="-77.438830" lat="42.998261"/>
+        <rtept lon="-77.438884" lat="42.998336"/>
+    </rte>
+    <trk>
+        <name>seg:trail-lvt-auburntr-ramp:7f5c7425</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.452389" lat="43.000310"/>
+            <trkpt lon="-77.451933" lat="43.000409"/>
+            <trkpt lon="-77.450655" lat="43.000460"/>
+            <trkpt lon="-77.450404" lat="43.000539"/>
+        </trkseg>
+    </trk>
+</gpx>

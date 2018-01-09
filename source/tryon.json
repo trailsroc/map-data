@@ -1,0 +1,136 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-tryon": {
+      "name": "Tryon Park",
+      "mainPin": [
+        43.166964,
+        -77.536989
+      ],
+      "SW": [
+        43.15845,
+        -77.54324
+      ],
+      "NE": [
+        43.17252,
+        -77.533189
+      ],
+      "directionsCoordinate": [
+        43.165778,
+        -77.53768
+      ],
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "keywords": "tyron"
+    }
+  },
+  "trails": {
+    "trail-tryon-white": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "White Trail",
+      "color": "white",
+      "length": 0.55,
+      "SW": [
+        43.166765,
+        -77.538297
+      ],
+      "NE": [
+        43.169928,
+        -77.533633
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-green": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Green Trail",
+      "color": "dark_green",
+      "length": 0.57,
+      "SW": [
+        43.160891,
+        -77.538297
+      ],
+      "NE": [
+        43.162969,
+        -77.536988
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-orange": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Orange Trail",
+      "color": "orange",
+      "length": 0.37,
+      "SW": [
+        43.167481,
+        -77.536709
+      ],
+      "NE": [
+        43.169518,
+        -77.535523
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-purple": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Purple Trail",
+      "color": "purple",
+      "length": 0.57,
+      "SW": [
+        43.170583,
+        -77.53859
+      ],
+      "NE": [
+        43.172449,
+        -77.535857
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-blue": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Blue Trail",
+      "color": "sky",
+      "length": 1.01,
+      "SW": [
+        43.162636,
+        -77.538361
+      ],
+      "NE": [
+        43.167377,
+        -77.534992
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-red": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Red Trail",
+      "color": "red",
+      "length": 2.08,
+      "SW": [
+        43.165924,
+        -77.53842
+      ],
+      "NE": [
+        43.171661,
+        -77.53335
+      ],
+      "parentID": "park-tryon"
+    },
+    "trail-tryon-connector": {
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "name": "Tryon–Ellison Connectors",
+      "shortName": "Tryon–Ellison",
+      "color": "black",
+      "blazes": "none",
+      "SW": [
+        43.163914,
+        -77.537506
+      ],
+      "NE": [
+        43.176933,
+        -77.530457
+      ],
+      "parentID": "park-tryon"
+    }
+  }
+}

@@ -1,0 +1,6512 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-dureast",
+        "trailsroc-shortName": "Durand-Eastman Park",
+        "trailsroc-name": "Durand-Eastman Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-keywords": "eastman",
+        "trailsroc-directionsCoordinate": [
+          -77.56105184555054,
+          43.237097832774914
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.564429,
+          43.235629
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-durand-lake",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Durand Lake Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "Durand Lake Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.55824849999999,
+          43.2319355
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-eastman-lake",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Eastman Lake Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Eastman Lake Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5619075,
+          43.2329945
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-trott-lake",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Trott Lake Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Trott Lake Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.55994749999999,
+          43.227602
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-yellow",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.56417450000001,
+          43.232133000000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-purple",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Purple Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "purple",
+        "trailsroc-shortName": "Purple Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.563347,
+          43.2285935
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-lakeshore-trail",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "black",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-blazes": "none"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5621375,
+          43.2350155
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-dureast-unnamed-trails",
+        "trailsroc-parentID": "park-dureast",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-durandeastman.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.557548,
+          43.23133
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:fbd8ca19",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.577393,
+            43.242217
+          ],
+          [
+            -77.577088,
+            43.242352
+          ],
+          [
+            -77.576847,
+            43.24238
+          ],
+          [
+            -77.576504,
+            43.242324
+          ],
+          [
+            -77.575742,
+            43.242028
+          ],
+          [
+            -77.574873,
+            43.241715
+          ],
+          [
+            -77.573807,
+            43.241368
+          ],
+          [
+            -77.572304,
+            43.240868
+          ],
+          [
+            -77.572149,
+            43.240808
+          ],
+          [
+            -77.572049,
+            43.240718
+          ],
+          [
+            -77.571953,
+            43.240636
+          ],
+          [
+            -77.571798,
+            43.240551
+          ],
+          [
+            -77.571605,
+            43.240477
+          ],
+          [
+            -77.571024,
+            43.240274
+          ],
+          [
+            -77.5708,
+            43.240205
+          ],
+          [
+            -77.570551,
+            43.240159
+          ],
+          [
+            -77.570095,
+            43.240003
+          ],
+          [
+            -77.569572,
+            43.239808
+          ],
+          [
+            -77.569113,
+            43.239648
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:093c3ff0",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.569113,
+            43.239648
+          ],
+          [
+            -77.568747,
+            43.239562
+          ],
+          [
+            -77.568602,
+            43.23953
+          ],
+          [
+            -77.56807,
+            43.239379
+          ],
+          [
+            -77.567419,
+            43.239165
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:0909104a",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.567419,
+            43.239165
+          ],
+          [
+            -77.566802,
+            43.23897
+          ],
+          [
+            -77.566317,
+            43.238808
+          ],
+          [
+            -77.565927,
+            43.238695
+          ],
+          [
+            -77.565426,
+            43.238588
+          ],
+          [
+            -77.564668,
+            43.238416
+          ],
+          [
+            -77.564129,
+            43.23827
+          ],
+          [
+            -77.563355,
+            43.238026
+          ],
+          [
+            -77.562474,
+            43.237802
+          ],
+          [
+            -77.561861,
+            43.237664
+          ],
+          [
+            -77.56095,
+            43.237435
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:74344855",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56095,
+            43.237435
+          ],
+          [
+            -77.560591,
+            43.237342
+          ],
+          [
+            -77.560264,
+            43.237231
+          ],
+          [
+            -77.559837,
+            43.237056
+          ],
+          [
+            -77.55947,
+            43.23694
+          ],
+          [
+            -77.559197,
+            43.236875
+          ],
+          [
+            -77.559002,
+            43.23687
+          ],
+          [
+            -77.558869,
+            43.236892
+          ],
+          [
+            -77.558739,
+            43.236899
+          ],
+          [
+            -77.558589,
+            43.236896
+          ],
+          [
+            -77.558357,
+            43.236852
+          ],
+          [
+            -77.557967,
+            43.236761
+          ],
+          [
+            -77.557542,
+            43.236669
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:438184bf",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557542,
+            43.236669
+          ],
+          [
+            -77.55717,
+            43.236578
+          ],
+          [
+            -77.557009,
+            43.236514
+          ],
+          [
+            -77.556886,
+            43.23643
+          ],
+          [
+            -77.556729,
+            43.23634
+          ],
+          [
+            -77.556372,
+            43.236235
+          ],
+          [
+            -77.556152,
+            43.236193
+          ],
+          [
+            -77.555904,
+            43.236144
+          ],
+          [
+            -77.555749,
+            43.236089
+          ],
+          [
+            -77.555583,
+            43.23601
+          ],
+          [
+            -77.555436,
+            43.235912
+          ],
+          [
+            -77.555281,
+            43.23579
+          ],
+          [
+            -77.555154,
+            43.235646
+          ],
+          [
+            -77.555018,
+            43.235476
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:248603f0",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.555018,
+            43.235476
+          ],
+          [
+            -77.554886,
+            43.235365
+          ],
+          [
+            -77.554688,
+            43.235291
+          ],
+          [
+            -77.554495,
+            43.235128
+          ],
+          [
+            -77.554237,
+            43.23494
+          ],
+          [
+            -77.553995,
+            43.234753
+          ],
+          [
+            -77.553839,
+            43.23462
+          ],
+          [
+            -77.553739,
+            43.234491
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:7cfccec2",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.553739,
+            43.234491
+          ],
+          [
+            -77.553631,
+            43.234303
+          ],
+          [
+            -77.553563,
+            43.23414
+          ],
+          [
+            -77.55352,
+            43.234008
+          ],
+          [
+            -77.553467,
+            43.233899
+          ],
+          [
+            -77.553426,
+            43.233813
+          ],
+          [
+            -77.553317,
+            43.23372
+          ],
+          [
+            -77.55319,
+            43.233655
+          ],
+          [
+            -77.553021,
+            43.233591
+          ],
+          [
+            -77.552845,
+            43.233493
+          ],
+          [
+            -77.552729,
+            43.233401
+          ],
+          [
+            -77.552635,
+            43.233252
+          ],
+          [
+            -77.552625,
+            43.233127
+          ],
+          [
+            -77.55263,
+            43.233022
+          ],
+          [
+            -77.552651,
+            43.232957
+          ],
+          [
+            -77.552736,
+            43.232886
+          ],
+          [
+            -77.552842,
+            43.232793
+          ],
+          [
+            -77.553035,
+            43.232574
+          ],
+          [
+            -77.553117,
+            43.232431
+          ],
+          [
+            -77.553302,
+            43.232296
+          ],
+          [
+            -77.553266,
+            43.232124
+          ],
+          [
+            -77.553122,
+            43.23208
+          ],
+          [
+            -77.552958,
+            43.232094
+          ],
+          [
+            -77.552799,
+            43.232059
+          ],
+          [
+            -77.552664,
+            43.231985
+          ],
+          [
+            -77.552603,
+            43.231888
+          ],
+          [
+            -77.552664,
+            43.231823
+          ],
+          [
+            -77.552907,
+            43.231769
+          ],
+          [
+            -77.553122,
+            43.231726
+          ],
+          [
+            -77.553288,
+            43.2316
+          ],
+          [
+            -77.553426,
+            43.231429
+          ],
+          [
+            -77.553597,
+            43.23125
+          ],
+          [
+            -77.553769,
+            43.231118
+          ],
+          [
+            -77.55393,
+            43.230983
+          ],
+          [
+            -77.553971,
+            43.230902
+          ],
+          [
+            -77.55394,
+            43.230777
+          ],
+          [
+            -77.553708,
+            43.230645
+          ],
+          [
+            -77.553375,
+            43.230487
+          ],
+          [
+            -77.552963,
+            43.230323
+          ],
+          [
+            -77.552697,
+            43.230137
+          ],
+          [
+            -77.552565,
+            43.229965
+          ],
+          [
+            -77.552444,
+            43.229819
+          ],
+          [
+            -77.552408,
+            43.229664
+          ],
+          [
+            -77.552434,
+            43.229476
+          ],
+          [
+            -77.552495,
+            43.22926
+          ],
+          [
+            -77.552678,
+            43.22884
+          ],
+          [
+            -77.552695,
+            43.228513
+          ],
+          [
+            -77.552548,
+            43.228203
+          ],
+          [
+            -77.552333,
+            43.228026
+          ],
+          [
+            -77.552094,
+            43.227893
+          ],
+          [
+            -77.551817,
+            43.227843
+          ],
+          [
+            -77.551571,
+            43.227824
+          ],
+          [
+            -77.551296,
+            43.227834
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:38659cc6",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.551296,
+            43.227834
+          ],
+          [
+            -77.548295,
+            43.227936
+          ],
+          [
+            -77.548245,
+            43.22793
+          ],
+          [
+            -77.548194,
+            43.227903
+          ],
+          [
+            -77.548118,
+            43.227857
+          ],
+          [
+            -77.548005,
+            43.227843
+          ],
+          [
+            -77.547852,
+            43.227842
+          ],
+          [
+            -77.547566,
+            43.227833
+          ],
+          [
+            -77.547259,
+            43.227803
+          ],
+          [
+            -77.547066,
+            43.227777
+          ],
+          [
+            -77.546992,
+            43.227764
+          ],
+          [
+            -77.546924,
+            43.227724
+          ],
+          [
+            -77.546882,
+            43.227651
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:0a3bf47e",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.562453,
+            43.237431
+          ],
+          [
+            -77.562522,
+            43.237328
+          ],
+          [
+            -77.562565,
+            43.237246
+          ],
+          [
+            -77.56261,
+            43.237133
+          ],
+          [
+            -77.562573,
+            43.236942
+          ],
+          [
+            -77.562573,
+            43.236942
+          ],
+          [
+            -77.562493,
+            43.236827
+          ],
+          [
+            -77.562428,
+            43.236702
+          ],
+          [
+            -77.562408,
+            43.236604
+          ],
+          [
+            -77.562368,
+            43.236499
+          ],
+          [
+            -77.562373,
+            43.23634
+          ],
+          [
+            -77.562452,
+            43.236153
+          ],
+          [
+            -77.562685,
+            43.235908
+          ],
+          [
+            -77.563061,
+            43.235583
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:e56a49dc",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563061,
+            43.235583
+          ],
+          [
+            -77.563192,
+            43.235516
+          ],
+          [
+            -77.563327,
+            43.235478
+          ],
+          [
+            -77.563442,
+            43.23545
+          ],
+          [
+            -77.563585,
+            43.23547
+          ],
+          [
+            -77.563714,
+            43.235513
+          ],
+          [
+            -77.563854,
+            43.235593
+          ],
+          [
+            -77.563902,
+            43.235652
+          ],
+          [
+            -77.563951,
+            43.235732
+          ],
+          [
+            -77.56398,
+            43.235816
+          ],
+          [
+            -77.563983,
+            43.235932
+          ],
+          [
+            -77.563929,
+            43.236083
+          ],
+          [
+            -77.563671,
+            43.236402
+          ],
+          [
+            -77.563616,
+            43.236514
+          ],
+          [
+            -77.563613,
+            43.236617
+          ],
+          [
+            -77.563678,
+            43.236722
+          ],
+          [
+            -77.563747,
+            43.236788
+          ],
+          [
+            -77.563856,
+            43.236858
+          ],
+          [
+            -77.563975,
+            43.236914
+          ],
+          [
+            -77.564126,
+            43.236968
+          ],
+          [
+            -77.564272,
+            43.237006
+          ],
+          [
+            -77.56447,
+            43.237029
+          ],
+          [
+            -77.5647,
+            43.237026
+          ],
+          [
+            -77.564901,
+            43.23699
+          ],
+          [
+            -77.565274,
+            43.236835
+          ],
+          [
+            -77.566265,
+            43.236215
+          ],
+          [
+            -77.566588,
+            43.23613
+          ],
+          [
+            -77.566953,
+            43.236109
+          ],
+          [
+            -77.56733,
+            43.23618
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:e78bec36",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556251,
+            43.225424
+          ],
+          [
+            -77.556669,
+            43.225574
+          ],
+          [
+            -77.557244,
+            43.225927
+          ],
+          [
+            -77.55776,
+            43.226068
+          ],
+          [
+            -77.558741,
+            43.226157
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-durand-lake:fa28d909a",
+        "trailsroc-trailIDs": "trail-dureast-durand-lake",
+        "trailsroc-name": "Durand Lake Trail",
+        "trailsroc-shortName": "Durand Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.554653,
+            43.23487
+          ],
+          [
+            -77.554674,
+            43.234813
+          ],
+          [
+            -77.555107,
+            43.234244
+          ],
+          [
+            -77.55516,
+            43.233835
+          ],
+          [
+            -77.555219,
+            43.233765
+          ],
+          [
+            -77.55525,
+            43.233742
+          ],
+          [
+            -77.555387,
+            43.233761
+          ],
+          [
+            -77.555427,
+            43.23374
+          ],
+          [
+            -77.555435,
+            43.233718
+          ],
+          [
+            -77.555458,
+            43.233689
+          ],
+          [
+            -77.555455,
+            43.2335
+          ],
+          [
+            -77.555452,
+            43.233487
+          ],
+          [
+            -77.555335,
+            43.233252
+          ],
+          [
+            -77.555324,
+            43.233205
+          ],
+          [
+            -77.555325,
+            43.233172
+          ],
+          [
+            -77.555366,
+            43.233079
+          ],
+          [
+            -77.555527,
+            43.232914
+          ],
+          [
+            -77.555531,
+            43.232907
+          ],
+          [
+            -77.555535,
+            43.232892
+          ],
+          [
+            -77.555545,
+            43.232884
+          ],
+          [
+            -77.55564,
+            43.232874
+          ],
+          [
+            -77.555768,
+            43.232896
+          ],
+          [
+            -77.555808,
+            43.232916
+          ],
+          [
+            -77.555971,
+            43.233054
+          ],
+          [
+            -77.556043,
+            43.233088
+          ],
+          [
+            -77.556112,
+            43.233092
+          ],
+          [
+            -77.556138,
+            43.233081
+          ],
+          [
+            -77.556164,
+            43.232962
+          ],
+          [
+            -77.556192,
+            43.232904
+          ],
+          [
+            -77.556204,
+            43.232892
+          ],
+          [
+            -77.556217,
+            43.232884
+          ],
+          [
+            -77.556233,
+            43.232879
+          ],
+          [
+            -77.556598,
+            43.232901
+          ],
+          [
+            -77.556632,
+            43.232911
+          ],
+          [
+            -77.556641,
+            43.232922
+          ],
+          [
+            -77.556672,
+            43.232996
+          ],
+          [
+            -77.556678,
+            43.233002
+          ],
+          [
+            -77.557,
+            43.23295
+          ],
+          [
+            -77.557203,
+            43.23299
+          ],
+          [
+            -77.557313,
+            43.233067
+          ],
+          [
+            -77.55734,
+            43.233074
+          ],
+          [
+            -77.557364,
+            43.233072
+          ],
+          [
+            -77.557465,
+            43.233013
+          ],
+          [
+            -77.557478,
+            43.232928
+          ],
+          [
+            -77.55752,
+            43.232867
+          ],
+          [
+            -77.557939,
+            43.232564
+          ],
+          [
+            -77.55816,
+            43.232487
+          ],
+          [
+            -77.558479,
+            43.232501
+          ],
+          [
+            -77.558521,
+            43.232492
+          ],
+          [
+            -77.558561,
+            43.232474
+          ],
+          [
+            -77.558605,
+            43.232436
+          ],
+          [
+            -77.558683,
+            43.232311
+          ],
+          [
+            -77.558979,
+            43.232069
+          ],
+          [
+            -77.558987,
+            43.232058
+          ],
+          [
+            -77.559,
+            43.232024
+          ],
+          [
+            -77.558977,
+            43.231954
+          ],
+          [
+            -77.558992,
+            43.23184
+          ],
+          [
+            -77.558985,
+            43.231802
+          ],
+          [
+            -77.558987,
+            43.231784
+          ],
+          [
+            -77.558945,
+            43.231693
+          ],
+          [
+            -77.558939,
+            43.231651
+          ],
+          [
+            -77.55897,
+            43.231604
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-durand-lake:fa28d909b",
+        "trailsroc-trailIDs": "trail-dureast-durand-lake",
+        "trailsroc-name": "Durand Lake Trail",
+        "trailsroc-shortName": "Durand Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.55897,
+            43.231604
+          ],
+          [
+            -77.559394,
+            43.231647
+          ],
+          [
+            -77.559418,
+            43.231622
+          ],
+          [
+            -77.559427,
+            43.231605
+          ],
+          [
+            -77.559575,
+            43.231444
+          ],
+          [
+            -77.559586,
+            43.231418
+          ],
+          [
+            -77.559576,
+            43.231387
+          ],
+          [
+            -77.559333,
+            43.231164
+          ],
+          [
+            -77.559086,
+            43.231118
+          ],
+          [
+            -77.559076,
+            43.231113
+          ],
+          [
+            -77.559059,
+            43.231089
+          ],
+          [
+            -77.559059,
+            43.231074
+          ],
+          [
+            -77.559095,
+            43.230984
+          ],
+          [
+            -77.559166,
+            43.230473
+          ],
+          [
+            -77.559168,
+            43.230443
+          ],
+          [
+            -77.559186,
+            43.230391
+          ],
+          [
+            -77.559217,
+            43.230217
+          ],
+          [
+            -77.559217,
+            43.230188
+          ],
+          [
+            -77.559207,
+            43.230098
+          ],
+          [
+            -77.559198,
+            43.23005
+          ],
+          [
+            -77.559196,
+            43.230034
+          ],
+          [
+            -77.559195,
+            43.229921
+          ],
+          [
+            -77.559148,
+            43.229505
+          ],
+          [
+            -77.55913,
+            43.22945
+          ],
+          [
+            -77.559125,
+            43.229362
+          ],
+          [
+            -77.559126,
+            43.229349
+          ],
+          [
+            -77.559126,
+            43.229325
+          ],
+          [
+            -77.559135,
+            43.229201
+          ],
+          [
+            -77.55915,
+            43.229099
+          ],
+          [
+            -77.559151,
+            43.229087
+          ],
+          [
+            -77.559175,
+            43.229013
+          ],
+          [
+            -77.559246,
+            43.229001
+          ],
+          [
+            -77.55937,
+            43.229013
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-durand-lake:83e43920",
+        "trailsroc-trailIDs": "trail-dureast-durand-lake",
+        "trailsroc-name": "Durand Lake Trail",
+        "trailsroc-shortName": "Durand Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.55937,
+            43.229013
+          ],
+          [
+            -77.559585,
+            43.22905
+          ],
+          [
+            -77.559646,
+            43.229054
+          ],
+          [
+            -77.559801,
+            43.229055
+          ],
+          [
+            -77.559819,
+            43.229058
+          ],
+          [
+            -77.559836,
+            43.229061
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-durand-lake:cd67f79c",
+        "trailsroc-trailIDs": "trail-dureast-durand-lake",
+        "trailsroc-name": "Durand Lake Trail",
+        "trailsroc-shortName": "Durand Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.559836,
+            43.229061
+          ],
+          [
+            -77.55985,
+            43.229066
+          ],
+          [
+            -77.559871,
+            43.229083
+          ],
+          [
+            -77.559926,
+            43.229179
+          ],
+          [
+            -77.559932,
+            43.2292
+          ],
+          [
+            -77.559928,
+            43.229236
+          ],
+          [
+            -77.559882,
+            43.229405
+          ],
+          [
+            -77.559876,
+            43.229475
+          ],
+          [
+            -77.559897,
+            43.229638
+          ],
+          [
+            -77.55992,
+            43.229687
+          ],
+          [
+            -77.559961,
+            43.229818
+          ],
+          [
+            -77.560003,
+            43.230202
+          ],
+          [
+            -77.559915,
+            43.230396
+          ],
+          [
+            -77.559904,
+            43.230474
+          ],
+          [
+            -77.559908,
+            43.230494
+          ],
+          [
+            -77.559984,
+            43.230647
+          ],
+          [
+            -77.560269,
+            43.230904
+          ],
+          [
+            -77.560314,
+            43.230921
+          ],
+          [
+            -77.560541,
+            43.230833
+          ],
+          [
+            -77.560594,
+            43.230835
+          ],
+          [
+            -77.560882,
+            43.230938
+          ],
+          [
+            -77.561086,
+            43.230932
+          ],
+          [
+            -77.561223,
+            43.230902
+          ],
+          [
+            -77.561307,
+            43.230864
+          ],
+          [
+            -77.561317,
+            43.230863
+          ],
+          [
+            -77.561326,
+            43.230865
+          ],
+          [
+            -77.561343,
+            43.230873
+          ],
+          [
+            -77.561317,
+            43.230993
+          ],
+          [
+            -77.56131,
+            43.23101
+          ],
+          [
+            -77.561244,
+            43.231108
+          ],
+          [
+            -77.561237,
+            43.231123
+          ],
+          [
+            -77.561236,
+            43.231148
+          ],
+          [
+            -77.561256,
+            43.231187
+          ],
+          [
+            -77.56127,
+            43.231199
+          ],
+          [
+            -77.56131,
+            43.231225
+          ],
+          [
+            -77.561543,
+            43.231225
+          ],
+          [
+            -77.561563,
+            43.231229
+          ],
+          [
+            -77.561608,
+            43.231232
+          ],
+          [
+            -77.561639,
+            43.231243
+          ],
+          [
+            -77.561733,
+            43.231354
+          ],
+          [
+            -77.561766,
+            43.231374
+          ],
+          [
+            -77.561844,
+            43.231387
+          ],
+          [
+            -77.561454,
+            43.231508
+          ],
+          [
+            -77.561267,
+            43.231529
+          ],
+          [
+            -77.561239,
+            43.231542
+          ],
+          [
+            -77.561261,
+            43.231574
+          ],
+          [
+            -77.561278,
+            43.231624
+          ],
+          [
+            -77.56128,
+            43.231634
+          ],
+          [
+            -77.561322,
+            43.231716
+          ],
+          [
+            -77.561402,
+            43.231806
+          ],
+          [
+            -77.561571,
+            43.231911
+          ],
+          [
+            -77.561578,
+            43.231917
+          ],
+          [
+            -77.561581,
+            43.231929
+          ],
+          [
+            -77.561578,
+            43.231964
+          ],
+          [
+            -77.561543,
+            43.232064
+          ],
+          [
+            -77.561533,
+            43.23208
+          ],
+          [
+            -77.561521,
+            43.232093
+          ],
+          [
+            -77.561508,
+            43.232103
+          ],
+          [
+            -77.561193,
+            43.23218
+          ],
+          [
+            -77.561136,
+            43.232204
+          ],
+          [
+            -77.560849,
+            43.232267
+          ],
+          [
+            -77.560266,
+            43.232508
+          ],
+          [
+            -77.560109,
+            43.232544
+          ],
+          [
+            -77.560079,
+            43.232612
+          ],
+          [
+            -77.559771,
+            43.232834
+          ],
+          [
+            -77.559147,
+            43.233108
+          ],
+          [
+            -77.558961,
+            43.233273
+          ],
+          [
+            -77.558888,
+            43.233424
+          ],
+          [
+            -77.558866,
+            43.233451
+          ],
+          [
+            -77.558827,
+            43.23348
+          ],
+          [
+            -77.5588,
+            43.233482
+          ],
+          [
+            -77.558687,
+            43.23352
+          ],
+          [
+            -77.558554,
+            43.233601
+          ],
+          [
+            -77.558483,
+            43.233657
+          ],
+          [
+            -77.558469,
+            43.23369
+          ],
+          [
+            -77.558163,
+            43.233889
+          ],
+          [
+            -77.558156,
+            43.233899
+          ],
+          [
+            -77.558142,
+            43.233961
+          ],
+          [
+            -77.558204,
+            43.234226
+          ],
+          [
+            -77.558204,
+            43.234237
+          ],
+          [
+            -77.558188,
+            43.234302
+          ],
+          [
+            -77.55829,
+            43.234385
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-eastman-lake:cf1c1863",
+        "trailsroc-trailIDs": "trail-dureast-eastman-lake",
+        "trailsroc-name": "Eastman Lake Trail",
+        "trailsroc-shortName": "Eastman Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.558366,
+            43.234406
+          ],
+          [
+            -77.558618,
+            43.234527
+          ],
+          [
+            -77.558693,
+            43.234624
+          ],
+          [
+            -77.558717,
+            43.234673
+          ],
+          [
+            -77.558728,
+            43.234766
+          ],
+          [
+            -77.558719,
+            43.234778
+          ],
+          [
+            -77.558715,
+            43.234927
+          ],
+          [
+            -77.558744,
+            43.235127
+          ],
+          [
+            -77.558798,
+            43.235252
+          ],
+          [
+            -77.558817,
+            43.235275
+          ],
+          [
+            -77.558924,
+            43.235331
+          ],
+          [
+            -77.558946,
+            43.235326
+          ],
+          [
+            -77.558959,
+            43.235311
+          ],
+          [
+            -77.558997,
+            43.235165
+          ],
+          [
+            -77.559019,
+            43.235129
+          ],
+          [
+            -77.559028,
+            43.235108
+          ],
+          [
+            -77.559033,
+            43.235101
+          ],
+          [
+            -77.559083,
+            43.235113
+          ],
+          [
+            -77.559097,
+            43.235119
+          ],
+          [
+            -77.559324,
+            43.235355
+          ],
+          [
+            -77.559388,
+            43.235397
+          ],
+          [
+            -77.559402,
+            43.235403
+          ],
+          [
+            -77.559519,
+            43.235429
+          ],
+          [
+            -77.559564,
+            43.235433
+          ],
+          [
+            -77.559606,
+            43.235429
+          ],
+          [
+            -77.559713,
+            43.23539
+          ],
+          [
+            -77.559744,
+            43.235351
+          ],
+          [
+            -77.559748,
+            43.235325
+          ],
+          [
+            -77.55974,
+            43.23526
+          ],
+          [
+            -77.559733,
+            43.235251
+          ],
+          [
+            -77.559721,
+            43.23524
+          ],
+          [
+            -77.559705,
+            43.235232
+          ],
+          [
+            -77.559613,
+            43.23509
+          ],
+          [
+            -77.559497,
+            43.234753
+          ],
+          [
+            -77.559472,
+            43.234502
+          ],
+          [
+            -77.559491,
+            43.23442
+          ],
+          [
+            -77.559508,
+            43.234376
+          ],
+          [
+            -77.559524,
+            43.234315
+          ],
+          [
+            -77.559548,
+            43.234284
+          ],
+          [
+            -77.559578,
+            43.234258
+          ],
+          [
+            -77.559594,
+            43.234248
+          ],
+          [
+            -77.559628,
+            43.234236
+          ],
+          [
+            -77.559685,
+            43.234235
+          ],
+          [
+            -77.559738,
+            43.23425
+          ],
+          [
+            -77.559782,
+            43.234276
+          ],
+          [
+            -77.559817,
+            43.234307
+          ],
+          [
+            -77.559833,
+            43.234326
+          ],
+          [
+            -77.559912,
+            43.23446
+          ],
+          [
+            -77.559913,
+            43.234472
+          ],
+          [
+            -77.559923,
+            43.234487
+          ],
+          [
+            -77.559936,
+            43.234501
+          ],
+          [
+            -77.559969,
+            43.234529
+          ],
+          [
+            -77.56002,
+            43.234559
+          ],
+          [
+            -77.560064,
+            43.234573
+          ],
+          [
+            -77.560153,
+            43.234583
+          ],
+          [
+            -77.560188,
+            43.23458
+          ],
+          [
+            -77.560204,
+            43.234576
+          ],
+          [
+            -77.560236,
+            43.23455
+          ],
+          [
+            -77.560366,
+            43.234346
+          ],
+          [
+            -77.560566,
+            43.233933
+          ],
+          [
+            -77.560684,
+            43.233775
+          ],
+          [
+            -77.560739,
+            43.233725
+          ],
+          [
+            -77.561019,
+            43.233562
+          ],
+          [
+            -77.561064,
+            43.233528
+          ],
+          [
+            -77.561076,
+            43.233513
+          ],
+          [
+            -77.561077,
+            43.233488
+          ],
+          [
+            -77.561085,
+            43.233471
+          ],
+          [
+            -77.561094,
+            43.233444
+          ],
+          [
+            -77.561161,
+            43.233348
+          ],
+          [
+            -77.561205,
+            43.233254
+          ],
+          [
+            -77.561226,
+            43.233179
+          ],
+          [
+            -77.561244,
+            43.233153
+          ],
+          [
+            -77.561262,
+            43.232924
+          ],
+          [
+            -77.561266,
+            43.232913
+          ],
+          [
+            -77.561272,
+            43.232903
+          ],
+          [
+            -77.561279,
+            43.232895
+          ],
+          [
+            -77.561397,
+            43.232834
+          ],
+          [
+            -77.561423,
+            43.232825
+          ],
+          [
+            -77.561447,
+            43.23282
+          ],
+          [
+            -77.561471,
+            43.232818
+          ],
+          [
+            -77.561517,
+            43.232827
+          ],
+          [
+            -77.561571,
+            43.232854
+          ],
+          [
+            -77.561949,
+            43.232983
+          ],
+          [
+            -77.561982,
+            43.232988
+          ],
+          [
+            -77.562014,
+            43.232987
+          ],
+          [
+            -77.562047,
+            43.232977
+          ],
+          [
+            -77.562108,
+            43.232938
+          ],
+          [
+            -77.562125,
+            43.232931
+          ],
+          [
+            -77.56216,
+            43.232923
+          ],
+          [
+            -77.56224,
+            43.232932
+          ],
+          [
+            -77.562378,
+            43.232973
+          ],
+          [
+            -77.562394,
+            43.232975
+          ],
+          [
+            -77.562426,
+            43.232974
+          ],
+          [
+            -77.562442,
+            43.23297
+          ],
+          [
+            -77.562456,
+            43.232956
+          ],
+          [
+            -77.562583,
+            43.232887
+          ],
+          [
+            -77.562959,
+            43.232793
+          ],
+          [
+            -77.562988,
+            43.232779
+          ],
+          [
+            -77.563029,
+            43.232752
+          ],
+          [
+            -77.563475,
+            43.232335
+          ],
+          [
+            -77.563484,
+            43.232323
+          ],
+          [
+            -77.563471,
+            43.232227
+          ],
+          [
+            -77.563464,
+            43.232212
+          ],
+          [
+            -77.563337,
+            43.232062
+          ],
+          [
+            -77.563321,
+            43.232038
+          ],
+          [
+            -77.563215,
+            43.231814
+          ],
+          [
+            -77.563205,
+            43.231784
+          ],
+          [
+            -77.563214,
+            43.231657
+          ],
+          [
+            -77.563228,
+            43.231608
+          ],
+          [
+            -77.563309,
+            43.231422
+          ],
+          [
+            -77.563349,
+            43.231289
+          ],
+          [
+            -77.56335,
+            43.231231
+          ],
+          [
+            -77.563308,
+            43.231
+          ],
+          [
+            -77.563307,
+            43.230966
+          ],
+          [
+            -77.563296,
+            43.230927
+          ],
+          [
+            -77.563297,
+            43.230894
+          ],
+          [
+            -77.563318,
+            43.230801
+          ],
+          [
+            -77.56335,
+            43.230712
+          ],
+          [
+            -77.563417,
+            43.230684
+          ],
+          [
+            -77.563432,
+            43.230669
+          ],
+          [
+            -77.56344,
+            43.230604
+          ],
+          [
+            -77.563869,
+            43.229846
+          ],
+          [
+            -77.563876,
+            43.229846
+          ],
+          [
+            -77.5641,
+            43.229415
+          ],
+          [
+            -77.564148,
+            43.22934
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-eastman-lake:d7890607",
+        "trailsroc-trailIDs": "trail-dureast-eastman-lake",
+        "trailsroc-name": "Eastman Lake Trail",
+        "trailsroc-shortName": "Eastman Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564148,
+            43.22934
+          ],
+          [
+            -77.564165,
+            43.229303
+          ],
+          [
+            -77.564245,
+            43.229223
+          ],
+          [
+            -77.56427,
+            43.229213
+          ],
+          [
+            -77.56433,
+            43.229212
+          ],
+          [
+            -77.564683,
+            43.229284
+          ],
+          [
+            -77.564746,
+            43.229309
+          ],
+          [
+            -77.564805,
+            43.22935
+          ],
+          [
+            -77.564825,
+            43.229369
+          ],
+          [
+            -77.564987,
+            43.22966
+          ],
+          [
+            -77.565154,
+            43.229871
+          ],
+          [
+            -77.565167,
+            43.229895
+          ],
+          [
+            -77.565171,
+            43.229907
+          ],
+          [
+            -77.565176,
+            43.229946
+          ],
+          [
+            -77.56516,
+            43.230028
+          ],
+          [
+            -77.565136,
+            43.230071
+          ],
+          [
+            -77.565121,
+            43.230078
+          ],
+          [
+            -77.564753,
+            43.230356
+          ],
+          [
+            -77.564725,
+            43.230384
+          ],
+          [
+            -77.564709,
+            43.230394
+          ],
+          [
+            -77.564691,
+            43.230417
+          ],
+          [
+            -77.56467,
+            43.230545
+          ],
+          [
+            -77.564638,
+            43.230584
+          ],
+          [
+            -77.564626,
+            43.230607
+          ],
+          [
+            -77.564623,
+            43.230633
+          ],
+          [
+            -77.564648,
+            43.230681
+          ],
+          [
+            -77.564691,
+            43.230729
+          ],
+          [
+            -77.564727,
+            43.230797
+          ],
+          [
+            -77.564731,
+            43.230826
+          ],
+          [
+            -77.564731,
+            43.230836
+          ],
+          [
+            -77.564724,
+            43.230848
+          ],
+          [
+            -77.564724,
+            43.230858
+          ],
+          [
+            -77.564729,
+            43.230879
+          ],
+          [
+            -77.564764,
+            43.230918
+          ],
+          [
+            -77.564777,
+            43.230927
+          ],
+          [
+            -77.565012,
+            43.231024
+          ],
+          [
+            -77.565298,
+            43.231067
+          ],
+          [
+            -77.565344,
+            43.23109
+          ],
+          [
+            -77.565381,
+            43.231119
+          ],
+          [
+            -77.565419,
+            43.231163
+          ],
+          [
+            -77.565449,
+            43.231266
+          ],
+          [
+            -77.565449,
+            43.231282
+          ],
+          [
+            -77.565442,
+            43.231295
+          ],
+          [
+            -77.565432,
+            43.231305
+          ],
+          [
+            -77.565348,
+            43.231359
+          ],
+          [
+            -77.565286,
+            43.231423
+          ],
+          [
+            -77.565273,
+            43.231444
+          ],
+          [
+            -77.565173,
+            43.231681
+          ],
+          [
+            -77.565155,
+            43.231702
+          ],
+          [
+            -77.564913,
+            43.232326
+          ],
+          [
+            -77.564903,
+            43.232383
+          ],
+          [
+            -77.564622,
+            43.232862
+          ],
+          [
+            -77.564318,
+            43.233145
+          ],
+          [
+            -77.564139,
+            43.233383
+          ],
+          [
+            -77.56412,
+            43.233397
+          ],
+          [
+            -77.563453,
+            43.233623
+          ],
+          [
+            -77.563414,
+            43.233629
+          ],
+          [
+            -77.562325,
+            43.233994
+          ],
+          [
+            -77.562318,
+            43.233992
+          ],
+          [
+            -77.562271,
+            43.234015
+          ],
+          [
+            -77.562074,
+            43.234191
+          ],
+          [
+            -77.561973,
+            43.234333
+          ],
+          [
+            -77.561906,
+            43.234503
+          ],
+          [
+            -77.561895,
+            43.23462
+          ],
+          [
+            -77.561927,
+            43.234672
+          ],
+          [
+            -77.56189,
+            43.234752
+          ],
+          [
+            -77.561834,
+            43.234803
+          ],
+          [
+            -77.561738,
+            43.234857
+          ],
+          [
+            -77.561689,
+            43.234906
+          ],
+          [
+            -77.561663,
+            43.234944
+          ],
+          [
+            -77.561639,
+            43.234999
+          ],
+          [
+            -77.56161,
+            43.23517
+          ],
+          [
+            -77.561585,
+            43.235242
+          ],
+          [
+            -77.561534,
+            43.235323
+          ],
+          [
+            -77.561115,
+            43.235665
+          ],
+          [
+            -77.560968,
+            43.235734
+          ],
+          [
+            -77.560655,
+            43.23582
+          ],
+          [
+            -77.560596,
+            43.235852
+          ],
+          [
+            -77.56055,
+            43.235904
+          ],
+          [
+            -77.560539,
+            43.235927
+          ],
+          [
+            -77.560454,
+            43.236019
+          ],
+          [
+            -77.560374,
+            43.236077
+          ],
+          [
+            -77.560076,
+            43.236225
+          ],
+          [
+            -77.560002,
+            43.236296
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-eastman-lake:9fe9c848",
+        "trailsroc-trailIDs": "trail-dureast-eastman-lake",
+        "trailsroc-name": "Eastman Lake Trail",
+        "trailsroc-shortName": "Eastman Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.560002,
+            43.236296
+          ],
+          [
+            -77.559993,
+            43.236342
+          ],
+          [
+            -77.560015,
+            43.236386
+          ],
+          [
+            -77.560282,
+            43.236756
+          ],
+          [
+            -77.560297,
+            43.236777
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-trott-lake:c90aff4e",
+        "trailsroc-trailIDs": "trail-dureast-trott-lake",
+        "trailsroc-name": "Trott Lake Trail",
+        "trailsroc-shortName": "Trott Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.55935,
+            43.229007
+          ],
+          [
+            -77.559326,
+            43.228862
+          ],
+          [
+            -77.559013,
+            43.228679
+          ],
+          [
+            -77.558921,
+            43.228591
+          ],
+          [
+            -77.55886,
+            43.2285
+          ],
+          [
+            -77.558898,
+            43.228408
+          ],
+          [
+            -77.558952,
+            43.228382
+          ],
+          [
+            -77.559242,
+            43.228446
+          ],
+          [
+            -77.559432,
+            43.228439
+          ],
+          [
+            -77.559532,
+            43.228382
+          ],
+          [
+            -77.559616,
+            43.228149
+          ],
+          [
+            -77.559692,
+            43.228073
+          ],
+          [
+            -77.559768,
+            43.227928
+          ],
+          [
+            -77.559799,
+            43.227752
+          ],
+          [
+            -77.559913,
+            43.227508
+          ],
+          [
+            -77.559806,
+            43.227394
+          ],
+          [
+            -77.559646,
+            43.227012
+          ],
+          [
+            -77.559524,
+            43.226921
+          ],
+          [
+            -77.55941,
+            43.226787
+          ],
+          [
+            -77.559303,
+            43.226703
+          ],
+          [
+            -77.55899,
+            43.22657
+          ],
+          [
+            -77.558708,
+            43.226367
+          ],
+          [
+            -77.558647,
+            43.226249
+          ],
+          [
+            -77.558692,
+            43.226181
+          ],
+          [
+            -77.558746,
+            43.226158
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-trott-lake:a98fde4e",
+        "trailsroc-trailIDs": "trail-dureast-trott-lake",
+        "trailsroc-name": "Trott Lake Trail",
+        "trailsroc-shortName": "Trott Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.558746,
+            43.226158
+          ],
+          [
+            -77.559097,
+            43.22615
+          ],
+          [
+            -77.559638,
+            43.226375
+          ],
+          [
+            -77.561088,
+            43.227478
+          ],
+          [
+            -77.561187,
+            43.227607
+          ],
+          [
+            -77.561238,
+            43.227842
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-trott-lake:93b64541",
+        "trailsroc-trailIDs": "trail-dureast-trott-lake",
+        "trailsroc-name": "Trott Lake Trail",
+        "trailsroc-shortName": "Trott Lake Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.561238,
+            43.227842
+          ],
+          [
+            -77.561225,
+            43.227931
+          ],
+          [
+            -77.561172,
+            43.228038
+          ],
+          [
+            -77.560859,
+            43.22824
+          ],
+          [
+            -77.560607,
+            43.228282
+          ],
+          [
+            -77.560455,
+            43.228363
+          ],
+          [
+            -77.560485,
+            43.228534
+          ],
+          [
+            -77.560356,
+            43.228717
+          ],
+          [
+            -77.56005,
+            43.228828
+          ],
+          [
+            -77.559959,
+            43.228904
+          ],
+          [
+            -77.559852,
+            43.229054
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-yellow:7794fab6",
+        "trailsroc-trailIDs": "trail-dureast-yellow",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.560029,
+            43.236332
+          ],
+          [
+            -77.560158,
+            43.236364
+          ],
+          [
+            -77.560304,
+            43.236336
+          ],
+          [
+            -77.560353,
+            43.236342
+          ],
+          [
+            -77.560396,
+            43.23636
+          ],
+          [
+            -77.560409,
+            43.23637
+          ],
+          [
+            -77.56042,
+            43.236546
+          ],
+          [
+            -77.560414,
+            43.236589
+          ],
+          [
+            -77.560418,
+            43.236608
+          ],
+          [
+            -77.560429,
+            43.236627
+          ],
+          [
+            -77.560485,
+            43.236672
+          ],
+          [
+            -77.56075,
+            43.236796
+          ],
+          [
+            -77.560773,
+            43.236799
+          ],
+          [
+            -77.560795,
+            43.236795
+          ],
+          [
+            -77.560847,
+            43.236764
+          ],
+          [
+            -77.560878,
+            43.236695
+          ],
+          [
+            -77.560926,
+            43.236448
+          ],
+          [
+            -77.560948,
+            43.236411
+          ],
+          [
+            -77.561577,
+            43.235884
+          ],
+          [
+            -77.561612,
+            43.235878
+          ],
+          [
+            -77.562009,
+            43.235588
+          ],
+          [
+            -77.562172,
+            43.235359
+          ],
+          [
+            -77.562196,
+            43.235284
+          ],
+          [
+            -77.562212,
+            43.235272
+          ],
+          [
+            -77.562243,
+            43.235283
+          ],
+          [
+            -77.562369,
+            43.235383
+          ],
+          [
+            -77.562391,
+            43.23542
+          ],
+          [
+            -77.562375,
+            43.235484
+          ],
+          [
+            -77.562298,
+            43.235608
+          ],
+          [
+            -77.562273,
+            43.235626
+          ],
+          [
+            -77.561995,
+            43.236108
+          ],
+          [
+            -77.561902,
+            43.236384
+          ],
+          [
+            -77.561897,
+            43.236423
+          ],
+          [
+            -77.562191,
+            43.236728
+          ],
+          [
+            -77.562329,
+            43.237124
+          ],
+          [
+            -77.56237,
+            43.237169
+          ],
+          [
+            -77.562391,
+            43.237182
+          ],
+          [
+            -77.562444,
+            43.237184
+          ],
+          [
+            -77.562563,
+            43.237187
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-yellow:658ceb78",
+        "trailsroc-trailIDs": "trail-dureast-yellow",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56307,
+            43.235559
+          ],
+          [
+            -77.563049,
+            43.235556
+          ],
+          [
+            -77.56303,
+            43.235548
+          ],
+          [
+            -77.562952,
+            43.235472
+          ],
+          [
+            -77.562915,
+            43.235457
+          ],
+          [
+            -77.562836,
+            43.235451
+          ],
+          [
+            -77.56282,
+            43.235444
+          ],
+          [
+            -77.562807,
+            43.235428
+          ],
+          [
+            -77.562795,
+            43.235401
+          ],
+          [
+            -77.562812,
+            43.235265
+          ],
+          [
+            -77.562794,
+            43.235175
+          ],
+          [
+            -77.562793,
+            43.235091
+          ],
+          [
+            -77.562818,
+            43.235005
+          ],
+          [
+            -77.562885,
+            43.234899
+          ],
+          [
+            -77.563194,
+            43.234659
+          ],
+          [
+            -77.563217,
+            43.234648
+          ],
+          [
+            -77.563299,
+            43.234572
+          ],
+          [
+            -77.563339,
+            43.234549
+          ],
+          [
+            -77.563387,
+            43.234536
+          ],
+          [
+            -77.563523,
+            43.234531
+          ],
+          [
+            -77.563613,
+            43.234511
+          ],
+          [
+            -77.563791,
+            43.234383
+          ],
+          [
+            -77.563933,
+            43.234166
+          ],
+          [
+            -77.564002,
+            43.233852
+          ],
+          [
+            -77.564041,
+            43.233771
+          ],
+          [
+            -77.564088,
+            43.233726
+          ],
+          [
+            -77.564547,
+            43.233491
+          ],
+          [
+            -77.564636,
+            43.233411
+          ],
+          [
+            -77.564721,
+            43.233171
+          ],
+          [
+            -77.565324,
+            43.232507
+          ],
+          [
+            -77.565883,
+            43.232149
+          ],
+          [
+            -77.565917,
+            43.232107
+          ],
+          [
+            -77.565928,
+            43.232084
+          ],
+          [
+            -77.565941,
+            43.232012
+          ],
+          [
+            -77.565931,
+            43.231514
+          ],
+          [
+            -77.565948,
+            43.23147
+          ],
+          [
+            -77.566025,
+            43.231369
+          ],
+          [
+            -77.566172,
+            43.231247
+          ],
+          [
+            -77.566181,
+            43.231232
+          ],
+          [
+            -77.566183,
+            43.231212
+          ],
+          [
+            -77.566146,
+            43.231036
+          ],
+          [
+            -77.56615,
+            43.23091
+          ],
+          [
+            -77.566214,
+            43.230726
+          ],
+          [
+            -77.56624,
+            43.230679
+          ],
+          [
+            -77.566267,
+            43.230665
+          ],
+          [
+            -77.566573,
+            43.23058
+          ],
+          [
+            -77.566619,
+            43.230575
+          ],
+          [
+            -77.566831,
+            43.230618
+          ],
+          [
+            -77.566966,
+            43.230674
+          ],
+          [
+            -77.567026,
+            43.230741
+          ],
+          [
+            -77.567126,
+            43.230913
+          ],
+          [
+            -77.567178,
+            43.23097
+          ],
+          [
+            -77.568031,
+            43.231319
+          ],
+          [
+            -77.56805,
+            43.231322
+          ],
+          [
+            -77.568067,
+            43.23132
+          ],
+          [
+            -77.568086,
+            43.231313
+          ],
+          [
+            -77.568105,
+            43.231281
+          ],
+          [
+            -77.56811,
+            43.231263
+          ],
+          [
+            -77.568104,
+            43.231229
+          ],
+          [
+            -77.568053,
+            43.231122
+          ],
+          [
+            -77.567952,
+            43.230988
+          ],
+          [
+            -77.567938,
+            43.230956
+          ],
+          [
+            -77.567937,
+            43.230941
+          ],
+          [
+            -77.567942,
+            43.230926
+          ],
+          [
+            -77.568094,
+            43.230817
+          ],
+          [
+            -77.568288,
+            43.230427
+          ],
+          [
+            -77.56832,
+            43.230268
+          ],
+          [
+            -77.568319,
+            43.23022
+          ],
+          [
+            -77.568305,
+            43.230166
+          ],
+          [
+            -77.568263,
+            43.230075
+          ],
+          [
+            -77.568244,
+            43.230059
+          ],
+          [
+            -77.568219,
+            43.230053
+          ],
+          [
+            -77.568169,
+            43.230071
+          ],
+          [
+            -77.568141,
+            43.230072
+          ],
+          [
+            -77.568077,
+            43.230066
+          ],
+          [
+            -77.567405,
+            43.229679
+          ],
+          [
+            -77.567387,
+            43.229661
+          ],
+          [
+            -77.567371,
+            43.229572
+          ],
+          [
+            -77.567373,
+            43.229536
+          ],
+          [
+            -77.567384,
+            43.229501
+          ],
+          [
+            -77.567405,
+            43.229473
+          ],
+          [
+            -77.56759,
+            43.22932
+          ],
+          [
+            -77.567616,
+            43.229276
+          ],
+          [
+            -77.567651,
+            43.229084
+          ],
+          [
+            -77.567643,
+            43.228976
+          ],
+          [
+            -77.567583,
+            43.228787
+          ],
+          [
+            -77.567574,
+            43.228775
+          ],
+          [
+            -77.567515,
+            43.228756
+          ],
+          [
+            -77.567351,
+            43.228829
+          ],
+          [
+            -77.56733,
+            43.22883
+          ],
+          [
+            -77.566965,
+            43.228643
+          ],
+          [
+            -77.566953,
+            43.228615
+          ],
+          [
+            -77.567078,
+            43.227963
+          ],
+          [
+            -77.567074,
+            43.227917
+          ],
+          [
+            -77.567019,
+            43.227812
+          ],
+          [
+            -77.566991,
+            43.227633
+          ],
+          [
+            -77.566995,
+            43.227446
+          ],
+          [
+            -77.566953,
+            43.227487
+          ],
+          [
+            -77.566874,
+            43.227623
+          ],
+          [
+            -77.566847,
+            43.227707
+          ],
+          [
+            -77.566816,
+            43.227917
+          ],
+          [
+            -77.566811,
+            43.227931
+          ],
+          [
+            -77.566806,
+            43.227939
+          ],
+          [
+            -77.566791,
+            43.227938
+          ],
+          [
+            -77.566709,
+            43.227805
+          ],
+          [
+            -77.566639,
+            43.2276
+          ],
+          [
+            -77.566625,
+            43.227578
+          ],
+          [
+            -77.566529,
+            43.227502
+          ],
+          [
+            -77.566447,
+            43.227472
+          ],
+          [
+            -77.566361,
+            43.227467
+          ],
+          [
+            -77.566304,
+            43.227469
+          ],
+          [
+            -77.565761,
+            43.22743
+          ],
+          [
+            -77.565631,
+            43.227432
+          ],
+          [
+            -77.565602,
+            43.227432
+          ],
+          [
+            -77.565437,
+            43.227438
+          ],
+          [
+            -77.565385,
+            43.227471
+          ],
+          [
+            -77.565281,
+            43.227571
+          ],
+          [
+            -77.56524,
+            43.227585
+          ],
+          [
+            -77.565219,
+            43.227587
+          ],
+          [
+            -77.565196,
+            43.227586
+          ],
+          [
+            -77.565079,
+            43.227555
+          ],
+          [
+            -77.565056,
+            43.227559
+          ],
+          [
+            -77.565051,
+            43.227565
+          ],
+          [
+            -77.565052,
+            43.227588
+          ],
+          [
+            -77.565051,
+            43.227595
+          ],
+          [
+            -77.564972,
+            43.227605
+          ],
+          [
+            -77.564804,
+            43.227544
+          ],
+          [
+            -77.564752,
+            43.227551
+          ],
+          [
+            -77.564744,
+            43.227551
+          ],
+          [
+            -77.564726,
+            43.227547
+          ],
+          [
+            -77.564713,
+            43.227505
+          ],
+          [
+            -77.564347,
+            43.227249
+          ],
+          [
+            -77.564242,
+            43.227145
+          ],
+          [
+            -77.564199,
+            43.227126
+          ],
+          [
+            -77.563952,
+            43.227079
+          ],
+          [
+            -77.563622,
+            43.227642
+          ],
+          [
+            -77.563612,
+            43.227819
+          ],
+          [
+            -77.563798,
+            43.227985
+          ],
+          [
+            -77.563907,
+            43.228154
+          ],
+          [
+            -77.563929,
+            43.228231
+          ],
+          [
+            -77.563928,
+            43.228242
+          ],
+          [
+            -77.563921,
+            43.228252
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-purple:ca0fda49",
+        "trailsroc-trailIDs": "trail-dureast-purple",
+        "trailsroc-name": "Purple Trail",
+        "trailsroc-shortName": "Purple Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.564141,
+            43.229328
+          ],
+          [
+            -77.56412,
+            43.229253
+          ],
+          [
+            -77.564152,
+            43.229163
+          ],
+          [
+            -77.564459,
+            43.228666
+          ],
+          [
+            -77.564459,
+            43.228638
+          ],
+          [
+            -77.564468,
+            43.22862
+          ],
+          [
+            -77.564478,
+            43.228563
+          ],
+          [
+            -77.564467,
+            43.228546
+          ],
+          [
+            -77.564407,
+            43.228504
+          ],
+          [
+            -77.564163,
+            43.22845
+          ],
+          [
+            -77.56394,
+            43.228259
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-purple:2748de0d",
+        "trailsroc-trailIDs": "trail-dureast-purple",
+        "trailsroc-name": "Purple Trail",
+        "trailsroc-shortName": "Purple Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.56394,
+            43.228259
+          ],
+          [
+            -77.563437,
+            43.228148
+          ],
+          [
+            -77.563416,
+            43.228148
+          ],
+          [
+            -77.563322,
+            43.228168
+          ],
+          [
+            -77.563198,
+            43.228251
+          ],
+          [
+            -77.563174,
+            43.228255
+          ],
+          [
+            -77.563036,
+            43.228235
+          ],
+          [
+            -77.562852,
+            43.227955
+          ],
+          [
+            -77.562736,
+            43.227842
+          ],
+          [
+            -77.562728,
+            43.227829
+          ],
+          [
+            -77.562715,
+            43.227762
+          ],
+          [
+            -77.562722,
+            43.22765
+          ],
+          [
+            -77.562703,
+            43.227571
+          ],
+          [
+            -77.562697,
+            43.227561
+          ],
+          [
+            -77.56269,
+            43.227554
+          ],
+          [
+            -77.562682,
+            43.227549
+          ],
+          [
+            -77.562604,
+            43.227563
+          ],
+          [
+            -77.562549,
+            43.227589
+          ],
+          [
+            -77.562494,
+            43.22768
+          ],
+          [
+            -77.562505,
+            43.227747
+          ],
+          [
+            -77.562552,
+            43.22786
+          ],
+          [
+            -77.562546,
+            43.227945
+          ],
+          [
+            -77.56227,
+            43.228438
+          ],
+          [
+            -77.562216,
+            43.228766
+          ],
+          [
+            -77.562243,
+            43.228949
+          ],
+          [
+            -77.56226,
+            43.228972
+          ],
+          [
+            -77.562277,
+            43.228979
+          ],
+          [
+            -77.562348,
+            43.228993
+          ],
+          [
+            -77.562372,
+            43.228993
+          ],
+          [
+            -77.562399,
+            43.229017
+          ],
+          [
+            -77.562522,
+            43.229082
+          ],
+          [
+            -77.562573,
+            43.229112
+          ],
+          [
+            -77.562768,
+            43.229223
+          ],
+          [
+            -77.563048,
+            43.229363
+          ],
+          [
+            -77.563114,
+            43.229388
+          ],
+          [
+            -77.563354,
+            43.229484
+          ],
+          [
+            -77.563442,
+            43.22952
+          ],
+          [
+            -77.563451,
+            43.229514
+          ],
+          [
+            -77.563425,
+            43.22946
+          ],
+          [
+            -77.563412,
+            43.229449
+          ],
+          [
+            -77.563408,
+            43.229433
+          ],
+          [
+            -77.563421,
+            43.229367
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-purple:20bf98a7",
+        "trailsroc-trailIDs": "trail-dureast-purple",
+        "trailsroc-name": "Purple Trail",
+        "trailsroc-shortName": "Purple Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "purple"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563421,
+            43.229367
+          ],
+          [
+            -77.563425,
+            43.229364
+          ],
+          [
+            -77.563453,
+            43.229406
+          ],
+          [
+            -77.563762,
+            43.229418
+          ],
+          [
+            -77.563924,
+            43.229516
+          ],
+          [
+            -77.56394,
+            43.229533
+          ],
+          [
+            -77.563979,
+            43.229638
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-lakeshore-trail:8cac72b8",
+        "trailsroc-trailIDs": "trail-dureast-lakeshore-trail",
+        "trailsroc-name": "Lakeshore Bike Path",
+        "trailsroc-shortName": "Lakeshore Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.551298,
+            43.227832
+          ],
+          [
+            -77.551173,
+            43.227905
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:2e48fbf0",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.563826,
+            43.229913
+          ],
+          [
+            -77.563701,
+            43.229676
+          ],
+          [
+            -77.563541,
+            43.229517
+          ],
+          [
+            -77.563459,
+            43.229417
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:7324dd63",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.55624,
+            43.230511
+          ],
+          [
+            -77.556286,
+            43.23053
+          ],
+          [
+            -77.556318,
+            43.230567
+          ],
+          [
+            -77.556422,
+            43.230639
+          ],
+          [
+            -77.556519,
+            43.230679
+          ],
+          [
+            -77.556548,
+            43.230712
+          ],
+          [
+            -77.556492,
+            43.2309
+          ],
+          [
+            -77.556297,
+            43.23115
+          ],
+          [
+            -77.556275,
+            43.231292
+          ],
+          [
+            -77.556278,
+            43.231362
+          ],
+          [
+            -77.556287,
+            43.231382
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:1f702c55",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557975,
+            43.226769
+          ],
+          [
+            -77.557896,
+            43.22679
+          ],
+          [
+            -77.557605,
+            43.226829
+          ],
+          [
+            -77.557242,
+            43.22669
+          ],
+          [
+            -77.557225,
+            43.226529
+          ],
+          [
+            -77.557181,
+            43.226508
+          ],
+          [
+            -77.556967,
+            43.226466
+          ],
+          [
+            -77.556899,
+            43.22645
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:157527e4",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556075,
+            43.225845
+          ],
+          [
+            -77.556162,
+            43.226134
+          ],
+          [
+            -77.556195,
+            43.226239
+          ],
+          [
+            -77.556255,
+            43.226311
+          ],
+          [
+            -77.55627,
+            43.226321
+          ],
+          [
+            -77.556297,
+            43.226331
+          ],
+          [
+            -77.556332,
+            43.226333
+          ],
+          [
+            -77.556368,
+            43.226355
+          ],
+          [
+            -77.556422,
+            43.226412
+          ],
+          [
+            -77.556506,
+            43.226449
+          ],
+          [
+            -77.556745,
+            43.22647
+          ],
+          [
+            -77.556763,
+            43.226465
+          ],
+          [
+            -77.556887,
+            43.226399
+          ],
+          [
+            -77.556899,
+            43.226398
+          ],
+          [
+            -77.556899,
+            43.226451
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:2e9ccced",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556899,
+            43.226451
+          ],
+          [
+            -77.556876,
+            43.226466
+          ],
+          [
+            -77.556478,
+            43.227075
+          ],
+          [
+            -77.556467,
+            43.227111
+          ],
+          [
+            -77.556366,
+            43.227263
+          ],
+          [
+            -77.556395,
+            43.227345
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:002cb4b9",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.55544,
+            43.228116
+          ],
+          [
+            -77.555837,
+            43.228304
+          ],
+          [
+            -77.555871,
+            43.228315
+          ],
+          [
+            -77.555902,
+            43.228317
+          ],
+          [
+            -77.556009,
+            43.228287
+          ],
+          [
+            -77.556153,
+            43.228294
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:74b1a540",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557083,
+            43.227131
+          ],
+          [
+            -77.557041,
+            43.227077
+          ],
+          [
+            -77.557026,
+            43.227023
+          ],
+          [
+            -77.557027,
+            43.227012
+          ],
+          [
+            -77.557035,
+            43.22699
+          ],
+          [
+            -77.557079,
+            43.226961
+          ],
+          [
+            -77.55747,
+            43.226944
+          ],
+          [
+            -77.557627,
+            43.226978
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:bfc33c7e",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.555992,
+            43.231561
+          ],
+          [
+            -77.555976,
+            43.231557
+          ],
+          [
+            -77.555984,
+            43.23148
+          ],
+          [
+            -77.556069,
+            43.231419
+          ],
+          [
+            -77.556362,
+            43.231425
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:71e3a0e6",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556362,
+            43.231425
+          ],
+          [
+            -77.556446,
+            43.231445
+          ],
+          [
+            -77.556676,
+            43.231551
+          ],
+          [
+            -77.558351,
+            43.23189
+          ],
+          [
+            -77.558453,
+            43.231884
+          ],
+          [
+            -77.558598,
+            43.231826
+          ],
+          [
+            -77.558632,
+            43.231785
+          ],
+          [
+            -77.558727,
+            43.231568
+          ],
+          [
+            -77.559055,
+            43.231555
+          ],
+          [
+            -77.559204,
+            43.231503
+          ],
+          [
+            -77.558958,
+            43.23134
+          ],
+          [
+            -77.558812,
+            43.231322
+          ],
+          [
+            -77.558782,
+            43.231323
+          ],
+          [
+            -77.558407,
+            43.231525
+          ],
+          [
+            -77.558397,
+            43.231525
+          ],
+          [
+            -77.558377,
+            43.23152
+          ],
+          [
+            -77.558359,
+            43.231505
+          ],
+          [
+            -77.558351,
+            43.231493
+          ],
+          [
+            -77.558346,
+            43.231479
+          ],
+          [
+            -77.558351,
+            43.231381
+          ],
+          [
+            -77.558389,
+            43.231356
+          ],
+          [
+            -77.55863,
+            43.230852
+          ],
+          [
+            -77.558635,
+            43.230832
+          ],
+          [
+            -77.558631,
+            43.230716
+          ],
+          [
+            -77.558597,
+            43.230675
+          ],
+          [
+            -77.558534,
+            43.229796
+          ],
+          [
+            -77.558568,
+            43.229754
+          ],
+          [
+            -77.558811,
+            43.229145
+          ],
+          [
+            -77.558833,
+            43.228992
+          ],
+          [
+            -77.558824,
+            43.22897
+          ],
+          [
+            -77.558808,
+            43.228955
+          ],
+          [
+            -77.558747,
+            43.228954
+          ],
+          [
+            -77.558667,
+            43.22896
+          ],
+          [
+            -77.558516,
+            43.228936
+          ],
+          [
+            -77.558407,
+            43.22888
+          ],
+          [
+            -77.558119,
+            43.22843
+          ],
+          [
+            -77.558117,
+            43.228409
+          ],
+          [
+            -77.558139,
+            43.228229
+          ],
+          [
+            -77.558175,
+            43.228147
+          ],
+          [
+            -77.558321,
+            43.227995
+          ],
+          [
+            -77.558338,
+            43.227962
+          ],
+          [
+            -77.558358,
+            43.227865
+          ],
+          [
+            -77.558389,
+            43.227819
+          ],
+          [
+            -77.558432,
+            43.227791
+          ],
+          [
+            -77.558997,
+            43.227661
+          ],
+          [
+            -77.559016,
+            43.227652
+          ],
+          [
+            -77.559055,
+            43.227416
+          ],
+          [
+            -77.559053,
+            43.2274
+          ],
+          [
+            -77.559037,
+            43.227376
+          ],
+          [
+            -77.558627,
+            43.227267
+          ],
+          [
+            -77.55845,
+            43.227152
+          ],
+          [
+            -77.55844,
+            43.227135
+          ],
+          [
+            -77.557978,
+            43.226756
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:f0be7aef",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557978,
+            43.226756
+          ],
+          [
+            -77.557375,
+            43.22644
+          ],
+          [
+            -77.557362,
+            43.226428
+          ],
+          [
+            -77.557356,
+            43.226415
+          ],
+          [
+            -77.557364,
+            43.226401
+          ],
+          [
+            -77.558189,
+            43.226178
+          ],
+          [
+            -77.558587,
+            43.226147
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:affbc720",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.558587,
+            43.226147
+          ],
+          [
+            -77.558848,
+            43.226055
+          ],
+          [
+            -77.558866,
+            43.226039
+          ],
+          [
+            -77.558876,
+            43.226009
+          ],
+          [
+            -77.558847,
+            43.225844
+          ],
+          [
+            -77.558699,
+            43.225613
+          ],
+          [
+            -77.558399,
+            43.225385
+          ],
+          [
+            -77.558343,
+            43.225314
+          ],
+          [
+            -77.558319,
+            43.225313
+          ],
+          [
+            -77.557646,
+            43.225474
+          ],
+          [
+            -77.557623,
+            43.225474
+          ],
+          [
+            -77.557599,
+            43.225479
+          ],
+          [
+            -77.557397,
+            43.225338
+          ],
+          [
+            -77.556969,
+            43.225229
+          ],
+          [
+            -77.556929,
+            43.22523
+          ],
+          [
+            -77.556893,
+            43.225239
+          ],
+          [
+            -77.556839,
+            43.225268
+          ],
+          [
+            -77.556811,
+            43.225315
+          ],
+          [
+            -77.556799,
+            43.225325
+          ],
+          [
+            -77.556179,
+            43.225646
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:a6d62ed9",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556179,
+            43.225646
+          ],
+          [
+            -77.556066,
+            43.225831
+          ],
+          [
+            -77.555767,
+            43.226246
+          ],
+          [
+            -77.555655,
+            43.226325
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:7298e791",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.555655,
+            43.226325
+          ],
+          [
+            -77.555577,
+            43.226347
+          ],
+          [
+            -77.555519,
+            43.226348
+          ],
+          [
+            -77.555333,
+            43.22632
+          ],
+          [
+            -77.555302,
+            43.226332
+          ],
+          [
+            -77.555343,
+            43.22639
+          ],
+          [
+            -77.555347,
+            43.226434
+          ],
+          [
+            -77.55534,
+            43.226456
+          ],
+          [
+            -77.555298,
+            43.226507
+          ],
+          [
+            -77.555254,
+            43.226531
+          ],
+          [
+            -77.555238,
+            43.226535
+          ],
+          [
+            -77.555116,
+            43.226527
+          ],
+          [
+            -77.555093,
+            43.22653
+          ],
+          [
+            -77.555063,
+            43.226543
+          ],
+          [
+            -77.554802,
+            43.226818
+          ],
+          [
+            -77.55427,
+            43.227028
+          ],
+          [
+            -77.554078,
+            43.227215
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:76322f45",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.554078,
+            43.227215
+          ],
+          [
+            -77.553969,
+            43.227322
+          ],
+          [
+            -77.553936,
+            43.227403
+          ],
+          [
+            -77.553926,
+            43.22748
+          ],
+          [
+            -77.553987,
+            43.227783
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:74f4dbb9",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.553987,
+            43.227783
+          ],
+          [
+            -77.554006,
+            43.228016
+          ],
+          [
+            -77.554071,
+            43.22812
+          ],
+          [
+            -77.554602,
+            43.228524
+          ],
+          [
+            -77.554845,
+            43.228639
+          ],
+          [
+            -77.55503,
+            43.228799
+          ],
+          [
+            -77.555066,
+            43.228862
+          ],
+          [
+            -77.55508,
+            43.228919
+          ],
+          [
+            -77.555079,
+            43.228936
+          ],
+          [
+            -77.554895,
+            43.229037
+          ],
+          [
+            -77.554459,
+            43.229515
+          ],
+          [
+            -77.554453,
+            43.229534
+          ],
+          [
+            -77.554712,
+            43.230104
+          ],
+          [
+            -77.554717,
+            43.230215
+          ],
+          [
+            -77.554777,
+            43.230309
+          ],
+          [
+            -77.554804,
+            43.230328
+          ],
+          [
+            -77.554842,
+            43.230344
+          ],
+          [
+            -77.554881,
+            43.230331
+          ],
+          [
+            -77.554891,
+            43.23032
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:4acc8f3d",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.554891,
+            43.23032
+          ],
+          [
+            -77.554904,
+            43.230289
+          ],
+          [
+            -77.554903,
+            43.230242
+          ],
+          [
+            -77.554879,
+            43.230145
+          ],
+          [
+            -77.554885,
+            43.230094
+          ],
+          [
+            -77.555073,
+            43.229745
+          ],
+          [
+            -77.555108,
+            43.229714
+          ],
+          [
+            -77.555133,
+            43.229704
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:01ae5dfc",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.555133,
+            43.229704
+          ],
+          [
+            -77.555324,
+            43.229705
+          ],
+          [
+            -77.555349,
+            43.229691
+          ],
+          [
+            -77.555618,
+            43.229617
+          ],
+          [
+            -77.55568,
+            43.229532
+          ],
+          [
+            -77.555871,
+            43.229465
+          ],
+          [
+            -77.556074,
+            43.229473
+          ],
+          [
+            -77.556163,
+            43.229536
+          ],
+          [
+            -77.556171,
+            43.229545
+          ],
+          [
+            -77.556176,
+            43.229555
+          ],
+          [
+            -77.556183,
+            43.229684
+          ],
+          [
+            -77.556181,
+            43.229698
+          ],
+          [
+            -77.555862,
+            43.229993
+          ],
+          [
+            -77.555807,
+            43.230072
+          ],
+          [
+            -77.555808,
+            43.230112
+          ],
+          [
+            -77.556025,
+            43.230415
+          ],
+          [
+            -77.556043,
+            43.230483
+          ],
+          [
+            -77.556014,
+            43.230684
+          ],
+          [
+            -77.555997,
+            43.23071
+          ],
+          [
+            -77.555871,
+            43.230818
+          ],
+          [
+            -77.555855,
+            43.230845
+          ],
+          [
+            -77.555854,
+            43.230857
+          ],
+          [
+            -77.555857,
+            43.230868
+          ],
+          [
+            -77.555864,
+            43.230876
+          ],
+          [
+            -77.556002,
+            43.23093
+          ],
+          [
+            -77.556023,
+            43.23093
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:16c6abfe",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557425,
+            43.22815
+          ],
+          [
+            -77.557435,
+            43.228141
+          ],
+          [
+            -77.55744,
+            43.228134
+          ],
+          [
+            -77.557337,
+            43.228188
+          ],
+          [
+            -77.556239,
+            43.228375
+          ],
+          [
+            -77.556173,
+            43.228366
+          ],
+          [
+            -77.556152,
+            43.228353
+          ],
+          [
+            -77.556146,
+            43.228328
+          ],
+          [
+            -77.556162,
+            43.228302
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:9388a7dc",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556162,
+            43.228302
+          ],
+          [
+            -77.556295,
+            43.228162
+          ],
+          [
+            -77.556324,
+            43.228148
+          ],
+          [
+            -77.556535,
+            43.228096
+          ],
+          [
+            -77.556563,
+            43.228074
+          ],
+          [
+            -77.556758,
+            43.227765
+          ],
+          [
+            -77.556779,
+            43.2277
+          ],
+          [
+            -77.556835,
+            43.227628
+          ],
+          [
+            -77.556887,
+            43.227592
+          ],
+          [
+            -77.557139,
+            43.227533
+          ],
+          [
+            -77.557179,
+            43.227511
+          ],
+          [
+            -77.557321,
+            43.22739
+          ],
+          [
+            -77.557322,
+            43.227359
+          ],
+          [
+            -77.557274,
+            43.227207
+          ],
+          [
+            -77.557239,
+            43.227171
+          ],
+          [
+            -77.557218,
+            43.227162
+          ],
+          [
+            -77.557117,
+            43.227149
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:1c459c7c",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.557117,
+            43.227149
+          ],
+          [
+            -77.556923,
+            43.227052
+          ],
+          [
+            -77.556842,
+            43.227042
+          ],
+          [
+            -77.55672,
+            43.22707
+          ],
+          [
+            -77.5564,
+            43.227349
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:774af4a6",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.5564,
+            43.227349
+          ],
+          [
+            -77.556246,
+            43.227551
+          ],
+          [
+            -77.556156,
+            43.227642
+          ],
+          [
+            -77.555728,
+            43.227886
+          ],
+          [
+            -77.55551,
+            43.228099
+          ],
+          [
+            -77.555437,
+            43.228101
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:7bbb7d43",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.555437,
+            43.228101
+          ],
+          [
+            -77.555284,
+            43.228074
+          ],
+          [
+            -77.555057,
+            43.227974
+          ],
+          [
+            -77.55498,
+            43.227957
+          ],
+          [
+            -77.55423,
+            43.228003
+          ],
+          [
+            -77.554012,
+            43.227803
+          ],
+          [
+            -77.553997,
+            43.22779
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:07f7dd17",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.554049,
+            43.227201
+          ],
+          [
+            -77.553937,
+            43.22704
+          ],
+          [
+            -77.553875,
+            43.226996
+          ],
+          [
+            -77.553797,
+            43.226966
+          ],
+          [
+            -77.553606,
+            43.226949
+          ],
+          [
+            -77.552932,
+            43.227142
+          ],
+          [
+            -77.552768,
+            43.227151
+          ],
+          [
+            -77.552598,
+            43.227139
+          ],
+          [
+            -77.552218,
+            43.227164
+          ],
+          [
+            -77.551719,
+            43.227153
+          ],
+          [
+            -77.551011,
+            43.227276
+          ],
+          [
+            -77.550558,
+            43.227262
+          ],
+          [
+            -77.549262,
+            43.22728
+          ],
+          [
+            -77.548707,
+            43.227263
+          ],
+          [
+            -77.548415,
+            43.227291
+          ],
+          [
+            -77.547848,
+            43.227582
+          ],
+          [
+            -77.547766,
+            43.227667
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:04438d7f",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.558178,
+            43.23431
+          ],
+          [
+            -77.558168,
+            43.234323
+          ],
+          [
+            -77.558156,
+            43.234335
+          ],
+          [
+            -77.558089,
+            43.234362
+          ],
+          [
+            -77.557915,
+            43.234396
+          ],
+          [
+            -77.557795,
+            43.234406
+          ],
+          [
+            -77.557763,
+            43.234419
+          ],
+          [
+            -77.557756,
+            43.234429
+          ],
+          [
+            -77.557728,
+            43.234549
+          ],
+          [
+            -77.557672,
+            43.234669
+          ],
+          [
+            -77.557654,
+            43.234695
+          ],
+          [
+            -77.557341,
+            43.234967
+          ],
+          [
+            -77.556955,
+            43.235152
+          ],
+          [
+            -77.55636,
+            43.235323
+          ],
+          [
+            -77.556159,
+            43.235418
+          ],
+          [
+            -77.556142,
+            43.235454
+          ],
+          [
+            -77.556136,
+            43.235494
+          ],
+          [
+            -77.556137,
+            43.235534
+          ],
+          [
+            -77.556156,
+            43.235646
+          ],
+          [
+            -77.556155,
+            43.235665
+          ],
+          [
+            -77.556183,
+            43.235747
+          ],
+          [
+            -77.556287,
+            43.23587
+          ],
+          [
+            -77.556379,
+            43.235938
+          ],
+          [
+            -77.556433,
+            43.235962
+          ],
+          [
+            -77.556492,
+            43.235978
+          ],
+          [
+            -77.556665,
+            43.235989
+          ],
+          [
+            -77.556746,
+            43.235984
+          ],
+          [
+            -77.556853,
+            43.235933
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:3d3a74eb",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.556853,
+            43.235933
+          ],
+          [
+            -77.556921,
+            43.235888
+          ],
+          [
+            -77.556931,
+            43.235883
+          ],
+          [
+            -77.556999,
+            43.235868
+          ],
+          [
+            -77.557019,
+            43.235867
+          ],
+          [
+            -77.55704,
+            43.235861
+          ],
+          [
+            -77.557073,
+            43.235833
+          ],
+          [
+            -77.557119,
+            43.235598
+          ],
+          [
+            -77.55711,
+            43.235484
+          ],
+          [
+            -77.557117,
+            43.235438
+          ],
+          [
+            -77.557207,
+            43.235249
+          ],
+          [
+            -77.557223,
+            43.235227
+          ],
+          [
+            -77.557659,
+            43.23503
+          ],
+          [
+            -77.557823,
+            43.234909
+          ],
+          [
+            -77.558084,
+            43.234563
+          ],
+          [
+            -77.558095,
+            43.234553
+          ],
+          [
+            -77.558112,
+            43.234505
+          ],
+          [
+            -77.558122,
+            43.234489
+          ],
+          [
+            -77.558238,
+            43.234358
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-dureast-unnamed-trails:de8a5360",
+        "trailsroc-trailIDs": "trail-dureast-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.562105,
+            43.229114
+          ],
+          [
+            -77.561812,
+            43.228641
+          ],
+          [
+            -77.561569,
+            43.228372
+          ],
+          [
+            -77.561343,
+            43.228106
+          ],
+          [
+            -77.561246,
+            43.227863
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-dureast:border1",
+        "trailsroc-parkID": "park-dureast"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.572938,
+              43.241682
+            ],
+            [
+              -77.57643,
+              43.243088
+            ],
+            [
+              -77.576869,
+              43.243007
+            ],
+            [
+              -77.577508,
+              43.242476
+            ],
+            [
+              -77.579175,
+              43.241867
+            ],
+            [
+              -77.580774,
+              43.240715
+            ],
+            [
+              -77.581965,
+              43.239018
+            ],
+            [
+              -77.583797,
+              43.238152
+            ],
+            [
+              -77.584406,
+              43.236202
+            ],
+            [
+              -77.586875,
+              43.234763
+            ],
+            [
+              -77.587933,
+              43.232338
+            ],
+            [
+              -77.587835,
+              43.231465
+            ],
+            [
+              -77.578942,
+              43.231526
+            ],
+            [
+              -77.577555,
+              43.230801
+            ],
+            [
+              -77.575378,
+              43.230367
+            ],
+            [
+              -77.575442,
+              43.230676
+            ],
+            [
+              -77.57136,
+              43.231511
+            ],
+            [
+              -77.570903,
+              43.226938
+            ],
+            [
+              -77.563541,
+              43.227291
+            ],
+            [
+              -77.563265,
+              43.226405
+            ],
+            [
+              -77.559936,
+              43.226416
+            ],
+            [
+              -77.559774,
+              43.224138
+            ],
+            [
+              -77.560017,
+              43.224117
+            ],
+            [
+              -77.559672,
+              43.223656
+            ],
+            [
+              -77.559137,
+              43.223613
+            ],
+            [
+              -77.556398,
+              43.223837
+            ],
+            [
+              -77.556426,
+              43.223422
+            ],
+            [
+              -77.553924,
+              43.223517
+            ],
+            [
+              -77.55401,
+              43.22443
+            ],
+            [
+              -77.554222,
+              43.224378
+            ],
+            [
+              -77.554387,
+              43.226689
+            ],
+            [
+              -77.547249,
+              43.226896
+            ],
+            [
+              -77.546746,
+              43.227879
+            ],
+            [
+              -77.551043,
+              43.227765
+            ],
+            [
+              -77.551117,
+              43.227872
+            ],
+            [
+              -77.551339,
+              43.227904
+            ],
+            [
+              -77.551428,
+              43.229588
+            ],
+            [
+              -77.551599,
+              43.229588
+            ],
+            [
+              -77.551918,
+              43.234634
+            ],
+            [
+              -77.551659,
+              43.234923
+            ],
+            [
+              -77.55493,
+              43.235444
+            ],
+            [
+              -77.554685,
+              43.236543
+            ],
+            [
+              -77.571888,
+              43.241276
+            ],
+            [
+              -77.572938,
+              43.241682
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:durand_eastman:4f035217",
+        "trailsroc-name": "Camp Eastman",
+        "trailsroc-shortName": "Camp Eastman",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-url": "http://www.irondequoit.org/town-departments/parks-and-recreation/parks-and-facilities",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.578518,
+          43.239083
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:810e630a",
+        "trailsroc-name": "Parking (Lakeshore west)",
+        "trailsroc-shortName": "Lakeshore west",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-lakeshore-trail",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.574066,
+          43.241248
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:durand_eastman:60f8b13f",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567709,
+          43.238302
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:7a5f32ae",
+        "trailsroc-name": "Sunset Shelter",
+        "trailsroc-shortName": "Sunset",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567843,
+          43.237239
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:durand_eastman:ad3cc36a",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567704,
+          43.237707
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:a66bde34",
+        "trailsroc-name": "Parking (Sunset Shelter)",
+        "trailsroc-shortName": "Sunset Shelter",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567478,
+          43.237121
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:2f731184",
+        "trailsroc-name": "Parking (Kings Hwy)",
+        "trailsroc-shortName": "Kings Hwy",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.569828,
+          43.234346
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:durand_eastman:ce19e7a7",
+        "trailsroc-name": "Durand-Eastman Golf Course",
+        "trailsroc-shortName": "Durand-Eastman Golf Course",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-url": "http://www.durandeastmangolfclub.org/",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.568144,
+          43.233752
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:35823175",
+        "trailsroc-name": "Parking (Shore at Kings Highway)",
+        "trailsroc-shortName": "Shore at Kings Highway",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-lakeshore-trail",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.567574,
+          43.239016
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:c34d089e",
+        "trailsroc-name": "Parking (Lake Shore)",
+        "trailsroc-shortName": "Lake Shore",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-lakeshore-trail,trail-dureast-yellow,trail-dureast-eastman-lake",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.561052,
+          43.237098
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:2afdd83d",
+        "trailsroc-name": "Parking (Shore at Log Cabin Rd)",
+        "trailsroc-shortName": "Shore at Log Cabin Rd",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-lakeshore-trail",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.557479,
+          43.236371
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:02fe7587",
+        "trailsroc-name": "Acorn Shelter",
+        "trailsroc-shortName": "Acorn",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.559185,
+          43.23387
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:d90afb2d",
+        "trailsroc-name": "Maple Shelter",
+        "trailsroc-shortName": "Maple",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.560397,
+          43.233283
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:durand_eastman:c01974c1",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.559689,
+          43.233573
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:e3582331",
+        "trailsroc-name": "Hemlock Shelter",
+        "trailsroc-shortName": "Hemlock",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.562253,
+          43.231869
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:8f1767b9",
+        "trailsroc-name": "Conifer Shelter",
+        "trailsroc-shortName": "Conifer",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.562082,
+          43.230106
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:a5c7017a",
+        "trailsroc-name": "Magnolia Shelter",
+        "trailsroc-shortName": "Magnolia",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.56113,
+          43.229528
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:4c2fa09a",
+        "trailsroc-name": "Olive Shelter",
+        "trailsroc-shortName": "Olive",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.562492,
+          43.229404
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:durand_eastman:76c3b4af",
+        "trailsroc-name": "Buck Thorn Shelter",
+        "trailsroc-shortName": "Buck Thorn",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.562685,
+          43.229666
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:40942712",
+        "trailsroc-name": "Parking (Log Cabin Shelters)",
+        "trailsroc-shortName": "Log Cabin Shelters",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-trott-lake,trail-dureast-eastman-lake,trail-dureast-durand-lake,trail-dureast-purple",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.561857,
+          43.229199
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:durand_eastman:403f6844",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.561969,
+          43.229478
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:durand_eastman:a1b36ecb",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.562256,
+          43.229644
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:durand_eastman:1556b70e",
+        "trailsroc-name": "Park Office",
+        "trailsroc-shortName": "Park Office",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.556964,
+          43.232322
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:durand_eastman:3abba4a1",
+        "trailsroc-name": "Parking (Zoo Road)",
+        "trailsroc-shortName": "Zoo Road",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-durand-lake",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.555881,
+          43.231884
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:durand_eastman:c8243893",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.549556,
+          43.227546
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:durand_eastman:80251aa5",
+        "trailsroc-name": "Arboretum",
+        "trailsroc-shortName": "Arboretum",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.554722,
+          43.228976
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:durand_eastman:86c9e613",
+        "trailsroc-name": "Tamarack Swamp",
+        "trailsroc-shortName": "Tamarack Swamp",
+        "trailsroc-parentIDs": "park-dureast,trail-dureast-lakeshore-trail",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.553005,
+          43.233448
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:durand_eastman:4cf90beb",
+        "trailsroc-name": "White Lady’s Castle",
+        "trailsroc-shortName": "White Lady’s Castle",
+        "trailsroc-parentIDs": "park-dureast",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "ladys"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.556862,
+          43.235675
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

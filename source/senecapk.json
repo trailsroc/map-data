@@ -1,0 +1,88 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-senecapk": {
+      "name": "Seneca Park",
+      "mainPin": [
+        43.207761,
+        -77.62249
+      ],
+      "SW": [
+        43.19192,
+        -77.626881
+      ],
+      "NE": [
+        43.225199,
+        -77.61247
+      ],
+      "directionsCoordinate": [
+        43.205331,
+        -77.624293
+      ],
+      "url": "http://www.monroecounty.gov/parks-seneca.php"
+    }
+  },
+  "trails": {
+    "trail-senecapk-gorge-overlook": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
+      "name": "Gorge Overlook Trail",
+      "color": "dark_green",
+      "length": 0.1,
+      "SW": [
+        43.210716,
+        -77.624522
+      ],
+      "NE": [
+        43.21298,
+        -77.620262
+      ],
+      "parentID": "park-senecapk"
+    },
+    "trail-senecapk-olmsted-n": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
+      "name": "Olmsted Trail North",
+      "color": "orange",
+      "length": 1,
+      "SW": [
+        43.21298,
+        -77.620262
+      ],
+      "NE": [
+        43.225213,
+        -77.612353
+      ],
+      "parentID": "park-senecapk"
+    },
+    "trail-senecapk-olmsted-s": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
+      "name": "Olmsted Trail South",
+      "color": "red",
+      "length": 0.7,
+      "SW": [
+        43.197673,
+        -77.625415
+      ],
+      "NE": [
+        43.210716,
+        -77.619468
+      ],
+      "parentID": "park-senecapk"
+    },
+    "trail-senecapk-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-seneca.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.197673,
+        -77.623481
+      ],
+      "NE": [
+        43.212724,
+        -77.619291
+      ],
+      "parentID": "park-senecapk"
+    }
+  }
+}

@@ -1,0 +1,3126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-highland",
+        "trailsroc-shortName": "Highland Park",
+        "trailsroc-name": "Highland Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-highland.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60571,
+          43.13043
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-highland-unnamed-trails",
+        "trailsroc-parentID": "park-highland",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-highland.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.605886,
+          43.128838
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:eb4d17de",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.607962,
+            43.129217
+          ],
+          [
+            -77.607856,
+            43.129184
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:05d72d74",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608067,
+            43.1294
+          ],
+          [
+            -77.607988,
+            43.129334
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:353d5eec",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.607986,
+            43.129503
+          ],
+          [
+            -77.607913,
+            43.129523
+          ],
+          [
+            -77.607938,
+            43.129567
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:62dbc213",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609318,
+            43.129384
+          ],
+          [
+            -77.609255,
+            43.129413
+          ],
+          [
+            -77.609229,
+            43.12946
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:145ec346",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608407,
+            43.129291
+          ],
+          [
+            -77.608535,
+            43.129354
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:5fd872e8",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609092,
+            43.129232
+          ],
+          [
+            -77.609271,
+            43.129202
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:5fac10bd",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609632,
+            43.128966
+          ],
+          [
+            -77.609411,
+            43.129024
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:dbdca754",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.604196,
+            43.132029
+          ],
+          [
+            -77.603889,
+            43.132079
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:70e831f8",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60971,
+            43.127584
+          ],
+          [
+            -77.609637,
+            43.127544
+          ],
+          [
+            -77.609591,
+            43.127491
+          ],
+          [
+            -77.609544,
+            43.127437
+          ],
+          [
+            -77.609482,
+            43.127422
+          ],
+          [
+            -77.609393,
+            43.127457
+          ],
+          [
+            -77.609323,
+            43.12747
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:c7b4156c",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608226,
+            43.129303
+          ],
+          [
+            -77.607962,
+            43.129217
+          ],
+          [
+            -77.607988,
+            43.129334
+          ],
+          [
+            -77.607971,
+            43.129386
+          ],
+          [
+            -77.608028,
+            43.129425
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:5636b6ee",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610854,
+            43.128389
+          ],
+          [
+            -77.610592,
+            43.128297
+          ],
+          [
+            -77.610437,
+            43.128283
+          ],
+          [
+            -77.610333,
+            43.128271
+          ],
+          [
+            -77.610244,
+            43.128239
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:3d2d38a6",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608365,
+            43.128813
+          ],
+          [
+            -77.608489,
+            43.128787
+          ],
+          [
+            -77.608628,
+            43.128756
+          ],
+          [
+            -77.608721,
+            43.128724
+          ],
+          [
+            -77.60885,
+            43.128662
+          ],
+          [
+            -77.608896,
+            43.128613
+          ],
+          [
+            -77.608951,
+            43.128535
+          ],
+          [
+            -77.608951,
+            43.128475
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:3a0d56de",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610029,
+            43.128509
+          ],
+          [
+            -77.609802,
+            43.128506
+          ],
+          [
+            -77.609525,
+            43.128475
+          ],
+          [
+            -77.609301,
+            43.128461
+          ],
+          [
+            -77.609192,
+            43.128424
+          ],
+          [
+            -77.609097,
+            43.128341
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:2ff59a8b",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603137,
+            43.131999
+          ],
+          [
+            -77.603098,
+            43.131951
+          ],
+          [
+            -77.603068,
+            43.131927
+          ],
+          [
+            -77.603026,
+            43.131891
+          ],
+          [
+            -77.602941,
+            43.131848
+          ],
+          [
+            -77.602839,
+            43.131831
+          ],
+          [
+            -77.602725,
+            43.131839
+          ],
+          [
+            -77.602655,
+            43.131856
+          ],
+          [
+            -77.602581,
+            43.131883
+          ],
+          [
+            -77.60254,
+            43.131918
+          ],
+          [
+            -77.602501,
+            43.131955
+          ],
+          [
+            -77.602484,
+            43.132002
+          ],
+          [
+            -77.602484,
+            43.132047
+          ],
+          [
+            -77.602511,
+            43.132132
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:e26ba13a",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.601908,
+            43.132062
+          ],
+          [
+            -77.602101,
+            43.131924
+          ],
+          [
+            -77.602142,
+            43.131893
+          ],
+          [
+            -77.602155,
+            43.131877
+          ],
+          [
+            -77.602348,
+            43.131707
+          ],
+          [
+            -77.602512,
+            43.13164
+          ],
+          [
+            -77.602612,
+            43.131616
+          ],
+          [
+            -77.602644,
+            43.131611
+          ],
+          [
+            -77.602698,
+            43.131605
+          ],
+          [
+            -77.602767,
+            43.131592
+          ],
+          [
+            -77.602871,
+            43.131571
+          ],
+          [
+            -77.602949,
+            43.131574
+          ],
+          [
+            -77.603029,
+            43.131577
+          ],
+          [
+            -77.603116,
+            43.131554
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:5b12a874",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608621,
+            43.128167
+          ],
+          [
+            -77.608594,
+            43.128117
+          ],
+          [
+            -77.608587,
+            43.128057
+          ],
+          [
+            -77.608615,
+            43.128018
+          ],
+          [
+            -77.608667,
+            43.127973
+          ],
+          [
+            -77.608674,
+            43.127949
+          ],
+          [
+            -77.608702,
+            43.12791
+          ],
+          [
+            -77.608771,
+            43.127894
+          ],
+          [
+            -77.608836,
+            43.127947
+          ],
+          [
+            -77.608843,
+            43.128004
+          ],
+          [
+            -77.608802,
+            43.12806
+          ],
+          [
+            -77.608719,
+            43.12811
+          ],
+          [
+            -77.608621,
+            43.128167
+          ],
+          [
+            -77.608626,
+            43.128212
+          ],
+          [
+            -77.608655,
+            43.128231
+          ],
+          [
+            -77.608744,
+            43.128244
+          ],
+          [
+            -77.608818,
+            43.128266
+          ],
+          [
+            -77.60898,
+            43.128399
+          ],
+          [
+            -77.609018,
+            43.128416
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:4405f77d",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.602181,
+            43.131856
+          ],
+          [
+            -77.602101,
+            43.132108
+          ],
+          [
+            -77.601903,
+            43.13206
+          ],
+          [
+            -77.601795,
+            43.132044
+          ],
+          [
+            -77.601589,
+            43.131971
+          ],
+          [
+            -77.601485,
+            43.13198
+          ],
+          [
+            -77.601148,
+            43.132106
+          ],
+          [
+            -77.600811,
+            43.132222
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:917f82bc",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603488,
+            43.131906
+          ],
+          [
+            -77.603407,
+            43.131737
+          ],
+          [
+            -77.603312,
+            43.131646
+          ],
+          [
+            -77.603116,
+            43.131554
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:07359219",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603116,
+            43.131554
+          ],
+          [
+            -77.603197,
+            43.131357
+          ],
+          [
+            -77.603629,
+            43.130911
+          ],
+          [
+            -77.603787,
+            43.13056
+          ],
+          [
+            -77.603897,
+            43.130429
+          ],
+          [
+            -77.60392,
+            43.130361
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:1aa423a6",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603667,
+            43.132644
+          ],
+          [
+            -77.603615,
+            43.132637
+          ],
+          [
+            -77.603546,
+            43.132599
+          ],
+          [
+            -77.603522,
+            43.132571
+          ],
+          [
+            -77.603501,
+            43.132528
+          ],
+          [
+            -77.603466,
+            43.13226
+          ],
+          [
+            -77.603487,
+            43.13221
+          ],
+          [
+            -77.603537,
+            43.132167
+          ],
+          [
+            -77.603889,
+            43.132079
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:66341d13",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603889,
+            43.132079
+          ],
+          [
+            -77.603816,
+            43.132015
+          ],
+          [
+            -77.603488,
+            43.131906
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:ff48a903",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.603488,
+            43.131906
+          ],
+          [
+            -77.60332,
+            43.131977
+          ],
+          [
+            -77.603137,
+            43.131999
+          ],
+          [
+            -77.603114,
+            43.132106
+          ],
+          [
+            -77.603056,
+            43.132125
+          ],
+          [
+            -77.602764,
+            43.13207
+          ],
+          [
+            -77.602511,
+            43.132129
+          ],
+          [
+            -77.602462,
+            43.13218
+          ],
+          [
+            -77.602281,
+            43.132215
+          ],
+          [
+            -77.60218,
+            43.132192
+          ],
+          [
+            -77.602104,
+            43.132111
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:3741aff0",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610786,
+            43.129974
+          ],
+          [
+            -77.610558,
+            43.129578
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:30d3396e",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610558,
+            43.129578
+          ],
+          [
+            -77.61065,
+            43.129376
+          ],
+          [
+            -77.610573,
+            43.129182
+          ],
+          [
+            -77.610606,
+            43.129064
+          ],
+          [
+            -77.610766,
+            43.128904
+          ],
+          [
+            -77.610765,
+            43.12883
+          ],
+          [
+            -77.61069,
+            43.128747
+          ],
+          [
+            -77.610622,
+            43.128702
+          ],
+          [
+            -77.610381,
+            43.128717
+          ],
+          [
+            -77.610085,
+            43.12865
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:e85ba765",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610085,
+            43.12865
+          ],
+          [
+            -77.609986,
+            43.128658
+          ],
+          [
+            -77.609879,
+            43.128717
+          ],
+          [
+            -77.609767,
+            43.128882
+          ],
+          [
+            -77.609632,
+            43.128966
+          ],
+          [
+            -77.609552,
+            43.129101
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:c6e79b84",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.601983,
+            43.132003
+          ],
+          [
+            -77.601971,
+            43.131961
+          ],
+          [
+            -77.601972,
+            43.131942
+          ],
+          [
+            -77.602008,
+            43.131854
+          ],
+          [
+            -77.601658,
+            43.13166
+          ],
+          [
+            -77.601401,
+            43.131413
+          ],
+          [
+            -77.601369,
+            43.131317
+          ],
+          [
+            -77.601455,
+            43.131131
+          ],
+          [
+            -77.601583,
+            43.130992
+          ],
+          [
+            -77.601746,
+            43.130918
+          ],
+          [
+            -77.601917,
+            43.13088
+          ],
+          [
+            -77.602356,
+            43.130972
+          ],
+          [
+            -77.602526,
+            43.131075
+          ],
+          [
+            -77.602585,
+            43.131053
+          ],
+          [
+            -77.6026,
+            43.130999
+          ],
+          [
+            -77.602585,
+            43.131053
+          ],
+          [
+            -77.6026,
+            43.130999
+          ],
+          [
+            -77.602566,
+            43.130956
+          ],
+          [
+            -77.60206,
+            43.130757
+          ],
+          [
+            -77.601896,
+            43.130658
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:bae6fe79",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610244,
+            43.128239
+          ],
+          [
+            -77.610135,
+            43.128136
+          ],
+          [
+            -77.610144,
+            43.128116
+          ],
+          [
+            -77.610132,
+            43.128093
+          ],
+          [
+            -77.610097,
+            43.12809
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:d7451707",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610097,
+            43.12809
+          ],
+          [
+            -77.610074,
+            43.12811
+          ],
+          [
+            -77.610095,
+            43.128139
+          ],
+          [
+            -77.610073,
+            43.128151
+          ],
+          [
+            -77.610143,
+            43.128219
+          ],
+          [
+            -77.610142,
+            43.128241
+          ],
+          [
+            -77.61012,
+            43.12827
+          ],
+          [
+            -77.609967,
+            43.12831
+          ],
+          [
+            -77.609918,
+            43.128338
+          ],
+          [
+            -77.609888,
+            43.128376
+          ],
+          [
+            -77.609858,
+            43.128399
+          ],
+          [
+            -77.609817,
+            43.128412
+          ],
+          [
+            -77.609788,
+            43.1284
+          ],
+          [
+            -77.609783,
+            43.128365
+          ],
+          [
+            -77.609804,
+            43.128317
+          ],
+          [
+            -77.609798,
+            43.128279
+          ],
+          [
+            -77.60975,
+            43.128251
+          ],
+          [
+            -77.609723,
+            43.128222
+          ],
+          [
+            -77.609715,
+            43.128183
+          ],
+          [
+            -77.60973,
+            43.128161
+          ],
+          [
+            -77.609776,
+            43.128137
+          ],
+          [
+            -77.609829,
+            43.128134
+          ],
+          [
+            -77.609867,
+            43.128122
+          ],
+          [
+            -77.609892,
+            43.128091
+          ],
+          [
+            -77.609874,
+            43.128057
+          ],
+          [
+            -77.609845,
+            43.128023
+          ],
+          [
+            -77.60984,
+            43.127987
+          ],
+          [
+            -77.60985,
+            43.127954
+          ],
+          [
+            -77.609838,
+            43.127921
+          ],
+          [
+            -77.609803,
+            43.127901
+          ],
+          [
+            -77.609676,
+            43.127879
+          ],
+          [
+            -77.609651,
+            43.127857
+          ],
+          [
+            -77.609652,
+            43.127822
+          ],
+          [
+            -77.609682,
+            43.127787
+          ],
+          [
+            -77.609718,
+            43.127774
+          ],
+          [
+            -77.609771,
+            43.127777
+          ],
+          [
+            -77.609802,
+            43.1278
+          ],
+          [
+            -77.609835,
+            43.12785
+          ],
+          [
+            -77.610075,
+            43.127911
+          ],
+          [
+            -77.610137,
+            43.127897
+          ],
+          [
+            -77.610166,
+            43.127862
+          ],
+          [
+            -77.610145,
+            43.127731
+          ],
+          [
+            -77.610193,
+            43.127699
+          ],
+          [
+            -77.610258,
+            43.127703
+          ],
+          [
+            -77.610425,
+            43.12782
+          ],
+          [
+            -77.61049,
+            43.127912
+          ],
+          [
+            -77.610508,
+            43.127984
+          ],
+          [
+            -77.610496,
+            43.128076
+          ],
+          [
+            -77.610333,
+            43.128211
+          ],
+          [
+            -77.610244,
+            43.128239
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:9c05cf75",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610244,
+            43.128239
+          ],
+          [
+            -77.610204,
+            43.128273
+          ],
+          [
+            -77.610184,
+            43.128339
+          ],
+          [
+            -77.610029,
+            43.128509
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:46db5791",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610029,
+            43.128509
+          ],
+          [
+            -77.610033,
+            43.128586
+          ],
+          [
+            -77.610085,
+            43.12865
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:c7c12f17",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.606624,
+            43.130185
+          ],
+          [
+            -77.606763,
+            43.129957
+          ],
+          [
+            -77.606846,
+            43.129787
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:44dcc402",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.606846,
+            43.129787
+          ],
+          [
+            -77.606928,
+            43.129739
+          ],
+          [
+            -77.607024,
+            43.129709
+          ],
+          [
+            -77.607349,
+            43.129715
+          ],
+          [
+            -77.60751,
+            43.129742
+          ],
+          [
+            -77.607661,
+            43.129741
+          ],
+          [
+            -77.607806,
+            43.129713
+          ],
+          [
+            -77.60786,
+            43.129687
+          ],
+          [
+            -77.607899,
+            43.129609
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:84330c88",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.607899,
+            43.129609
+          ],
+          [
+            -77.607989,
+            43.12955
+          ],
+          [
+            -77.607986,
+            43.129503
+          ],
+          [
+            -77.608028,
+            43.129425
+          ],
+          [
+            -77.608226,
+            43.129303
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:d084f4c8",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608226,
+            43.129303
+          ],
+          [
+            -77.608407,
+            43.129291
+          ],
+          [
+            -77.608533,
+            43.129243
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:baded5d2",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608533,
+            43.129243
+          ],
+          [
+            -77.608839,
+            43.129035
+          ],
+          [
+            -77.608957,
+            43.128992
+          ],
+          [
+            -77.609198,
+            43.128977
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:b898f77d",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609198,
+            43.128977
+          ],
+          [
+            -77.609411,
+            43.129024
+          ],
+          [
+            -77.609505,
+            43.129068
+          ],
+          [
+            -77.609552,
+            43.129101
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:f5dcc787",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609552,
+            43.129101
+          ],
+          [
+            -77.60954,
+            43.129185
+          ],
+          [
+            -77.60956,
+            43.129239
+          ],
+          [
+            -77.609629,
+            43.129274
+          ],
+          [
+            -77.609804,
+            43.129311
+          ],
+          [
+            -77.609828,
+            43.129358
+          ],
+          [
+            -77.609807,
+            43.129406
+          ],
+          [
+            -77.609761,
+            43.129441
+          ],
+          [
+            -77.609706,
+            43.129456
+          ],
+          [
+            -77.609622,
+            43.129446
+          ],
+          [
+            -77.609535,
+            43.129401
+          ],
+          [
+            -77.609415,
+            43.129396
+          ],
+          [
+            -77.609353,
+            43.129418
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:be2a51eb",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610558,
+            43.129578
+          ],
+          [
+            -77.610314,
+            43.129493
+          ],
+          [
+            -77.610155,
+            43.129495
+          ],
+          [
+            -77.610001,
+            43.129542
+          ],
+          [
+            -77.609883,
+            43.129607
+          ],
+          [
+            -77.609751,
+            43.129647
+          ],
+          [
+            -77.609622,
+            43.129626
+          ],
+          [
+            -77.609511,
+            43.129582
+          ],
+          [
+            -77.60934,
+            43.129462
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:6fa7c24d",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60934,
+            43.129462
+          ],
+          [
+            -77.609229,
+            43.12946
+          ],
+          [
+            -77.609117,
+            43.129593
+          ],
+          [
+            -77.609026,
+            43.129601
+          ],
+          [
+            -77.608893,
+            43.129552
+          ],
+          [
+            -77.608869,
+            43.12948
+          ],
+          [
+            -77.608782,
+            43.129389
+          ],
+          [
+            -77.608669,
+            43.129423
+          ],
+          [
+            -77.6086,
+            43.129415
+          ],
+          [
+            -77.608535,
+            43.129354
+          ],
+          [
+            -77.608533,
+            43.129243
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:b031ef90",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608533,
+            43.129243
+          ],
+          [
+            -77.608443,
+            43.128898
+          ],
+          [
+            -77.608365,
+            43.128813
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:1e1f8a6d",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608365,
+            43.128813
+          ],
+          [
+            -77.608363,
+            43.1287
+          ],
+          [
+            -77.608542,
+            43.128576
+          ],
+          [
+            -77.608715,
+            43.12851
+          ],
+          [
+            -77.608951,
+            43.128475
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:22746ab9",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.608951,
+            43.128475
+          ],
+          [
+            -77.609092,
+            43.128335
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:0d839b82",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.609092,
+            43.128335
+          ],
+          [
+            -77.609209,
+            43.128191
+          ],
+          [
+            -77.609366,
+            43.128067
+          ],
+          [
+            -77.609389,
+            43.128007
+          ],
+          [
+            -77.60938,
+            43.127814
+          ],
+          [
+            -77.609457,
+            43.127723
+          ],
+          [
+            -77.60971,
+            43.127584
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:d2dedfe5",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60971,
+            43.127584
+          ],
+          [
+            -77.60986,
+            43.127443
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:3b2865c7",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60986,
+            43.127443
+          ],
+          [
+            -77.610194,
+            43.127302
+          ],
+          [
+            -77.610274,
+            43.1273
+          ],
+          [
+            -77.610797,
+            43.127408
+          ],
+          [
+            -77.610961,
+            43.127431
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:c5e8b8c0",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60131,
+            43.130161
+          ],
+          [
+            -77.601319,
+            43.13023
+          ],
+          [
+            -77.601233,
+            43.130304
+          ],
+          [
+            -77.601197,
+            43.130393
+          ],
+          [
+            -77.601225,
+            43.130505
+          ],
+          [
+            -77.601304,
+            43.130612
+          ],
+          [
+            -77.601438,
+            43.130647
+          ],
+          [
+            -77.601937,
+            43.130654
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:f79a8c0b",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.601937,
+            43.130654
+          ],
+          [
+            -77.602477,
+            43.13048
+          ],
+          [
+            -77.602592,
+            43.130472
+          ],
+          [
+            -77.602881,
+            43.130611
+          ],
+          [
+            -77.603045,
+            43.130645
+          ],
+          [
+            -77.603177,
+            43.130621
+          ],
+          [
+            -77.603255,
+            43.13055
+          ],
+          [
+            -77.603351,
+            43.13048
+          ],
+          [
+            -77.603485,
+            43.13042
+          ],
+          [
+            -77.603737,
+            43.130354
+          ],
+          [
+            -77.60392,
+            43.130361
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:53860e2b",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60392,
+            43.130361
+          ],
+          [
+            -77.604663,
+            43.130092
+          ],
+          [
+            -77.605253,
+            43.12996
+          ],
+          [
+            -77.605466,
+            43.129946
+          ],
+          [
+            -77.605692,
+            43.129957
+          ],
+          [
+            -77.606273,
+            43.130069
+          ],
+          [
+            -77.606624,
+            43.130185
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:b9333e78",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.606624,
+            43.130185
+          ],
+          [
+            -77.606722,
+            43.130235
+          ],
+          [
+            -77.606878,
+            43.130344
+          ],
+          [
+            -77.607,
+            43.130453
+          ],
+          [
+            -77.607091,
+            43.130575
+          ],
+          [
+            -77.607166,
+            43.130706
+          ],
+          [
+            -77.607278,
+            43.131149
+          ],
+          [
+            -77.607326,
+            43.131249
+          ],
+          [
+            -77.607405,
+            43.131343
+          ],
+          [
+            -77.607464,
+            43.131449
+          ],
+          [
+            -77.607493,
+            43.131539
+          ],
+          [
+            -77.607495,
+            43.131631
+          ],
+          [
+            -77.607478,
+            43.131796
+          ],
+          [
+            -77.607477,
+            43.131913
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:ae6f661c",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60934,
+            43.129462
+          ],
+          [
+            -77.609353,
+            43.129418
+          ],
+          [
+            -77.609353,
+            43.129418
+          ],
+          [
+            -77.609318,
+            43.129384
+          ],
+          [
+            -77.609314,
+            43.129333
+          ],
+          [
+            -77.609314,
+            43.129333
+          ],
+          [
+            -77.609271,
+            43.129202
+          ],
+          [
+            -77.609252,
+            43.12913
+          ],
+          [
+            -77.609252,
+            43.12913
+          ],
+          [
+            -77.609198,
+            43.128977
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:e022fdda",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60986,
+            43.127443
+          ],
+          [
+            -77.609616,
+            43.127326
+          ],
+          [
+            -77.609362,
+            43.127242
+          ],
+          [
+            -77.609362,
+            43.127242
+          ],
+          [
+            -77.609233,
+            43.127195
+          ],
+          [
+            -77.609004,
+            43.127091
+          ],
+          [
+            -77.608929,
+            43.126996
+          ],
+          [
+            -77.608915,
+            43.126946
+          ],
+          [
+            -77.608929,
+            43.126869
+          ],
+          [
+            -77.609682,
+            43.125415
+          ],
+          [
+            -77.609698,
+            43.125297
+          ],
+          [
+            -77.609683,
+            43.125032
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:a2b904c2",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60223,
+            43.130016
+          ],
+          [
+            -77.60224,
+            43.130079
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-highland-unnamed-trails:c8e740a3",
+        "trailsroc-trailIDs": "trail-highland-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.606856,
+            43.129765
+          ],
+          [
+            -77.606673,
+            43.129666
+          ],
+          [
+            -77.606523,
+            43.129554
+          ],
+          [
+            -77.606315,
+            43.129489
+          ],
+          [
+            -77.606015,
+            43.129481
+          ],
+          [
+            -77.605604,
+            43.129568
+          ],
+          [
+            -77.605464,
+            43.12957
+          ],
+          [
+            -77.604673,
+            43.129723
+          ],
+          [
+            -77.60429,
+            43.129879
+          ],
+          [
+            -77.603365,
+            43.130023
+          ],
+          [
+            -77.603159,
+            43.130013
+          ],
+          [
+            -77.602508,
+            43.130058
+          ],
+          [
+            -77.602428,
+            43.130058
+          ],
+          [
+            -77.602346,
+            43.13008
+          ],
+          [
+            -77.602308,
+            43.130073
+          ],
+          [
+            -77.602174,
+            43.130089
+          ],
+          [
+            -77.602148,
+            43.130118
+          ],
+          [
+            -77.602154,
+            43.130138
+          ],
+          [
+            -77.602193,
+            43.130156
+          ],
+          [
+            -77.602328,
+            43.130139
+          ],
+          [
+            -77.602355,
+            43.13011
+          ],
+          [
+            -77.602345,
+            43.13008
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-highland:border1",
+        "trailsroc-parkID": "park-highland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.61368,
+              43.134963
+            ],
+            [
+              -77.607844,
+              43.135185
+            ],
+            [
+              -77.608139,
+              43.133193
+            ],
+            [
+              -77.606202,
+              43.132971
+            ],
+            [
+              -77.605712,
+              43.13385
+            ],
+            [
+              -77.605062,
+              43.133628
+            ],
+            [
+              -77.602842,
+              43.133707
+            ],
+            [
+              -77.602313,
+              43.133577
+            ],
+            [
+              -77.602218,
+              43.133716
+            ],
+            [
+              -77.601385,
+              43.133535
+            ],
+            [
+              -77.601057,
+              43.133563
+            ],
+            [
+              -77.600147,
+              43.133344
+            ],
+            [
+              -77.599782,
+              43.133186
+            ],
+            [
+              -77.600022,
+              43.13258
+            ],
+            [
+              -77.600237,
+              43.132294
+            ],
+            [
+              -77.60054,
+              43.13194
+            ],
+            [
+              -77.60069,
+              43.131602
+            ],
+            [
+              -77.600708,
+              43.131282
+            ],
+            [
+              -77.600715,
+              43.130837
+            ],
+            [
+              -77.600931,
+              43.130406
+            ],
+            [
+              -77.601215,
+              43.130057
+            ],
+            [
+              -77.600451,
+              43.130171
+            ],
+            [
+              -77.602837,
+              43.125342
+            ],
+            [
+              -77.604749,
+              43.125231
+            ],
+            [
+              -77.602283,
+              43.129977
+            ],
+            [
+              -77.603059,
+              43.12985
+            ],
+            [
+              -77.604978,
+              43.129298
+            ],
+            [
+              -77.605602,
+              43.129159
+            ],
+            [
+              -77.606198,
+              43.129111
+            ],
+            [
+              -77.606757,
+              43.129215
+            ],
+            [
+              -77.608941,
+              43.125065
+            ],
+            [
+              -77.609971,
+              43.125015
+            ],
+            [
+              -77.609601,
+              43.125652
+            ],
+            [
+              -77.610723,
+              43.126052
+            ],
+            [
+              -77.610227,
+              43.126805
+            ],
+            [
+              -77.612508,
+              43.127649
+            ],
+            [
+              -77.610876,
+              43.130134
+            ],
+            [
+              -77.608367,
+              43.129803
+            ],
+            [
+              -77.607312,
+              43.130131
+            ],
+            [
+              -77.607797,
+              43.130717
+            ],
+            [
+              -77.608708,
+              43.130847
+            ],
+            [
+              -77.608792,
+              43.131902
+            ],
+            [
+              -77.61067,
+              43.131845
+            ],
+            [
+              -77.610732,
+              43.132531
+            ],
+            [
+              -77.611465,
+              43.132537
+            ],
+            [
+              -77.611527,
+              43.132972
+            ],
+            [
+              -77.613198,
+              43.132848
+            ],
+            [
+              -77.61368,
+              43.134963
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:highland:6265dfdc",
+        "trailsroc-name": "Parking",
+        "trailsroc-shortName": "Parking",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.61108040809631,
+          43.12866862149317
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:highland:7eb12f77",
+        "trailsroc-name": "Parking",
+        "trailsroc-shortName": "Parking",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.61130571365356,
+          43.12747843131461
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:highland:75224146",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60786175727844,
+          43.12938898850862
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:highland:7f6e1ffd",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6037847995758,
+          43.13225471240549
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:67ec6221",
+        "trailsroc-name": "Display Garden",
+        "trailsroc-shortName": "Display Garden",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.61172413825989,
+          43.13244262403549
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:759726d1",
+        "trailsroc-name": "Highland Bowl",
+        "trailsroc-shortName": "Highland Bowl",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60996460914612,
+          43.13288108226022
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:highland:c03b18b6",
+        "trailsroc-name": "Skating Shelter",
+        "trailsroc-shortName": "Skating Shelter",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60897755622864,
+          43.134446978830574
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:a3ba5dd7",
+        "trailsroc-name": "Lamberton Conservatory",
+        "trailsroc-shortName": "Lamberton Conservatory",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60795831680298,
+          43.13219990473797
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:c176ea42",
+        "trailsroc-name": "Evergreens",
+        "trailsroc-shortName": "Evergreens",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60181069374084,
+          43.132975037185105
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:67a16fd5",
+        "trailsroc-name": "Rhododendrons/Azaleas",
+        "trailsroc-shortName": "Rhododendrons/Azaleas",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60236859321594,
+          43.132403475826855
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:ea18e75b",
+        "trailsroc-name": "Gatehouse",
+        "trailsroc-shortName": "Gatehouse",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60398864746094,
+          43.13183973884385
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:f182f050",
+        "trailsroc-name": "Gatehouse",
+        "trailsroc-shortName": "Gatehouse",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60663866996765,
+          43.13172229298502
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:18797464",
+        "trailsroc-name": "Pansy Bed",
+        "trailsroc-shortName": "Pansy Bed",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60222911834717,
+          43.130125006913886
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:dc5221e6",
+        "trailsroc-name": "Lilacs",
+        "trailsroc-shortName": "Lilacs",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60527610778809,
+          43.12967040031793
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:e496d949",
+        "trailsroc-name": "Magnolias",
+        "trailsroc-shortName": "Magnolias",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60699272155762,
+          43.13023462591858
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:highland:0f79cc8c",
+        "trailsroc-name": "County Parks Administration",
+        "trailsroc-shortName": "County Parks Administration",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60854840278625,
+          43.13157352790674
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:highland:c21e87a8",
+        "trailsroc-name": "Lilacs",
+        "trailsroc-shortName": "Lilacs",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60152101516724,
+          43.130633950631434
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-admin",
+        "trailsroc-id": "point-admin:highland:cc800c98",
+        "trailsroc-name": "Park Office",
+        "trailsroc-shortName": "Park Office",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6018750667572,
+          43.12874692266669
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:9724f365",
+        "trailsroc-name": "Cornell Cooperative Ext.",
+        "trailsroc-shortName": "Cornell Cooperative Ext.",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.607421875,
+          43.12883305384178
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:de72103f",
+        "trailsroc-name": "Lilac Arches",
+        "trailsroc-shortName": "Lilac Arches",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60935306549072,
+          43.12925587785128
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:0a3c64ad",
+        "trailsroc-name": "Worker’s Rights Memorial",
+        "trailsroc-shortName": "Worker’s Rights Memorial",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60860204696655,
+          43.12808918969379
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:52eca23d",
+        "trailsroc-name": "Victim’s Rights Memorial",
+        "trailsroc-shortName": "Victim’s Rights Memorial",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60926723480225,
+          43.12746277076316
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:7f1fa61f",
+        "trailsroc-name": "AIDS Remembrance Garden",
+        "trailsroc-shortName": "AIDS Remembrance Garden",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6089346408844,
+          43.127956076207795
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:highland:647f2c7b",
+        "trailsroc-name": "Vietnam Veterans Memorial",
+        "trailsroc-shortName": "Vietnam Veterans Memorial",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.61012554168701,
+          43.12812051047194
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:highland:85adb4b1",
+        "trailsroc-name": "Ball Field",
+        "trailsroc-shortName": "Ball Field",
+        "trailsroc-parentIDs": "park-highland",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60931015014648,
+          43.13480712937032
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

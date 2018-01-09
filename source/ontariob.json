@@ -1,0 +1,39 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-ontariob": {
+      "name": "Ontario Beach Park",
+      "mainPin": [
+        43.25821,
+        -77.60631
+      ],
+      "SW": [
+        43.25367,
+        -77.61635
+      ],
+      "NE": [
+        43.26117,
+        -77.60317
+      ],
+      "url": "http://www.monroecounty.gov/parks-ontariobeach.php"
+    }
+  },
+  "trails": {
+    "trail-ontariob-paths": {
+      "url": "http://www.monroecounty.gov/parks-ontariobeach.php",
+      "name": "Boardwalk/Pier/Riverwalk",
+      "color": "red",
+      "SW": [
+        43.254135,
+        -77.610195
+      ],
+      "NE": [
+        43.263972,
+        -77.59885
+      ],
+      "parentID": "park-ontariob"
+    }
+  }
+}

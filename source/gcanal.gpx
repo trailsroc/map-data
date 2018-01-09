@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T13:38:11.646Z</time>
+    </metadata>
+    <wpt lon="-77.733990" lat="43.191426">
+        <name>point-lodge:gcanal:e94fc88e</name>
+        <desc>{"type":"point-lodge","name":"Rotary Lodge","parentIDs":["park-gcanal"],"shortName":"Rotary"}</desc>
+    </wpt>
+    <wpt lon="-77.737895" lat="43.199490">
+        <name>point-lodge:gcanal:fd231fb1</name>
+        <desc>{"type":"point-lodge","name":"Millennium Lodge","parentIDs":["park-gcanal"],"shortName":"Millennium"}</desc>
+    </wpt>
+    <wpt lon="-77.737675" lat="43.191794">
+        <name>point-shelter:gcanal:528636b2</name>
+        <desc>{"type":"point-shelter","name":"Towpath Shelter","parentIDs":["park-gcanal"],"shortName":"Towpath"}</desc>
+    </wpt>
+    <wpt lon="-77.739773" lat="43.190503">
+        <name>point-lodge:gcanal:0dfbe6be</name>
+        <desc>{"type":"point-lodge","name":"Thomas X. Grasso Lodge","parentIDs":["park-gcanal"],"shortName":"Thomas X. Grasso"}</desc>
+    </wpt>
+    <wpt lon="-77.737541" lat="43.198849">
+        <name>point-parking:gcanal:e14aedc3</name>
+        <desc>{"type":"point-parking","name":"Parking (Millennium Lodge)","parentIDs":["park-gcanal","trail-gcanal-west"],"shortName":"Millennium Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.736050" lat="43.197316">
+        <name>point-parking:gcanal:519bd3ca</name>
+        <desc>{"type":"point-parking","name":"Parking (Center)","parentIDs":["park-gcanal","trail-gcanal-deer-run"],"shortName":"Center"}</desc>
+    </wpt>
+    <wpt lon="-77.733212" lat="43.196389">
+        <name>point-parking:gcanal:f0b52314</name>
+        <desc>{"type":"point-parking","name":"Parking (Main Entrance)","parentIDs":["park-gcanal","trail-gcanal-farm-artifact"],"shortName":"Main Entrance"}</desc>
+    </wpt>
+    <wpt lon="-77.737182" lat="43.191817">
+        <name>point-parking:gcanal:74ac102f</name>
+        <desc>{"type":"point-parking","name":"Parking (Towpath Shelter)","parentIDs":["park-gcanal"],"shortName":"Towpath Shelter"}</desc>
+    </wpt>
+    <wpt lon="-77.733539" lat="43.191551">
+        <name>point-parking:gcanal:3817b73f</name>
+        <desc>{"type":"point-parking","name":"Parking (Rotary Lodge)","parentIDs":["park-gcanal"],"shortName":"Rotary Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.735374" lat="43.191274">
+        <name>point-parking:gcanal:cdc7d6e5</name>
+        <desc>{"type":"point-parking","name":"Parking (Playground)","parentIDs":["park-gcanal"],"shortName":"Playground"}</desc>
+    </wpt>
+    <wpt lon="-77.736345" lat="43.191297">
+        <name>point-parking:gcanal:3b94a595</name>
+        <desc>{"type":"point-parking","name":"Parking (Greece Canal Dog Park)","parentIDs":["park-gcanal","trail-ecanal-main","tsystem-ecanal"],"shortName":"Greece Canal Dog Park"}</desc>
+    </wpt>
+    <wpt lon="-77.739151" lat="43.190405">
+        <name>point-parking:gcanal:135e9c0e</name>
+        <desc>{"type":"point-parking","name":"Parking (Grasso Lodge)","parentIDs":["park-gcanal"],"shortName":"Grasso Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.736919" lat="43.191019">
+        <name>point-restroom:gcanal:d01102a5</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.738086" lat="43.199418">
+        <name>point-restroom:gcanal:228d3605</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.736956" lat="43.199621">
+        <name>point-sports:gcanal:48059c36</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.734803" lat="43.191293">
+        <name>point-sports:gcanal:fde29665</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.739451" lat="43.199373">
+        <name>point-sports:gcanal:e12644db</name>
+        <desc>{"type":"point-sports","name":"Baseball Field","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.735943" lat="43.198864">
+        <name>point-sports:gcanal:311be249</name>
+        <desc>{"type":"point-sports","name":"Soccer Field","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.738507" lat="43.199475">
+        <name>point-sports:gcanal:f7085fa2</name>
+        <desc>{"type":"point-sports","name":"Tennis Court","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.737777" lat="43.189858">
+        <name>point-poi:gcanal:6953dee5</name>
+        <desc>{"type":"point-poi","name":"Dock","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.738689" lat="43.193429">
+        <name>point-scenic:gcanal:e03dcc62</name>
+        <desc>{"type":"point-scenic","name":"Scenic Point","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.737273" lat="43.189987">
+        <name>point-scenic:gcanal:733640c9</name>
+        <desc>{"type":"point-scenic","name":"Scenic Point","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <wpt lon="-77.735986" lat="43.190636">
+        <name>point-poi:gcanal:06692c62</name>
+        <desc>{"type":"point-poi","name":"Dog Park","parentIDs":["park-gcanal"]}</desc>
+    </wpt>
+    <rte>
+        <name>seg:trail-gcanal-unnamed:5066629c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.740900" lat="43.190376"/>
+        <rtept lon="-77.741401" lat="43.190302"/>
+        <rtept lon="-77.741966" lat="43.190238"/>
+        <rtept lon="-77.742428" lat="43.190182"/>
+    </rte>
+    <rte>
+        <name>seg:trail-gcanal-unnamed:0da888e1</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.742428" lat="43.190182"/>
+        <rtept lon="-77.742429" lat="43.189992"/>
+        <rtept lon="-77.742438" lat="43.189785"/>
+        <rtept lon="-77.742465" lat="43.189605"/>
+        <rtept lon="-77.742218" lat="43.189574"/>
+        <rtept lon="-77.741942" lat="43.189553"/>
+        <rtept lon="-77.741875" lat="43.189338"/>
+    </rte>
+    <rte>
+        <name>seg:trail-gcanal-unnamed:c315151f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.737922" lat="43.189883"/>
+        <rtept lon="-77.737932" lat="43.189982"/>
+        <rtept lon="-77.737570" lat="43.190002"/>
+        <rtept lon="-77.737370" lat="43.190098"/>
+        <rtept lon="-77.737328" lat="43.190215"/>
+        <rtept lon="-77.737443" lat="43.190275"/>
+        <rtept lon="-77.737667" lat="43.190160"/>
+        <rtept lon="-77.737782" lat="43.190180"/>
+        <rtept lon="-77.737830" lat="43.190247"/>
+        <rtept lon="-77.737768" lat="43.190356"/>
+        <rtept lon="-77.737430" lat="43.190437"/>
+        <rtept lon="-77.737320" lat="43.190515"/>
+        <rtept lon="-77.737173" lat="43.190734"/>
+        <rtept lon="-77.737046" lat="43.190855"/>
+        <rtept lon="-77.736879" lat="43.190941"/>
+        <rtept lon="-77.736713" lat="43.191083"/>
+        <rtept lon="-77.736535" lat="43.191252"/>
+        <rtept lon="-77.736450" lat="43.191359"/>
+    </rte>
+    <trk>
+        <name>border:park-gcanal</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.753231" lat="43.193206"/>
+            <trkpt lon="-77.752160" lat="43.193196"/>
+            <trkpt lon="-77.752167" lat="43.192392"/>
+            <trkpt lon="-77.753222" lat="43.192335"/>
+            <trkpt lon="-77.753256" lat="43.190566"/>
+            <trkpt lon="-77.751811" lat="43.190540"/>
+            <trkpt lon="-77.751782" lat="43.189386"/>
+            <trkpt lon="-77.753173" lat="43.189331"/>
+            <trkpt lon="-77.752862" lat="43.187715"/>
+            <trkpt lon="-77.745347" lat="43.188655"/>
+            <trkpt lon="-77.736999" lat="43.189765"/>
+            <trkpt lon="-77.733220" lat="43.190694"/>
+            <trkpt lon="-77.733187" lat="43.191135"/>
+            <trkpt lon="-77.733056" lat="43.191156"/>
+            <trkpt lon="-77.733055" lat="43.192330"/>
+            <trkpt lon="-77.733813" lat="43.192337"/>
+            <trkpt lon="-77.733796" lat="43.194297"/>
+            <trkpt lon="-77.732987" lat="43.194285"/>
+            <trkpt lon="-77.732955" lat="43.196135"/>
+            <trkpt lon="-77.732117" lat="43.196130"/>
+            <trkpt lon="-77.732124" lat="43.197468"/>
+            <trkpt lon="-77.733620" lat="43.197439"/>
+            <trkpt lon="-77.733630" lat="43.198244"/>
+            <trkpt lon="-77.733229" lat="43.198256"/>
+            <trkpt lon="-77.733160" lat="43.201078"/>
+            <trkpt lon="-77.733736" lat="43.201073"/>
+            <trkpt lon="-77.733744" lat="43.201854"/>
+            <trkpt lon="-77.742267" lat="43.201848"/>
+            <trkpt lon="-77.742227" lat="43.206074"/>
+            <trkpt lon="-77.731940" lat="43.206062"/>
+            <trkpt lon="-77.731937" lat="43.207809"/>
+            <trkpt lon="-77.737812" lat="43.207856"/>
+            <trkpt lon="-77.737780" lat="43.210313"/>
+            <trkpt lon="-77.740173" lat="43.210274"/>
+            <trkpt lon="-77.742183" lat="43.210473"/>
+            <trkpt lon="-77.742189" lat="43.207142"/>
+            <trkpt lon="-77.748450" lat="43.207154"/>
+            <trkpt lon="-77.748447" lat="43.206051"/>
+            <trkpt lon="-77.751368" lat="43.206040"/>
+            <trkpt lon="-77.751502" lat="43.206001"/>
+            <trkpt lon="-77.752147" lat="43.205996"/>
+            <trkpt lon="-77.752169" lat="43.204375"/>
+            <trkpt lon="-77.753033" lat="43.204376"/>
+            <trkpt lon="-77.753095" lat="43.202062"/>
+            <trkpt lon="-77.752097" lat="43.202079"/>
+            <trkpt lon="-77.752101" lat="43.200574"/>
+            <trkpt lon="-77.749913" lat="43.200564"/>
+            <trkpt lon="-77.749926" lat="43.199005"/>
+            <trkpt lon="-77.753136" lat="43.199022"/>
+            <trkpt lon="-77.753159" lat="43.198049"/>
+            <trkpt lon="-77.742124" lat="43.197984"/>
+            <trkpt lon="-77.742330" lat="43.194548"/>
+            <trkpt lon="-77.753258" lat="43.194632"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-deer-run:84523c60</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.737729" lat="43.197528"/>
+            <trkpt lon="-77.737950" lat="43.197632"/>
+            <trkpt lon="-77.738199" lat="43.197671"/>
+            <trkpt lon="-77.738824" lat="43.197674"/>
+            <trkpt lon="-77.739776" lat="43.197813"/>
+            <trkpt lon="-77.740483" lat="43.197882"/>
+            <trkpt lon="-77.740778" lat="43.197986"/>
+            <trkpt lon="-77.740915" lat="43.198144"/>
+            <trkpt lon="-77.741178" lat="43.198221"/>
+            <trkpt lon="-77.741467" lat="43.198230"/>
+            <trkpt lon="-77.742110" lat="43.198224"/>
+            <trkpt lon="-77.742214" lat="43.197397"/>
+            <trkpt lon="-77.742120" lat="43.197113"/>
+            <trkpt lon="-77.741912" lat="43.196915"/>
+            <trkpt lon="-77.742051" lat="43.196751"/>
+            <trkpt lon="-77.742344" lat="43.196505"/>
+            <trkpt lon="-77.742370" lat="43.196205"/>
+            <trkpt lon="-77.742244" lat="43.196018"/>
+            <trkpt lon="-77.742114" lat="43.195935"/>
+            <trkpt lon="-77.741894" lat="43.195657"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-deer-run:feab97dc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.741894" lat="43.195657"/>
+            <trkpt lon="-77.741703" lat="43.195133"/>
+            <trkpt lon="-77.741591" lat="43.194997"/>
+            <trkpt lon="-77.741413" lat="43.194950"/>
+            <trkpt lon="-77.741408" lat="43.194677"/>
+            <trkpt lon="-77.741531" lat="43.194652"/>
+            <trkpt lon="-77.741508" lat="43.194573"/>
+            <trkpt lon="-77.741260" lat="43.194445"/>
+            <trkpt lon="-77.740960" lat="43.194583"/>
+            <trkpt lon="-77.740622" lat="43.194547"/>
+            <trkpt lon="-77.739196" lat="43.194421"/>
+            <trkpt lon="-77.739065" lat="43.194288"/>
+            <trkpt lon="-77.739028" lat="43.194068"/>
+            <trkpt lon="-77.738893" lat="43.193817"/>
+            <trkpt lon="-77.739023" lat="43.193445"/>
+            <trkpt lon="-77.738974" lat="43.193276"/>
+            <trkpt lon="-77.738881" lat="43.193235"/>
+            <trkpt lon="-77.738703" lat="43.193248"/>
+            <trkpt lon="-77.738612" lat="43.193290"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-deer-run:861f7229</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.738612" lat="43.193290"/>
+            <trkpt lon="-77.738519" lat="43.193557"/>
+            <trkpt lon="-77.738537" lat="43.193982"/>
+            <trkpt lon="-77.738344" lat="43.194130"/>
+            <trkpt lon="-77.738287" lat="43.194307"/>
+            <trkpt lon="-77.738304" lat="43.194580"/>
+            <trkpt lon="-77.738261" lat="43.194809"/>
+            <trkpt lon="-77.738170" lat="43.194916"/>
+            <trkpt lon="-77.737877" lat="43.195562"/>
+            <trkpt lon="-77.737868" lat="43.196250"/>
+            <trkpt lon="-77.737835" lat="43.196881"/>
+            <trkpt lon="-77.737794" lat="43.197353"/>
+            <trkpt lon="-77.737727" lat="43.197526"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-deer-run:4fb7a35c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.737727" lat="43.197526"/>
+            <trkpt lon="-77.737585" lat="43.197543"/>
+            <trkpt lon="-77.737408" lat="43.197527"/>
+            <trkpt lon="-77.737200" lat="43.197471"/>
+            <trkpt lon="-77.737090" lat="43.197445"/>
+            <trkpt lon="-77.736709" lat="43.197487"/>
+            <trkpt lon="-77.736263" lat="43.197427"/>
+            <trkpt lon="-77.736039" lat="43.197345"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-farm-artifact:789bee1e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.732296" lat="43.196472"/>
+            <trkpt lon="-77.732988" lat="43.196704"/>
+            <trkpt lon="-77.733831" lat="43.197009"/>
+            <trkpt lon="-77.734137" lat="43.197425"/>
+            <trkpt lon="-77.734316" lat="43.197728"/>
+            <trkpt lon="-77.734122" lat="43.198250"/>
+            <trkpt lon="-77.734150" lat="43.198668"/>
+            <trkpt lon="-77.734399" lat="43.199481"/>
+            <trkpt lon="-77.734391" lat="43.199889"/>
+            <trkpt lon="-77.734186" lat="43.200108"/>
+            <trkpt lon="-77.734381" lat="43.200289"/>
+            <trkpt lon="-77.734553" lat="43.200313"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-unnamed:565afc81</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.746215" lat="43.202303"/>
+            <trkpt lon="-77.746662" lat="43.202893"/>
+            <trkpt lon="-77.748366" lat="43.203086"/>
+            <trkpt lon="-77.751086" lat="43.203007"/>
+            <trkpt lon="-77.753083" lat="43.203037"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-unnamed:b6bff4c5</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.736930" lat="43.193234"/>
+            <trkpt lon="-77.737546" lat="43.193113"/>
+            <trkpt lon="-77.738168" lat="43.193140"/>
+            <trkpt lon="-77.738598" lat="43.193281"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-unnamed:337af5c0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.742419" lat="43.190176"/>
+            <trkpt lon="-77.742402" lat="43.191277"/>
+            <trkpt lon="-77.742385" lat="43.191952"/>
+            <trkpt lon="-77.742514" lat="43.192217"/>
+            <trkpt lon="-77.742738" lat="43.192344"/>
+            <trkpt lon="-77.743033" lat="43.192362"/>
+            <trkpt lon="-77.743291" lat="43.192322"/>
+            <trkpt lon="-77.743542" lat="43.192391"/>
+            <trkpt lon="-77.743588" lat="43.192557"/>
+            <trkpt lon="-77.743605" lat="43.192788"/>
+            <trkpt lon="-77.743452" lat="43.193016"/>
+            <trkpt lon="-77.742933" lat="43.193885"/>
+            <trkpt lon="-77.742703" lat="43.194294"/>
+            <trkpt lon="-77.742756" lat="43.194418"/>
+            <trkpt lon="-77.742817" lat="43.194473"/>
+            <trkpt lon="-77.742716" lat="43.194627"/>
+            <trkpt lon="-77.742514" lat="43.195150"/>
+            <trkpt lon="-77.742385" lat="43.195509"/>
+            <trkpt lon="-77.741970" lat="43.195697"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-unnamed:ea4655a5</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.734552" lat="43.200317"/>
+            <trkpt lon="-77.734541" lat="43.200447"/>
+            <trkpt lon="-77.734667" lat="43.200542"/>
+            <trkpt lon="-77.737903" lat="43.200546"/>
+            <trkpt lon="-77.738008" lat="43.200467"/>
+            <trkpt lon="-77.738008" lat="43.200373"/>
+            <trkpt lon="-77.737933" lat="43.200253"/>
+            <trkpt lon="-77.737941" lat="43.200104"/>
+            <trkpt lon="-77.737924" lat="43.199937"/>
+            <trkpt lon="-77.737901" lat="43.199836"/>
+            <trkpt lon="-77.737880" lat="43.199728"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-west:657cdc84</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.738348" lat="43.198822"/>
+            <trkpt lon="-77.739946" lat="43.198778"/>
+            <trkpt lon="-77.740358" lat="43.198927"/>
+            <trkpt lon="-77.741721" lat="43.199157"/>
+            <trkpt lon="-77.743552" lat="43.199157"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-west:75ae68bf</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.743552" lat="43.199157"/>
+            <trkpt lon="-77.744204" lat="43.199157"/>
+            <trkpt lon="-77.744670" lat="43.199524"/>
+            <trkpt lon="-77.745382" lat="43.200392"/>
+            <trkpt lon="-77.745526" lat="43.201144"/>
+            <trkpt lon="-77.745701" lat="43.201589"/>
+            <trkpt lon="-77.746215" lat="43.202303"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gcanal-west:37907204</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.743607" lat="43.199168"/>
+            <trkpt lon="-77.743577" lat="43.200737"/>
+            <trkpt lon="-77.743985" lat="43.202043"/>
+            <trkpt lon="-77.745281" lat="43.202260"/>
+            <trkpt lon="-77.746202" lat="43.202309"/>
+        </trkseg>
+    </trk>
+</gpx>

@@ -1,0 +1,275 @@
+{
+  "version": 5,
+  "trailSystems": {
+    "tsystem-fowt-hojack": {
+      "name": "Hojack Trail System",
+      "mainPin": [
+        43.228803,
+        -77.463891
+      ],
+      "directionsCoordinate": [
+        43.221044,
+        -77.444172
+      ],
+      "SW": [
+        43.217883,
+        -77.502018
+      ],
+      "NE": [
+        43.24749,
+        -77.419303
+      ],
+      "url": "http://www.webstertrails.org/hojack/hojack.php",
+      "keywords": "rail",
+      "isSearchable": true
+    },
+    "tsystem-fowt-rt104": {
+      "name": "Route 104 Bike Path",
+      "mainPin": [
+        43.21441,
+        -77.467814
+      ],
+      "directionsCoordinate": [
+        43.215891,
+        -77.439351
+      ],
+      "style": "minorPark",
+      "SW": [
+        43.213878,
+        -77.515428
+      ],
+      "NE": [
+        43.219702,
+        -77.400315
+      ],
+      "keywords": "rail",
+      "isSearchable": true
+    }
+  },
+  "parks": {
+    "park-fowt-finn": {
+      "name": "Finn Park",
+      "mainPin": [
+        43.216373,
+        -77.494022
+      ],
+      "directionsCoordinate": [
+        43.217688,
+        -77.501326
+      ],
+      "url": "http://www.webstertrails.org/finn/finn.php",
+      "url2": "http://www.webstertrails.org/finn/finn.php",
+      "SW": [
+        43.215006,
+        -77.499533
+      ],
+      "NE": [
+        43.21796,
+        -77.49236
+      ],
+      "style": "minorPark",
+      "advisories": [
+        "websterHuntingAdvisorySmall"
+      ],
+      "isSearchable": false
+    },
+    "park-fmcp": {
+      "name": "Four Mile Creek Preserve",
+      "url": "http://www.webstertrails.org/fmcp/fmcp.php",
+      "directionsCoordinate": [
+        43.265097,
+        -77.419662
+      ],
+      "mainPin": [
+        43.265018,
+        -77.411832
+      ],
+      "SW": [
+        43.259795,
+        -77.420403
+      ],
+      "NE": [
+        43.267525,
+        -77.404186
+      ],
+      "style": "minorPark",
+      "advisories": [
+        "websterHuntingAdvisorySmall"
+      ],
+      "isSearchable": false
+    }
+  },
+  "trails": {
+    "trail-fowt-jungar-main": {
+      "name": "John Ungar Nature Trail",
+      "color": "blue",
+      "length": 0.35,
+      "isSearchable": true,
+      "isPrimary": false,
+      "url": "http://www.webstertrails.org/ungar/ungar.php",
+      "SW": [
+        43.235142,
+        -77.487732
+      ],
+      "NE": [
+        43.236586,
+        -77.486189
+      ],
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-finn-main": {
+      "name": "Finn Park Nature Trail",
+      "color": "red",
+      "isSearchable": true,
+      "length": 1.3,
+      "url": "http://www.webstertrails.org/finn/finn.php",
+      "SW": [
+        43.215006,
+        -77.499533
+      ],
+      "NE": [
+        43.21796,
+        -77.49236
+      ],
+      "parentID": "park-fowt-finn"
+    },
+    "trail-fowt-vosburg-main": {
+      "name": "Vosburg Hollow Nature Trail",
+      "color": "red",
+      "isSearchable": true,
+      "isPrimary": false,
+      "length": 0.35,
+      "url": "http://www.webstertrails.org/vosburg/vosburg.php",
+      "SW": [
+        43.239957,
+        -77.497033
+      ],
+      "NE": [
+        43.242128,
+        -77.4957
+      ],
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-chiyoda-loop": {
+      "name": "Chiyoda Trail Loop",
+      "color": "pink",
+      "isSearchable": true,
+      "isPrimary": false,
+      "length": 1.0,
+      "SW": [
+        43.22688,
+        -77.427981
+      ],
+      "NE": [
+        43.229992,
+        -77.420959
+      ],
+      "comments": "Paved",
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-chiyoda-connector": {
+      "name": "Chiyoda Trail Connector",
+      "color": "sky",
+      "isSearchable": true,
+      "isPrimary": false,
+      "length": 0.27,
+      "SW": [
+        43.225228,
+        -77.428534
+      ],
+      "NE": [
+        43.226876,
+        -77.424807
+      ],
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fmcp-blue": {
+      "name": "Four Mile Creek Trail",
+      "color": "blue",
+      "isSearchable": true,
+      "length": 0.75,
+      "url": "http://www.webstertrails.org/fmcp/fmcp.php",
+      "SW": [
+        43.264459,
+        -77.419321
+      ],
+      "NE": [
+        43.265625,
+        -77.413068
+      ],
+      "parentID": "park-fmcp"
+    },
+    "trail-fowt-hojack-main": {
+      "name": "Hojack Trail",
+      "isSearchable": true,
+      "isPrimary": true,
+      "color": "grass",
+      "length": 4.95,
+      "url": "http://www.webstertrails.org/hojack/hojack.php",
+      "SW": [
+        43.217883,
+        -77.502018
+      ],
+      "NE": [
+        43.24749,
+        -77.419303
+      ],
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-bird-sanctuary": {
+      "name": "Bird Sanctuary Trail",
+      "isSearchable": true,
+      "isPrimary": false,
+      "color": "dark_green",
+      "length": 0.8,
+      "url": "http://www.webstertrails.org/bird/bird.php",
+      "SW": [
+        43.219453,
+        -77.441243
+      ],
+      "NE": [
+        43.225844,
+        -77.428836
+      ],
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-nponds-loop": {
+      "name": "North Ponds Park Loop",
+      "isSearchable": true,
+      "isPrimary": false,
+      "color": "yellow",
+      "length": 1.0,
+      "SW": [
+        43.215848,
+        -77.44468
+      ],
+      "NE": [
+        43.220924,
+        -77.439484
+      ],
+      "parentID": "tsystem-fowt-hojack"
+    },
+    "trail-fowt-rt104-path": {
+      "name": "Route 104 Bike Path",
+      "isSearchable": true,
+      "isPrimary": true,
+      "color": "blue",
+      "length": 6.1,
+      "SW": [
+        43.213878,
+        -77.515428
+      ],
+      "NE": [
+        43.219702,
+        -77.400315
+      ],
+      "keywords": "rail",
+      "blazes": "none",
+      "style": "trailSystem",
+      "parentID": "tsystem-fowt-rt104"
+    }
+  }
+}

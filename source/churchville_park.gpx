@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-04T21:06:46.847Z</time>
+    </metadata>
+    <wpt lon="-77.898871" lat="43.114095">
+        <name>point-poi:churchville_park:43ff7589</name>
+        <desc>{"type":"point-poi","name":"Churchville Golf Course","allowsDirections":true,"visibilityConstraint":"parkBoundaries","url":"http://golftheparks.com/courses/Churchville.html","SW":[43.10449225779743,-77.91355848312378],"NE":[43.114925213108485,-77.88834571838379],"parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.894933" lat="43.105268">
+        <name>point-poi:churchville_park:c541dda3</name>
+        <desc>{"type":"point-poi","name":"Fishing","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.883142" lat="43.104978">
+        <name>point-poi:churchville_park:e4afd377</name>
+        <desc>{"type":"point-poi","name":"Fishing","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.894214" lat="43.105628">
+        <name>point-boatLaunch:churchville_park:221298d1</name>
+        <desc>{"type":"point-boatLaunch","name":"Boat Launch","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.887005" lat="43.113617">
+        <name>point-sports:churchville_park:a448283e</name>
+        <desc>{"type":"point-sports","name":"Soccer Field","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.882456" lat="43.113727">
+        <name>point-sports:churchville_park:0fe37b94</name>
+        <desc>{"type":"point-sports","name":"Soccer Field","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.883491" lat="43.112027">
+        <name>point-sports:churchville_park:ca4c4744</name>
+        <desc>{"type":"point-sports","name":"Softball Field 1","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.886999" lat="43.112713">
+        <name>point-sports:churchville_park:98cffb9b</name>
+        <desc>{"type":"point-sports","name":"Softball Field 2","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.882547" lat="43.112865">
+        <name>point-sports:churchville_park:97bae774</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.883743" lat="43.111111">
+        <name>point-sports:churchville_park:6d0acb90</name>
+        <desc>{"type":"point-sports","name":"Tennis Courts","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.886305" lat="43.110238">
+        <name>point-sports:churchville_park:e3e6284b</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.891076" lat="43.109703">
+        <name>point-sports:churchville_park:bff215c5</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.891953" lat="43.108920">
+        <name>point-sports:churchville_park:77b1323b</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.886232" lat="43.108675">
+        <name>point-sports:churchville_park:a353f333</name>
+        <desc>{"type":"point-sports","name":"Skating Rink","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.883732" lat="43.113093">
+        <name>point-lodge:churchville_park:dc040a33</name>
+        <desc>{"type":"point-lodge","name":"Cottonwood Lodge","parentIDs":["park-churchville"],"shortName":"Cottonwood"}</desc>
+    </wpt>
+    <wpt lon="-77.881485" lat="43.112642">
+        <name>point-lodge:churchville_park:12a4fbeb</name>
+        <desc>{"type":"point-lodge","name":"Pinetree Lodge","parentIDs":["park-churchville"],"shortName":"Pinetree"}</desc>
+    </wpt>
+    <wpt lon="-77.885878" lat="43.109913">
+        <name>point-lodge:churchville_park:f7bec07c</name>
+        <desc>{"type":"point-lodge","name":"West and East Lodges Lodge","parentIDs":["park-churchville"],"shortName":"West and East Lodges"}</desc>
+    </wpt>
+    <wpt lon="-77.886366" lat="43.108240">
+        <name>point-lodge:churchville_park:170b967f</name>
+        <desc>{"type":"point-lodge","name":"Church Lodge","parentIDs":["park-churchville"],"shortName":"Church"}</desc>
+    </wpt>
+    <wpt lon="-77.887707" lat="43.111875">
+        <name>point-shelter:churchville_park:f2924122</name>
+        <desc>{"type":"point-shelter","name":"Shadyside Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Shadyside"}</desc>
+    </wpt>
+    <wpt lon="-77.888925" lat="43.111757">
+        <name>point-shelter:churchville_park:7eb30d59</name>
+        <desc>{"type":"point-shelter","name":"Oak Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Oak"}</desc>
+    </wpt>
+    <wpt lon="-77.888432" lat="43.109995">
+        <name>point-shelter:churchville_park:acce560d</name>
+        <desc>{"type":"point-shelter","name":"Anderson Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Anderson"}</desc>
+    </wpt>
+    <wpt lon="-77.890341" lat="43.110014">
+        <name>point-shelter:churchville_park:6b1fb675</name>
+        <desc>{"type":"point-shelter","name":"Hickory Grove Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Hickory Grove"}</desc>
+    </wpt>
+    <wpt lon="-77.891194" lat="43.109380">
+        <name>point-shelter:churchville_park:343424ef</name>
+        <desc>{"type":"point-shelter","name":"Fairview Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Fairview"}</desc>
+    </wpt>
+    <wpt lon="-77.892042" lat="43.108894">
+        <name>point-shelter:churchville_park:cde036a8</name>
+        <desc>{"type":"point-shelter","name":"Beechwoods Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Beechwoods"}</desc>
+    </wpt>
+    <wpt lon="-77.894037" lat="43.107794">
+        <name>point-shelter:churchville_park:f1d25999</name>
+        <desc>{"type":"point-shelter","name":"Westview Shelter","directionsCoordinate":[43.110623,-77.889889],"parentIDs":["park-churchville"],"shortName":"Westview"}</desc>
+    </wpt>
+    <wpt lon="-77.890658" lat="43.110198">
+        <name>point-restroom:churchville_park:730c5d65</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.882456" lat="43.112380">
+        <name>point-restroom:churchville_park:7ed5792d</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.887166" lat="43.110226">
+        <name>point-restroom:churchville_park:3f9381af</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.886565" lat="43.107954">
+        <name>point-restroom:churchville_park:72a79e22</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-churchville"]}</desc>
+    </wpt>
+    <wpt lon="-77.883904" lat="43.112803">
+        <name>point-parking:churchville_park:e8774c5d</name>
+        <desc>{"type":"point-parking","comments":"Main N","name":"Parking (Cottonwood)","parentIDs":["park-churchville"],"shortName":"Cottonwood"}</desc>
+    </wpt>
+    <wpt lon="-77.881211" lat="43.112364">
+        <name>point-parking:churchville_park:aa590c65</name>
+        <desc>{"type":"point-parking","comments":"Pinetree","name":"Parking (Pinetree)","parentIDs":["park-churchville"],"shortName":"Pinetree"}</desc>
+    </wpt>
+    <wpt lon="-77.884966" lat="43.110508">
+        <name>point-parking:churchville_park:c35848c7</name>
+        <desc>{"type":"point-parking","comments":"Main C","name":"Parking (East Lodge)","parentIDs":["park-churchville"],"shortName":"East Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.894461" lat="43.107782">
+        <name>point-parking:churchville_park:f465502c</name>
+        <desc>{"type":"point-parking","comments":"","directionsCoordinate":[43.110623,-77.889889],"name":"Parking (Westview)","parentIDs":["park-churchville"],"shortName":"Westview"}</desc>
+    </wpt>
+    <wpt lon="-77.885020" lat="43.108534">
+        <name>point-parking:churchville_park:4f721a29</name>
+        <desc>{"type":"point-parking","comments":"Main S","name":"Parking (Church Lodge)","parentIDs":["park-churchville"],"shortName":"Church Lodge"}</desc>
+    </wpt>
+    <wpt lon="-77.894300" lat="43.105213">
+        <name>point-parking:churchville_park:26c64459</name>
+        <desc>{"type":"point-parking","comments":"Boat Launch","name":"Parking (South)","parentIDs":["park-churchville"],"shortName":"South"}</desc>
+    </wpt>
+    <trk>
+        <name>border:park-churchville</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.882788" lat="43.104383"/>
+            <trkpt lon="-77.882616" lat="43.105730"/>
+            <trkpt lon="-77.881265" lat="43.107250"/>
+            <trkpt lon="-77.878990" lat="43.108221"/>
+            <trkpt lon="-77.878196" lat="43.109082"/>
+            <trkpt lon="-77.878411" lat="43.110022"/>
+            <trkpt lon="-77.879140" lat="43.110523"/>
+            <trkpt lon="-77.879677" lat="43.110664"/>
+            <trkpt lon="-77.879312" lat="43.111980"/>
+            <trkpt lon="-77.879226" lat="43.113641"/>
+            <trkpt lon="-77.879612" lat="43.113829"/>
+            <trkpt lon="-77.880149" lat="43.114189"/>
+            <trkpt lon="-77.880664" lat="43.114361"/>
+            <trkpt lon="-77.881093" lat="43.114393"/>
+            <trkpt lon="-77.889290" lat="43.114440"/>
+            <trkpt lon="-77.889333" lat="43.111463"/>
+            <trkpt lon="-77.889376" lat="43.111087"/>
+            <trkpt lon="-77.889633" lat="43.110821"/>
+            <trkpt lon="-77.889869" lat="43.110617"/>
+            <trkpt lon="-77.890084" lat="43.110523"/>
+            <trkpt lon="-77.890406" lat="43.110555"/>
+            <trkpt lon="-77.890620" lat="43.110508"/>
+            <trkpt lon="-77.891071" lat="43.110273"/>
+            <trkpt lon="-77.891285" lat="43.110101"/>
+            <trkpt lon="-77.891371" lat="43.109897"/>
+            <trkpt lon="-77.891436" lat="43.109646"/>
+            <trkpt lon="-77.891500" lat="43.109490"/>
+            <trkpt lon="-77.891822" lat="43.109223"/>
+            <trkpt lon="-77.892423" lat="43.109114"/>
+            <trkpt lon="-77.892777" lat="43.109090"/>
+            <trkpt lon="-77.893313" lat="43.108941"/>
+            <trkpt lon="-77.893946" lat="43.108456"/>
+            <trkpt lon="-77.894354" lat="43.108432"/>
+            <trkpt lon="-77.894687" lat="43.108166"/>
+            <trkpt lon="-77.895995" lat="43.108080"/>
+            <trkpt lon="-77.896424" lat="43.108283"/>
+            <trkpt lon="-77.896875" lat="43.108299"/>
+            <trkpt lon="-77.897133" lat="43.108189"/>
+            <trkpt lon="-77.898538" lat="43.108370"/>
+            <trkpt lon="-77.899107" lat="43.107806"/>
+            <trkpt lon="-77.899193" lat="43.106184"/>
+            <trkpt lon="-77.900898" lat="43.106067"/>
+            <trkpt lon="-77.901596" lat="43.106427"/>
+            <trkpt lon="-77.903066" lat="43.106756"/>
+            <trkpt lon="-77.904600" lat="43.107195"/>
+            <trkpt lon="-77.906156" lat="43.106654"/>
+            <trkpt lon="-77.906327" lat="43.105840"/>
+            <trkpt lon="-77.907357" lat="43.105276"/>
+            <trkpt lon="-77.907701" lat="43.105495"/>
+            <trkpt lon="-77.908044" lat="43.111510"/>
+            <trkpt lon="-77.914052" lat="43.111448"/>
+            <trkpt lon="-77.914052" lat="43.104868"/>
+            <trkpt lon="-77.914782" lat="43.105338"/>
+            <trkpt lon="-77.915039" lat="43.106090"/>
+            <trkpt lon="-77.915726" lat="43.106278"/>
+            <trkpt lon="-77.916670" lat="43.106184"/>
+            <trkpt lon="-77.917142" lat="43.105589"/>
+            <trkpt lon="-77.918515" lat="43.104555"/>
+            <trkpt lon="-77.918687" lat="43.097129"/>
+            <trkpt lon="-77.914310" lat="43.097505"/>
+            <trkpt lon="-77.914181" lat="43.101641"/>
+            <trkpt lon="-77.908773" lat="43.103176"/>
+            <trkpt lon="-77.906928" lat="43.103427"/>
+            <trkpt lon="-77.905126" lat="43.103427"/>
+            <trkpt lon="-77.894397" lat="43.102330"/>
+            <trkpt lon="-77.893410" lat="43.102777"/>
+            <trkpt lon="-77.894150" lat="43.102910"/>
+            <trkpt lon="-77.893421" lat="43.103176"/>
+            <trkpt lon="-77.893120" lat="43.102871"/>
+            <trkpt lon="-77.892144" lat="43.103278"/>
+            <trkpt lon="-77.892809" lat="43.104813"/>
+            <trkpt lon="-77.890867" lat="43.105534"/>
+            <trkpt lon="-77.890502" lat="43.105111"/>
+            <trkpt lon="-77.889741" lat="43.105338"/>
+            <trkpt lon="-77.890009" lat="43.106317"/>
+            <trkpt lon="-77.891479" lat="43.105847"/>
+            <trkpt lon="-77.891768" lat="43.106991"/>
+            <trkpt lon="-77.891328" lat="43.107735"/>
+            <trkpt lon="-77.890331" lat="43.108197"/>
+            <trkpt lon="-77.887917" lat="43.108902"/>
+            <trkpt lon="-77.887305" lat="43.108824"/>
+            <trkpt lon="-77.886747" lat="43.107343"/>
+            <trkpt lon="-77.886125" lat="43.107500"/>
+            <trkpt lon="-77.885513" lat="43.107602"/>
+            <trkpt lon="-77.884634" lat="43.107586"/>
+            <trkpt lon="-77.884537" lat="43.109435"/>
+            <trkpt lon="-77.882917" lat="43.110061"/>
+            <trkpt lon="-77.880996" lat="43.110602"/>
+            <trkpt lon="-77.880170" lat="43.110594"/>
+            <trkpt lon="-77.880256" lat="43.108565"/>
+            <trkpt lon="-77.881136" lat="43.108119"/>
+            <trkpt lon="-77.881898" lat="43.107398"/>
+            <trkpt lon="-77.882327" lat="43.107093"/>
+            <trkpt lon="-77.882778" lat="43.106623"/>
+            <trkpt lon="-77.883357" lat="43.105793"/>
+            <trkpt lon="-77.883421" lat="43.104367"/>
+        </trkseg>
+    </trk>
+</gpx>

@@ -1,0 +1,135 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-dureast": {
+      "name": "Durand-Eastman Park",
+      "mainPin": [
+        43.235629,
+        -77.564429
+      ],
+      "SW": [
+        43.21869,
+        -77.58837
+      ],
+      "NE": [
+        43.24351,
+        -77.54631
+      ],
+      "directionsCoordinate": [
+        43.237097832774914,
+        -77.56105184555054
+      ],
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "keywords": "eastman"
+    }
+  },
+  "trails": {
+    "trail-dureast-durand-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Durand Lake Trail",
+      "color": "sky",
+      "length": 1.25,
+      "SW": [
+        43.229001,
+        -77.561844
+      ],
+      "NE": [
+        43.23487,
+        -77.554653
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-eastman-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Eastman Lake Trail",
+      "color": "orange",
+      "length": 1.5,
+      "SW": [
+        43.229212,
+        -77.565449
+      ],
+      "NE": [
+        43.236777,
+        -77.558366
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-trott-lake": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Trott Lake Trail",
+      "color": "red",
+      "length": 0.5,
+      "SW": [
+        43.22615,
+        -77.561248
+      ],
+      "NE": [
+        43.229054,
+        -77.558647
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-yellow": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Yellow Trail",
+      "color": "yellow",
+      "length": 1.5,
+      "SW": [
+        43.227079,
+        -77.56832
+      ],
+      "NE": [
+        43.237187,
+        -77.560029
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-purple": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Purple Trail",
+      "color": "purple",
+      "length": 0.4,
+      "SW": [
+        43.227549,
+        -77.564478
+      ],
+      "NE": [
+        43.229638,
+        -77.562216
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-lakeshore-trail": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "Lakeshore Bike Path",
+      "color": "black",
+      "blazes": "none",
+      "length": 2.2,
+      "SW": [
+        43.227651,
+        -77.577393
+      ],
+      "NE": [
+        43.24238,
+        -77.546882
+      ],
+      "parentID": "park-dureast"
+    },
+    "trail-dureast-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-durandeastman.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.225229,
+        -77.56733
+      ],
+      "NE": [
+        43.237431,
+        -77.547766
+      ],
+      "parentID": "park-dureast"
+    }
+  }
+}

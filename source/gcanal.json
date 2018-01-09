@@ -1,0 +1,84 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-gcanal": {
+      "name": "Greece Canal Park",
+      "mainPin": [
+        43.195399632,
+        -77.736639976
+      ],
+      "SW": [
+        43.18578,
+        -77.75574
+      ],
+      "NE": [
+        43.2078,
+        -77.73016
+      ],
+      "url": "http://www.monroecounty.gov/parks-greececanal.php"
+    }
+  },
+  "trails": {
+    "trail-gcanal-deer-run": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
+      "name": "Deer Run Trail",
+      "color": "sky",
+      "length": 1.4,
+      "SW": [
+        43.193235,
+        -77.74237
+      ],
+      "NE": [
+        43.19823,
+        -77.736039
+      ],
+      "parentID": "park-gcanal"
+    },
+    "trail-gcanal-farm-artifact": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
+      "name": "Farm Artifact Trail",
+      "color": "grass",
+      "length": 0.9,
+      "SW": [
+        43.196472,
+        -77.734553
+      ],
+      "NE": [
+        43.200313,
+        -77.732296
+      ],
+      "parentID": "park-gcanal"
+    },
+    "trail-gcanal-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.190176,
+        -77.753083
+      ],
+      "NE": [
+        43.203086,
+        -77.734541
+      ],
+      "parentID": "park-gcanal"
+    },
+    "trail-gcanal-west": {
+      "url": "http://www.monroecounty.gov/parks-greececanal.php",
+      "name": "West Trail",
+      "color": "orange",
+      "length": 0.4,
+      "SW": [
+        43.198778,
+        -77.746215
+      ],
+      "NE": [
+        43.202309,
+        -77.738348
+      ],
+      "parentID": "park-gcanal"
+    }
+  }
+}

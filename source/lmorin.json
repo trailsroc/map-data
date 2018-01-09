@@ -1,0 +1,165 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-lmorin": {
+      "name": "Lucien Morin Park",
+      "mainPin": [
+        43.17003,
+        -77.52966
+      ],
+      "SW": [
+        43.15639,
+        -77.53562
+      ],
+      "NE": [
+        43.17761,
+        -77.51696
+      ],
+      "directionsCoordinate": [
+        43.17538876465969,
+        -77.52373695373535
+      ],
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "keywords": "wetlands"
+    }
+  },
+  "trails": {
+    "trail-lmorin-blue": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Blue Trail",
+      "color": "sky",
+      "length": 0.4,
+      "SW": [
+        43.169552,
+        -77.527146
+      ],
+      "NE": [
+        43.172604,
+        -77.524803
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-east": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "East Trail",
+      "color": "sky",
+      "length": 0.8,
+      "SW": [
+        43.1597,
+        -77.522932
+      ],
+      "NE": [
+        43.164859,
+        -77.51937
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-pink": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Pink Trail",
+      "color": "pink",
+      "length": 0.2,
+      "SW": [
+        43.166425,
+        -77.530575
+      ],
+      "NE": [
+        43.167694,
+        -77.528518
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-red": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Red Trail",
+      "color": "red",
+      "length": 0.2,
+      "SW": [
+        43.16744,
+        -77.528136
+      ],
+      "NE": [
+        43.169974,
+        -77.527115
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-rifle-range-salmon": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Rifle Range Salmon Trail",
+      "color": "orange",
+      "length": 0.4,
+      "SW": [
+        43.165447,
+        -77.52937
+      ],
+      "NE": [
+        43.168645,
+        -77.525872
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-rifle-range-white": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Rifle Range White Trail",
+      "color": "white",
+      "length": 1.6,
+      "SW": [
+        43.164648,
+        -77.5317
+      ],
+      "NE": [
+        43.174685,
+        -77.522927
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-rifle-range-yellow": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Rifle Range Yellow Trail",
+      "color": "yellow",
+      "length": 0.6,
+      "SW": [
+        43.1648,
+        -77.527975
+      ],
+      "NE": [
+        43.169056,
+        -77.52294
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-connector": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "Ellison–Lucien Morin Connectors",
+      "shortName": "Ellison–L.Morin",
+      "color": "black",
+      "blazes": "none",
+      "SW": [
+        43.154026,
+        -77.530457
+      ],
+      "NE": [
+        43.163914,
+        -77.520447
+      ],
+      "parentID": "park-lmorin"
+    },
+    "trail-lmorin-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-wetlands.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.172104,
+        -77.528365
+      ],
+      "NE": [
+        43.175612,
+        -77.523707
+      ],
+      "parentID": "park-lmorin"
+    }
+  }
+}

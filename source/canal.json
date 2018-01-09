@@ -1,0 +1,372 @@
+{
+  "version": 5,
+  "trailSystems": {
+    "tsystem-gv-riverway": {
+      "name": "Genesee Riverway Trail",
+      "mainPin": [
+        43.141994,
+        -77.614992
+      ],
+      "directionsCoordinate": null,
+      "SW": [
+        43.11488,
+        -77.656806
+      ],
+      "NE": [
+        43.252121,
+        -77.609638
+      ],
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "keywords": "rail canal",
+      "isSearchable": true
+    },
+    "tsystem-gv-greenway": {
+      "name": "Genesee Valley Greenway",
+      "mainPin": [
+        43.032102,
+        -77.736419
+      ],
+      "directionsCoordinate": null,
+      "SW": [
+        42.725963,
+        -77.882524
+      ],
+      "NE": [
+        43.121382,
+        -77.644888
+      ],
+      "url": "http://fogvg.org",
+      "keywords": "rail",
+      "isSearchable": true
+    },
+    "tsystem-ecanal": {
+      "name": "Erie Canal Heritage Trail",
+      "mainPin": [
+        43.194378,
+        -77.814611
+      ],
+      "otherPins": [
+        [
+          43.083816,
+          -77.456999
+        ]
+      ],
+      "directionsCoordinate": null,
+      "SW": [
+        43.062883,
+        -78.027192
+      ],
+      "NE": [
+        43.23769,
+        -77.301035
+      ],
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "isSearchable": true
+    }
+  },
+  "parks": {
+  },
+  "trails": {
+    "trail-ecanal-main": {
+      "name": "Erie Canal Heritage Trail",
+      "shortName": "Erie Canal Trail",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "color": "brown",
+      "length": 45,
+      "SW": [
+        43.062883,
+        -78.027192
+      ],
+      "NE": [
+        43.23769,
+        -77.301035
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-closed": {
+      "name": "Erie Canal (Possible Closures)",
+      "shortName": "Possible Closures",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "color": "orange",
+      "isSearchable": false,
+      "length": 45,
+      "SW": [
+        43.109153,
+        -77.622858
+      ],
+      "NE": [
+        43.112774,
+        -77.610884
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-detour": {
+      "name": "Erie Canal (Construction Detour)",
+      "shortName": "Construction Detour",
+      "url": "http://www.eriecanalway.org/explore/cycling",
+      "isSearchable": false,
+      "color": "black",
+      "length": 45,
+      "SW": [
+        43.109153,
+        -77.623015
+      ],
+      "NE": [
+        43.114902,
+        -77.604731
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.06299,
+        -78.027185
+      ],
+      "NE": [
+        43.237812,
+        -77.301028
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-other": {
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.095259,
+        -77.606528
+      ],
+      "NE": [
+        43.106056,
+        -77.568807
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-holley-falls": {
+      "name": "Brookdale Preserve",
+      "url": "http://nyfalls.com/waterfalls/holley-falls/",
+      "isSearchable": true,
+      "isPrimary": false,
+      "color": "blue",
+      "length": 0.6,
+      "SW": [
+        43.224856,
+        -78.023725
+      ],
+      "NE": [
+        43.227885,
+        -78.018425
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-ecanal-rose-turner": {
+      "name": "Rose Turner Park",
+      "url": "https://www.rochesterparks.org/town-parks/ogden-parks/rose-turner-park/",
+      "color": "dark_green",
+      "isSearchable": true,
+      "isPrimary": false,
+      "length": 0.55,
+      "SW": [
+        43.190886,
+        -77.78309
+      ],
+      "NE": [
+        43.194836,
+        -77.781358
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-ecanal"
+    },
+    "trail-gv-greenway": {
+      "name": "Genesee Valley Greenway",
+      "url": "http://fogvg.org",
+      "color": "dark_green",
+      "length": 34,
+      "keywords": "rail",
+      "SW": [
+        42.725963,
+        -77.882524
+      ],
+      "NE": [
+        43.121382,
+        -77.644888
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-greenway"
+    },
+    "trail-gv-greenway-detour": {
+      "name": "Genesee Greenway: Road Detour",
+      "shortName": "Road Detour",
+      "url": "http://fogvg.org",
+      "isSearchable": false,
+      "color": "black",
+      "length": 34,
+      "SW": [
+        43.092994,
+        -77.691338
+      ],
+      "NE": [
+        43.107804,
+        -77.675843
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-greenway"
+    },
+    "trail-gv-greenway-access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        42.922566,
+        -77.776417
+      ],
+      "NE": [
+        43.12193,
+        -77.645446
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-gv-greenway"
+    },
+    "trail-brookdale-preserve-trail": {
+      "name": "Brookdale Preserve",
+      "isSearchable": true,
+      "isPrimary": false,
+      "url": "http://www.geneseelandtrust.org/protected-places.aspx?id=1",
+      "color": "red",
+      "length": 0.8,
+      "SW": [
+        43.077359,
+        -77.71346
+      ],
+      "NE": [
+        43.082089,
+        -77.707218
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-gv-greenway"
+    },
+    "trail-gv-riverway-south": {
+      "name": "Genesee Riverway (South)",
+      "shortName": "Genesee Riverway",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "length": 4.3,
+      "keywords": "rail canal",
+      "SW": [
+        43.11488,
+        -77.656806
+      ],
+      "NE": [
+        43.154547,
+        -77.609638
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-riverway"
+    },
+    "trail-gv-riverway-maplewood": {
+      "name": "Genesee Riverway (Maplewood)",
+      "shortName": "Genesee Riverway",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "length": 2.4,
+      "keywords": "rail canal",
+      "SW": [
+        43.173716,
+        -77.62977
+      ],
+      "NE": [
+        43.201835,
+        -77.621294
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-riverway"
+    },
+    "trail-gv-riverway-north": {
+      "name": "Genesee Riverway (North)",
+      "shortName": "Genesee Riverway",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "length": 3,
+      "keywords": "rail canal",
+      "SW": [
+        43.21954,
+        -77.628874
+      ],
+      "NE": [
+        43.252121,
+        -77.609702
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-riverway"
+    },
+    "trail-gv-riverway-east": {
+      "name": "Genesee Riverway (East Bank)",
+      "shortName": "Genesee Riverway",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "sky",
+      "length": 3.25,
+      "keywords": "rail canal",
+      "SW": [
+        43.121451,
+        -77.639772
+      ],
+      "NE": [
+        43.153636,
+        -77.607612
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-gv-riverway"
+    },
+    "trail-gv-riverway-other": {
+      "name": "Genesee Riverway (Other Trails)",
+      "shortName": "Genesee Riverway",
+      "url": "http://www.rochestertrails.info/RochesterTrails/genesee-river-trail",
+      "color": "blue",
+      "length": 0,
+      "SW": [
+        43.130747,
+        -77.63465
+      ],
+      "NE": [
+        43.198041,
+        -77.610571
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-gv-riverway"
+    },
+    "trail-gv-riverway-access": {
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.130153,
+        -77.633171
+      ],
+      "NE": [
+        43.230127,
+        -77.616804
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-gv-riverway"
+    }
+  }
+}

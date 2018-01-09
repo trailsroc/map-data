@@ -1,0 +1,71 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-hitor": {
+      "name": "High Tor Wildlife Management Area",
+      "mainPin": [
+        42.618321,
+        -77.37097
+      ],
+      "directionsCoordinate": [
+        42.635292,
+        -77.357394
+      ],
+      "url": "http://www.cnyhiking.com/HiTorWMA.htm",
+      "SW": [
+        42.593501,
+        -77.404768
+      ],
+      "NE": [
+        42.640347,
+        -77.32738
+      ]
+    }
+  },
+  "trails": {
+    "trail-hitor-blue": {
+      "name": "High Tor Blue Trail",
+      "color": "blue",
+      "url": "http://www.cnyhiking.com/HiTorBlueTrail.htm",
+      "SW": [
+        42.597698,
+        -77.381897
+      ],
+      "NE": [
+        42.633083,
+        -77.35627
+      ],
+      "parentID": "park-hitor"
+    },
+    "trail-hitor-fltbht": {
+      "name": "Finger Lakes Bristol Hills Trail",
+      "color": "orange",
+      "url": "http://www.cnyhiking.com/BHT-NaplesToHiTorWMA.htm",
+      "SW": [
+        42.612015,
+        -77.392814
+      ],
+      "NE": [
+        42.626923,
+        -77.3283
+      ],
+      "keywords": "flt",
+      "parentID": "park-hitor"
+    },
+    "trail-hitor-unnamed": {
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        42.599827,
+        -77.367
+      ],
+      "NE": [
+        42.635132,
+        -77.334274
+      ],
+      "parentID": "park-hitor"
+    }
+  }
+}

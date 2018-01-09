@@ -1,0 +1,7821 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "trailSystem",
+        "trailsroc-id": "tsystem-fowt-hojack",
+        "trailsroc-shortName": "Hojack Trail System",
+        "trailsroc-name": "Hojack Trail System",
+        "trailsroc-url": "http://www.webstertrails.org/hojack/hojack.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-keywords": "rail",
+        "trailsroc-directionsCoordinate": [
+          -77.444172,
+          43.221044
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.463891,
+          43.228803
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSystem",
+        "trailsroc-id": "tsystem-fowt-rt104",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-keywords": "rail",
+        "trailsroc-directionsCoordinate": [
+          -77.439351,
+          43.215891
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.467814,
+          43.21441
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-fowt-finn",
+        "trailsroc-shortName": "Finn Park",
+        "trailsroc-name": "Finn Park",
+        "trailsroc-url": "http://www.webstertrails.org/finn/finn.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": false,
+        "trailsroc-style": "minorPark",
+        "trailsroc-directionsCoordinate": [
+          -77.501326,
+          43.217688
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.494022,
+          43.216373
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-fmcp",
+        "trailsroc-shortName": "Four Mile Creek Preserve",
+        "trailsroc-name": "Four Mile Creek Preserve",
+        "trailsroc-url": "http://www.webstertrails.org/fmcp/fmcp.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": false,
+        "trailsroc-style": "minorPark",
+        "trailsroc-directionsCoordinate": [
+          -77.419662,
+          43.265097
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.411832,
+          43.265018
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-jungar-main",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "John Ungar Nature Trail",
+        "trailsroc-url": "http://www.webstertrails.org/ungar/ungar.php",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "John Ungar Nature Trail",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4869605,
+          43.23586400000001
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-finn-main",
+        "trailsroc-parentID": "park-fowt-finn",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-url": "http://www.webstertrails.org/finn/finn.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-blazes": "color",
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4959465,
+          43.216483
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-vosburg-main",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-url": "http://www.webstertrails.org/vosburg/vosburg.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4963665,
+          43.2410425
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-chiyoda-loop",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "Chiyoda Trail Loop",
+        "trailsroc-color": "pink",
+        "trailsroc-shortName": "Chiyoda Trail Loop",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.42447,
+          43.228436
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-chiyoda-connector",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "Chiyoda Trail Connector",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "Chiyoda Trail Connector",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4266705,
+          43.226051999999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fmcp-blue",
+        "trailsroc-parentID": "park-fmcp",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-url": "http://www.webstertrails.org/fmcp/fmcp.php",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-blazes": "color",
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.41619449999999,
+          43.265042
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-hojack-main",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-url": "http://www.webstertrails.org/hojack/hojack.php",
+        "trailsroc-color": "grass",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-keywords": "rail",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-blazes": "none",
+        "trailsroc-isPrimary": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4606605,
+          43.2326865
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-bird-sanctuary",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "Bird Sanctuary Trail",
+        "trailsroc-url": "http://www.webstertrails.org/bird/bird.php",
+        "trailsroc-color": "dark_green",
+        "trailsroc-shortName": "Bird Sanctuary Trail",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4350395,
+          43.222648500000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-nponds-loop",
+        "trailsroc-parentID": "tsystem-fowt-hojack",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.442082,
+          43.218385999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-fowt-rt104-path",
+        "trailsroc-parentID": "tsystem-fowt-rt104",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-keywords": "rail",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-blazes": "none",
+        "trailsroc-isPrimary": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.45787150000001,
+          43.21679
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-jungar-main:368185e2",
+        "trailsroc-trailIDs": "trail-fowt-jungar-main",
+        "trailsroc-name": "John Ungar Nature Trail",
+        "trailsroc-shortName": "John Ungar Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.487533,
+            43.23517
+          ],
+          [
+            -77.487525,
+            43.235196
+          ],
+          [
+            -77.487525,
+            43.235221
+          ],
+          [
+            -77.48753,
+            43.23523
+          ],
+          [
+            -77.487543,
+            43.23524
+          ],
+          [
+            -77.487605,
+            43.23524
+          ],
+          [
+            -77.487622,
+            43.235246
+          ],
+          [
+            -77.48764,
+            43.235284
+          ],
+          [
+            -77.487658,
+            43.235293
+          ],
+          [
+            -77.487681,
+            43.235332
+          ],
+          [
+            -77.487681,
+            43.235344
+          ],
+          [
+            -77.487712,
+            43.235376
+          ],
+          [
+            -77.487725,
+            43.235415
+          ],
+          [
+            -77.487685,
+            43.235453
+          ],
+          [
+            -77.487685,
+            43.235469
+          ],
+          [
+            -77.487698,
+            43.235495
+          ],
+          [
+            -77.487716,
+            43.235504
+          ],
+          [
+            -77.487729,
+            43.23553
+          ],
+          [
+            -77.487725,
+            43.235562
+          ],
+          [
+            -77.487716,
+            43.235571
+          ],
+          [
+            -77.487703,
+            43.235597
+          ],
+          [
+            -77.487707,
+            43.235642
+          ],
+          [
+            -77.48772,
+            43.235655
+          ],
+          [
+            -77.487732,
+            43.235683
+          ],
+          [
+            -77.487714,
+            43.235706
+          ],
+          [
+            -77.487633,
+            43.235747
+          ],
+          [
+            -77.487517,
+            43.235856
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-jungar-main:24fb34df",
+        "trailsroc-trailIDs": "trail-fowt-jungar-main",
+        "trailsroc-name": "John Ungar Nature Trail",
+        "trailsroc-shortName": "John Ungar Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.487517,
+            43.235856
+          ],
+          [
+            -77.487431,
+            43.235888
+          ],
+          [
+            -77.487266,
+            43.235863
+          ],
+          [
+            -77.487253,
+            43.23585
+          ],
+          [
+            -77.487201,
+            43.235841
+          ],
+          [
+            -77.487051,
+            43.235728
+          ],
+          [
+            -77.487033,
+            43.235702
+          ],
+          [
+            -77.48693,
+            43.235665
+          ],
+          [
+            -77.486878,
+            43.235665
+          ],
+          [
+            -77.486839,
+            43.235671
+          ],
+          [
+            -77.486826,
+            43.23568
+          ],
+          [
+            -77.486817,
+            43.235693
+          ],
+          [
+            -77.486805,
+            43.235699
+          ],
+          [
+            -77.48677,
+            43.235753
+          ],
+          [
+            -77.486757,
+            43.235844
+          ],
+          [
+            -77.486749,
+            43.235856
+          ],
+          [
+            -77.486714,
+            43.235875
+          ],
+          [
+            -77.486675,
+            43.235919
+          ],
+          [
+            -77.486675,
+            43.235948
+          ],
+          [
+            -77.486684,
+            43.23596
+          ],
+          [
+            -77.486697,
+            43.236075
+          ],
+          [
+            -77.486693,
+            43.236088
+          ],
+          [
+            -77.48663,
+            43.236153
+          ],
+          [
+            -77.486625,
+            43.236171
+          ],
+          [
+            -77.486626,
+            43.236183
+          ],
+          [
+            -77.486617,
+            43.236199
+          ],
+          [
+            -77.48657,
+            43.236226
+          ],
+          [
+            -77.486532,
+            43.236226
+          ],
+          [
+            -77.486498,
+            43.236232
+          ],
+          [
+            -77.486371,
+            43.236231
+          ],
+          [
+            -77.48635,
+            43.236234
+          ],
+          [
+            -77.486333,
+            43.236234
+          ],
+          [
+            -77.486287,
+            43.236261
+          ],
+          [
+            -77.486265,
+            43.236286
+          ],
+          [
+            -77.486243,
+            43.236296
+          ],
+          [
+            -77.48623,
+            43.236324
+          ],
+          [
+            -77.486217,
+            43.236337
+          ],
+          [
+            -77.486198,
+            43.236404
+          ],
+          [
+            -77.486189,
+            43.236416
+          ],
+          [
+            -77.486189,
+            43.236442
+          ],
+          [
+            -77.486193,
+            43.236452
+          ],
+          [
+            -77.486277,
+            43.236532
+          ],
+          [
+            -77.486294,
+            43.236535
+          ],
+          [
+            -77.486307,
+            43.236545
+          ],
+          [
+            -77.486384,
+            43.236541
+          ],
+          [
+            -77.486397,
+            43.236551
+          ],
+          [
+            -77.486458,
+            43.236553
+          ],
+          [
+            -77.486475,
+            43.236546
+          ],
+          [
+            -77.48657,
+            43.236554
+          ],
+          [
+            -77.486578,
+            43.236568
+          ],
+          [
+            -77.486643,
+            43.236586
+          ],
+          [
+            -77.486677,
+            43.236575
+          ],
+          [
+            -77.48669,
+            43.236562
+          ],
+          [
+            -77.486691,
+            43.236445
+          ],
+          [
+            -77.486704,
+            43.236435
+          ],
+          [
+            -77.486713,
+            43.23641
+          ],
+          [
+            -77.486725,
+            43.236401
+          ],
+          [
+            -77.486738,
+            43.236377
+          ],
+          [
+            -77.486755,
+            43.236364
+          ],
+          [
+            -77.486755,
+            43.236349
+          ],
+          [
+            -77.486857,
+            43.236202
+          ],
+          [
+            -77.486891,
+            43.236177
+          ],
+          [
+            -77.4869,
+            43.236093
+          ],
+          [
+            -77.486913,
+            43.236065
+          ],
+          [
+            -77.486968,
+            43.236021
+          ],
+          [
+            -77.487261,
+            43.235972
+          ],
+          [
+            -77.487291,
+            43.235981
+          ],
+          [
+            -77.487299,
+            43.235994
+          ],
+          [
+            -77.487476,
+            43.236044
+          ],
+          [
+            -77.487489,
+            43.236054
+          ],
+          [
+            -77.487598,
+            43.23607
+          ],
+          [
+            -77.487628,
+            43.236057
+          ],
+          [
+            -77.487642,
+            43.236029
+          ],
+          [
+            -77.487642,
+            43.236014
+          ],
+          [
+            -77.487617,
+            43.235989
+          ],
+          [
+            -77.487614,
+            43.235949
+          ],
+          [
+            -77.487519,
+            43.23587
+          ],
+          [
+            -77.487506,
+            43.235867
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:6ff3d026",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.499533,
+            43.217543
+          ],
+          [
+            -77.499522,
+            43.217545
+          ],
+          [
+            -77.499522,
+            43.217551
+          ],
+          [
+            -77.499405,
+            43.217391
+          ],
+          [
+            -77.499404,
+            43.217383
+          ],
+          [
+            -77.499374,
+            43.217329
+          ],
+          [
+            -77.499373,
+            43.217316
+          ],
+          [
+            -77.499378,
+            43.217307
+          ],
+          [
+            -77.499368,
+            43.21725
+          ],
+          [
+            -77.499149,
+            43.217142
+          ],
+          [
+            -77.499137,
+            43.217142
+          ],
+          [
+            -77.499125,
+            43.217143
+          ],
+          [
+            -77.499101,
+            43.217141
+          ],
+          [
+            -77.499067,
+            43.217145
+          ],
+          [
+            -77.499024,
+            43.217143
+          ],
+          [
+            -77.499009,
+            43.217144
+          ],
+          [
+            -77.498813,
+            43.217107
+          ],
+          [
+            -77.498743,
+            43.217134
+          ],
+          [
+            -77.498509,
+            43.2171
+          ],
+          [
+            -77.498492,
+            43.217102
+          ],
+          [
+            -77.498401,
+            43.2171
+          ],
+          [
+            -77.49833,
+            43.217086
+          ],
+          [
+            -77.498178,
+            43.217144
+          ],
+          [
+            -77.498159,
+            43.217143
+          ],
+          [
+            -77.498114,
+            43.217154
+          ],
+          [
+            -77.498002,
+            43.217112
+          ],
+          [
+            -77.497999,
+            43.217118
+          ],
+          [
+            -77.497985,
+            43.217117
+          ],
+          [
+            -77.497982,
+            43.217118
+          ],
+          [
+            -77.497971,
+            43.217115
+          ],
+          [
+            -77.497962,
+            43.217136
+          ],
+          [
+            -77.497889,
+            43.217144
+          ],
+          [
+            -77.497871,
+            43.217144
+          ],
+          [
+            -77.497699,
+            43.217107
+          ],
+          [
+            -77.497679,
+            43.21711
+          ],
+          [
+            -77.497667,
+            43.217109
+          ],
+          [
+            -77.497661,
+            43.21711
+          ],
+          [
+            -77.497646,
+            43.217106
+          ],
+          [
+            -77.497639,
+            43.2171
+          ],
+          [
+            -77.497628,
+            43.217099
+          ],
+          [
+            -77.497616,
+            43.2171
+          ],
+          [
+            -77.497573,
+            43.217104
+          ],
+          [
+            -77.497462,
+            43.217091
+          ],
+          [
+            -77.49743,
+            43.217108
+          ],
+          [
+            -77.497419,
+            43.217109
+          ],
+          [
+            -77.497401,
+            43.217118
+          ],
+          [
+            -77.497361,
+            43.217117
+          ],
+          [
+            -77.497351,
+            43.217119
+          ],
+          [
+            -77.497237,
+            43.217103
+          ],
+          [
+            -77.497191,
+            43.21711
+          ],
+          [
+            -77.497119,
+            43.21709
+          ],
+          [
+            -77.497064,
+            43.217099
+          ],
+          [
+            -77.496908,
+            43.217078
+          ],
+          [
+            -77.496884,
+            43.217083
+          ],
+          [
+            -77.496871,
+            43.217083
+          ],
+          [
+            -77.496821,
+            43.217095
+          ],
+          [
+            -77.496803,
+            43.217094
+          ],
+          [
+            -77.496789,
+            43.217096
+          ],
+          [
+            -77.496759,
+            43.217095
+          ],
+          [
+            -77.496744,
+            43.217096
+          ],
+          [
+            -77.496642,
+            43.217081
+          ],
+          [
+            -77.496546,
+            43.21707
+          ],
+          [
+            -77.496522,
+            43.217076
+          ],
+          [
+            -77.496459,
+            43.21707
+          ],
+          [
+            -77.496445,
+            43.21707
+          ],
+          [
+            -77.496433,
+            43.217074
+          ],
+          [
+            -77.496238,
+            43.217049
+          ],
+          [
+            -77.496105,
+            43.217029
+          ],
+          [
+            -77.496095,
+            43.21703
+          ],
+          [
+            -77.495794,
+            43.216967
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:e8ede293",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.495794,
+            43.216967
+          ],
+          [
+            -77.495726,
+            43.216985
+          ],
+          [
+            -77.495736,
+            43.216979
+          ],
+          [
+            -77.496232,
+            43.21619
+          ],
+          [
+            -77.496233,
+            43.216135
+          ],
+          [
+            -77.496408,
+            43.215814
+          ],
+          [
+            -77.496406,
+            43.215741
+          ],
+          [
+            -77.495884,
+            43.215217
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:f99edfd4",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.495884,
+            43.215217
+          ],
+          [
+            -77.495462,
+            43.215051
+          ],
+          [
+            -77.495393,
+            43.215038
+          ],
+          [
+            -77.495363,
+            43.215042
+          ],
+          [
+            -77.495316,
+            43.215036
+          ],
+          [
+            -77.495262,
+            43.21503
+          ],
+          [
+            -77.495245,
+            43.215033
+          ],
+          [
+            -77.495079,
+            43.215024
+          ],
+          [
+            -77.495058,
+            43.215024
+          ],
+          [
+            -77.495036,
+            43.215027
+          ],
+          [
+            -77.494981,
+            43.215024
+          ],
+          [
+            -77.494731,
+            43.215021
+          ],
+          [
+            -77.494502,
+            43.215013
+          ],
+          [
+            -77.494377,
+            43.215009
+          ],
+          [
+            -77.494346,
+            43.215007
+          ],
+          [
+            -77.492647,
+            43.215974
+          ],
+          [
+            -77.492486,
+            43.216223
+          ],
+          [
+            -77.492524,
+            43.216578
+          ],
+          [
+            -77.492361,
+            43.21693
+          ],
+          [
+            -77.492394,
+            43.217075
+          ],
+          [
+            -77.492718,
+            43.217305
+          ],
+          [
+            -77.49334,
+            43.217129
+          ],
+          [
+            -77.493512,
+            43.21699
+          ],
+          [
+            -77.49366,
+            43.216989
+          ],
+          [
+            -77.493803,
+            43.21708
+          ],
+          [
+            -77.493831,
+            43.217185
+          ],
+          [
+            -77.493789,
+            43.217285
+          ],
+          [
+            -77.493404,
+            43.217547
+          ],
+          [
+            -77.493371,
+            43.217635
+          ],
+          [
+            -77.493519,
+            43.217804
+          ],
+          [
+            -77.494791,
+            43.217959
+          ],
+          [
+            -77.495313,
+            43.217666
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:86a847e0",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.495313,
+            43.217666
+          ],
+          [
+            -77.495708,
+            43.21701
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:a53244a2",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.495631,
+            43.217128
+          ],
+          [
+            -77.495619,
+            43.217131
+          ],
+          [
+            -77.495197,
+            43.216558
+          ],
+          [
+            -77.495183,
+            43.215865
+          ],
+          [
+            -77.495373,
+            43.215643
+          ],
+          [
+            -77.495821,
+            43.215459
+          ],
+          [
+            -77.495894,
+            43.215342
+          ],
+          [
+            -77.495878,
+            43.215235
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:e3b91445",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496681,
+            43.217077
+          ],
+          [
+            -77.496698,
+            43.217079
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:38abddaa",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496698,
+            43.217079
+          ],
+          [
+            -77.496722,
+            43.217111
+          ],
+          [
+            -77.496708,
+            43.217131
+          ],
+          [
+            -77.496709,
+            43.217156
+          ],
+          [
+            -77.496689,
+            43.217182
+          ],
+          [
+            -77.496721,
+            43.217438
+          ],
+          [
+            -77.496705,
+            43.217472
+          ],
+          [
+            -77.496659,
+            43.217499
+          ],
+          [
+            -77.49658,
+            43.217666
+          ],
+          [
+            -77.496532,
+            43.217682
+          ],
+          [
+            -77.49652,
+            43.217682
+          ],
+          [
+            -77.496392,
+            43.217743
+          ],
+          [
+            -77.496378,
+            43.217743
+          ],
+          [
+            -77.496332,
+            43.217762
+          ],
+          [
+            -77.496167,
+            43.217725
+          ],
+          [
+            -77.496043,
+            43.217692
+          ],
+          [
+            -77.496003,
+            43.217699
+          ],
+          [
+            -77.495911,
+            43.217687
+          ],
+          [
+            -77.495853,
+            43.217686
+          ],
+          [
+            -77.495827,
+            43.217687
+          ],
+          [
+            -77.49571,
+            43.217644
+          ],
+          [
+            -77.495683,
+            43.217647
+          ],
+          [
+            -77.495561,
+            43.217643
+          ],
+          [
+            -77.495361,
+            43.217641
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-finn-main:33fd519d",
+        "trailsroc-trailIDs": "trail-fowt-finn-main",
+        "trailsroc-name": "Finn Park Nature Trail",
+        "trailsroc-shortName": "Finn Park Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.497242,
+            43.217128
+          ],
+          [
+            -77.497273,
+            43.217221
+          ],
+          [
+            -77.497279,
+            43.217215
+          ],
+          [
+            -77.497367,
+            43.217328
+          ],
+          [
+            -77.497692,
+            43.217449
+          ],
+          [
+            -77.497839,
+            43.21737
+          ],
+          [
+            -77.497844,
+            43.217359
+          ],
+          [
+            -77.498107,
+            43.21719
+          ],
+          [
+            -77.498113,
+            43.21718
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:2411cb09",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496493,
+            43.240978
+          ],
+          [
+            -77.496515,
+            43.240972
+          ],
+          [
+            -77.496552,
+            43.240962
+          ],
+          [
+            -77.496568,
+            43.24095
+          ],
+          [
+            -77.496577,
+            43.240948
+          ],
+          [
+            -77.496588,
+            43.24094
+          ],
+          [
+            -77.496602,
+            43.240938
+          ],
+          [
+            -77.496638,
+            43.240911
+          ],
+          [
+            -77.496644,
+            43.240901
+          ],
+          [
+            -77.496868,
+            43.240838
+          ],
+          [
+            -77.496901,
+            43.240761
+          ],
+          [
+            -77.4969,
+            43.240755
+          ],
+          [
+            -77.496906,
+            43.240747
+          ],
+          [
+            -77.496917,
+            43.240741
+          ],
+          [
+            -77.496931,
+            43.240714
+          ],
+          [
+            -77.496932,
+            43.240654
+          ],
+          [
+            -77.496938,
+            43.240638
+          ],
+          [
+            -77.496937,
+            43.240609
+          ],
+          [
+            -77.496899,
+            43.240552
+          ],
+          [
+            -77.496895,
+            43.240515
+          ],
+          [
+            -77.4969,
+            43.240501
+          ],
+          [
+            -77.496898,
+            43.240437
+          ],
+          [
+            -77.496904,
+            43.240431
+          ],
+          [
+            -77.496948,
+            43.240417
+          ],
+          [
+            -77.496961,
+            43.240399
+          ],
+          [
+            -77.496962,
+            43.240373
+          ],
+          [
+            -77.496959,
+            43.240365
+          ],
+          [
+            -77.496972,
+            43.240332
+          ],
+          [
+            -77.496971,
+            43.24032
+          ],
+          [
+            -77.496974,
+            43.24031
+          ],
+          [
+            -77.496973,
+            43.240292
+          ],
+          [
+            -77.496922,
+            43.240226
+          ],
+          [
+            -77.496921,
+            43.240216
+          ],
+          [
+            -77.496885,
+            43.240182
+          ],
+          [
+            -77.496882,
+            43.240176
+          ],
+          [
+            -77.496881,
+            43.240143
+          ],
+          [
+            -77.496855,
+            43.240092
+          ],
+          [
+            -77.49686,
+            43.240069
+          ],
+          [
+            -77.496865,
+            43.240061
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:2947edff",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.497006,
+            43.23995
+          ],
+          [
+            -77.49698,
+            43.239962
+          ],
+          [
+            -77.496978,
+            43.239982
+          ],
+          [
+            -77.496969,
+            43.239994
+          ],
+          [
+            -77.496918,
+            43.240018
+          ],
+          [
+            -77.496888,
+            43.240049
+          ],
+          [
+            -77.496875,
+            43.24005
+          ],
+          [
+            -77.496836,
+            43.240081
+          ],
+          [
+            -77.496823,
+            43.240081
+          ],
+          [
+            -77.496782,
+            43.240092
+          ],
+          [
+            -77.49677,
+            43.240089
+          ],
+          [
+            -77.496749,
+            43.240096
+          ],
+          [
+            -77.496719,
+            43.240091
+          ],
+          [
+            -77.496706,
+            43.240101
+          ],
+          [
+            -77.496687,
+            43.240105
+          ],
+          [
+            -77.496676,
+            43.240103
+          ],
+          [
+            -77.49666,
+            43.240108
+          ],
+          [
+            -77.496647,
+            43.240105
+          ],
+          [
+            -77.49662,
+            43.240114
+          ],
+          [
+            -77.496613,
+            43.240128
+          ],
+          [
+            -77.496621,
+            43.240247
+          ],
+          [
+            -77.496655,
+            43.240272
+          ],
+          [
+            -77.496668,
+            43.240276
+          ],
+          [
+            -77.49668,
+            43.240289
+          ],
+          [
+            -77.496686,
+            43.24031
+          ],
+          [
+            -77.4967,
+            43.240315
+          ],
+          [
+            -77.496741,
+            43.240307
+          ],
+          [
+            -77.496769,
+            43.240315
+          ],
+          [
+            -77.496813,
+            43.240312
+          ],
+          [
+            -77.496843,
+            43.240332
+          ],
+          [
+            -77.496853,
+            43.240358
+          ],
+          [
+            -77.496878,
+            43.240372
+          ],
+          [
+            -77.496868,
+            43.240412
+          ],
+          [
+            -77.496858,
+            43.24042
+          ],
+          [
+            -77.49685,
+            43.240435
+          ],
+          [
+            -77.496848,
+            43.240457
+          ],
+          [
+            -77.496843,
+            43.240468
+          ],
+          [
+            -77.496713,
+            43.240505
+          ],
+          [
+            -77.496686,
+            43.240546
+          ],
+          [
+            -77.496673,
+            43.240551
+          ],
+          [
+            -77.496627,
+            43.240613
+          ],
+          [
+            -77.496547,
+            43.24065
+          ],
+          [
+            -77.496528,
+            43.240673
+          ],
+          [
+            -77.496463,
+            43.240684
+          ],
+          [
+            -77.496463,
+            43.240698
+          ],
+          [
+            -77.496457,
+            43.240713
+          ],
+          [
+            -77.496448,
+            43.240722
+          ],
+          [
+            -77.496439,
+            43.240747
+          ],
+          [
+            -77.496468,
+            43.240866
+          ],
+          [
+            -77.496479,
+            43.240866
+          ],
+          [
+            -77.496479,
+            43.24102
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:a1897931",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496479,
+            43.24102
+          ],
+          [
+            -77.496413,
+            43.241103
+          ],
+          [
+            -77.496412,
+            43.24112
+          ],
+          [
+            -77.496394,
+            43.241131
+          ],
+          [
+            -77.496369,
+            43.241211
+          ],
+          [
+            -77.496301,
+            43.241263
+          ],
+          [
+            -77.496269,
+            43.241316
+          ],
+          [
+            -77.496224,
+            43.241343
+          ],
+          [
+            -77.496209,
+            43.241422
+          ],
+          [
+            -77.496215,
+            43.241431
+          ],
+          [
+            -77.496219,
+            43.241474
+          ],
+          [
+            -77.496377,
+            43.241675
+          ],
+          [
+            -77.49638,
+            43.241687
+          ],
+          [
+            -77.496396,
+            43.241702
+          ],
+          [
+            -77.49641,
+            43.241708
+          ],
+          [
+            -77.496446,
+            43.241753
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:2f6f21a4",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496446,
+            43.241753
+          ],
+          [
+            -77.496448,
+            43.241809
+          ],
+          [
+            -77.496354,
+            43.24188
+          ],
+          [
+            -77.496339,
+            43.24194
+          ],
+          [
+            -77.496314,
+            43.241959
+          ],
+          [
+            -77.496304,
+            43.241961
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:4bede6f0",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496304,
+            43.241961
+          ],
+          [
+            -77.496293,
+            43.241969
+          ],
+          [
+            -77.496187,
+            43.242001
+          ],
+          [
+            -77.496175,
+            43.242001
+          ],
+          [
+            -77.496115,
+            43.242017
+          ],
+          [
+            -77.496091,
+            43.24201
+          ],
+          [
+            -77.496063,
+            43.24198
+          ],
+          [
+            -77.496048,
+            43.241975
+          ],
+          [
+            -77.496034,
+            43.241976
+          ],
+          [
+            -77.496017,
+            43.241968
+          ],
+          [
+            -77.495994,
+            43.241966
+          ],
+          [
+            -77.495984,
+            43.241968
+          ],
+          [
+            -77.495965,
+            43.241965
+          ],
+          [
+            -77.495738,
+            43.242099
+          ],
+          [
+            -77.495727,
+            43.2421
+          ],
+          [
+            -77.495715,
+            43.242111
+          ],
+          [
+            -77.495709,
+            43.242123
+          ],
+          [
+            -77.4957,
+            43.242128
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:8b6ca7de",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496317,
+            43.241962
+          ],
+          [
+            -77.496356,
+            43.241973
+          ],
+          [
+            -77.496381,
+            43.241977
+          ],
+          [
+            -77.496436,
+            43.241974
+          ],
+          [
+            -77.496536,
+            43.241992
+          ],
+          [
+            -77.496624,
+            43.241989
+          ],
+          [
+            -77.496661,
+            43.241996
+          ],
+          [
+            -77.496681,
+            43.241995
+          ],
+          [
+            -77.496776,
+            43.242008
+          ],
+          [
+            -77.496793,
+            43.242007
+          ],
+          [
+            -77.496822,
+            43.242013
+          ],
+          [
+            -77.496871,
+            43.242011
+          ],
+          [
+            -77.496876,
+            43.242011
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-vosburg-main:2e51ec32",
+        "trailsroc-trailIDs": "trail-fowt-vosburg-main",
+        "trailsroc-name": "Vosburg Hollow Nature Trail",
+        "trailsroc-shortName": "Vosburg Hollow Nature Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.496432,
+            43.241734
+          ],
+          [
+            -77.496466,
+            43.241722
+          ],
+          [
+            -77.496505,
+            43.241696
+          ],
+          [
+            -77.49652,
+            43.241676
+          ],
+          [
+            -77.49654,
+            43.241673
+          ],
+          [
+            -77.496609,
+            43.241636
+          ],
+          [
+            -77.496622,
+            43.241621
+          ],
+          [
+            -77.496625,
+            43.24161
+          ],
+          [
+            -77.496673,
+            43.241569
+          ],
+          [
+            -77.496687,
+            43.24155
+          ],
+          [
+            -77.496697,
+            43.241541
+          ],
+          [
+            -77.496764,
+            43.241519
+          ],
+          [
+            -77.496776,
+            43.241518
+          ],
+          [
+            -77.496817,
+            43.241502
+          ],
+          [
+            -77.496865,
+            43.241498
+          ],
+          [
+            -77.49688,
+            43.241492
+          ],
+          [
+            -77.496891,
+            43.241478
+          ],
+          [
+            -77.496893,
+            43.241465
+          ],
+          [
+            -77.496901,
+            43.241455
+          ],
+          [
+            -77.496956,
+            43.241432
+          ],
+          [
+            -77.496989,
+            43.241431
+          ],
+          [
+            -77.497023,
+            43.24144
+          ],
+          [
+            -77.497033,
+            43.241442
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-chiyoda-loop:2452fe35",
+        "trailsroc-trailIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-name": "Chiyoda Trail Loop",
+        "trailsroc-shortName": "Chiyoda Trail Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "pink"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.422247,
+            43.227809
+          ],
+          [
+            -77.422263,
+            43.227813
+          ],
+          [
+            -77.422388,
+            43.22797
+          ],
+          [
+            -77.422398,
+            43.228184
+          ],
+          [
+            -77.422379,
+            43.228223
+          ],
+          [
+            -77.422351,
+            43.228253
+          ],
+          [
+            -77.422328,
+            43.228308
+          ],
+          [
+            -77.422307,
+            43.22847
+          ],
+          [
+            -77.422299,
+            43.228484
+          ],
+          [
+            -77.422245,
+            43.228523
+          ],
+          [
+            -77.42221,
+            43.228533
+          ],
+          [
+            -77.422112,
+            43.228523
+          ],
+          [
+            -77.422077,
+            43.228525
+          ],
+          [
+            -77.422026,
+            43.228523
+          ],
+          [
+            -77.422014,
+            43.228524
+          ],
+          [
+            -77.422001,
+            43.228529
+          ],
+          [
+            -77.421984,
+            43.22853
+          ],
+          [
+            -77.421779,
+            43.228505
+          ],
+          [
+            -77.421768,
+            43.228507
+          ],
+          [
+            -77.421276,
+            43.228428
+          ],
+          [
+            -77.421098,
+            43.228468
+          ],
+          [
+            -77.421036,
+            43.228513
+          ],
+          [
+            -77.421009,
+            43.228564
+          ],
+          [
+            -77.420992,
+            43.229563
+          ],
+          [
+            -77.420959,
+            43.229613
+          ],
+          [
+            -77.420997,
+            43.229833
+          ],
+          [
+            -77.421014,
+            43.229868
+          ],
+          [
+            -77.421079,
+            43.229908
+          ],
+          [
+            -77.421357,
+            43.229939
+          ],
+          [
+            -77.421603,
+            43.229893
+          ],
+          [
+            -77.421917,
+            43.22999
+          ],
+          [
+            -77.424063,
+            43.229847
+          ],
+          [
+            -77.424258,
+            43.229926
+          ],
+          [
+            -77.425245,
+            43.229951
+          ],
+          [
+            -77.425256,
+            43.229959
+          ],
+          [
+            -77.42527,
+            43.229961
+          ],
+          [
+            -77.425365,
+            43.229933
+          ],
+          [
+            -77.425371,
+            43.229934
+          ],
+          [
+            -77.425382,
+            43.229932
+          ],
+          [
+            -77.425407,
+            43.229935
+          ],
+          [
+            -77.425663,
+            43.229886
+          ],
+          [
+            -77.42569,
+            43.229895
+          ],
+          [
+            -77.425725,
+            43.229892
+          ],
+          [
+            -77.425997,
+            43.229934
+          ],
+          [
+            -77.426142,
+            43.22991
+          ],
+          [
+            -77.426187,
+            43.229886
+          ],
+          [
+            -77.4277,
+            43.229841
+          ],
+          [
+            -77.427717,
+            43.229836
+          ],
+          [
+            -77.427797,
+            43.229839
+          ],
+          [
+            -77.427896,
+            43.229795
+          ],
+          [
+            -77.427907,
+            43.229794
+          ],
+          [
+            -77.427955,
+            43.229762
+          ],
+          [
+            -77.427971,
+            43.22973
+          ],
+          [
+            -77.427972,
+            43.229693
+          ],
+          [
+            -77.427967,
+            43.22968
+          ],
+          [
+            -77.427965,
+            43.229655
+          ],
+          [
+            -77.427969,
+            43.229644
+          ],
+          [
+            -77.427961,
+            43.2296
+          ],
+          [
+            -77.427973,
+            43.22955
+          ],
+          [
+            -77.427981,
+            43.229473
+          ],
+          [
+            -77.42796,
+            43.229418
+          ],
+          [
+            -77.427907,
+            43.229354
+          ],
+          [
+            -77.427387,
+            43.229213
+          ],
+          [
+            -77.427006,
+            43.228862
+          ],
+          [
+            -77.426957,
+            43.22884
+          ],
+          [
+            -77.426946,
+            43.228839
+          ],
+          [
+            -77.426793,
+            43.228717
+          ],
+          [
+            -77.42677,
+            43.228673
+          ],
+          [
+            -77.426617,
+            43.228555
+          ],
+          [
+            -77.426563,
+            43.228326
+          ],
+          [
+            -77.426144,
+            43.227852
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-chiyoda-loop:e30513af",
+        "trailsroc-trailIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-name": "Chiyoda Trail Loop",
+        "trailsroc-shortName": "Chiyoda Trail Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "pink"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.426144,
+            43.227852
+          ],
+          [
+            -77.426143,
+            43.22784
+          ],
+          [
+            -77.425886,
+            43.227349
+          ],
+          [
+            -77.425886,
+            43.227295
+          ],
+          [
+            -77.425866,
+            43.227259
+          ],
+          [
+            -77.425829,
+            43.227243
+          ],
+          [
+            -77.425694,
+            43.227232
+          ],
+          [
+            -77.425661,
+            43.227234
+          ],
+          [
+            -77.425602,
+            43.22723
+          ],
+          [
+            -77.425542,
+            43.227196
+          ],
+          [
+            -77.425526,
+            43.227172
+          ],
+          [
+            -77.425517,
+            43.22712
+          ],
+          [
+            -77.425511,
+            43.227109
+          ],
+          [
+            -77.42551,
+            43.227083
+          ],
+          [
+            -77.425527,
+            43.227047
+          ],
+          [
+            -77.425524,
+            43.227032
+          ],
+          [
+            -77.425484,
+            43.226982
+          ],
+          [
+            -77.425479,
+            43.226971
+          ],
+          [
+            -77.425428,
+            43.226921
+          ],
+          [
+            -77.425422,
+            43.226911
+          ],
+          [
+            -77.42539,
+            43.226884
+          ],
+          [
+            -77.425375,
+            43.22688
+          ],
+          [
+            -77.425352,
+            43.22689
+          ],
+          [
+            -77.425323,
+            43.226893
+          ],
+          [
+            -77.425193,
+            43.226894
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-chiyoda-loop:3c8abc90",
+        "trailsroc-trailIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-name": "Chiyoda Trail Loop",
+        "trailsroc-shortName": "Chiyoda Trail Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "pink"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.425193,
+            43.226894
+          ],
+          [
+            -77.424724,
+            43.227071
+          ],
+          [
+            -77.424715,
+            43.22707
+          ],
+          [
+            -77.424735,
+            43.227052
+          ],
+          [
+            -77.424602,
+            43.22711
+          ],
+          [
+            -77.424446,
+            43.227276
+          ],
+          [
+            -77.424338,
+            43.227307
+          ],
+          [
+            -77.424266,
+            43.227299
+          ],
+          [
+            -77.424122,
+            43.227338
+          ],
+          [
+            -77.424111,
+            43.227345
+          ],
+          [
+            -77.424097,
+            43.22737
+          ],
+          [
+            -77.424075,
+            43.227831
+          ],
+          [
+            -77.424031,
+            43.227931
+          ],
+          [
+            -77.424029,
+            43.227946
+          ],
+          [
+            -77.424024,
+            43.227955
+          ],
+          [
+            -77.424013,
+            43.227958
+          ],
+          [
+            -77.423985,
+            43.227981
+          ],
+          [
+            -77.423975,
+            43.228004
+          ],
+          [
+            -77.423861,
+            43.228106
+          ],
+          [
+            -77.423279,
+            43.228299
+          ],
+          [
+            -77.423247,
+            43.228301
+          ],
+          [
+            -77.422466,
+            43.228157
+          ],
+          [
+            -77.422404,
+            43.228171
+          ],
+          [
+            -77.422392,
+            43.228176
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-chiyoda-connector:cced59cf",
+        "trailsroc-trailIDs": "trail-fowt-chiyoda-connector",
+        "trailsroc-name": "Chiyoda Trail Connector",
+        "trailsroc-shortName": "Chiyoda Trail Connector",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.425123,
+            43.226876
+          ],
+          [
+            -77.425113,
+            43.226872
+          ],
+          [
+            -77.424929,
+            43.226672
+          ],
+          [
+            -77.424924,
+            43.226632
+          ],
+          [
+            -77.424845,
+            43.226543
+          ],
+          [
+            -77.424808,
+            43.226523
+          ],
+          [
+            -77.424821,
+            43.226451
+          ],
+          [
+            -77.424832,
+            43.226434
+          ],
+          [
+            -77.424844,
+            43.226377
+          ],
+          [
+            -77.4249,
+            43.226332
+          ],
+          [
+            -77.424909,
+            43.22633
+          ],
+          [
+            -77.424945,
+            43.226303
+          ],
+          [
+            -77.42495,
+            43.226292
+          ],
+          [
+            -77.425308,
+            43.225986
+          ],
+          [
+            -77.425316,
+            43.225963
+          ],
+          [
+            -77.425348,
+            43.225944
+          ],
+          [
+            -77.425368,
+            43.225914
+          ],
+          [
+            -77.425575,
+            43.225832
+          ],
+          [
+            -77.425611,
+            43.225749
+          ],
+          [
+            -77.425611,
+            43.225723
+          ],
+          [
+            -77.425693,
+            43.225579
+          ],
+          [
+            -77.425812,
+            43.225522
+          ],
+          [
+            -77.426105,
+            43.225527
+          ],
+          [
+            -77.426125,
+            43.225536
+          ],
+          [
+            -77.426237,
+            43.225499
+          ],
+          [
+            -77.426258,
+            43.225479
+          ],
+          [
+            -77.426268,
+            43.22548
+          ],
+          [
+            -77.42632,
+            43.225433
+          ],
+          [
+            -77.426323,
+            43.225422
+          ],
+          [
+            -77.426645,
+            43.225241
+          ],
+          [
+            -77.426747,
+            43.225229
+          ],
+          [
+            -77.426795,
+            43.225249
+          ],
+          [
+            -77.426838,
+            43.225288
+          ],
+          [
+            -77.427141,
+            43.225312
+          ],
+          [
+            -77.427153,
+            43.225308
+          ],
+          [
+            -77.427514,
+            43.225368
+          ],
+          [
+            -77.427565,
+            43.225351
+          ],
+          [
+            -77.427631,
+            43.225263
+          ],
+          [
+            -77.427854,
+            43.225249
+          ],
+          [
+            -77.428094,
+            43.225389
+          ],
+          [
+            -77.428099,
+            43.225403
+          ],
+          [
+            -77.428215,
+            43.225483
+          ],
+          [
+            -77.428223,
+            43.225494
+          ],
+          [
+            -77.428521,
+            43.225584
+          ],
+          [
+            -77.428534,
+            43.225585
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fmcp-blue:facc5ace",
+        "trailsroc-trailIDs": "trail-fmcp-blue",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.417481,
+            43.264794
+          ],
+          [
+            -77.417462,
+            43.264776
+          ],
+          [
+            -77.417439,
+            43.264763
+          ],
+          [
+            -77.417366,
+            43.264739
+          ],
+          [
+            -77.417327,
+            43.264731
+          ],
+          [
+            -77.417296,
+            43.264729
+          ],
+          [
+            -77.417274,
+            43.264717
+          ],
+          [
+            -77.417155,
+            43.264708
+          ],
+          [
+            -77.417122,
+            43.264714
+          ],
+          [
+            -77.417086,
+            43.264716
+          ],
+          [
+            -77.41705,
+            43.2647
+          ],
+          [
+            -77.41702,
+            43.26468
+          ],
+          [
+            -77.416998,
+            43.264668
+          ],
+          [
+            -77.416984,
+            43.264656
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fmcp-blue:fd27e087",
+        "trailsroc-trailIDs": "trail-fmcp-blue",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.419321,
+            43.265266
+          ],
+          [
+            -77.419321,
+            43.265278
+          ],
+          [
+            -77.419247,
+            43.265301
+          ],
+          [
+            -77.419215,
+            43.265298
+          ],
+          [
+            -77.419199,
+            43.2653
+          ],
+          [
+            -77.419185,
+            43.265293
+          ],
+          [
+            -77.419079,
+            43.265133
+          ],
+          [
+            -77.41901,
+            43.265092
+          ],
+          [
+            -77.418972,
+            43.265049
+          ],
+          [
+            -77.418972,
+            43.265049
+          ],
+          [
+            -77.418945,
+            43.265025
+          ],
+          [
+            -77.418927,
+            43.265023
+          ],
+          [
+            -77.41891,
+            43.265025
+          ],
+          [
+            -77.418876,
+            43.265025
+          ],
+          [
+            -77.418863,
+            43.265026
+          ],
+          [
+            -77.41881,
+            43.265018
+          ],
+          [
+            -77.418793,
+            43.265023
+          ],
+          [
+            -77.418628,
+            43.264979
+          ],
+          [
+            -77.41861,
+            43.264982
+          ],
+          [
+            -77.418524,
+            43.264964
+          ],
+          [
+            -77.418483,
+            43.264973
+          ],
+          [
+            -77.418422,
+            43.264964
+          ],
+          [
+            -77.418378,
+            43.264972
+          ],
+          [
+            -77.418365,
+            43.264971
+          ],
+          [
+            -77.418349,
+            43.264972
+          ],
+          [
+            -77.418335,
+            43.264972
+          ],
+          [
+            -77.418302,
+            43.264958
+          ],
+          [
+            -77.418287,
+            43.264956
+          ],
+          [
+            -77.418276,
+            43.26496
+          ],
+          [
+            -77.418259,
+            43.264961
+          ],
+          [
+            -77.418234,
+            43.264955
+          ],
+          [
+            -77.4182,
+            43.264963
+          ],
+          [
+            -77.418172,
+            43.26496
+          ],
+          [
+            -77.41812,
+            43.264972
+          ],
+          [
+            -77.41808,
+            43.264961
+          ],
+          [
+            -77.418044,
+            43.264934
+          ],
+          [
+            -77.418004,
+            43.264872
+          ],
+          [
+            -77.418001,
+            43.264862
+          ],
+          [
+            -77.417935,
+            43.264807
+          ],
+          [
+            -77.417925,
+            43.264808
+          ],
+          [
+            -77.4179,
+            43.264795
+          ],
+          [
+            -77.417883,
+            43.26477
+          ],
+          [
+            -77.417852,
+            43.264747
+          ],
+          [
+            -77.417824,
+            43.264742
+          ],
+          [
+            -77.417811,
+            43.264744
+          ],
+          [
+            -77.417795,
+            43.264755
+          ],
+          [
+            -77.417771,
+            43.264752
+          ],
+          [
+            -77.417754,
+            43.264754
+          ],
+          [
+            -77.417736,
+            43.264764
+          ],
+          [
+            -77.417708,
+            43.264792
+          ],
+          [
+            -77.417694,
+            43.264793
+          ],
+          [
+            -77.417658,
+            43.26479
+          ],
+          [
+            -77.417575,
+            43.264809
+          ],
+          [
+            -77.417503,
+            43.264794
+          ],
+          [
+            -77.417493,
+            43.264795
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fmcp-blue:083f3224",
+        "trailsroc-trailIDs": "trail-fmcp-blue",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.417493,
+            43.264795
+          ],
+          [
+            -77.417478,
+            43.264795
+          ],
+          [
+            -77.417471,
+            43.264806
+          ],
+          [
+            -77.417471,
+            43.264817
+          ],
+          [
+            -77.417475,
+            43.264832
+          ],
+          [
+            -77.417511,
+            43.264864
+          ],
+          [
+            -77.417516,
+            43.264874
+          ],
+          [
+            -77.417515,
+            43.26489
+          ],
+          [
+            -77.417502,
+            43.26491
+          ],
+          [
+            -77.417457,
+            43.264935
+          ],
+          [
+            -77.417425,
+            43.264938
+          ],
+          [
+            -77.41739,
+            43.264935
+          ],
+          [
+            -77.417347,
+            43.264948
+          ],
+          [
+            -77.417324,
+            43.26498
+          ],
+          [
+            -77.417271,
+            43.265014
+          ],
+          [
+            -77.417258,
+            43.26503
+          ],
+          [
+            -77.417217,
+            43.26514
+          ],
+          [
+            -77.41713,
+            43.265197
+          ],
+          [
+            -77.417099,
+            43.265193
+          ],
+          [
+            -77.417082,
+            43.265195
+          ],
+          [
+            -77.417064,
+            43.265189
+          ],
+          [
+            -77.41705,
+            43.265193
+          ],
+          [
+            -77.417022,
+            43.265183
+          ],
+          [
+            -77.416967,
+            43.265117
+          ],
+          [
+            -77.416957,
+            43.265095
+          ],
+          [
+            -77.416944,
+            43.265084
+          ],
+          [
+            -77.416914,
+            43.265076
+          ],
+          [
+            -77.4169,
+            43.265077
+          ],
+          [
+            -77.41687,
+            43.265073
+          ],
+          [
+            -77.416848,
+            43.265077
+          ],
+          [
+            -77.41679,
+            43.265057
+          ],
+          [
+            -77.416758,
+            43.265055
+          ],
+          [
+            -77.416745,
+            43.265058
+          ],
+          [
+            -77.416721,
+            43.265057
+          ],
+          [
+            -77.416692,
+            43.265069
+          ],
+          [
+            -77.416679,
+            43.265079
+          ],
+          [
+            -77.416622,
+            43.265097
+          ],
+          [
+            -77.416607,
+            43.265097
+          ],
+          [
+            -77.416533,
+            43.265118
+          ],
+          [
+            -77.416292,
+            43.265064
+          ],
+          [
+            -77.416239,
+            43.265084
+          ],
+          [
+            -77.416176,
+            43.265079
+          ],
+          [
+            -77.416166,
+            43.26508
+          ],
+          [
+            -77.416152,
+            43.265086
+          ],
+          [
+            -77.416084,
+            43.26507
+          ],
+          [
+            -77.416031,
+            43.265083
+          ],
+          [
+            -77.416021,
+            43.265083
+          ],
+          [
+            -77.415962,
+            43.265116
+          ],
+          [
+            -77.415934,
+            43.265119
+          ],
+          [
+            -77.415925,
+            43.265123
+          ],
+          [
+            -77.415914,
+            43.265123
+          ],
+          [
+            -77.415902,
+            43.265126
+          ],
+          [
+            -77.415879,
+            43.265125
+          ],
+          [
+            -77.41574,
+            43.265218
+          ],
+          [
+            -77.415706,
+            43.265225
+          ],
+          [
+            -77.415679,
+            43.265223
+          ],
+          [
+            -77.415394,
+            43.265347
+          ],
+          [
+            -77.415383,
+            43.265359
+          ],
+          [
+            -77.415383,
+            43.265371
+          ],
+          [
+            -77.415375,
+            43.265383
+          ],
+          [
+            -77.415357,
+            43.265391
+          ],
+          [
+            -77.415335,
+            43.265411
+          ],
+          [
+            -77.415314,
+            43.265421
+          ],
+          [
+            -77.415303,
+            43.26542
+          ],
+          [
+            -77.415263,
+            43.265454
+          ],
+          [
+            -77.415251,
+            43.265459
+          ],
+          [
+            -77.415234,
+            43.265458
+          ],
+          [
+            -77.41521,
+            43.265462
+          ],
+          [
+            -77.415182,
+            43.265462
+          ],
+          [
+            -77.415172,
+            43.265463
+          ],
+          [
+            -77.415108,
+            43.265453
+          ],
+          [
+            -77.41509,
+            43.265441
+          ],
+          [
+            -77.415079,
+            43.265438
+          ],
+          [
+            -77.41506,
+            43.265423
+          ],
+          [
+            -77.415042,
+            43.265396
+          ],
+          [
+            -77.415039,
+            43.265385
+          ],
+          [
+            -77.414985,
+            43.265339
+          ],
+          [
+            -77.414974,
+            43.265334
+          ],
+          [
+            -77.414962,
+            43.265333
+          ],
+          [
+            -77.414951,
+            43.265339
+          ],
+          [
+            -77.414928,
+            43.265338
+          ],
+          [
+            -77.414912,
+            43.265339
+          ],
+          [
+            -77.414844,
+            43.265329
+          ],
+          [
+            -77.414831,
+            43.26533
+          ],
+          [
+            -77.414733,
+            43.265307
+          ],
+          [
+            -77.414688,
+            43.265312
+          ],
+          [
+            -77.414675,
+            43.265312
+          ],
+          [
+            -77.414661,
+            43.265316
+          ],
+          [
+            -77.414642,
+            43.265316
+          ],
+          [
+            -77.414632,
+            43.265318
+          ],
+          [
+            -77.414621,
+            43.265327
+          ],
+          [
+            -77.414557,
+            43.265353
+          ],
+          [
+            -77.414545,
+            43.265365
+          ],
+          [
+            -77.414532,
+            43.265371
+          ],
+          [
+            -77.414498,
+            43.265374
+          ],
+          [
+            -77.414475,
+            43.265395
+          ],
+          [
+            -77.414456,
+            43.265401
+          ],
+          [
+            -77.414446,
+            43.265401
+          ],
+          [
+            -77.414444,
+            43.265411
+          ],
+          [
+            -77.414438,
+            43.265416
+          ],
+          [
+            -77.414426,
+            43.265421
+          ],
+          [
+            -77.414361,
+            43.265412
+          ],
+          [
+            -77.414349,
+            43.265415
+          ],
+          [
+            -77.414285,
+            43.265406
+          ],
+          [
+            -77.414227,
+            43.265417
+          ],
+          [
+            -77.414209,
+            43.265414
+          ],
+          [
+            -77.414186,
+            43.265421
+          ],
+          [
+            -77.414154,
+            43.265453
+          ],
+          [
+            -77.414142,
+            43.265455
+          ],
+          [
+            -77.414127,
+            43.265452
+          ],
+          [
+            -77.41411,
+            43.265456
+          ],
+          [
+            -77.414095,
+            43.265452
+          ],
+          [
+            -77.414055,
+            43.265463
+          ],
+          [
+            -77.414026,
+            43.26546
+          ],
+          [
+            -77.414008,
+            43.265461
+          ],
+          [
+            -77.41399,
+            43.265461
+          ],
+          [
+            -77.413977,
+            43.265468
+          ],
+          [
+            -77.413794,
+            43.265423
+          ],
+          [
+            -77.413665,
+            43.265463
+          ],
+          [
+            -77.413641,
+            43.265483
+          ],
+          [
+            -77.413611,
+            43.265496
+          ],
+          [
+            -77.413601,
+            43.265512
+          ],
+          [
+            -77.413572,
+            43.265539
+          ],
+          [
+            -77.413577,
+            43.265552
+          ],
+          [
+            -77.413545,
+            43.265596
+          ],
+          [
+            -77.413542,
+            43.265625
+          ],
+          [
+            -77.413561,
+            43.26559
+          ],
+          [
+            -77.413515,
+            43.26554
+          ],
+          [
+            -77.413554,
+            43.265523
+          ],
+          [
+            -77.413559,
+            43.265513
+          ],
+          [
+            -77.413575,
+            43.265511
+          ],
+          [
+            -77.413574,
+            43.265509
+          ],
+          [
+            -77.413562,
+            43.265516
+          ],
+          [
+            -77.413554,
+            43.265518
+          ],
+          [
+            -77.413372,
+            43.265466
+          ],
+          [
+            -77.413351,
+            43.265473
+          ],
+          [
+            -77.41331,
+            43.265466
+          ],
+          [
+            -77.4133,
+            43.265469
+          ],
+          [
+            -77.413285,
+            43.265462
+          ],
+          [
+            -77.413259,
+            43.265427
+          ],
+          [
+            -77.413203,
+            43.265401
+          ],
+          [
+            -77.413138,
+            43.265333
+          ],
+          [
+            -77.413126,
+            43.265331
+          ],
+          [
+            -77.41307,
+            43.265251
+          ],
+          [
+            -77.413068,
+            43.26524
+          ],
+          [
+            -77.413077,
+            43.265227
+          ],
+          [
+            -77.413089,
+            43.265231
+          ],
+          [
+            -77.413105,
+            43.265226
+          ],
+          [
+            -77.413146,
+            43.265195
+          ],
+          [
+            -77.413157,
+            43.265176
+          ],
+          [
+            -77.413143,
+            43.265139
+          ],
+          [
+            -77.413148,
+            43.265123
+          ],
+          [
+            -77.413158,
+            43.265122
+          ],
+          [
+            -77.413199,
+            43.265092
+          ],
+          [
+            -77.413233,
+            43.265085
+          ],
+          [
+            -77.413259,
+            43.265069
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fmcp-blue:ccda0f02",
+        "trailsroc-trailIDs": "trail-fmcp-blue",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.413259,
+            43.265069
+          ],
+          [
+            -77.413266,
+            43.26504
+          ],
+          [
+            -77.413258,
+            43.264994
+          ],
+          [
+            -77.413271,
+            43.264969
+          ],
+          [
+            -77.413269,
+            43.264919
+          ],
+          [
+            -77.413282,
+            43.264894
+          ],
+          [
+            -77.413285,
+            43.264865
+          ],
+          [
+            -77.413299,
+            43.264842
+          ],
+          [
+            -77.413437,
+            43.264756
+          ],
+          [
+            -77.413445,
+            43.264743
+          ],
+          [
+            -77.413498,
+            43.264714
+          ],
+          [
+            -77.413511,
+            43.264711
+          ],
+          [
+            -77.413519,
+            43.264714
+          ],
+          [
+            -77.413523,
+            43.264724
+          ],
+          [
+            -77.413522,
+            43.264735
+          ],
+          [
+            -77.41353,
+            43.264751
+          ],
+          [
+            -77.413593,
+            43.264786
+          ],
+          [
+            -77.413604,
+            43.264802
+          ],
+          [
+            -77.413832,
+            43.264844
+          ],
+          [
+            -77.413841,
+            43.264843
+          ],
+          [
+            -77.414118,
+            43.264936
+          ],
+          [
+            -77.414156,
+            43.264932
+          ],
+          [
+            -77.414191,
+            43.264917
+          ],
+          [
+            -77.414246,
+            43.264874
+          ],
+          [
+            -77.414275,
+            43.264864
+          ],
+          [
+            -77.41429,
+            43.264851
+          ],
+          [
+            -77.414299,
+            43.264847
+          ],
+          [
+            -77.414469,
+            43.26484
+          ],
+          [
+            -77.414484,
+            43.264834
+          ],
+          [
+            -77.414496,
+            43.264825
+          ],
+          [
+            -77.414545,
+            43.264812
+          ],
+          [
+            -77.414557,
+            43.264798
+          ],
+          [
+            -77.41456,
+            43.264791
+          ],
+          [
+            -77.414659,
+            43.264753
+          ],
+          [
+            -77.414671,
+            43.264741
+          ],
+          [
+            -77.414681,
+            43.264737
+          ],
+          [
+            -77.414707,
+            43.264738
+          ],
+          [
+            -77.414815,
+            43.264789
+          ],
+          [
+            -77.414915,
+            43.264764
+          ],
+          [
+            -77.414917,
+            43.264751
+          ],
+          [
+            -77.414929,
+            43.264742
+          ],
+          [
+            -77.415046,
+            43.264758
+          ],
+          [
+            -77.415233,
+            43.264717
+          ],
+          [
+            -77.415257,
+            43.264728
+          ],
+          [
+            -77.415287,
+            43.26473
+          ],
+          [
+            -77.415316,
+            43.264715
+          ],
+          [
+            -77.415491,
+            43.264719
+          ],
+          [
+            -77.415607,
+            43.264799
+          ],
+          [
+            -77.415629,
+            43.264832
+          ],
+          [
+            -77.415742,
+            43.264865
+          ],
+          [
+            -77.416541,
+            43.264765
+          ],
+          [
+            -77.416632,
+            43.264788
+          ],
+          [
+            -77.416652,
+            43.264787
+          ],
+          [
+            -77.416751,
+            43.264715
+          ],
+          [
+            -77.416902,
+            43.264708
+          ],
+          [
+            -77.416944,
+            43.26468
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fmcp-blue:7610a73c",
+        "trailsroc-trailIDs": "trail-fmcp-blue",
+        "trailsroc-name": "Four Mile Creek Trail",
+        "trailsroc-shortName": "Four Mile Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.416944,
+            43.26468
+          ],
+          [
+            -77.416962,
+            43.264668
+          ],
+          [
+            -77.416984,
+            43.26466
+          ],
+          [
+            -77.417029,
+            43.264606
+          ],
+          [
+            -77.417071,
+            43.264593
+          ],
+          [
+            -77.417119,
+            43.264516
+          ],
+          [
+            -77.417425,
+            43.264461
+          ],
+          [
+            -77.417459,
+            43.264469
+          ],
+          [
+            -77.41747,
+            43.264475
+          ],
+          [
+            -77.417743,
+            43.264531
+          ],
+          [
+            -77.417773,
+            43.264526
+          ],
+          [
+            -77.417847,
+            43.264476
+          ],
+          [
+            -77.4182,
+            43.26452
+          ],
+          [
+            -77.418208,
+            43.264527
+          ],
+          [
+            -77.41822,
+            43.264548
+          ],
+          [
+            -77.418251,
+            43.264568
+          ],
+          [
+            -77.418691,
+            43.26468
+          ],
+          [
+            -77.41871,
+            43.264695
+          ],
+          [
+            -77.418713,
+            43.264706
+          ],
+          [
+            -77.418699,
+            43.264735
+          ],
+          [
+            -77.418698,
+            43.264746
+          ],
+          [
+            -77.418702,
+            43.264764
+          ],
+          [
+            -77.418717,
+            43.264782
+          ],
+          [
+            -77.418721,
+            43.264794
+          ],
+          [
+            -77.418736,
+            43.264812
+          ],
+          [
+            -77.418744,
+            43.264838
+          ],
+          [
+            -77.418742,
+            43.264875
+          ],
+          [
+            -77.418746,
+            43.264885
+          ],
+          [
+            -77.418795,
+            43.264915
+          ],
+          [
+            -77.41884,
+            43.264926
+          ],
+          [
+            -77.418882,
+            43.264956
+          ],
+          [
+            -77.418911,
+            43.264998
+          ],
+          [
+            -77.418924,
+            43.265003
+          ],
+          [
+            -77.418929,
+            43.265007
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:1cf0b2d3",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.502008,
+            43.247483
+          ],
+          [
+            -77.501997,
+            43.247488
+          ],
+          [
+            -77.501975,
+            43.24749
+          ],
+          [
+            -77.500091,
+            43.246732
+          ],
+          [
+            -77.49935,
+            43.246264
+          ],
+          [
+            -77.49852,
+            43.245516
+          ],
+          [
+            -77.498499,
+            43.245489
+          ],
+          [
+            -77.498398,
+            43.245387
+          ],
+          [
+            -77.497893,
+            43.244639
+          ],
+          [
+            -77.497835,
+            43.244485
+          ],
+          [
+            -77.49783,
+            43.244453
+          ],
+          [
+            -77.497727,
+            43.244128
+          ],
+          [
+            -77.497678,
+            43.243959
+          ],
+          [
+            -77.49763,
+            43.243678
+          ],
+          [
+            -77.497632,
+            43.24364
+          ],
+          [
+            -77.497527,
+            43.242902
+          ],
+          [
+            -77.497497,
+            43.242759
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:9cf37054",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.497497,
+            43.242759
+          ],
+          [
+            -77.497521,
+            43.242855
+          ],
+          [
+            -77.497511,
+            43.2428
+          ],
+          [
+            -77.497493,
+            43.242623
+          ],
+          [
+            -77.497421,
+            43.242334
+          ],
+          [
+            -77.49718,
+            43.240616
+          ],
+          [
+            -77.497163,
+            43.240586
+          ],
+          [
+            -77.49714,
+            43.240559
+          ],
+          [
+            -77.497079,
+            43.240301
+          ],
+          [
+            -77.497076,
+            43.240242
+          ],
+          [
+            -77.497067,
+            43.240213
+          ],
+          [
+            -77.497054,
+            43.240186
+          ],
+          [
+            -77.497013,
+            43.239973
+          ],
+          [
+            -77.497004,
+            43.239946
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:3aac7571",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.497004,
+            43.239946
+          ],
+          [
+            -77.496993,
+            43.239916
+          ],
+          [
+            -77.496973,
+            43.239888
+          ],
+          [
+            -77.496958,
+            43.239862
+          ],
+          [
+            -77.496937,
+            43.239813
+          ],
+          [
+            -77.496933,
+            43.23979
+          ],
+          [
+            -77.496868,
+            43.239605
+          ],
+          [
+            -77.49674,
+            43.23936
+          ],
+          [
+            -77.496514,
+            43.239054
+          ],
+          [
+            -77.496498,
+            43.239023
+          ],
+          [
+            -77.496478,
+            43.238962
+          ],
+          [
+            -77.496447,
+            43.238905
+          ],
+          [
+            -77.496433,
+            43.238872
+          ],
+          [
+            -77.495956,
+            43.238202
+          ],
+          [
+            -77.495793,
+            43.238057
+          ],
+          [
+            -77.495761,
+            43.238014
+          ],
+          [
+            -77.495354,
+            43.2377
+          ],
+          [
+            -77.495338,
+            43.237674
+          ],
+          [
+            -77.495312,
+            43.237646
+          ],
+          [
+            -77.494775,
+            43.237311
+          ],
+          [
+            -77.493369,
+            43.23663
+          ],
+          [
+            -77.492784,
+            43.236417
+          ],
+          [
+            -77.49264,
+            43.236332
+          ],
+          [
+            -77.492534,
+            43.236293
+          ],
+          [
+            -77.492465,
+            43.236288
+          ],
+          [
+            -77.492329,
+            43.236309
+          ],
+          [
+            -77.492329,
+            43.236309
+          ],
+          [
+            -77.492246,
+            43.236317
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:24c677eb",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.492246,
+            43.236317
+          ],
+          [
+            -77.49216,
+            43.236304
+          ],
+          [
+            -77.49205,
+            43.236252
+          ],
+          [
+            -77.491832,
+            43.236205
+          ],
+          [
+            -77.491797,
+            43.236204
+          ],
+          [
+            -77.490505,
+            43.235881
+          ],
+          [
+            -77.49041,
+            43.235877
+          ],
+          [
+            -77.490265,
+            43.235856
+          ],
+          [
+            -77.490131,
+            43.235821
+          ],
+          [
+            -77.489548,
+            43.23574
+          ],
+          [
+            -77.489416,
+            43.235669
+          ],
+          [
+            -77.488322,
+            43.235416
+          ],
+          [
+            -77.488282,
+            43.235385
+          ],
+          [
+            -77.487628,
+            43.235199
+          ],
+          [
+            -77.487589,
+            43.235183
+          ],
+          [
+            -77.487549,
+            43.235167
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:2fc90c67",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.487549,
+            43.235167
+          ],
+          [
+            -77.487468,
+            43.235143
+          ],
+          [
+            -77.487426,
+            43.235119
+          ],
+          [
+            -77.487263,
+            43.235049
+          ],
+          [
+            -77.487178,
+            43.235025
+          ],
+          [
+            -77.487134,
+            43.235018
+          ],
+          [
+            -77.481609,
+            43.233555
+          ],
+          [
+            -77.481409,
+            43.233533
+          ],
+          [
+            -77.481249,
+            43.233469
+          ],
+          [
+            -77.481249,
+            43.233469
+          ],
+          [
+            -77.481022,
+            43.233428
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:da8903ed",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.481022,
+            43.233428
+          ],
+          [
+            -77.480968,
+            43.233396
+          ],
+          [
+            -77.479511,
+            43.233017
+          ],
+          [
+            -77.479343,
+            43.232993
+          ],
+          [
+            -77.47931,
+            43.232994
+          ],
+          [
+            -77.479281,
+            43.232988
+          ],
+          [
+            -77.479161,
+            43.232978
+          ],
+          [
+            -77.478536,
+            43.232844
+          ],
+          [
+            -77.4785,
+            43.232831
+          ],
+          [
+            -77.478468,
+            43.232815
+          ],
+          [
+            -77.478386,
+            43.232765
+          ],
+          [
+            -77.477992,
+            43.232648
+          ],
+          [
+            -77.477963,
+            43.232636
+          ],
+          [
+            -77.475128,
+            43.231911
+          ],
+          [
+            -77.475095,
+            43.231899
+          ],
+          [
+            -77.473331,
+            43.231461
+          ],
+          [
+            -77.473254,
+            43.231434
+          ],
+          [
+            -77.473004,
+            43.231371
+          ],
+          [
+            -77.472893,
+            43.231325
+          ],
+          [
+            -77.472862,
+            43.231308
+          ],
+          [
+            -77.471331,
+            43.230748
+          ],
+          [
+            -77.471274,
+            43.230715
+          ],
+          [
+            -77.471224,
+            43.230678
+          ],
+          [
+            -77.471194,
+            43.230661
+          ],
+          [
+            -77.47116,
+            43.230649
+          ],
+          [
+            -77.47106,
+            43.23063
+          ],
+          [
+            -77.470768,
+            43.230526
+          ],
+          [
+            -77.470768,
+            43.230526
+          ],
+          [
+            -77.470706,
+            43.23051
+          ],
+          [
+            -77.470676,
+            43.230502
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:b83036be",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.470676,
+            43.230502
+          ],
+          [
+            -77.470607,
+            43.230485
+          ],
+          [
+            -77.470253,
+            43.230358
+          ],
+          [
+            -77.470205,
+            43.230321
+          ],
+          [
+            -77.470179,
+            43.230306
+          ],
+          [
+            -77.468054,
+            43.229556
+          ],
+          [
+            -77.467972,
+            43.229548
+          ],
+          [
+            -77.467272,
+            43.229281
+          ],
+          [
+            -77.467235,
+            43.229275
+          ],
+          [
+            -77.46298,
+            43.227786
+          ],
+          [
+            -77.46289,
+            43.227768
+          ],
+          [
+            -77.461684,
+            43.22724
+          ],
+          [
+            -77.461639,
+            43.227213
+          ],
+          [
+            -77.461415,
+            43.227149
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:236fbd44",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.461415,
+            43.227149
+          ],
+          [
+            -77.461415,
+            43.227149
+          ],
+          [
+            -77.461398,
+            43.227145
+          ],
+          [
+            -77.461341,
+            43.227119
+          ],
+          [
+            -77.461192,
+            43.227075
+          ],
+          [
+            -77.461142,
+            43.227047
+          ],
+          [
+            -77.461126,
+            43.227032
+          ],
+          [
+            -77.461105,
+            43.227022
+          ],
+          [
+            -77.461017,
+            43.22701
+          ],
+          [
+            -77.457331,
+            43.225722
+          ],
+          [
+            -77.457245,
+            43.225705
+          ],
+          [
+            -77.446741,
+            43.221881
+          ],
+          [
+            -77.446729,
+            43.221882
+          ],
+          [
+            -77.446698,
+            43.221867
+          ],
+          [
+            -77.446698,
+            43.221867
+          ],
+          [
+            -77.446671,
+            43.221857
+          ],
+          [
+            -77.446643,
+            43.221848
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:ca94882d",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.446643,
+            43.221848
+          ],
+          [
+            -77.446613,
+            43.221838
+          ],
+          [
+            -77.44658,
+            43.221824
+          ],
+          [
+            -77.446547,
+            43.221808
+          ],
+          [
+            -77.446515,
+            43.221794
+          ],
+          [
+            -77.446483,
+            43.221782
+          ],
+          [
+            -77.44645,
+            43.221771
+          ],
+          [
+            -77.446386,
+            43.221747
+          ],
+          [
+            -77.446352,
+            43.221736
+          ],
+          [
+            -77.445974,
+            43.221601
+          ],
+          [
+            -77.444643,
+            43.221113
+          ],
+          [
+            -77.444611,
+            43.2211
+          ],
+          [
+            -77.444069,
+            43.220916
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:79419a1e",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.444069,
+            43.220916
+          ],
+          [
+            -77.444037,
+            43.220903
+          ],
+          [
+            -77.444005,
+            43.220888
+          ],
+          [
+            -77.443832,
+            43.220825
+          ],
+          [
+            -77.442983,
+            43.220509
+          ],
+          [
+            -77.441409,
+            43.219932
+          ],
+          [
+            -77.441131,
+            43.219841
+          ],
+          [
+            -77.44101,
+            43.219802
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:a01a0ece",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.44101,
+            43.219802
+          ],
+          [
+            -77.440896,
+            43.219765
+          ],
+          [
+            -77.440862,
+            43.21975
+          ],
+          [
+            -77.440793,
+            43.219724
+          ],
+          [
+            -77.440723,
+            43.219701
+          ],
+          [
+            -77.440654,
+            43.219674
+          ],
+          [
+            -77.439707,
+            43.21933
+          ],
+          [
+            -77.439276,
+            43.21918
+          ],
+          [
+            -77.438589,
+            43.218976
+          ],
+          [
+            -77.438468,
+            43.218946
+          ],
+          [
+            -77.438223,
+            43.218874
+          ],
+          [
+            -77.436869,
+            43.218553
+          ],
+          [
+            -77.436721,
+            43.218525
+          ],
+          [
+            -77.43658,
+            43.218491
+          ],
+          [
+            -77.435231,
+            43.218248
+          ],
+          [
+            -77.435076,
+            43.218226
+          ],
+          [
+            -77.435038,
+            43.218219
+          ],
+          [
+            -77.434566,
+            43.218154
+          ],
+          [
+            -77.434525,
+            43.21815
+          ],
+          [
+            -77.434356,
+            43.218123
+          ],
+          [
+            -77.433311,
+            43.218003
+          ],
+          [
+            -77.433192,
+            43.217998
+          ],
+          [
+            -77.433037,
+            43.217979
+          ],
+          [
+            -77.432209,
+            43.217926
+          ],
+          [
+            -77.432169,
+            43.217922
+          ],
+          [
+            -77.430546,
+            43.217883
+          ],
+          [
+            -77.430511,
+            43.217884
+          ],
+          [
+            -77.430447,
+            43.217883
+          ],
+          [
+            -77.430417,
+            43.217884
+          ],
+          [
+            -77.430336,
+            43.217884
+          ],
+          [
+            -77.430313,
+            43.217883
+          ],
+          [
+            -77.430269,
+            43.217889
+          ],
+          [
+            -77.430243,
+            43.21789
+          ],
+          [
+            -77.430217,
+            43.217889
+          ],
+          [
+            -77.430217,
+            43.217889
+          ],
+          [
+            -77.430192,
+            43.21789
+          ],
+          [
+            -77.430166,
+            43.217893
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-hojack-main:3dc59aaf",
+        "trailsroc-trailIDs": "trail-fowt-hojack-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Hojack Trail",
+        "trailsroc-shortName": "Hojack Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.430166,
+            43.217893
+          ],
+          [
+            -77.430144,
+            43.217894
+          ],
+          [
+            -77.43012,
+            43.217894
+          ],
+          [
+            -77.430007,
+            43.217889
+          ],
+          [
+            -77.429635,
+            43.217905
+          ],
+          [
+            -77.429596,
+            43.217905
+          ],
+          [
+            -77.429518,
+            43.217909
+          ],
+          [
+            -77.429478,
+            43.217909
+          ],
+          [
+            -77.428124,
+            43.217997
+          ],
+          [
+            -77.428081,
+            43.217998
+          ],
+          [
+            -77.427049,
+            43.218103
+          ],
+          [
+            -77.419316,
+            43.219057
+          ],
+          [
+            -77.419303,
+            43.219064
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop:0ec3de5c",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.44417,
+            43.220924
+          ],
+          [
+            -77.444187,
+            43.220894
+          ],
+          [
+            -77.444198,
+            43.220858
+          ],
+          [
+            -77.444198,
+            43.22085
+          ],
+          [
+            -77.444195,
+            43.220839
+          ],
+          [
+            -77.444194,
+            43.220822
+          ],
+          [
+            -77.444202,
+            43.220808
+          ],
+          [
+            -77.444201,
+            43.220741
+          ],
+          [
+            -77.444192,
+            43.220727
+          ],
+          [
+            -77.444191,
+            43.220709
+          ],
+          [
+            -77.444196,
+            43.220692
+          ],
+          [
+            -77.444195,
+            43.220682
+          ],
+          [
+            -77.444198,
+            43.220652
+          ],
+          [
+            -77.444217,
+            43.220634
+          ],
+          [
+            -77.444237,
+            43.220566
+          ],
+          [
+            -77.444237,
+            43.220539
+          ],
+          [
+            -77.444255,
+            43.220523
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop:48a2058a",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.444255,
+            43.220523
+          ],
+          [
+            -77.444265,
+            43.220519
+          ],
+          [
+            -77.444385,
+            43.220509
+          ],
+          [
+            -77.444414,
+            43.220482
+          ],
+          [
+            -77.444434,
+            43.220471
+          ],
+          [
+            -77.444442,
+            43.220461
+          ],
+          [
+            -77.444466,
+            43.22045
+          ],
+          [
+            -77.444473,
+            43.220445
+          ],
+          [
+            -77.444497,
+            43.220436
+          ],
+          [
+            -77.444559,
+            43.220376
+          ],
+          [
+            -77.444642,
+            43.220238
+          ],
+          [
+            -77.444646,
+            43.220193
+          ],
+          [
+            -77.444659,
+            43.220175
+          ],
+          [
+            -77.444674,
+            43.220106
+          ],
+          [
+            -77.444675,
+            43.220072
+          ],
+          [
+            -77.444669,
+            43.220047
+          ],
+          [
+            -77.444675,
+            43.220018
+          ],
+          [
+            -77.444675,
+            43.220009
+          ],
+          [
+            -77.44468,
+            43.219987
+          ],
+          [
+            -77.444677,
+            43.219954
+          ],
+          [
+            -77.444673,
+            43.219944
+          ],
+          [
+            -77.444672,
+            43.219933
+          ],
+          [
+            -77.444675,
+            43.219921
+          ],
+          [
+            -77.444673,
+            43.219782
+          ],
+          [
+            -77.444675,
+            43.219771
+          ],
+          [
+            -77.444659,
+            43.219691
+          ],
+          [
+            -77.444659,
+            43.219681
+          ],
+          [
+            -77.444661,
+            43.219671
+          ],
+          [
+            -77.444469,
+            43.219232
+          ],
+          [
+            -77.44448,
+            43.219212
+          ],
+          [
+            -77.444477,
+            43.21919
+          ],
+          [
+            -77.444481,
+            43.219157
+          ],
+          [
+            -77.444484,
+            43.219148
+          ],
+          [
+            -77.44449,
+            43.219085
+          ],
+          [
+            -77.444496,
+            43.219065
+          ],
+          [
+            -77.444481,
+            43.219044
+          ],
+          [
+            -77.444476,
+            43.219028
+          ],
+          [
+            -77.444479,
+            43.218919
+          ],
+          [
+            -77.444496,
+            43.218872
+          ],
+          [
+            -77.444531,
+            43.218588
+          ],
+          [
+            -77.444555,
+            43.218525
+          ],
+          [
+            -77.444557,
+            43.218514
+          ],
+          [
+            -77.444565,
+            43.218496
+          ],
+          [
+            -77.444563,
+            43.218474
+          ],
+          [
+            -77.444565,
+            43.218452
+          ],
+          [
+            -77.44456,
+            43.218426
+          ],
+          [
+            -77.444575,
+            43.218307
+          ],
+          [
+            -77.444579,
+            43.218295
+          ],
+          [
+            -77.444573,
+            43.218223
+          ],
+          [
+            -77.444624,
+            43.217889
+          ],
+          [
+            -77.444615,
+            43.217872
+          ],
+          [
+            -77.444611,
+            43.217859
+          ],
+          [
+            -77.444659,
+            43.217373
+          ],
+          [
+            -77.444657,
+            43.21735
+          ],
+          [
+            -77.444664,
+            43.217328
+          ],
+          [
+            -77.44467,
+            43.217237
+          ],
+          [
+            -77.444645,
+            43.217176
+          ],
+          [
+            -77.444626,
+            43.217028
+          ],
+          [
+            -77.444606,
+            43.216994
+          ],
+          [
+            -77.444596,
+            43.21685
+          ],
+          [
+            -77.444593,
+            43.216839
+          ],
+          [
+            -77.444587,
+            43.216827
+          ],
+          [
+            -77.444577,
+            43.216792
+          ],
+          [
+            -77.444544,
+            43.216741
+          ],
+          [
+            -77.444477,
+            43.216721
+          ],
+          [
+            -77.444393,
+            43.216557
+          ],
+          [
+            -77.444361,
+            43.216538
+          ],
+          [
+            -77.444228,
+            43.216294
+          ],
+          [
+            -77.444193,
+            43.216259
+          ],
+          [
+            -77.443858,
+            43.216033
+          ],
+          [
+            -77.443813,
+            43.215965
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop:547ca833",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.439623,
+            43.216063
+          ],
+          [
+            -77.439631,
+            43.216123
+          ],
+          [
+            -77.439622,
+            43.216198
+          ],
+          [
+            -77.439633,
+            43.216243
+          ],
+          [
+            -77.439594,
+            43.216522
+          ],
+          [
+            -77.43974,
+            43.217567
+          ],
+          [
+            -77.439703,
+            43.217729
+          ],
+          [
+            -77.439693,
+            43.217741
+          ],
+          [
+            -77.439682,
+            43.21777
+          ],
+          [
+            -77.439683,
+            43.217785
+          ],
+          [
+            -77.439579,
+            43.218197
+          ],
+          [
+            -77.439559,
+            43.218229
+          ],
+          [
+            -77.439507,
+            43.218405
+          ],
+          [
+            -77.4395,
+            43.218415
+          ],
+          [
+            -77.439486,
+            43.218557
+          ],
+          [
+            -77.439554,
+            43.218741
+          ],
+          [
+            -77.439857,
+            43.218902
+          ],
+          [
+            -77.440059,
+            43.218924
+          ],
+          [
+            -77.440221,
+            43.218899
+          ],
+          [
+            -77.440458,
+            43.218864
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop:debdc222",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.440458,
+            43.218864
+          ],
+          [
+            -77.440551,
+            43.218979
+          ],
+          [
+            -77.440562,
+            43.218995
+          ],
+          [
+            -77.440594,
+            43.218998
+          ],
+          [
+            -77.440624,
+            43.219011
+          ],
+          [
+            -77.440659,
+            43.21904
+          ],
+          [
+            -77.440672,
+            43.219046
+          ],
+          [
+            -77.440695,
+            43.219065
+          ],
+          [
+            -77.440708,
+            43.219068
+          ],
+          [
+            -77.440877,
+            43.219183
+          ],
+          [
+            -77.440893,
+            43.219186
+          ],
+          [
+            -77.441041,
+            43.219275
+          ],
+          [
+            -77.441056,
+            43.219279
+          ],
+          [
+            -77.441092,
+            43.219313
+          ],
+          [
+            -77.441117,
+            43.219325
+          ],
+          [
+            -77.441189,
+            43.219406
+          ],
+          [
+            -77.441253,
+            43.219458
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop:265257ad",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop",
+        "trailsroc-name": "North Ponds Park Loop",
+        "trailsroc-shortName": "North Ponds Park Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.441253,
+            43.219458
+          ],
+          [
+            -77.441423,
+            43.2196
+          ],
+          [
+            -77.441437,
+            43.219606
+          ],
+          [
+            -77.441453,
+            43.219607
+          ],
+          [
+            -77.441595,
+            43.219711
+          ],
+          [
+            -77.442064,
+            43.219879
+          ],
+          [
+            -77.442079,
+            43.21988
+          ],
+          [
+            -77.442585,
+            43.220071
+          ],
+          [
+            -77.442597,
+            43.22008
+          ],
+          [
+            -77.442816,
+            43.220154
+          ],
+          [
+            -77.442837,
+            43.220154
+          ],
+          [
+            -77.442839,
+            43.220152
+          ],
+          [
+            -77.442849,
+            43.220151
+          ],
+          [
+            -77.442863,
+            43.220153
+          ],
+          [
+            -77.443034,
+            43.220229
+          ],
+          [
+            -77.443054,
+            43.220228
+          ],
+          [
+            -77.443897,
+            43.220535
+          ],
+          [
+            -77.444225,
+            43.220531
+          ],
+          [
+            -77.444237,
+            43.220525
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-bird-sanctuary:f005c87d",
+        "trailsroc-trailIDs": "trail-fowt-bird-sanctuary",
+        "trailsroc-name": "Bird Sanctuary Trail",
+        "trailsroc-shortName": "Bird Sanctuary Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.428555,
+            43.225693
+          ],
+          [
+            -77.429073,
+            43.225711
+          ],
+          [
+            -77.429157,
+            43.225668
+          ],
+          [
+            -77.429371,
+            43.225654
+          ],
+          [
+            -77.429416,
+            43.225661
+          ],
+          [
+            -77.429721,
+            43.225346
+          ],
+          [
+            -77.42984,
+            43.225282
+          ],
+          [
+            -77.430036,
+            43.225232
+          ],
+          [
+            -77.430623,
+            43.225285
+          ],
+          [
+            -77.430721,
+            43.225314
+          ],
+          [
+            -77.430805,
+            43.225312
+          ],
+          [
+            -77.431105,
+            43.225192
+          ],
+          [
+            -77.43135,
+            43.225196
+          ],
+          [
+            -77.431738,
+            43.225297
+          ],
+          [
+            -77.431906,
+            43.225298
+          ],
+          [
+            -77.431951,
+            43.225307
+          ],
+          [
+            -77.432913,
+            43.225196
+          ],
+          [
+            -77.432945,
+            43.225183
+          ],
+          [
+            -77.433031,
+            43.225118
+          ],
+          [
+            -77.433172,
+            43.224958
+          ],
+          [
+            -77.433227,
+            43.224917
+          ],
+          [
+            -77.433296,
+            43.224893
+          ],
+          [
+            -77.43392,
+            43.224847
+          ],
+          [
+            -77.434601,
+            43.22468
+          ],
+          [
+            -77.434758,
+            43.224678
+          ],
+          [
+            -77.435746,
+            43.224333
+          ],
+          [
+            -77.436045,
+            43.224323
+          ],
+          [
+            -77.436189,
+            43.224284
+          ],
+          [
+            -77.436266,
+            43.224244
+          ],
+          [
+            -77.436353,
+            43.224174
+          ],
+          [
+            -77.436451,
+            43.224132
+          ],
+          [
+            -77.437133,
+            43.224012
+          ],
+          [
+            -77.437196,
+            43.223981
+          ],
+          [
+            -77.437311,
+            43.223893
+          ],
+          [
+            -77.437397,
+            43.223747
+          ],
+          [
+            -77.437449,
+            43.223698
+          ],
+          [
+            -77.437652,
+            43.223617
+          ],
+          [
+            -77.437769,
+            43.223543
+          ],
+          [
+            -77.438216,
+            43.22341
+          ],
+          [
+            -77.438297,
+            43.22335
+          ],
+          [
+            -77.438799,
+            43.222527
+          ],
+          [
+            -77.43911,
+            43.222196
+          ],
+          [
+            -77.439181,
+            43.222076
+          ],
+          [
+            -77.439198,
+            43.222008
+          ],
+          [
+            -77.43935,
+            43.221735
+          ],
+          [
+            -77.439365,
+            43.221685
+          ],
+          [
+            -77.439417,
+            43.2216
+          ],
+          [
+            -77.439423,
+            43.221575
+          ],
+          [
+            -77.440048,
+            43.220592
+          ],
+          [
+            -77.440535,
+            43.22015
+          ],
+          [
+            -77.440662,
+            43.220093
+          ],
+          [
+            -77.440764,
+            43.220073
+          ],
+          [
+            -77.440885,
+            43.219931
+          ],
+          [
+            -77.440955,
+            43.219846
+          ],
+          [
+            -77.441002,
+            43.2198
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-bird-sanctuary:6feb8ab7",
+        "trailsroc-trailIDs": "trail-fowt-bird-sanctuary",
+        "trailsroc-name": "Bird Sanctuary Trail",
+        "trailsroc-shortName": "Bird Sanctuary Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "dark_green"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.441002,
+            43.2198
+          ],
+          [
+            -77.441026,
+            43.21973
+          ],
+          [
+            -77.441045,
+            43.21971
+          ],
+          [
+            -77.441067,
+            43.219633
+          ],
+          [
+            -77.441176,
+            43.219538
+          ],
+          [
+            -77.441185,
+            43.219527
+          ],
+          [
+            -77.441202,
+            43.219492
+          ],
+          [
+            -77.441231,
+            43.219462
+          ],
+          [
+            -77.441239,
+            43.219453
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:b286d2a4",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515428,
+            43.214274
+          ],
+          [
+            -77.513436,
+            43.214248
+          ],
+          [
+            -77.511099,
+            43.214328
+          ],
+          [
+            -77.509893,
+            43.214447
+          ],
+          [
+            -77.508562,
+            43.214452
+          ],
+          [
+            -77.507447,
+            43.214509
+          ],
+          [
+            -77.506724,
+            43.214511
+          ],
+          [
+            -77.505501,
+            43.214702
+          ],
+          [
+            -77.504883,
+            43.214676
+          ],
+          [
+            -77.504235,
+            43.214752
+          ],
+          [
+            -77.503758,
+            43.214784
+          ],
+          [
+            -77.503441,
+            43.214725
+          ],
+          [
+            -77.503763,
+            43.214043
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:3eaf4f7f",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.503763,
+            43.214043
+          ],
+          [
+            -77.503481,
+            43.213979
+          ],
+          [
+            -77.500989,
+            43.214044
+          ],
+          [
+            -77.500397,
+            43.213888
+          ],
+          [
+            -77.499957,
+            43.213878
+          ],
+          [
+            -77.499284,
+            43.214047
+          ],
+          [
+            -77.497377,
+            43.214175
+          ],
+          [
+            -77.496908,
+            43.214135
+          ],
+          [
+            -77.496128,
+            43.214042
+          ],
+          [
+            -77.495564,
+            43.214044
+          ],
+          [
+            -77.4947,
+            43.214234
+          ],
+          [
+            -77.493949,
+            43.214241
+          ],
+          [
+            -77.493674,
+            43.214206
+          ],
+          [
+            -77.493303,
+            43.214051
+          ],
+          [
+            -77.491612,
+            43.214056
+          ],
+          [
+            -77.491308,
+            43.214026
+          ],
+          [
+            -77.49088,
+            43.214786
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:30c765c9",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.49088,
+            43.214786
+          ],
+          [
+            -77.488849,
+            43.214778
+          ],
+          [
+            -77.488685,
+            43.214738
+          ],
+          [
+            -77.485122,
+            43.214649
+          ],
+          [
+            -77.484897,
+            43.214687
+          ],
+          [
+            -77.481104,
+            43.214603
+          ],
+          [
+            -77.480805,
+            43.214526
+          ],
+          [
+            -77.478292,
+            43.214472
+          ],
+          [
+            -77.477008,
+            43.214518
+          ],
+          [
+            -77.476736,
+            43.21449
+          ],
+          [
+            -77.475769,
+            43.214565
+          ],
+          [
+            -77.475621,
+            43.214679
+          ],
+          [
+            -77.475312,
+            43.214615
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:ec012658",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.475312,
+            43.214615
+          ],
+          [
+            -77.474873,
+            43.21464
+          ],
+          [
+            -77.474562,
+            43.214625
+          ],
+          [
+            -77.473911,
+            43.21456
+          ],
+          [
+            -77.47187,
+            43.214493
+          ],
+          [
+            -77.471602,
+            43.214422
+          ],
+          [
+            -77.470306,
+            43.214331
+          ],
+          [
+            -77.469837,
+            43.21435
+          ],
+          [
+            -77.46617,
+            43.214182
+          ],
+          [
+            -77.464788,
+            43.214313
+          ],
+          [
+            -77.463995,
+            43.214332
+          ],
+          [
+            -77.461394,
+            43.214606
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:df571f07",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.461394,
+            43.214606
+          ],
+          [
+            -77.461097,
+            43.214708
+          ],
+          [
+            -77.460602,
+            43.214721
+          ],
+          [
+            -77.459021,
+            43.214918
+          ],
+          [
+            -77.458593,
+            43.214899
+          ],
+          [
+            -77.458114,
+            43.215068
+          ],
+          [
+            -77.456988,
+            43.215185
+          ],
+          [
+            -77.456572,
+            43.215242
+          ],
+          [
+            -77.456043,
+            43.21521
+          ],
+          [
+            -77.452592,
+            43.215596
+          ],
+          [
+            -77.451163,
+            43.215908
+          ],
+          [
+            -77.449592,
+            43.215941
+          ],
+          [
+            -77.448471,
+            43.216052
+          ],
+          [
+            -77.447113,
+            43.216109
+          ],
+          [
+            -77.446618,
+            43.216081
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:bcf8ee96",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.446618,
+            43.216081
+          ],
+          [
+            -77.446269,
+            43.216156
+          ],
+          [
+            -77.444655,
+            43.216061
+          ],
+          [
+            -77.444224,
+            43.215987
+          ],
+          [
+            -77.443819,
+            43.215965
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:6e4cb1d7",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.439621,
+            43.216063
+          ],
+          [
+            -77.439526,
+            43.21603
+          ],
+          [
+            -77.438991,
+            43.216014
+          ],
+          [
+            -77.438127,
+            43.21602
+          ],
+          [
+            -77.437915,
+            43.215996
+          ],
+          [
+            -77.437212,
+            43.215862
+          ],
+          [
+            -77.435424,
+            43.215976
+          ],
+          [
+            -77.4351,
+            43.216046
+          ],
+          [
+            -77.432974,
+            43.216135
+          ],
+          [
+            -77.430515,
+            43.216271
+          ],
+          [
+            -77.43043,
+            43.216298
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:54126b32",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.43043,
+            43.216298
+          ],
+          [
+            -77.430367,
+            43.216246
+          ],
+          [
+            -77.430394,
+            43.215364
+          ],
+          [
+            -77.430026,
+            43.215423
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:698138fd",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.430026,
+            43.215423
+          ],
+          [
+            -77.429879,
+            43.215376
+          ],
+          [
+            -77.429702,
+            43.215382
+          ],
+          [
+            -77.428634,
+            43.215488
+          ],
+          [
+            -77.42814,
+            43.215593
+          ],
+          [
+            -77.427559,
+            43.21568
+          ],
+          [
+            -77.426903,
+            43.215802
+          ],
+          [
+            -77.425574,
+            43.216192
+          ],
+          [
+            -77.424328,
+            43.216504
+          ],
+          [
+            -77.424135,
+            43.216538
+          ],
+          [
+            -77.423448,
+            43.216531
+          ],
+          [
+            -77.423024,
+            43.216609
+          ],
+          [
+            -77.422608,
+            43.216797
+          ],
+          [
+            -77.422526,
+            43.216867
+          ],
+          [
+            -77.422401,
+            43.216903
+          ],
+          [
+            -77.422305,
+            43.216964
+          ],
+          [
+            -77.422148,
+            43.216994
+          ],
+          [
+            -77.421872,
+            43.21699
+          ],
+          [
+            -77.421568,
+            43.217056
+          ],
+          [
+            -77.420628,
+            43.217266
+          ],
+          [
+            -77.41987,
+            43.217446
+          ],
+          [
+            -77.419537,
+            43.217492
+          ],
+          [
+            -77.419205,
+            43.217692
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-rt104-path:3bd1bafa",
+        "trailsroc-trailIDs": "trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Route 104 Bike Path",
+        "trailsroc-shortName": "Route 104 Bike Path",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.419205,
+            43.217692
+          ],
+          [
+            -77.418906,
+            43.217753
+          ],
+          [
+            -77.418222,
+            43.21812
+          ],
+          [
+            -77.41801,
+            43.218222
+          ],
+          [
+            -77.417583,
+            43.21829
+          ],
+          [
+            -77.417024,
+            43.218404
+          ],
+          [
+            -77.416063,
+            43.218744
+          ],
+          [
+            -77.415546,
+            43.218814
+          ],
+          [
+            -77.414544,
+            43.218896
+          ],
+          [
+            -77.413438,
+            43.219017
+          ],
+          [
+            -77.413255,
+            43.219015
+          ],
+          [
+            -77.413039,
+            43.218752
+          ],
+          [
+            -77.412906,
+            43.218673
+          ],
+          [
+            -77.411651,
+            43.218625
+          ],
+          [
+            -77.41138,
+            43.218671
+          ],
+          [
+            -77.411173,
+            43.219023
+          ],
+          [
+            -77.410865,
+            43.219197
+          ],
+          [
+            -77.410184,
+            43.219205
+          ],
+          [
+            -77.409659,
+            43.219364
+          ],
+          [
+            -77.409207,
+            43.219378
+          ],
+          [
+            -77.408843,
+            43.219475
+          ],
+          [
+            -77.408393,
+            43.21954
+          ],
+          [
+            -77.407366,
+            43.219523
+          ],
+          [
+            -77.406559,
+            43.219702
+          ],
+          [
+            -77.405588,
+            43.219686
+          ],
+          [
+            -77.404783,
+            43.219684
+          ],
+          [
+            -77.403044,
+            43.21949
+          ],
+          [
+            -77.402336,
+            43.219454
+          ],
+          [
+            -77.400801,
+            43.219289
+          ],
+          [
+            -77.400449,
+            43.219187
+          ],
+          [
+            -77.400326,
+            43.219229
+          ],
+          [
+            -77.400315,
+            43.219286
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-fowt-nponds-loop,trail-fowt-rt104-path:1be8f719",
+        "trailsroc-trailIDs": "trail-fowt-nponds-loop,trail-fowt-rt104-path",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow",
+        "trailsroc-color2": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.443805,
+            43.215964
+          ],
+          [
+            -77.443472,
+            43.215937
+          ],
+          [
+            -77.443097,
+            43.215913
+          ],
+          [
+            -77.442722,
+            43.215901
+          ],
+          [
+            -77.442346,
+            43.215883
+          ],
+          [
+            -77.441953,
+            43.215871
+          ],
+          [
+            -77.441471,
+            43.21585
+          ],
+          [
+            -77.440971,
+            43.215834
+          ],
+          [
+            -77.440913,
+            43.215842
+          ],
+          [
+            -77.440797,
+            43.215884
+          ],
+          [
+            -77.440703,
+            43.215935
+          ],
+          [
+            -77.440636,
+            43.216012
+          ],
+          [
+            -77.4406,
+            43.216049
+          ],
+          [
+            -77.440479,
+            43.216083
+          ],
+          [
+            -77.440401,
+            43.216093
+          ],
+          [
+            -77.440121,
+            43.216109
+          ],
+          [
+            -77.439851,
+            43.216101
+          ],
+          [
+            -77.439629,
+            43.216064
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-fowt-finn:border1",
+        "trailsroc-parkID": "park-fowt-finn",
+        "trailsroc-style": "minorPark"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.489781,
+              43.216957
+            ],
+            [
+              -77.490729,
+              43.217303
+            ],
+            [
+              -77.492436,
+              43.217328
+            ],
+            [
+              -77.492832,
+              43.218036
+            ],
+            [
+              -77.495429,
+              43.218005
+            ],
+            [
+              -77.495227,
+              43.21847
+            ],
+            [
+              -77.500795,
+              43.218331
+            ],
+            [
+              -77.501062,
+              43.217777
+            ],
+            [
+              -77.501717,
+              43.21789
+            ],
+            [
+              -77.501839,
+              43.217646
+            ],
+            [
+              -77.499807,
+              43.217405
+            ],
+            [
+              -77.499548,
+              43.216701
+            ],
+            [
+              -77.497291,
+              43.216664
+            ],
+            [
+              -77.497227,
+              43.216502
+            ],
+            [
+              -77.497079,
+              43.216505
+            ],
+            [
+              -77.496947,
+              43.216738
+            ],
+            [
+              -77.496136,
+              43.216732
+            ],
+            [
+              -77.497054,
+              43.214875
+            ],
+            [
+              -77.49324,
+              43.214885
+            ],
+            [
+              -77.493106,
+              43.215673
+            ],
+            [
+              -77.492629,
+              43.21579
+            ],
+            [
+              -77.492337,
+              43.216013
+            ],
+            [
+              -77.490494,
+              43.215691
+            ],
+            [
+              -77.489781,
+              43.216957
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-fmcp:border1",
+        "trailsroc-parkID": "park-fmcp",
+        "trailsroc-style": "minorPark"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.419953,
+              43.264781
+            ],
+            [
+              -77.419217,
+              43.264776
+            ],
+            [
+              -77.419187,
+              43.26439
+            ],
+            [
+              -77.413784,
+              43.264535
+            ],
+            [
+              -77.413873,
+              43.264356
+            ],
+            [
+              -77.413814,
+              43.264172
+            ],
+            [
+              -77.412474,
+              43.263961
+            ],
+            [
+              -77.411524,
+              43.264044
+            ],
+            [
+              -77.411433,
+              43.264146
+            ],
+            [
+              -77.410627,
+              43.264081
+            ],
+            [
+              -77.410436,
+              43.261885
+            ],
+            [
+              -77.40827,
+              43.261834
+            ],
+            [
+              -77.408185,
+              43.260427
+            ],
+            [
+              -77.404544,
+              43.26051
+            ],
+            [
+              -77.404674,
+              43.263223
+            ],
+            [
+              -77.408249,
+              43.263221
+            ],
+            [
+              -77.408364,
+              43.264826
+            ],
+            [
+              -77.408636,
+              43.264808
+            ],
+            [
+              -77.408785,
+              43.264881
+            ],
+            [
+              -77.409659,
+              43.265068
+            ],
+            [
+              -77.410513,
+              43.265915
+            ],
+            [
+              -77.410606,
+              43.266094
+            ],
+            [
+              -77.410915,
+              43.266154
+            ],
+            [
+              -77.411272,
+              43.266165
+            ],
+            [
+              -77.411634,
+              43.266217
+            ],
+            [
+              -77.412136,
+              43.266671
+            ],
+            [
+              -77.412778,
+              43.266574
+            ],
+            [
+              -77.41256,
+              43.265802
+            ],
+            [
+              -77.413176,
+              43.265915
+            ],
+            [
+              -77.413312,
+              43.266526
+            ],
+            [
+              -77.414632,
+              43.266333
+            ],
+            [
+              -77.414511,
+              43.265747
+            ],
+            [
+              -77.416347,
+              43.265537
+            ],
+            [
+              -77.416432,
+              43.265823
+            ],
+            [
+              -77.417571,
+              43.265899
+            ],
+            [
+              -77.418154,
+              43.265707
+            ],
+            [
+              -77.418963,
+              43.265446
+            ],
+            [
+              -77.419943,
+              43.265272
+            ],
+            [
+              -77.419953,
+              43.264781
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:f887a02e",
+        "trailsroc-name": "Parking (Finn Park)",
+        "trailsroc-shortName": "Finn Park",
+        "trailsroc-parentIDs": "park-fowt-finn,trail-fowt-finn-main",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.501326,
+          43.217688
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:webstertr:ce6bb3c2",
+        "trailsroc-name": "Liberty Lodge",
+        "trailsroc-shortName": "Liberty",
+        "trailsroc-parentIDs": "park-fowt-finn",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.501326,
+          43.217688
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.499576,
+          43.217641
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:webstertr:8d6f2d14",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-fowt-finn",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.499298,
+          43.217843
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:6558a4ac",
+        "trailsroc-name": "Parking (Vosburg Hollow)",
+        "trailsroc-shortName": "Vosburg Hollow",
+        "trailsroc-parentIDs": "trail-gosnell-big-field,trail-gosnell-vosburg-connector,trail-fowt-vosburg-main,trail-fowt-hojack-main,tsystem-fowt-hojack",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.497061,
+          43.242224
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:webstertr:06304f5e",
+        "trailsroc-name": "Fishing",
+        "trailsroc-shortName": "Fishing",
+        "trailsroc-parentIDs": "trail-fowt-vosburg-main",
+        "trailsroc-url": "http://www.dec.ny.gov/outdoor/71612.html",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.496684,
+          43.241745
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:ae14aca2",
+        "trailsroc-name": "Parking (N Ponds Orchard Rd)",
+        "trailsroc-shortName": "N Ponds Orchard Rd",
+        "trailsroc-parentIDs": "trail-fowt-nponds-loop,trail-fowt-hojack-main,tsystem-fowt-hojack",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.444172,
+          43.221044
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:5ca22918",
+        "trailsroc-name": "Parking (Four Mile Preserve)",
+        "trailsroc-shortName": "Four Mile Preserve",
+        "trailsroc-parentIDs": "park-fmcp,trail-fmcp-blue",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.419662,
+          43.265097
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:688e73b1",
+        "trailsroc-name": "Parking (Rec Center)",
+        "trailsroc-shortName": "Rec Center",
+        "trailsroc-parentIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.421185,
+          43.225752
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.421642,
+          43.227426
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:webstertr:d21a7200",
+        "trailsroc-name": "Webster Recreation Center",
+        "trailsroc-shortName": "Webster Recreation Center",
+        "trailsroc-parentIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-directionsCoordinate": [
+          -77.421185,
+          43.225752
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.421748,
+          43.227991
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:webstertr:20a49adb",
+        "trailsroc-name": "Ball Fields",
+        "trailsroc-shortName": "Ball Fields",
+        "trailsroc-parentIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.422643,
+          43.228852
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:webstertr:0e4968c3",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.425143,
+          43.228229
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:webstertr:2254bc10",
+        "trailsroc-name": "Tennis/Basketball",
+        "trailsroc-shortName": "Tennis/Basketball",
+        "trailsroc-parentIDs": "trail-fowt-chiyoda-loop",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.425199,
+          43.227705
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:webstertr:f0eaaf12",
+        "trailsroc-name": "Fishing",
+        "trailsroc-shortName": "Fishing",
+        "trailsroc-parentIDs": "trail-fowt-nponds-loop",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.441262,
+          43.218507
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:webstertr:4b1caab4",
+        "trailsroc-name": "Parking (N Ponds by 104)",
+        "trailsroc-shortName": "N Ponds by 104",
+        "trailsroc-parentIDs": "trail-fowt-rt104-path,trail-fowt-nponds-loop,tsystem-fowt-rt104",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.439351,
+          43.215891
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

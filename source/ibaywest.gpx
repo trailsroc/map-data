@@ -1,0 +1,3662 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T14:12:06.048Z</time>
+    </metadata>
+    <wpt lon="-77.543201" lat="43.186261">
+        <name>point-parking:ibaywest:homewood</name>
+        <desc>{"type":"point-parking","comments":"Bay West N","name":"Parking (Homewood Ln)","parentIDs":["park-ibaywest","trail-ibaywest-blue"],"shortName":"Homewood Ln"}</desc>
+    </wpt>
+    <wpt lon="-77.529223" lat="43.183771">
+        <name>point-parking:ibaywest:edb06c00</name>
+        <desc>{"type":"point-parking","comments":"Bay West S","name":"Parking (Orchard Park Blvd)","parentIDs":["park-ibaywest","trail-ibaywest-purple"],"shortName":"Orchard Park Blvd"}</desc>
+    </wpt>
+    <wpt lon="-77.538536" lat="43.185883">
+        <name>point-intersection:ibaywest:77cfc46a</name>
+        <desc>{"type":"point-intersection","name":"Intersection 1","parentIDs":["park-ibaywest"],"shortName":"1"}</desc>
+    </wpt>
+    <wpt lon="-77.539711" lat="43.185299">
+        <name>point-intersection:ibaywest:d368a7ee</name>
+        <desc>{"type":"point-intersection","name":"Intersection 2","parentIDs":["park-ibaywest"],"shortName":"2"}</desc>
+    </wpt>
+    <wpt lon="-77.537788" lat="43.185284">
+        <name>point-intersection:ibaywest:05838712</name>
+        <desc>{"type":"point-intersection","name":"Intersection 3","parentIDs":["park-ibaywest"],"shortName":"3"}</desc>
+    </wpt>
+    <wpt lon="-77.537704" lat="43.185398">
+        <name>point-intersection:ibaywest:39d2a102</name>
+        <desc>{"type":"point-intersection","name":"Intersection 4","parentIDs":["park-ibaywest"],"shortName":"4"}</desc>
+    </wpt>
+    <wpt lon="-77.536987" lat="43.185574">
+        <name>point-intersection:ibaywest:6537e338</name>
+        <desc>{"type":"point-intersection","name":"Intersection 5","parentIDs":["park-ibaywest"],"shortName":"5"}</desc>
+    </wpt>
+    <wpt lon="-77.536392" lat="43.185371">
+        <name>point-intersection:ibaywest:d0850b39</name>
+        <desc>{"type":"point-intersection","name":"Intersection 6","parentIDs":["park-ibaywest"],"shortName":"6"}</desc>
+    </wpt>
+    <wpt lon="-77.533768" lat="43.185764">
+        <name>point-intersection:ibaywest:91122bc8</name>
+        <desc>{"type":"point-intersection","name":"Intersection 7","parentIDs":["park-ibaywest"],"shortName":"7"}</desc>
+    </wpt>
+    <wpt lon="-77.533897" lat="43.186600">
+        <name>point-intersection:ibaywest:69c11970</name>
+        <desc>{"type":"point-intersection","name":"Intersection 8","parentIDs":["park-ibaywest"],"shortName":"8"}</desc>
+    </wpt>
+    <wpt lon="-77.532318" lat="43.185661">
+        <name>point-intersection:ibaywest:cc978433</name>
+        <desc>{"type":"point-intersection","name":"Intersection 9","parentIDs":["park-ibaywest"],"shortName":"9"}</desc>
+    </wpt>
+    <wpt lon="-77.531860" lat="43.185078">
+        <name>point-intersection:ibaywest:d93fe4e2</name>
+        <desc>{"type":"point-intersection","name":"Intersection 10","parentIDs":["park-ibaywest"],"shortName":"10"}</desc>
+    </wpt>
+    <wpt lon="-77.531403" lat="43.185230">
+        <name>point-intersection:ibaywest:23f33ef4</name>
+        <desc>{"type":"point-intersection","name":"Intersection 11","parentIDs":["park-ibaywest"],"shortName":"11"}</desc>
+    </wpt>
+    <wpt lon="-77.530075" lat="43.184269">
+        <name>point-intersection:ibaywest:24c0953d</name>
+        <desc>{"type":"point-intersection","name":"Intersection 12","parentIDs":["park-ibaywest"],"shortName":"12"}</desc>
+    </wpt>
+    <wpt lon="-77.530172" lat="43.189061">
+        <name>point-parking:ibaywest:0625c28e</name>
+        <desc>{"type":"point-parking","comments":"Bay West N","name":"Parking (Fish &amp; Game Lot)","parentIDs":["park-ibaywest","trail-ibaywest-blue","trail-ibaywest-green"],"shortName":"Fish &amp; Game Lot"}</desc>
+    </wpt>
+    <rte>
+        <name>border:park-ibaywest</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.529192" lat="43.188291"/>
+        <rtept lon="-77.529794" lat="43.189278"/>
+        <rtept lon="-77.530971" lat="43.189354"/>
+        <rtept lon="-77.535305" lat="43.189288"/>
+        <rtept lon="-77.533701" lat="43.188573"/>
+        <rtept lon="-77.533972" lat="43.188433"/>
+        <rtept lon="-77.534209" lat="43.188688"/>
+        <rtept lon="-77.534660" lat="43.188390"/>
+        <rtept lon="-77.537098" lat="43.188328"/>
+        <rtept lon="-77.537053" lat="43.187499"/>
+        <rtept lon="-77.537858" lat="43.187483"/>
+        <rtept lon="-77.537955" lat="43.186918"/>
+        <rtept lon="-77.538461" lat="43.186487"/>
+        <rtept lon="-77.540383" lat="43.186346"/>
+        <rtept lon="-77.540450" lat="43.186596"/>
+        <rtept lon="-77.542742" lat="43.186463"/>
+        <rtept lon="-77.542705" lat="43.185628"/>
+        <rtept lon="-77.540732" lat="43.185728"/>
+        <rtept lon="-77.540613" lat="43.185386"/>
+        <rtept lon="-77.541071" lat="43.184790"/>
+        <rtept lon="-77.542045" lat="43.184408"/>
+        <rtept lon="-77.542660" lat="43.184165"/>
+        <rtept lon="-77.542625" lat="43.183758"/>
+        <rtept lon="-77.541138" lat="43.184183"/>
+        <rtept lon="-77.540701" lat="43.184423"/>
+        <rtept lon="-77.540480" lat="43.184751"/>
+        <rtept lon="-77.533242" lat="43.185177"/>
+        <rtept lon="-77.533115" lat="43.184412"/>
+        <rtept lon="-77.534373" lat="43.183534"/>
+        <rtept lon="-77.534303" lat="43.183320"/>
+        <rtept lon="-77.532841" lat="43.183388"/>
+        <rtept lon="-77.532852" lat="43.182462"/>
+        <rtept lon="-77.531846" lat="43.182514"/>
+        <rtept lon="-77.531917" lat="43.183351"/>
+        <rtept lon="-77.531865" lat="43.183691"/>
+        <rtept lon="-77.531692" lat="43.184065"/>
+        <rtept lon="-77.531336" lat="43.184114"/>
+        <rtept lon="-77.530222" lat="43.183782"/>
+        <rtept lon="-77.529031" lat="43.183603"/>
+        <rtept lon="-77.528795" lat="43.183435"/>
+        <rtept lon="-77.528671" lat="43.183280"/>
+        <rtept lon="-77.528244" lat="43.183194"/>
+        <rtept lon="-77.528724" lat="43.181879"/>
+        <rtept lon="-77.528432" lat="43.181836"/>
+        <rtept lon="-77.528360" lat="43.181863"/>
+        <rtept lon="-77.528191" lat="43.182152"/>
+        <rtept lon="-77.528230" lat="43.182180"/>
+        <rtept lon="-77.528014" lat="43.182303"/>
+        <rtept lon="-77.527341" lat="43.183071"/>
+        <rtept lon="-77.527477" lat="43.183812"/>
+        <rtept lon="-77.527495" lat="43.184680"/>
+        <rtept lon="-77.527938" lat="43.185078"/>
+        <rtept lon="-77.528227" lat="43.185367"/>
+        <rtept lon="-77.528543" lat="43.186027"/>
+        <rtept lon="-77.528914" lat="43.186442"/>
+        <rtept lon="-77.528923" lat="43.187373"/>
+        <rtept lon="-77.528905" lat="43.188169"/>
+    </rte>
+    <trk>
+        <name>seg:trail-ibaywest-blue:6aeb4247</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531860" lat="43.185078">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531898" lat="43.185116">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532181" lat="43.185585">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:22411a4b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532181" lat="43.185585">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532234" lat="43.185627">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532318" lat="43.185661">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:42fa3352</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532318" lat="43.185661">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532562" lat="43.185486">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532646" lat="43.185452">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532692" lat="43.185417">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532715" lat="43.185406">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533455" lat="43.185333">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533485" lat="43.185337">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533554" lat="43.185379">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533585" lat="43.185413">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533630" lat="43.185532">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533630" lat="43.185570">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533638" lat="43.185608">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533669" lat="43.185669">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533722" lat="43.185722">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533722" lat="43.185734">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:3077ba85</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533836" lat="43.185699">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533875" lat="43.185555">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534081" lat="43.185291">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534660" lat="43.185101">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534798" lat="43.185158">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534897" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535049" lat="43.185406">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535057" lat="43.185490">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535248" lat="43.185673">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535439" lat="43.185699">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535477" lat="43.185692">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535522" lat="43.185669">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535561" lat="43.185619">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535660" lat="43.185329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535690" lat="43.185295">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535889" lat="43.185173">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535980" lat="43.185143">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536232" lat="43.185150">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536278" lat="43.185162">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536316" lat="43.185184">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536377" lat="43.185287">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536392" lat="43.185371">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:ed1aa4b8</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537788" lat="43.185284">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537758" lat="43.185234">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537758" lat="43.185135">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537727" lat="43.185024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537743" lat="43.185001">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537827" lat="43.184994">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538116" lat="43.185013">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538353" lat="43.184998">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538521" lat="43.184937">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538574" lat="43.184895">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538597" lat="43.184895">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538651" lat="43.184914">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538872" lat="43.184940">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539017" lat="43.184975">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539230" lat="43.184978">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539642" lat="43.185097">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539879" lat="43.185104">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539917" lat="43.185123">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539886" lat="43.185169">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539810" lat="43.185188">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539665" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539711" lat="43.185299">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:0160fd0c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.539711" lat="43.185299">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539833" lat="43.185341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540115" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540199" lat="43.185238">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540215" lat="43.185261">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540230" lat="43.185280">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540176" lat="43.185299">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540085" lat="43.185356">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539841" lat="43.185467">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539688" lat="43.185551">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539597" lat="43.185570">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539490" lat="43.185604">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539406" lat="43.185646">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539162" lat="43.185730">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538536" lat="43.185883">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:1bdd9484</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.538536" lat="43.185883">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538536" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538544" lat="43.185936">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538605" lat="43.185970">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539032" lat="43.185989">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539162" lat="43.185966">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539497" lat="43.185966">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539795" lat="43.186092">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539909" lat="43.186115">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540154" lat="43.186111">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540230" lat="43.186138">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540306" lat="43.186138">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540375" lat="43.186115">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540451" lat="43.185993">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540535" lat="43.185921">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540627" lat="43.185925">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540672" lat="43.185947">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540764" lat="43.186050">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.540878" lat="43.186081">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541290" lat="43.186035">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541382" lat="43.186043">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541603" lat="43.186142">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541634" lat="43.186131">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541626" lat="43.186089">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541565" lat="43.186043">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541527" lat="43.185974">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541534" lat="43.185913">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541588" lat="43.185894">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541656" lat="43.185925">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.541908" lat="43.185982">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.542023" lat="43.186031">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.542068" lat="43.186092">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.542114" lat="43.186188">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.542152" lat="43.186211">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.542686" lat="43.186371">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.543030" lat="43.186317">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.543068" lat="43.186275">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.543137" lat="43.186226">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.543198" lat="43.186226">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:92346c63</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530693" lat="43.189037">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530754" lat="43.188919">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530838" lat="43.188820">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531097" lat="43.188644">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531181" lat="43.188553">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:598a4b87</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531181" lat="43.188553">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531181" lat="43.188522">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531189" lat="43.188496">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531197" lat="43.188484">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531204" lat="43.188473">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531235" lat="43.188446">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531288" lat="43.188416">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531349" lat="43.188381">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531517" lat="43.188293">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531586" lat="43.188263">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:16dbeaba</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531586" lat="43.188263">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531639" lat="43.188171">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531654" lat="43.188129">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531647" lat="43.188110">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531609" lat="43.188110">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531570" lat="43.188148">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531517" lat="43.188160">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531456" lat="43.188160">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531303" lat="43.188210">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531197" lat="43.188236">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531143" lat="43.188225">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531105" lat="43.188187">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531097" lat="43.188148">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531113" lat="43.188095">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531136" lat="43.188046">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531181" lat="43.188000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531235" lat="43.187981">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531303" lat="43.188004">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531380" lat="43.188000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531441" lat="43.187977">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531487" lat="43.187950">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531487" lat="43.187946">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531517" lat="43.187939">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:867f5e32</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531517" lat="43.187939">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531532" lat="43.187916">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531548" lat="43.187859">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531563" lat="43.187836">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531563" lat="43.187786">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531487" lat="43.187702">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531433" lat="43.187668">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531281" lat="43.187592">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531197" lat="43.187580">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531136" lat="43.187580">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531052" lat="43.187565">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530998" lat="43.187595">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530884" lat="43.187683">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530777" lat="43.187752">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:bae959e1</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531487" lat="43.187946">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531410" lat="43.187927">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531326" lat="43.187859">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531250" lat="43.187817">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531158" lat="43.187832">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530945" lat="43.187813">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530777" lat="43.187752">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue:5975babf</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530777" lat="43.187752">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530777" lat="43.187752">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530746" lat="43.187759">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530678" lat="43.187775">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530502" lat="43.187733">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530479" lat="43.187710">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530457" lat="43.187618">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530479" lat="43.187527">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530510" lat="43.187454">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530617" lat="43.187347">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530632" lat="43.187321">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530640" lat="43.187195">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530678" lat="43.187126">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530746" lat="43.186974">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530853" lat="43.186821">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530869" lat="43.186768">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530869" lat="43.186726">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530815" lat="43.186569">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530746" lat="43.186409">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530731" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530762" lat="43.186283">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530838" lat="43.186249">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531082" lat="43.186268">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531105" lat="43.186256">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531189" lat="43.186008">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531212" lat="43.185879">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531273" lat="43.185680">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531319" lat="43.185432">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531403" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange:2c8fc1f4</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537704" lat="43.185398">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537773" lat="43.185356">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537796" lat="43.185314">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537788" lat="43.185284">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange:405d3266</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536392" lat="43.185371">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536443" lat="43.185335">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536506" lat="43.185330">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536765" lat="43.185333">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537012" lat="43.185362">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537067" lat="43.185341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537084" lat="43.185348">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537094" lat="43.185361">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537092" lat="43.185409">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537015" lat="43.185515">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536978" lat="43.185552">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536987" lat="43.185574">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-orange,trail-ibaywest-red:a633851e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536987" lat="43.185574">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537033" lat="43.185596">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537010" lat="43.185627">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537041" lat="43.185642">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537148" lat="43.185650">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537201" lat="43.185635">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537231" lat="43.185612">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537308" lat="43.185493">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537422" lat="43.185276">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537468" lat="43.185131">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537514" lat="43.185093">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537552" lat="43.185097">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537560" lat="43.185127">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537567" lat="43.185207">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537621" lat="43.185352">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537659" lat="43.185394">
+                <ele>1.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537704" lat="43.185398">
+                <ele>1.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-blue,trail-ibaywest-purple:4d024dd0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531403" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531593" lat="43.185085">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531837" lat="43.185059">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531860" lat="43.185078">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-green:729044b8</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531830" lat="43.189137">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532181" lat="43.189106">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532242" lat="43.189072">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532280" lat="43.188953">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532799" lat="43.188393">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532997" lat="43.188293">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533058" lat="43.188286">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533104" lat="43.188251">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533134" lat="43.188190">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533234" lat="43.188133">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533302" lat="43.188141">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533928" lat="43.187695">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534019" lat="43.187664">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534103" lat="43.187653">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534180" lat="43.187687">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534370" lat="43.187695">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534424" lat="43.187729">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534531" lat="43.187729">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534828" lat="43.187607">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534912" lat="43.187622">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535133" lat="43.187737">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535286" lat="43.187778">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535370" lat="43.187775">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535408" lat="43.187737">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535416" lat="43.187698">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535294" lat="43.187466">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535217" lat="43.187389">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535118" lat="43.187325">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535110" lat="43.187294">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535492" lat="43.187115">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535591" lat="43.187099">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535866" lat="43.186962">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535919" lat="43.186958">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535957" lat="43.187000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536133" lat="43.187042">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536186" lat="43.187035">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536339" lat="43.186958">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536507" lat="43.186768">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536797" lat="43.186642">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536827" lat="43.186592">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536835" lat="43.186531">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536812" lat="43.186394">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536835" lat="43.186363">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536911" lat="43.186333">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537025" lat="43.186317">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537117" lat="43.186298">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537178" lat="43.186272">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537590" lat="43.186138">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538322" lat="43.185936">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538536" lat="43.185883">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-orange:48b6d9e7</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537788" lat="43.185284">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537895" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537994" lat="43.185249">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538078" lat="43.185207">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538536" lat="43.185120">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538712" lat="43.185131">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538857" lat="43.185173">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538918" lat="43.185173">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538963" lat="43.185150">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539139" lat="43.185135">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539375" lat="43.185207">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539467" lat="43.185257">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539513" lat="43.185268">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539665" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-orange:f7fc66b0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532318" lat="43.185661">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532364" lat="43.185684">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532402" lat="43.185726">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532402" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532372" lat="43.185799">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532333" lat="43.185951">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532333" lat="43.186035">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532402" lat="43.186111">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532425" lat="43.186184">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532425" lat="43.186260">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532440" lat="43.186306">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532463" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-orange:ef47193c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532463" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.186321">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532539" lat="43.186260">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532539" lat="43.186211">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532608" lat="43.186035">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532684" lat="43.185966">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532722" lat="43.185894">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532974" lat="43.185642">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533150" lat="43.185547">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533241" lat="43.185520">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533356" lat="43.185516">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533401" lat="43.185543">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533470" lat="43.185642">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533669" lat="43.185783">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533714" lat="43.185787">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-orange:b7986962</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533768" lat="43.185764">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533844" lat="43.185875">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533867" lat="43.185940">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533913" lat="43.186005">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533951" lat="43.186028">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-orange:a8041942</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533951" lat="43.186028">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533974" lat="43.186035">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533997" lat="43.186012">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534012" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533989" lat="43.185783">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534081" lat="43.185612">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534111" lat="43.185616">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534180" lat="43.185699">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534210" lat="43.185760">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534248" lat="43.185917">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534302" lat="43.185925">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534332" lat="43.185905">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534363" lat="43.185841">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534393" lat="43.185593">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534416" lat="43.185555">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534607" lat="43.185417">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534653" lat="43.185429">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534805" lat="43.185505">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534882" lat="43.185501">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534950" lat="43.185516">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535072" lat="43.185863">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535095" lat="43.185879">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535133" lat="43.185883">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535538" lat="43.185844">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535568" lat="43.185829">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535660" lat="43.185680">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535698" lat="43.185577">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535805" lat="43.185501">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535881" lat="43.185390">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535904" lat="43.185379">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535942" lat="43.185390">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536186" lat="43.185535">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536232" lat="43.185551">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536285" lat="43.185532">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536331" lat="43.185478">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536392" lat="43.185371">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:8b419c8a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536018" lat="43.185963">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536049" lat="43.185932">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536118" lat="43.185917">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536270" lat="43.185925">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536301" lat="43.185917">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536316" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536362" lat="43.185871">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536392" lat="43.185863">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536499" lat="43.185894">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536522" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536537" lat="43.185913">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536575" lat="43.185913">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536949" lat="43.185776">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537071" lat="43.185783">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537125" lat="43.185818">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537132" lat="43.185837">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537132" lat="43.185848">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537056" lat="43.185936">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:c50b4699</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537056" lat="43.185936">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536972" lat="43.185986">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536812" lat="43.186012">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536736" lat="43.186008">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536697" lat="43.185974">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536652" lat="43.185955">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536636" lat="43.185955">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536430" lat="43.186008">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536079" lat="43.185955">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536034" lat="43.185959">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536026" lat="43.185959">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536003" lat="43.185970">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:42e643c7</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.536003" lat="43.185970">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535942" lat="43.186104">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535889" lat="43.186153">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535873" lat="43.186161">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535851" lat="43.186165">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535614" lat="43.186150">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535545" lat="43.186157">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535378" lat="43.186234">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535095" lat="43.186283">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535042" lat="43.186283">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534966" lat="43.186264">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534950" lat="43.186264">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534561" lat="43.186405">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534523" lat="43.186432">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534492" lat="43.186493">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534477" lat="43.186661">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534447" lat="43.186729">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534332" lat="43.186859">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534279" lat="43.186890">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534172" lat="43.186916">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534149" lat="43.186928">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534134" lat="43.186928">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534065" lat="43.186935">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533989" lat="43.186932">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533974" lat="43.186920">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533943" lat="43.186905">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533875" lat="43.186843">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:ee611b03</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533875" lat="43.186843">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533836" lat="43.186783">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533829" lat="43.186756">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533829" lat="43.186726">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533859" lat="43.186630">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:75c7558e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533913" lat="43.186554">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533920" lat="43.186543">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533920" lat="43.186535">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533913" lat="43.186520">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533913" lat="43.186512">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533936" lat="43.186466">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533981" lat="43.186417">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533989" lat="43.186398">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533997" lat="43.186314">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534027" lat="43.186214">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534019" lat="43.186195">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534019" lat="43.186184">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533997" lat="43.186157">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533989" lat="43.186123">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533989" lat="43.186089">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533981" lat="43.186073">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533958" lat="43.186050">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533951" lat="43.186035">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:4e9ab655</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.538055" lat="43.185368">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538017" lat="43.185417">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537964" lat="43.185482">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537918" lat="43.185631">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537834" lat="43.185703">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537582" lat="43.185799">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537567" lat="43.185810">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537537" lat="43.185863">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537514" lat="43.185879">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537193" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.537056" lat="43.185932">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:4687f10e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533882" lat="43.186848">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533859" lat="43.186852">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533798" lat="43.186848">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533714" lat="43.186817">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533546" lat="43.186806">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533501" lat="43.186817">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533424" lat="43.186867">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533424" lat="43.186939">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533470" lat="43.187027">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533455" lat="43.187119">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533432" lat="43.187160">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533386" lat="43.187206">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533340" lat="43.187229">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533310" lat="43.187241">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:5678bce9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532928" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532898" lat="43.184258">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532883" lat="43.184273">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532784" lat="43.184315">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532768" lat="43.184334">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532700" lat="43.184387">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532578" lat="43.184437">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532532" lat="43.184444">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532471" lat="43.184441">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532463" lat="43.184437">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532455" lat="43.184429">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532455" lat="43.184402">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532463" lat="43.184387">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532494" lat="43.184361">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532532" lat="43.184288">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532539" lat="43.184254">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532547" lat="43.184242">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532555" lat="43.184235">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532562" lat="43.184231">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532623" lat="43.184212">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532692" lat="43.184162">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532722" lat="43.184113">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532730" lat="43.184086">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532730" lat="43.184055">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:748c0aa6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532463" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.186344">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.186356">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532463" lat="43.186382">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532249" lat="43.186508">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532227" lat="43.186546">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:ddb3288e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532227" lat="43.186546">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532219" lat="43.186581">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532196" lat="43.186604">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532059" lat="43.186653">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532005" lat="43.186703">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531906" lat="43.186871">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531891" lat="43.186924">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531891" lat="43.186966">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531876" lat="43.187012">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531860" lat="43.187031">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531822" lat="43.187057">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531807" lat="43.187088">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531822" lat="43.187187">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531807" lat="43.187256">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531792" lat="43.187279">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531677" lat="43.187344">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531647" lat="43.187374">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531639" lat="43.187397">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:0c8de354</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531387" lat="43.187336">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531540" lat="43.187370">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531641" lat="43.187405">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:f11d13d2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531641" lat="43.187405">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531776" lat="43.187458">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531898" lat="43.187576">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531960" lat="43.187679">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531982" lat="43.187733">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:3198896c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530991" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530907" lat="43.185184">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530731" lat="43.184990">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530586" lat="43.184696">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530586" lat="43.184635">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530479" lat="43.184494">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530479" lat="43.184479">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530457" lat="43.184433">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530403" lat="43.184391">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530106" lat="43.184296">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530075" lat="43.184269">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:a682d6ed</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532730" lat="43.184055">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532738" lat="43.184021">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532700" lat="43.183899">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532669" lat="43.183846">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532646" lat="43.183823">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532608" lat="43.183807">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532600" lat="43.183800">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532593" lat="43.183788">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532593" lat="43.183720">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532578" lat="43.183662">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532562" lat="43.183636">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532501" lat="43.183609">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532486" lat="43.183590">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.183571">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.183544">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532486" lat="43.183517">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532516" lat="43.183502">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532524" lat="43.183491">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532524" lat="43.183468">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532532" lat="43.183449">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532524" lat="43.183434">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532501" lat="43.183414">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.183407">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:c5bb8a4f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532730" lat="43.184055">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532776" lat="43.184090">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532806" lat="43.184109">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532845" lat="43.184120">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532867" lat="43.184174">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532928" lat="43.184216">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532928" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:2c8e238c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532928" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532944" lat="43.184258">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532944" lat="43.184269">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532928" lat="43.184307">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532867" lat="43.184361">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532837" lat="43.184372">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532829" lat="43.184380">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532822" lat="43.184391">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532822" lat="43.184414">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532852" lat="43.184471">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532852" lat="43.184483">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532845" lat="43.184490">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532837" lat="43.184502">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532646" lat="43.184620">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532623" lat="43.184624">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532585" lat="43.184624">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532539" lat="43.184608">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532516" lat="43.184605">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532455" lat="43.184612">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532402" lat="43.184654">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532379" lat="43.184662">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532349" lat="43.184662">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532272" lat="43.184639">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532242" lat="43.184639">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532127" lat="43.184715">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531929" lat="43.184734">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531815" lat="43.184715">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531654" lat="43.184734">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531586" lat="43.184780">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531570" lat="43.184799">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531502" lat="43.184940">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531471" lat="43.184978">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531425" lat="43.185009">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531395" lat="43.185047">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531380" lat="43.185081">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531372" lat="43.185120">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531395" lat="43.185223">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:19aa84af</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531395" lat="43.185223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531425" lat="43.185265">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531448" lat="43.185448">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531433" lat="43.185596">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531525" lat="43.185963">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531532" lat="43.186169">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531593" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:fc660b87</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531593" lat="43.186329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531532" lat="43.186634">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531532" lat="43.186684">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531578" lat="43.186787">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531578" lat="43.186802">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531586" lat="43.186817">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531441" lat="43.187176">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531387" lat="43.187336">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:cd6217d2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533310" lat="43.187241">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533287" lat="43.187267">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533272" lat="43.187298">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533249" lat="43.187325">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533218" lat="43.187347">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533188" lat="43.187378">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532898" lat="43.187534">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532799" lat="43.187611">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532700" lat="43.187668">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532608" lat="43.187695">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532166" lat="43.187721">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531982" lat="43.187733">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:01e25be0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531982" lat="43.187733">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531868" lat="43.187836">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531784" lat="43.187950">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531738" lat="43.188076">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531731" lat="43.188141">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531738" lat="43.188202">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531723" lat="43.188221">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531609" lat="43.188255">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531586" lat="43.188263">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:27aed67b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532181" lat="43.185585">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532082" lat="43.185509">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531937" lat="43.185371">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531876" lat="43.185341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531876" lat="43.185333">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531868" lat="43.185307">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531853" lat="43.185284">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531830" lat="43.185265">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531784" lat="43.185249">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531647" lat="43.185238">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531578" lat="43.185242">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531402" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:352ea90a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531402" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531197" lat="43.185207">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531044" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530991" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:137b031b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530991" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530983" lat="43.185261">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530983" lat="43.185272">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530975" lat="43.185284">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530975" lat="43.185486">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530899" lat="43.185776">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530907" lat="43.185940">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530884" lat="43.186016">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530510" lat="43.186424">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530449" lat="43.186527">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530434" lat="43.186592">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530434" lat="43.186619">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530449" lat="43.186676">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530495" lat="43.186756">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530510" lat="43.186867">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530289" lat="43.187634">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530182" lat="43.187828">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530136" lat="43.188038">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530045" lat="43.188187">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529907" lat="43.188332">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529892" lat="43.188396">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529900" lat="43.188412">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529900" lat="43.188423">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529907" lat="43.188442">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529953" lat="43.188496">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530212" lat="43.188633">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530251" lat="43.188667">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530251" lat="43.188679">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530258" lat="43.188686">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530251" lat="43.188698">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530220" lat="43.188728">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530159" lat="43.188751">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530121" lat="43.188755">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529678" lat="43.188671">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529587" lat="43.188629">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529541" lat="43.188606">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:aabe0fd4</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533310" lat="43.187241">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533249" lat="43.187195">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533012" lat="43.187153">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532928" lat="43.187157">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532738" lat="43.187134">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532677" lat="43.187107">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532600" lat="43.187046">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532585" lat="43.187023">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532570" lat="43.186962">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532570" lat="43.186939">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532677" lat="43.186745">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532700" lat="43.186672">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532700" lat="43.186604">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532677" lat="43.186539">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532578" lat="43.186428">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532501" lat="43.186378">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532478" lat="43.186356">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:c4261cc0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.529175" lat="43.184681">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529104" lat="43.184647">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529096" lat="43.184641">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529025" lat="43.184374">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529089" lat="43.184077">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529165" lat="43.183975">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529200" lat="43.183939">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:5d559a42</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532118" lat="43.186205">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532155" lat="43.186259">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532167" lat="43.186302">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532167" lat="43.186425">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532161" lat="43.186447">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532151" lat="43.186465">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532134" lat="43.186485">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532113" lat="43.186503">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:40277af0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531391" lat="43.187337">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531313" lat="43.187330">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531159" lat="43.187281">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531121" lat="43.187254">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531086" lat="43.187208">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530946" lat="43.186894">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530943" lat="43.186760">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531006" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531137" lat="43.186454">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531227" lat="43.186399">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531597" lat="43.186332">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:2326ec28</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531597" lat="43.186332">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531761" lat="43.186341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531956" lat="43.186392">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532084" lat="43.186490">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532113" lat="43.186503">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:ccfc1b23</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532225" lat="43.186548">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532195" lat="43.186532">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532164" lat="43.186519">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532113" lat="43.186503">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-other:8c11876e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531183" lat="43.188551">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531192" lat="43.188584">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531208" lat="43.188610">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531234" lat="43.188636">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531294" lat="43.188659">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531320" lat="43.188679">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531325" lat="43.188693">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531326" lat="43.188710">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531314" lat="43.188784">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531345" lat="43.189006">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531347" lat="43.189079">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-purple:07721ef8</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531867" lat="43.182628">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532043" lat="43.182709">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532089" lat="43.182755">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532295" lat="43.183228">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532288" lat="43.183296">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532303" lat="43.183403">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532341" lat="43.183414">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532425" lat="43.183426">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532486" lat="43.183399">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-purple:38ad4ab9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.532486" lat="43.183399">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532578" lat="43.183388">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532616" lat="43.183403">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532593" lat="43.183491">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532822" lat="43.183830">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532944" lat="43.183933">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533043" lat="43.183975">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533157" lat="43.183990">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533264" lat="43.183979">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533394" lat="43.183891">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533455" lat="43.183861">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533501" lat="43.183865">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533531" lat="43.183907">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533531" lat="43.183956">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533493" lat="43.183987">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533195" lat="43.184128">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533142" lat="43.184204">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533096" lat="43.184345">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533012" lat="43.184448">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532974" lat="43.184593">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532967" lat="43.184750">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532997" lat="43.184933">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532982" lat="43.185024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532967" lat="43.185055">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532928" lat="43.185081">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532875" lat="43.185085">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532578" lat="43.185059">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532288" lat="43.185261">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532227" lat="43.185291">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532188" lat="43.185303">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532158" lat="43.185291">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532097" lat="43.185226">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.532028" lat="43.185120">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531937" lat="43.185013">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531906" lat="43.184998">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531883" lat="43.185005">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531860" lat="43.185078">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-purple:ceb2d1c2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.531403" lat="43.185230">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531357" lat="43.185188">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531242" lat="43.185001">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531250" lat="43.184849">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531212" lat="43.184761">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.531158" lat="43.184704">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530937" lat="43.184654">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530678" lat="43.184505">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530563" lat="43.184395">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530464" lat="43.184341">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.530069" lat="43.184265">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-purple:bbb13173</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.530069" lat="43.184265">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529907" lat="43.184238">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529846" lat="43.184242">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529785" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529724" lat="43.184189">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529686" lat="43.184155">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529587" lat="43.184113">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529549" lat="43.184113">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529518" lat="43.184120">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529327" lat="43.184223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529243" lat="43.184460">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529243" lat="43.184509">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529282" lat="43.184601">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529289" lat="43.184689">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529266" lat="43.184704">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529251" lat="43.184704">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529175" lat="43.184681">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-purple:dfc87449</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.529175" lat="43.184681">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529129" lat="43.184677">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528946" lat="43.184696">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528847" lat="43.184696">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528763" lat="43.184677">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528610" lat="43.184467">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528587" lat="43.184376">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528481" lat="43.184280">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528427" lat="43.184166">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528427" lat="43.184132">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528481" lat="43.183949">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528557" lat="43.183849">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528587" lat="43.183830">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528648" lat="43.183708">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528702" lat="43.183693">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.528862" lat="43.183697">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529015" lat="43.183743">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529045" lat="43.183781">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.529060" lat="43.183846">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-red:a04611e9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.537704" lat="43.185398">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538055" lat="43.185368">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-red:e03fd0a5</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.538055" lat="43.185368">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538063" lat="43.185360">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538116" lat="43.185337">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538147" lat="43.185329">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538307" lat="43.185310">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538414" lat="43.185280">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538460" lat="43.185261">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538506" lat="43.185249">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538559" lat="43.185242">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538681" lat="43.185242">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538834" lat="43.185272">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538933" lat="43.185249">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.538986" lat="43.185223">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539047" lat="43.185207">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539085" lat="43.185207">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539101" lat="43.185215">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539230" lat="43.185253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539436" lat="43.185364">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539459" lat="43.185364">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539497" lat="43.185352">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539589" lat="43.185310">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539673" lat="43.185307">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.539711" lat="43.185299">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-red:aabfde27</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533897" lat="43.186596">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533890" lat="43.186531">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533775" lat="43.186409">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533768" lat="43.186253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533691" lat="43.186024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533653" lat="43.185993">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533478" lat="43.185905">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533417" lat="43.185829">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533394" lat="43.185776">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533325" lat="43.185711">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533249" lat="43.185707">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533119" lat="43.185753">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533066" lat="43.185791">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533012" lat="43.185886">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533020" lat="43.186016">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533066" lat="43.186111">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533066" lat="43.186138">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533073" lat="43.186157">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533112" lat="43.186134">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533142" lat="43.186089">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533150" lat="43.186066">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533150" lat="43.186039">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533134" lat="43.186024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533150" lat="43.186001">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533173" lat="43.186001">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533195" lat="43.186024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533218" lat="43.186092">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533272" lat="43.186169">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533279" lat="43.186203">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533295" lat="43.186222">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533348" lat="43.186226">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533401" lat="43.186214">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533470" lat="43.186234">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533600" lat="43.186321">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533653" lat="43.186432">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533791" lat="43.186546">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533852" lat="43.186577">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-ibaywest-red:276777a0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533897" lat="43.186600">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.533951" lat="43.186604">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534142" lat="43.186565">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534187" lat="43.186527">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534225" lat="43.186466">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534248" lat="43.186325">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534348" lat="43.186203">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534363" lat="43.185989">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534447" lat="43.185978">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534561" lat="43.186096">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534709" lat="43.186180">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534698" lat="43.186214">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534706" lat="43.186241">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534744" lat="43.186253">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534767" lat="43.186241">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534767" lat="43.186123">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534737" lat="43.185982">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534828" lat="43.185654">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534859" lat="43.185596">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534889" lat="43.185600">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534912" lat="43.185623">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.534958" lat="43.185902">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535027" lat="43.186012">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535110" lat="43.186043">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535233" lat="43.186031">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535492" lat="43.185905">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535522" lat="43.185909">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535728" lat="43.186028">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535767" lat="43.186024">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535789" lat="43.186012">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535812" lat="43.185966">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535789" lat="43.185890">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535828" lat="43.185688">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535927" lat="43.185516">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535957" lat="43.185501">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.535995" lat="43.185513">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536392" lat="43.185791">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536453" lat="43.185802">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536507" lat="43.185799">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536896" lat="43.185543">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536957" lat="43.185558">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.536987" lat="43.185574">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

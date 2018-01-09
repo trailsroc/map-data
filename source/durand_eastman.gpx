@@ -1,0 +1,1874 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-04T21:24:03.275Z</time>
+    </metadata>
+    <wpt lon="-77.578518" lat="43.239083">
+        <name>point-poi:durand_eastman:4f035217</name>
+        <desc>{"type":"point-poi","name":"Camp Eastman","url":"http://www.irondequoit.org/town-departments/parks-and-recreation/parks-and-facilities","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.574066" lat="43.241248">
+        <name>point-parking:durand_eastman:810e630a</name>
+        <desc>{"type":"point-parking","comments":"shore W","name":"Parking (Lakeshore west)","parentIDs":["park-dureast","trail-dureast-lakeshore-trail"],"shortName":"Lakeshore west"}</desc>
+    </wpt>
+    <wpt lon="-77.567709" lat="43.238302">
+        <name>point-sports:durand_eastman:60f8b13f</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.567843" lat="43.237239">
+        <name>point-shelter:durand_eastman:7a5f32ae</name>
+        <desc>{"type":"point-shelter","name":"Sunset Shelter","parentIDs":["park-dureast"],"shortName":"Sunset"}</desc>
+    </wpt>
+    <wpt lon="-77.567704" lat="43.237707">
+        <name>point-restroom:durand_eastman:ad3cc36a</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.567478" lat="43.237121">
+        <name>point-parking:durand_eastman:a66bde34</name>
+        <desc>{"type":"point-parking","comments":"Sunset","name":"Parking (Sunset Shelter)","parentIDs":["park-dureast"],"shortName":"Sunset Shelter"}</desc>
+    </wpt>
+    <wpt lon="-77.569828" lat="43.234346">
+        <name>point-parking:durand_eastman:2f731184</name>
+        <desc>{"type":"point-parking","comments":"golf","allowsDirections":true,"name":"Parking (Kings Hwy)","parentIDs":["park-dureast"],"shortName":"Kings Hwy"}</desc>
+    </wpt>
+    <wpt lon="-77.568144" lat="43.233752">
+        <name>point-poi:durand_eastman:ce19e7a7</name>
+        <desc>{"type":"point-poi","name":"Durand-Eastman Golf Course","url":"http://www.durandeastmangolfclub.org/","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.567574" lat="43.239016">
+        <name>point-parking:durand_eastman:35823175</name>
+        <desc>{"type":"point-parking","comments":"","name":"Parking (Shore at Kings Highway)","parentIDs":["park-dureast","trail-dureast-lakeshore-trail"],"shortName":"Shore at Kings Highway"}</desc>
+    </wpt>
+    <wpt lon="-77.561052" lat="43.237098">
+        <name>point-parking:durand_eastman:c34d089e</name>
+        <desc>{"type":"point-parking","comments":"shore C","name":"Parking (Lake Shore)","parentIDs":["park-dureast","trail-dureast-lakeshore-trail","trail-dureast-yellow","trail-dureast-eastman-lake"],"shortName":"Lake Shore"}</desc>
+    </wpt>
+    <wpt lon="-77.557479" lat="43.236371">
+        <name>point-parking:durand_eastman:2afdd83d</name>
+        <desc>{"type":"point-parking","comments":"shore E","name":"Parking (Shore at Log Cabin Rd)","parentIDs":["park-dureast","trail-dureast-lakeshore-trail"],"shortName":"Shore at Log Cabin Rd"}</desc>
+    </wpt>
+    <wpt lon="-77.559185" lat="43.233870">
+        <name>point-shelter:durand_eastman:02fe7587</name>
+        <desc>{"type":"point-shelter","name":"Acorn Shelter","parentIDs":["park-dureast"],"shortName":"Acorn"}</desc>
+    </wpt>
+    <wpt lon="-77.560397" lat="43.233283">
+        <name>point-shelter:durand_eastman:d90afb2d</name>
+        <desc>{"type":"point-shelter","name":"Maple Shelter","parentIDs":["park-dureast"],"shortName":"Maple"}</desc>
+    </wpt>
+    <wpt lon="-77.559689" lat="43.233573">
+        <name>point-restroom:durand_eastman:c01974c1</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.562253" lat="43.231869">
+        <name>point-shelter:durand_eastman:e3582331</name>
+        <desc>{"type":"point-shelter","name":"Hemlock Shelter","parentIDs":["park-dureast"],"shortName":"Hemlock"}</desc>
+    </wpt>
+    <wpt lon="-77.562082" lat="43.230106">
+        <name>point-shelter:durand_eastman:8f1767b9</name>
+        <desc>{"type":"point-shelter","name":"Conifer Shelter","parentIDs":["park-dureast"],"shortName":"Conifer"}</desc>
+    </wpt>
+    <wpt lon="-77.561130" lat="43.229528">
+        <name>point-shelter:durand_eastman:a5c7017a</name>
+        <desc>{"type":"point-shelter","name":"Magnolia Shelter","parentIDs":["park-dureast"],"shortName":"Magnolia"}</desc>
+    </wpt>
+    <wpt lon="-77.562492" lat="43.229404">
+        <name>point-shelter:durand_eastman:4c2fa09a</name>
+        <desc>{"type":"point-shelter","name":"Olive Shelter","parentIDs":["park-dureast"],"shortName":"Olive"}</desc>
+    </wpt>
+    <wpt lon="-77.562685" lat="43.229666">
+        <name>point-shelter:durand_eastman:76c3b4af</name>
+        <desc>{"type":"point-shelter","name":"Buck Thorn Shelter","parentIDs":["park-dureast"],"shortName":"Buck Thorn"}</desc>
+    </wpt>
+    <wpt lon="-77.561857" lat="43.229199">
+        <name>point-parking:durand_eastman:40942712</name>
+        <desc>{"type":"point-parking","comments":"tree shelters","name":"Parking (Log Cabin Shelters)","parentIDs":["park-dureast","trail-dureast-trott-lake","trail-dureast-eastman-lake","trail-dureast-durand-lake","trail-dureast-purple"],"shortName":"Log Cabin Shelters"}</desc>
+    </wpt>
+    <wpt lon="-77.561969" lat="43.229478">
+        <name>point-restroom:durand_eastman:403f6844</name>
+        <desc>{"type":"point-restroom","name":"Restroom","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.562256" lat="43.229644">
+        <name>point-sports:durand_eastman:a1b36ecb</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.556964" lat="43.232322">
+        <name>point-admin:durand_eastman:1556b70e</name>
+        <desc>{"type":"point-admin","name":"Park Office","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.555881" lat="43.231884">
+        <name>point-parking:durand_eastman:3abba4a1</name>
+        <desc>{"type":"point-parking","comments":"office","name":"Parking (Zoo Road)","parentIDs":["park-dureast","trail-dureast-durand-lake"],"shortName":"Zoo Road"}</desc>
+    </wpt>
+    <wpt lon="-77.549556" lat="43.227546">
+        <name>point-sports:durand_eastman:c8243893</name>
+        <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.554722" lat="43.228976">
+        <name>point-poi:durand_eastman:80251aa5</name>
+        <desc>{"type":"point-poi","name":"Arboretum","parentIDs":["park-dureast"]}</desc>
+    </wpt>
+    <wpt lon="-77.553005" lat="43.233448">
+        <name>point-poi:durand_eastman:86c9e613</name>
+        <desc>{"type":"point-poi","name":"Tamarack Swamp","parentIDs":["park-dureast","trail-dureast-lakeshore-trail"]}</desc>
+    </wpt>
+    <wpt lon="-77.556862" lat="43.235675">
+        <name>point-poi:durand_eastman:4cf90beb</name>
+        <desc>{"type":"point-poi","name":"White Lady&#x2019;s Castle","parentIDs":["park-dureast"],"keywords":"ladys"}</desc>
+    </wpt>
+    <rte>
+        <name>border:park-dureast</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.572938" lat="43.241682"/>
+        <rtept lon="-77.576430" lat="43.243088"/>
+        <rtept lon="-77.576869" lat="43.243007"/>
+        <rtept lon="-77.577508" lat="43.242476"/>
+        <rtept lon="-77.579175" lat="43.241867"/>
+        <rtept lon="-77.580774" lat="43.240715"/>
+        <rtept lon="-77.581965" lat="43.239018"/>
+        <rtept lon="-77.583797" lat="43.238152"/>
+        <rtept lon="-77.584406" lat="43.236202"/>
+        <rtept lon="-77.586875" lat="43.234763"/>
+        <rtept lon="-77.587933" lat="43.232338"/>
+        <rtept lon="-77.587835" lat="43.231465"/>
+        <rtept lon="-77.578942" lat="43.231526"/>
+        <rtept lon="-77.577555" lat="43.230801"/>
+        <rtept lon="-77.575378" lat="43.230367"/>
+        <rtept lon="-77.575442" lat="43.230676"/>
+        <rtept lon="-77.571360" lat="43.231511"/>
+        <rtept lon="-77.570903" lat="43.226938"/>
+        <rtept lon="-77.563541" lat="43.227291"/>
+        <rtept lon="-77.563265" lat="43.226405"/>
+        <rtept lon="-77.559936" lat="43.226416"/>
+        <rtept lon="-77.559774" lat="43.224138"/>
+        <rtept lon="-77.560017" lat="43.224117"/>
+        <rtept lon="-77.559672" lat="43.223656"/>
+        <rtept lon="-77.559137" lat="43.223613"/>
+        <rtept lon="-77.556398" lat="43.223837"/>
+        <rtept lon="-77.556426" lat="43.223422"/>
+        <rtept lon="-77.553924" lat="43.223517"/>
+        <rtept lon="-77.554010" lat="43.224430"/>
+        <rtept lon="-77.554222" lat="43.224378"/>
+        <rtept lon="-77.554387" lat="43.226689"/>
+        <rtept lon="-77.547249" lat="43.226896"/>
+        <rtept lon="-77.546746" lat="43.227879"/>
+        <rtept lon="-77.551043" lat="43.227765"/>
+        <rtept lon="-77.551117" lat="43.227872"/>
+        <rtept lon="-77.551339" lat="43.227904"/>
+        <rtept lon="-77.551428" lat="43.229588"/>
+        <rtept lon="-77.551599" lat="43.229588"/>
+        <rtept lon="-77.551918" lat="43.234634"/>
+        <rtept lon="-77.551659" lat="43.234923"/>
+        <rtept lon="-77.554930" lat="43.235444"/>
+        <rtept lon="-77.554685" lat="43.236543"/>
+        <rtept lon="-77.571888" lat="43.241276"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:fbd8ca19</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.577393" lat="43.242217"/>
+        <rtept lon="-77.577088" lat="43.242352"/>
+        <rtept lon="-77.576847" lat="43.242380"/>
+        <rtept lon="-77.576504" lat="43.242324"/>
+        <rtept lon="-77.575742" lat="43.242028"/>
+        <rtept lon="-77.574873" lat="43.241715"/>
+        <rtept lon="-77.573807" lat="43.241368"/>
+        <rtept lon="-77.572304" lat="43.240868"/>
+        <rtept lon="-77.572149" lat="43.240808"/>
+        <rtept lon="-77.572049" lat="43.240718"/>
+        <rtept lon="-77.571953" lat="43.240636"/>
+        <rtept lon="-77.571798" lat="43.240551"/>
+        <rtept lon="-77.571605" lat="43.240477"/>
+        <rtept lon="-77.571024" lat="43.240274"/>
+        <rtept lon="-77.570800" lat="43.240205"/>
+        <rtept lon="-77.570551" lat="43.240159"/>
+        <rtept lon="-77.570095" lat="43.240003"/>
+        <rtept lon="-77.569572" lat="43.239808"/>
+        <rtept lon="-77.569113" lat="43.239648"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:093c3ff0</name>
+        <extensions>DarkMagenta<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.569113" lat="43.239648"/>
+        <rtept lon="-77.568747" lat="43.239562"/>
+        <rtept lon="-77.568602" lat="43.239530"/>
+        <rtept lon="-77.568070" lat="43.239379"/>
+        <rtept lon="-77.567419" lat="43.239165"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:0909104a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.567419" lat="43.239165"/>
+        <rtept lon="-77.566802" lat="43.238970"/>
+        <rtept lon="-77.566317" lat="43.238808"/>
+        <rtept lon="-77.565927" lat="43.238695"/>
+        <rtept lon="-77.565426" lat="43.238588"/>
+        <rtept lon="-77.564668" lat="43.238416"/>
+        <rtept lon="-77.564129" lat="43.238270"/>
+        <rtept lon="-77.563355" lat="43.238026"/>
+        <rtept lon="-77.562474" lat="43.237802"/>
+        <rtept lon="-77.561861" lat="43.237664"/>
+        <rtept lon="-77.560950" lat="43.237435"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:74344855</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.560950" lat="43.237435"/>
+        <rtept lon="-77.560591" lat="43.237342"/>
+        <rtept lon="-77.560264" lat="43.237231"/>
+        <rtept lon="-77.559837" lat="43.237056"/>
+        <rtept lon="-77.559470" lat="43.236940"/>
+        <rtept lon="-77.559197" lat="43.236875"/>
+        <rtept lon="-77.559002" lat="43.236870"/>
+        <rtept lon="-77.558869" lat="43.236892"/>
+        <rtept lon="-77.558739" lat="43.236899"/>
+        <rtept lon="-77.558589" lat="43.236896"/>
+        <rtept lon="-77.558357" lat="43.236852"/>
+        <rtept lon="-77.557967" lat="43.236761"/>
+        <rtept lon="-77.557542" lat="43.236669"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:438184bf</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.557542" lat="43.236669"/>
+        <rtept lon="-77.557170" lat="43.236578"/>
+        <rtept lon="-77.557009" lat="43.236514"/>
+        <rtept lon="-77.556886" lat="43.236430"/>
+        <rtept lon="-77.556729" lat="43.236340"/>
+        <rtept lon="-77.556372" lat="43.236235"/>
+        <rtept lon="-77.556152" lat="43.236193"/>
+        <rtept lon="-77.555904" lat="43.236144"/>
+        <rtept lon="-77.555749" lat="43.236089"/>
+        <rtept lon="-77.555583" lat="43.236010"/>
+        <rtept lon="-77.555436" lat="43.235912"/>
+        <rtept lon="-77.555281" lat="43.235790"/>
+        <rtept lon="-77.555154" lat="43.235646"/>
+        <rtept lon="-77.555018" lat="43.235476"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:248603f0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.555018" lat="43.235476"/>
+        <rtept lon="-77.554886" lat="43.235365"/>
+        <rtept lon="-77.554688" lat="43.235291"/>
+        <rtept lon="-77.554495" lat="43.235128"/>
+        <rtept lon="-77.554237" lat="43.234940"/>
+        <rtept lon="-77.553995" lat="43.234753"/>
+        <rtept lon="-77.553839" lat="43.234620"/>
+        <rtept lon="-77.553739" lat="43.234491"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:7cfccec2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.553739" lat="43.234491"/>
+        <rtept lon="-77.553631" lat="43.234303"/>
+        <rtept lon="-77.553563" lat="43.234140"/>
+        <rtept lon="-77.553520" lat="43.234008"/>
+        <rtept lon="-77.553467" lat="43.233899"/>
+        <rtept lon="-77.553426" lat="43.233813"/>
+        <rtept lon="-77.553317" lat="43.233720"/>
+        <rtept lon="-77.553190" lat="43.233655"/>
+        <rtept lon="-77.553021" lat="43.233591"/>
+        <rtept lon="-77.552845" lat="43.233493"/>
+        <rtept lon="-77.552729" lat="43.233401"/>
+        <rtept lon="-77.552635" lat="43.233252"/>
+        <rtept lon="-77.552625" lat="43.233127"/>
+        <rtept lon="-77.552630" lat="43.233022"/>
+        <rtept lon="-77.552651" lat="43.232957"/>
+        <rtept lon="-77.552736" lat="43.232886"/>
+        <rtept lon="-77.552842" lat="43.232793"/>
+        <rtept lon="-77.553035" lat="43.232574"/>
+        <rtept lon="-77.553117" lat="43.232431"/>
+        <rtept lon="-77.553302" lat="43.232296"/>
+        <rtept lon="-77.553266" lat="43.232124"/>
+        <rtept lon="-77.553122" lat="43.232080"/>
+        <rtept lon="-77.552958" lat="43.232094"/>
+        <rtept lon="-77.552799" lat="43.232059"/>
+        <rtept lon="-77.552664" lat="43.231985"/>
+        <rtept lon="-77.552603" lat="43.231888"/>
+        <rtept lon="-77.552664" lat="43.231823"/>
+        <rtept lon="-77.552907" lat="43.231769"/>
+        <rtept lon="-77.553122" lat="43.231726"/>
+        <rtept lon="-77.553288" lat="43.231600"/>
+        <rtept lon="-77.553426" lat="43.231429"/>
+        <rtept lon="-77.553597" lat="43.231250"/>
+        <rtept lon="-77.553769" lat="43.231118"/>
+        <rtept lon="-77.553930" lat="43.230983"/>
+        <rtept lon="-77.553971" lat="43.230902"/>
+        <rtept lon="-77.553940" lat="43.230777"/>
+        <rtept lon="-77.553708" lat="43.230645"/>
+        <rtept lon="-77.553375" lat="43.230487"/>
+        <rtept lon="-77.552963" lat="43.230323"/>
+        <rtept lon="-77.552697" lat="43.230137"/>
+        <rtept lon="-77.552565" lat="43.229965"/>
+        <rtept lon="-77.552444" lat="43.229819"/>
+        <rtept lon="-77.552408" lat="43.229664"/>
+        <rtept lon="-77.552434" lat="43.229476"/>
+        <rtept lon="-77.552495" lat="43.229260"/>
+        <rtept lon="-77.552678" lat="43.228840"/>
+        <rtept lon="-77.552695" lat="43.228513"/>
+        <rtept lon="-77.552548" lat="43.228203"/>
+        <rtept lon="-77.552333" lat="43.228026"/>
+        <rtept lon="-77.552094" lat="43.227893"/>
+        <rtept lon="-77.551817" lat="43.227843"/>
+        <rtept lon="-77.551571" lat="43.227824"/>
+        <rtept lon="-77.551296" lat="43.227834"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-lakeshore-trail:38659cc6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.551296" lat="43.227834"/>
+        <rtept lon="-77.548295" lat="43.227936"/>
+        <rtept lon="-77.548245" lat="43.227930"/>
+        <rtept lon="-77.548194" lat="43.227903"/>
+        <rtept lon="-77.548118" lat="43.227857"/>
+        <rtept lon="-77.548005" lat="43.227843"/>
+        <rtept lon="-77.547852" lat="43.227842"/>
+        <rtept lon="-77.547566" lat="43.227833"/>
+        <rtept lon="-77.547259" lat="43.227803"/>
+        <rtept lon="-77.547066" lat="43.227777"/>
+        <rtept lon="-77.546992" lat="43.227764"/>
+        <rtept lon="-77.546924" lat="43.227724"/>
+        <rtept lon="-77.546882" lat="43.227651"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-unnamed-trails:0a3bf47e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.562453" lat="43.237431"/>
+        <rtept lon="-77.562522" lat="43.237328"/>
+        <rtept lon="-77.562565" lat="43.237246"/>
+        <rtept lon="-77.562610" lat="43.237133"/>
+        <rtept lon="-77.562573" lat="43.236942"/>
+        <rtept lon="-77.562573" lat="43.236942"/>
+        <rtept lon="-77.562493" lat="43.236827"/>
+        <rtept lon="-77.562428" lat="43.236702"/>
+        <rtept lon="-77.562408" lat="43.236604"/>
+        <rtept lon="-77.562368" lat="43.236499"/>
+        <rtept lon="-77.562373" lat="43.236340"/>
+        <rtept lon="-77.562452" lat="43.236153"/>
+        <rtept lon="-77.562685" lat="43.235908"/>
+        <rtept lon="-77.563061" lat="43.235583"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-unnamed-trails:e56a49dc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.563061" lat="43.235583"/>
+        <rtept lon="-77.563192" lat="43.235516"/>
+        <rtept lon="-77.563327" lat="43.235478"/>
+        <rtept lon="-77.563442" lat="43.235450"/>
+        <rtept lon="-77.563585" lat="43.235470"/>
+        <rtept lon="-77.563714" lat="43.235513"/>
+        <rtept lon="-77.563854" lat="43.235593"/>
+        <rtept lon="-77.563902" lat="43.235652"/>
+        <rtept lon="-77.563951" lat="43.235732"/>
+        <rtept lon="-77.563980" lat="43.235816"/>
+        <rtept lon="-77.563983" lat="43.235932"/>
+        <rtept lon="-77.563929" lat="43.236083"/>
+        <rtept lon="-77.563671" lat="43.236402"/>
+        <rtept lon="-77.563616" lat="43.236514"/>
+        <rtept lon="-77.563613" lat="43.236617"/>
+        <rtept lon="-77.563678" lat="43.236722"/>
+        <rtept lon="-77.563747" lat="43.236788"/>
+        <rtept lon="-77.563856" lat="43.236858"/>
+        <rtept lon="-77.563975" lat="43.236914"/>
+        <rtept lon="-77.564126" lat="43.236968"/>
+        <rtept lon="-77.564272" lat="43.237006"/>
+        <rtept lon="-77.564470" lat="43.237029"/>
+        <rtept lon="-77.564700" lat="43.237026"/>
+        <rtept lon="-77.564901" lat="43.236990"/>
+        <rtept lon="-77.565274" lat="43.236835"/>
+        <rtept lon="-77.566265" lat="43.236215"/>
+        <rtept lon="-77.566588" lat="43.236130"/>
+        <rtept lon="-77.566953" lat="43.236109"/>
+        <rtept lon="-77.567330" lat="43.236180"/>
+    </rte>
+    <rte>
+        <name>seg:trail-dureast-unnamed-trails:e78bec36</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.556251" lat="43.225424"/>
+        <rtept lon="-77.556669" lat="43.225574"/>
+        <rtept lon="-77.557244" lat="43.225927"/>
+        <rtept lon="-77.557760" lat="43.226068"/>
+        <rtept lon="-77.558741" lat="43.226157"/>
+    </rte>
+    <trk>
+        <name>seg:trail-dureast-durand-lake:fa28d909a</name>
+        <extensions>DarkGreen<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554653" lat="43.234870"/>
+            <trkpt lon="-77.554674" lat="43.234813"/>
+            <trkpt lon="-77.555107" lat="43.234244"/>
+            <trkpt lon="-77.555160" lat="43.233835"/>
+            <trkpt lon="-77.555219" lat="43.233765"/>
+            <trkpt lon="-77.555250" lat="43.233742"/>
+            <trkpt lon="-77.555387" lat="43.233761"/>
+            <trkpt lon="-77.555427" lat="43.233740"/>
+            <trkpt lon="-77.555435" lat="43.233718"/>
+            <trkpt lon="-77.555458" lat="43.233689"/>
+            <trkpt lon="-77.555455" lat="43.233500"/>
+            <trkpt lon="-77.555452" lat="43.233487"/>
+            <trkpt lon="-77.555335" lat="43.233252"/>
+            <trkpt lon="-77.555324" lat="43.233205"/>
+            <trkpt lon="-77.555325" lat="43.233172"/>
+            <trkpt lon="-77.555366" lat="43.233079"/>
+            <trkpt lon="-77.555527" lat="43.232914"/>
+            <trkpt lon="-77.555531" lat="43.232907"/>
+            <trkpt lon="-77.555535" lat="43.232892"/>
+            <trkpt lon="-77.555545" lat="43.232884"/>
+            <trkpt lon="-77.555640" lat="43.232874"/>
+            <trkpt lon="-77.555768" lat="43.232896"/>
+            <trkpt lon="-77.555808" lat="43.232916"/>
+            <trkpt lon="-77.555971" lat="43.233054"/>
+            <trkpt lon="-77.556043" lat="43.233088"/>
+            <trkpt lon="-77.556112" lat="43.233092"/>
+            <trkpt lon="-77.556138" lat="43.233081"/>
+            <trkpt lon="-77.556164" lat="43.232962"/>
+            <trkpt lon="-77.556192" lat="43.232904"/>
+            <trkpt lon="-77.556204" lat="43.232892"/>
+            <trkpt lon="-77.556217" lat="43.232884"/>
+            <trkpt lon="-77.556233" lat="43.232879"/>
+            <trkpt lon="-77.556598" lat="43.232901"/>
+            <trkpt lon="-77.556632" lat="43.232911"/>
+            <trkpt lon="-77.556641" lat="43.232922"/>
+            <trkpt lon="-77.556672" lat="43.232996"/>
+            <trkpt lon="-77.556678" lat="43.233002"/>
+            <trkpt lon="-77.557000" lat="43.232950"/>
+            <trkpt lon="-77.557203" lat="43.232990"/>
+            <trkpt lon="-77.557313" lat="43.233067"/>
+            <trkpt lon="-77.557340" lat="43.233074"/>
+            <trkpt lon="-77.557364" lat="43.233072"/>
+            <trkpt lon="-77.557465" lat="43.233013"/>
+            <trkpt lon="-77.557478" lat="43.232928"/>
+            <trkpt lon="-77.557520" lat="43.232867"/>
+            <trkpt lon="-77.557939" lat="43.232564"/>
+            <trkpt lon="-77.558160" lat="43.232487"/>
+            <trkpt lon="-77.558479" lat="43.232501"/>
+            <trkpt lon="-77.558521" lat="43.232492"/>
+            <trkpt lon="-77.558561" lat="43.232474"/>
+            <trkpt lon="-77.558605" lat="43.232436"/>
+            <trkpt lon="-77.558683" lat="43.232311"/>
+            <trkpt lon="-77.558979" lat="43.232069"/>
+            <trkpt lon="-77.558987" lat="43.232058"/>
+            <trkpt lon="-77.559000" lat="43.232024"/>
+            <trkpt lon="-77.558977" lat="43.231954"/>
+            <trkpt lon="-77.558992" lat="43.231840"/>
+            <trkpt lon="-77.558985" lat="43.231802"/>
+            <trkpt lon="-77.558987" lat="43.231784"/>
+            <trkpt lon="-77.558945" lat="43.231693"/>
+            <trkpt lon="-77.558939" lat="43.231651"/>
+            <trkpt lon="-77.558970" lat="43.231604"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-durand-lake:fa28d909b</name>
+        <extensions>DarkGreen<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558970" lat="43.231604"/>
+            <trkpt lon="-77.559394" lat="43.231647"/>
+            <trkpt lon="-77.559418" lat="43.231622"/>
+            <trkpt lon="-77.559427" lat="43.231605"/>
+            <trkpt lon="-77.559575" lat="43.231444"/>
+            <trkpt lon="-77.559586" lat="43.231418"/>
+            <trkpt lon="-77.559576" lat="43.231387"/>
+            <trkpt lon="-77.559333" lat="43.231164"/>
+            <trkpt lon="-77.559086" lat="43.231118"/>
+            <trkpt lon="-77.559076" lat="43.231113"/>
+            <trkpt lon="-77.559059" lat="43.231089"/>
+            <trkpt lon="-77.559059" lat="43.231074"/>
+            <trkpt lon="-77.559095" lat="43.230984"/>
+            <trkpt lon="-77.559166" lat="43.230473"/>
+            <trkpt lon="-77.559168" lat="43.230443"/>
+            <trkpt lon="-77.559186" lat="43.230391"/>
+            <trkpt lon="-77.559217" lat="43.230217"/>
+            <trkpt lon="-77.559217" lat="43.230188"/>
+            <trkpt lon="-77.559207" lat="43.230098"/>
+            <trkpt lon="-77.559198" lat="43.230050"/>
+            <trkpt lon="-77.559196" lat="43.230034"/>
+            <trkpt lon="-77.559195" lat="43.229921"/>
+            <trkpt lon="-77.559148" lat="43.229505"/>
+            <trkpt lon="-77.559130" lat="43.229450"/>
+            <trkpt lon="-77.559125" lat="43.229362"/>
+            <trkpt lon="-77.559126" lat="43.229349"/>
+            <trkpt lon="-77.559126" lat="43.229325"/>
+            <trkpt lon="-77.559135" lat="43.229201"/>
+            <trkpt lon="-77.559150" lat="43.229099"/>
+            <trkpt lon="-77.559151" lat="43.229087"/>
+            <trkpt lon="-77.559175" lat="43.229013"/>
+            <trkpt lon="-77.559246" lat="43.229001"/>
+            <trkpt lon="-77.559370" lat="43.229013"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-durand-lake:83e43920</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.559370" lat="43.229013"/>
+            <trkpt lon="-77.559585" lat="43.229050"/>
+            <trkpt lon="-77.559646" lat="43.229054"/>
+            <trkpt lon="-77.559801" lat="43.229055"/>
+            <trkpt lon="-77.559819" lat="43.229058"/>
+            <trkpt lon="-77.559836" lat="43.229061"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-durand-lake:cd67f79c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.559836" lat="43.229061"/>
+            <trkpt lon="-77.559850" lat="43.229066"/>
+            <trkpt lon="-77.559871" lat="43.229083"/>
+            <trkpt lon="-77.559926" lat="43.229179"/>
+            <trkpt lon="-77.559932" lat="43.229200"/>
+            <trkpt lon="-77.559928" lat="43.229236"/>
+            <trkpt lon="-77.559882" lat="43.229405"/>
+            <trkpt lon="-77.559876" lat="43.229475"/>
+            <trkpt lon="-77.559897" lat="43.229638"/>
+            <trkpt lon="-77.559920" lat="43.229687"/>
+            <trkpt lon="-77.559961" lat="43.229818"/>
+            <trkpt lon="-77.560003" lat="43.230202"/>
+            <trkpt lon="-77.559915" lat="43.230396"/>
+            <trkpt lon="-77.559904" lat="43.230474"/>
+            <trkpt lon="-77.559908" lat="43.230494"/>
+            <trkpt lon="-77.559984" lat="43.230647"/>
+            <trkpt lon="-77.560269" lat="43.230904"/>
+            <trkpt lon="-77.560314" lat="43.230921"/>
+            <trkpt lon="-77.560541" lat="43.230833"/>
+            <trkpt lon="-77.560594" lat="43.230835"/>
+            <trkpt lon="-77.560882" lat="43.230938"/>
+            <trkpt lon="-77.561086" lat="43.230932"/>
+            <trkpt lon="-77.561223" lat="43.230902"/>
+            <trkpt lon="-77.561307" lat="43.230864"/>
+            <trkpt lon="-77.561317" lat="43.230863"/>
+            <trkpt lon="-77.561326" lat="43.230865"/>
+            <trkpt lon="-77.561343" lat="43.230873"/>
+            <trkpt lon="-77.561317" lat="43.230993"/>
+            <trkpt lon="-77.561310" lat="43.231010"/>
+            <trkpt lon="-77.561244" lat="43.231108"/>
+            <trkpt lon="-77.561237" lat="43.231123"/>
+            <trkpt lon="-77.561236" lat="43.231148"/>
+            <trkpt lon="-77.561256" lat="43.231187"/>
+            <trkpt lon="-77.561270" lat="43.231199"/>
+            <trkpt lon="-77.561310" lat="43.231225"/>
+            <trkpt lon="-77.561543" lat="43.231225"/>
+            <trkpt lon="-77.561563" lat="43.231229"/>
+            <trkpt lon="-77.561608" lat="43.231232"/>
+            <trkpt lon="-77.561639" lat="43.231243"/>
+            <trkpt lon="-77.561733" lat="43.231354"/>
+            <trkpt lon="-77.561766" lat="43.231374"/>
+            <trkpt lon="-77.561844" lat="43.231387"/>
+            <trkpt lon="-77.561454" lat="43.231508"/>
+            <trkpt lon="-77.561267" lat="43.231529"/>
+            <trkpt lon="-77.561239" lat="43.231542"/>
+            <trkpt lon="-77.561261" lat="43.231574"/>
+            <trkpt lon="-77.561278" lat="43.231624"/>
+            <trkpt lon="-77.561280" lat="43.231634"/>
+            <trkpt lon="-77.561322" lat="43.231716"/>
+            <trkpt lon="-77.561402" lat="43.231806"/>
+            <trkpt lon="-77.561571" lat="43.231911"/>
+            <trkpt lon="-77.561578" lat="43.231917"/>
+            <trkpt lon="-77.561581" lat="43.231929"/>
+            <trkpt lon="-77.561578" lat="43.231964"/>
+            <trkpt lon="-77.561543" lat="43.232064"/>
+            <trkpt lon="-77.561533" lat="43.232080"/>
+            <trkpt lon="-77.561521" lat="43.232093"/>
+            <trkpt lon="-77.561508" lat="43.232103"/>
+            <trkpt lon="-77.561193" lat="43.232180"/>
+            <trkpt lon="-77.561136" lat="43.232204"/>
+            <trkpt lon="-77.560849" lat="43.232267"/>
+            <trkpt lon="-77.560266" lat="43.232508"/>
+            <trkpt lon="-77.560109" lat="43.232544"/>
+            <trkpt lon="-77.560079" lat="43.232612"/>
+            <trkpt lon="-77.559771" lat="43.232834"/>
+            <trkpt lon="-77.559147" lat="43.233108"/>
+            <trkpt lon="-77.558961" lat="43.233273"/>
+            <trkpt lon="-77.558888" lat="43.233424"/>
+            <trkpt lon="-77.558866" lat="43.233451"/>
+            <trkpt lon="-77.558827" lat="43.233480"/>
+            <trkpt lon="-77.558800" lat="43.233482"/>
+            <trkpt lon="-77.558687" lat="43.233520"/>
+            <trkpt lon="-77.558554" lat="43.233601"/>
+            <trkpt lon="-77.558483" lat="43.233657"/>
+            <trkpt lon="-77.558469" lat="43.233690"/>
+            <trkpt lon="-77.558163" lat="43.233889"/>
+            <trkpt lon="-77.558156" lat="43.233899"/>
+            <trkpt lon="-77.558142" lat="43.233961"/>
+            <trkpt lon="-77.558204" lat="43.234226"/>
+            <trkpt lon="-77.558204" lat="43.234237"/>
+            <trkpt lon="-77.558188" lat="43.234302"/>
+            <trkpt lon="-77.558290" lat="43.234385"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-eastman-lake:cf1c1863</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558366" lat="43.234406"/>
+            <trkpt lon="-77.558618" lat="43.234527"/>
+            <trkpt lon="-77.558693" lat="43.234624"/>
+            <trkpt lon="-77.558717" lat="43.234673"/>
+            <trkpt lon="-77.558728" lat="43.234766"/>
+            <trkpt lon="-77.558719" lat="43.234778"/>
+            <trkpt lon="-77.558715" lat="43.234927"/>
+            <trkpt lon="-77.558744" lat="43.235127"/>
+            <trkpt lon="-77.558798" lat="43.235252"/>
+            <trkpt lon="-77.558817" lat="43.235275"/>
+            <trkpt lon="-77.558924" lat="43.235331"/>
+            <trkpt lon="-77.558946" lat="43.235326"/>
+            <trkpt lon="-77.558959" lat="43.235311"/>
+            <trkpt lon="-77.558997" lat="43.235165"/>
+            <trkpt lon="-77.559019" lat="43.235129"/>
+            <trkpt lon="-77.559028" lat="43.235108"/>
+            <trkpt lon="-77.559033" lat="43.235101"/>
+            <trkpt lon="-77.559083" lat="43.235113"/>
+            <trkpt lon="-77.559097" lat="43.235119"/>
+            <trkpt lon="-77.559324" lat="43.235355"/>
+            <trkpt lon="-77.559388" lat="43.235397"/>
+            <trkpt lon="-77.559402" lat="43.235403"/>
+            <trkpt lon="-77.559519" lat="43.235429"/>
+            <trkpt lon="-77.559564" lat="43.235433"/>
+            <trkpt lon="-77.559606" lat="43.235429"/>
+            <trkpt lon="-77.559713" lat="43.235390"/>
+            <trkpt lon="-77.559744" lat="43.235351"/>
+            <trkpt lon="-77.559748" lat="43.235325"/>
+            <trkpt lon="-77.559740" lat="43.235260"/>
+            <trkpt lon="-77.559733" lat="43.235251"/>
+            <trkpt lon="-77.559721" lat="43.235240"/>
+            <trkpt lon="-77.559705" lat="43.235232"/>
+            <trkpt lon="-77.559613" lat="43.235090"/>
+            <trkpt lon="-77.559497" lat="43.234753"/>
+            <trkpt lon="-77.559472" lat="43.234502"/>
+            <trkpt lon="-77.559491" lat="43.234420"/>
+            <trkpt lon="-77.559508" lat="43.234376"/>
+            <trkpt lon="-77.559524" lat="43.234315"/>
+            <trkpt lon="-77.559548" lat="43.234284"/>
+            <trkpt lon="-77.559578" lat="43.234258"/>
+            <trkpt lon="-77.559594" lat="43.234248"/>
+            <trkpt lon="-77.559628" lat="43.234236"/>
+            <trkpt lon="-77.559685" lat="43.234235"/>
+            <trkpt lon="-77.559738" lat="43.234250"/>
+            <trkpt lon="-77.559782" lat="43.234276"/>
+            <trkpt lon="-77.559817" lat="43.234307"/>
+            <trkpt lon="-77.559833" lat="43.234326"/>
+            <trkpt lon="-77.559912" lat="43.234460"/>
+            <trkpt lon="-77.559913" lat="43.234472"/>
+            <trkpt lon="-77.559923" lat="43.234487"/>
+            <trkpt lon="-77.559936" lat="43.234501"/>
+            <trkpt lon="-77.559969" lat="43.234529"/>
+            <trkpt lon="-77.560020" lat="43.234559"/>
+            <trkpt lon="-77.560064" lat="43.234573"/>
+            <trkpt lon="-77.560153" lat="43.234583"/>
+            <trkpt lon="-77.560188" lat="43.234580"/>
+            <trkpt lon="-77.560204" lat="43.234576"/>
+            <trkpt lon="-77.560236" lat="43.234550"/>
+            <trkpt lon="-77.560366" lat="43.234346"/>
+            <trkpt lon="-77.560566" lat="43.233933"/>
+            <trkpt lon="-77.560684" lat="43.233775"/>
+            <trkpt lon="-77.560739" lat="43.233725"/>
+            <trkpt lon="-77.561019" lat="43.233562"/>
+            <trkpt lon="-77.561064" lat="43.233528"/>
+            <trkpt lon="-77.561076" lat="43.233513"/>
+            <trkpt lon="-77.561077" lat="43.233488"/>
+            <trkpt lon="-77.561085" lat="43.233471"/>
+            <trkpt lon="-77.561094" lat="43.233444"/>
+            <trkpt lon="-77.561161" lat="43.233348"/>
+            <trkpt lon="-77.561205" lat="43.233254"/>
+            <trkpt lon="-77.561226" lat="43.233179"/>
+            <trkpt lon="-77.561244" lat="43.233153"/>
+            <trkpt lon="-77.561262" lat="43.232924"/>
+            <trkpt lon="-77.561266" lat="43.232913"/>
+            <trkpt lon="-77.561272" lat="43.232903"/>
+            <trkpt lon="-77.561279" lat="43.232895"/>
+            <trkpt lon="-77.561397" lat="43.232834"/>
+            <trkpt lon="-77.561423" lat="43.232825"/>
+            <trkpt lon="-77.561447" lat="43.232820"/>
+            <trkpt lon="-77.561471" lat="43.232818"/>
+            <trkpt lon="-77.561517" lat="43.232827"/>
+            <trkpt lon="-77.561571" lat="43.232854"/>
+            <trkpt lon="-77.561949" lat="43.232983"/>
+            <trkpt lon="-77.561982" lat="43.232988"/>
+            <trkpt lon="-77.562014" lat="43.232987"/>
+            <trkpt lon="-77.562047" lat="43.232977"/>
+            <trkpt lon="-77.562108" lat="43.232938"/>
+            <trkpt lon="-77.562125" lat="43.232931"/>
+            <trkpt lon="-77.562160" lat="43.232923"/>
+            <trkpt lon="-77.562240" lat="43.232932"/>
+            <trkpt lon="-77.562378" lat="43.232973"/>
+            <trkpt lon="-77.562394" lat="43.232975"/>
+            <trkpt lon="-77.562426" lat="43.232974"/>
+            <trkpt lon="-77.562442" lat="43.232970"/>
+            <trkpt lon="-77.562456" lat="43.232956"/>
+            <trkpt lon="-77.562583" lat="43.232887"/>
+            <trkpt lon="-77.562959" lat="43.232793"/>
+            <trkpt lon="-77.562988" lat="43.232779"/>
+            <trkpt lon="-77.563029" lat="43.232752"/>
+            <trkpt lon="-77.563475" lat="43.232335"/>
+            <trkpt lon="-77.563484" lat="43.232323"/>
+            <trkpt lon="-77.563471" lat="43.232227"/>
+            <trkpt lon="-77.563464" lat="43.232212"/>
+            <trkpt lon="-77.563337" lat="43.232062"/>
+            <trkpt lon="-77.563321" lat="43.232038"/>
+            <trkpt lon="-77.563215" lat="43.231814"/>
+            <trkpt lon="-77.563205" lat="43.231784"/>
+            <trkpt lon="-77.563214" lat="43.231657"/>
+            <trkpt lon="-77.563228" lat="43.231608"/>
+            <trkpt lon="-77.563309" lat="43.231422"/>
+            <trkpt lon="-77.563349" lat="43.231289"/>
+            <trkpt lon="-77.563350" lat="43.231231"/>
+            <trkpt lon="-77.563308" lat="43.231000"/>
+            <trkpt lon="-77.563307" lat="43.230966"/>
+            <trkpt lon="-77.563296" lat="43.230927"/>
+            <trkpt lon="-77.563297" lat="43.230894"/>
+            <trkpt lon="-77.563318" lat="43.230801"/>
+            <trkpt lon="-77.563350" lat="43.230712"/>
+            <trkpt lon="-77.563417" lat="43.230684"/>
+            <trkpt lon="-77.563432" lat="43.230669"/>
+            <trkpt lon="-77.563440" lat="43.230604"/>
+            <trkpt lon="-77.563869" lat="43.229846"/>
+            <trkpt lon="-77.563876" lat="43.229846"/>
+            <trkpt lon="-77.564100" lat="43.229415"/>
+            <trkpt lon="-77.564148" lat="43.229340"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-eastman-lake:d7890607</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564148" lat="43.229340"/>
+            <trkpt lon="-77.564165" lat="43.229303"/>
+            <trkpt lon="-77.564245" lat="43.229223"/>
+            <trkpt lon="-77.564270" lat="43.229213"/>
+            <trkpt lon="-77.564330" lat="43.229212"/>
+            <trkpt lon="-77.564683" lat="43.229284"/>
+            <trkpt lon="-77.564746" lat="43.229309"/>
+            <trkpt lon="-77.564805" lat="43.229350"/>
+            <trkpt lon="-77.564825" lat="43.229369"/>
+            <trkpt lon="-77.564987" lat="43.229660"/>
+            <trkpt lon="-77.565154" lat="43.229871"/>
+            <trkpt lon="-77.565167" lat="43.229895"/>
+            <trkpt lon="-77.565171" lat="43.229907"/>
+            <trkpt lon="-77.565176" lat="43.229946"/>
+            <trkpt lon="-77.565160" lat="43.230028"/>
+            <trkpt lon="-77.565136" lat="43.230071"/>
+            <trkpt lon="-77.565121" lat="43.230078"/>
+            <trkpt lon="-77.564753" lat="43.230356"/>
+            <trkpt lon="-77.564725" lat="43.230384"/>
+            <trkpt lon="-77.564709" lat="43.230394"/>
+            <trkpt lon="-77.564691" lat="43.230417"/>
+            <trkpt lon="-77.564670" lat="43.230545"/>
+            <trkpt lon="-77.564638" lat="43.230584"/>
+            <trkpt lon="-77.564626" lat="43.230607"/>
+            <trkpt lon="-77.564623" lat="43.230633"/>
+            <trkpt lon="-77.564648" lat="43.230681"/>
+            <trkpt lon="-77.564691" lat="43.230729"/>
+            <trkpt lon="-77.564727" lat="43.230797"/>
+            <trkpt lon="-77.564731" lat="43.230826"/>
+            <trkpt lon="-77.564731" lat="43.230836"/>
+            <trkpt lon="-77.564724" lat="43.230848"/>
+            <trkpt lon="-77.564724" lat="43.230858"/>
+            <trkpt lon="-77.564729" lat="43.230879"/>
+            <trkpt lon="-77.564764" lat="43.230918"/>
+            <trkpt lon="-77.564777" lat="43.230927"/>
+            <trkpt lon="-77.565012" lat="43.231024"/>
+            <trkpt lon="-77.565298" lat="43.231067"/>
+            <trkpt lon="-77.565344" lat="43.231090"/>
+            <trkpt lon="-77.565381" lat="43.231119"/>
+            <trkpt lon="-77.565419" lat="43.231163"/>
+            <trkpt lon="-77.565449" lat="43.231266"/>
+            <trkpt lon="-77.565449" lat="43.231282"/>
+            <trkpt lon="-77.565442" lat="43.231295"/>
+            <trkpt lon="-77.565432" lat="43.231305"/>
+            <trkpt lon="-77.565348" lat="43.231359"/>
+            <trkpt lon="-77.565286" lat="43.231423"/>
+            <trkpt lon="-77.565273" lat="43.231444"/>
+            <trkpt lon="-77.565173" lat="43.231681"/>
+            <trkpt lon="-77.565155" lat="43.231702"/>
+            <trkpt lon="-77.564913" lat="43.232326"/>
+            <trkpt lon="-77.564903" lat="43.232383"/>
+            <trkpt lon="-77.564622" lat="43.232862"/>
+            <trkpt lon="-77.564318" lat="43.233145"/>
+            <trkpt lon="-77.564139" lat="43.233383"/>
+            <trkpt lon="-77.564120" lat="43.233397"/>
+            <trkpt lon="-77.563453" lat="43.233623"/>
+            <trkpt lon="-77.563414" lat="43.233629"/>
+            <trkpt lon="-77.562325" lat="43.233994"/>
+            <trkpt lon="-77.562318" lat="43.233992"/>
+            <trkpt lon="-77.562271" lat="43.234015"/>
+            <trkpt lon="-77.562074" lat="43.234191"/>
+            <trkpt lon="-77.561973" lat="43.234333"/>
+            <trkpt lon="-77.561906" lat="43.234503"/>
+            <trkpt lon="-77.561895" lat="43.234620"/>
+            <trkpt lon="-77.561927" lat="43.234672"/>
+            <trkpt lon="-77.561890" lat="43.234752"/>
+            <trkpt lon="-77.561834" lat="43.234803"/>
+            <trkpt lon="-77.561738" lat="43.234857"/>
+            <trkpt lon="-77.561689" lat="43.234906"/>
+            <trkpt lon="-77.561663" lat="43.234944"/>
+            <trkpt lon="-77.561639" lat="43.234999"/>
+            <trkpt lon="-77.561610" lat="43.235170"/>
+            <trkpt lon="-77.561585" lat="43.235242"/>
+            <trkpt lon="-77.561534" lat="43.235323"/>
+            <trkpt lon="-77.561115" lat="43.235665"/>
+            <trkpt lon="-77.560968" lat="43.235734"/>
+            <trkpt lon="-77.560655" lat="43.235820"/>
+            <trkpt lon="-77.560596" lat="43.235852"/>
+            <trkpt lon="-77.560550" lat="43.235904"/>
+            <trkpt lon="-77.560539" lat="43.235927"/>
+            <trkpt lon="-77.560454" lat="43.236019"/>
+            <trkpt lon="-77.560374" lat="43.236077"/>
+            <trkpt lon="-77.560076" lat="43.236225"/>
+            <trkpt lon="-77.560002" lat="43.236296"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-eastman-lake:9fe9c848</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.560002" lat="43.236296"/>
+            <trkpt lon="-77.559993" lat="43.236342"/>
+            <trkpt lon="-77.560015" lat="43.236386"/>
+            <trkpt lon="-77.560282" lat="43.236756"/>
+            <trkpt lon="-77.560297" lat="43.236777"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-trott-lake:c90aff4e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.559350" lat="43.229007"/>
+            <trkpt lon="-77.559326" lat="43.228862"/>
+            <trkpt lon="-77.559013" lat="43.228679"/>
+            <trkpt lon="-77.558921" lat="43.228591"/>
+            <trkpt lon="-77.558860" lat="43.228500"/>
+            <trkpt lon="-77.558898" lat="43.228408"/>
+            <trkpt lon="-77.558952" lat="43.228382"/>
+            <trkpt lon="-77.559242" lat="43.228446"/>
+            <trkpt lon="-77.559432" lat="43.228439"/>
+            <trkpt lon="-77.559532" lat="43.228382"/>
+            <trkpt lon="-77.559616" lat="43.228149"/>
+            <trkpt lon="-77.559692" lat="43.228073"/>
+            <trkpt lon="-77.559768" lat="43.227928"/>
+            <trkpt lon="-77.559799" lat="43.227752"/>
+            <trkpt lon="-77.559913" lat="43.227508"/>
+            <trkpt lon="-77.559806" lat="43.227394"/>
+            <trkpt lon="-77.559646" lat="43.227012"/>
+            <trkpt lon="-77.559524" lat="43.226921"/>
+            <trkpt lon="-77.559410" lat="43.226787"/>
+            <trkpt lon="-77.559303" lat="43.226703"/>
+            <trkpt lon="-77.558990" lat="43.226570"/>
+            <trkpt lon="-77.558708" lat="43.226367"/>
+            <trkpt lon="-77.558647" lat="43.226249"/>
+            <trkpt lon="-77.558692" lat="43.226181"/>
+            <trkpt lon="-77.558746" lat="43.226158"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-trott-lake:a98fde4e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558746" lat="43.226158"/>
+            <trkpt lon="-77.559097" lat="43.226150"/>
+            <trkpt lon="-77.559638" lat="43.226375"/>
+            <trkpt lon="-77.561088" lat="43.227478"/>
+            <trkpt lon="-77.561187" lat="43.227607"/>
+            <trkpt lon="-77.561238" lat="43.227842"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-trott-lake:93b64541</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.561238" lat="43.227842"/>
+            <trkpt lon="-77.561225" lat="43.227931"/>
+            <trkpt lon="-77.561172" lat="43.228038"/>
+            <trkpt lon="-77.560859" lat="43.228240"/>
+            <trkpt lon="-77.560607" lat="43.228282"/>
+            <trkpt lon="-77.560455" lat="43.228363"/>
+            <trkpt lon="-77.560485" lat="43.228534"/>
+            <trkpt lon="-77.560356" lat="43.228717"/>
+            <trkpt lon="-77.560050" lat="43.228828"/>
+            <trkpt lon="-77.559959" lat="43.228904"/>
+            <trkpt lon="-77.559852" lat="43.229054"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-yellow:7794fab6</name>
+        <extensions>Blue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.560029" lat="43.236332"/>
+            <trkpt lon="-77.560158" lat="43.236364"/>
+            <trkpt lon="-77.560304" lat="43.236336"/>
+            <trkpt lon="-77.560353" lat="43.236342"/>
+            <trkpt lon="-77.560396" lat="43.236360"/>
+            <trkpt lon="-77.560409" lat="43.236370"/>
+            <trkpt lon="-77.560420" lat="43.236546"/>
+            <trkpt lon="-77.560414" lat="43.236589"/>
+            <trkpt lon="-77.560418" lat="43.236608"/>
+            <trkpt lon="-77.560429" lat="43.236627"/>
+            <trkpt lon="-77.560485" lat="43.236672"/>
+            <trkpt lon="-77.560750" lat="43.236796"/>
+            <trkpt lon="-77.560773" lat="43.236799"/>
+            <trkpt lon="-77.560795" lat="43.236795"/>
+            <trkpt lon="-77.560847" lat="43.236764"/>
+            <trkpt lon="-77.560878" lat="43.236695"/>
+            <trkpt lon="-77.560926" lat="43.236448"/>
+            <trkpt lon="-77.560948" lat="43.236411"/>
+            <trkpt lon="-77.561577" lat="43.235884"/>
+            <trkpt lon="-77.561612" lat="43.235878"/>
+            <trkpt lon="-77.562009" lat="43.235588"/>
+            <trkpt lon="-77.562172" lat="43.235359"/>
+            <trkpt lon="-77.562196" lat="43.235284"/>
+            <trkpt lon="-77.562212" lat="43.235272"/>
+            <trkpt lon="-77.562243" lat="43.235283"/>
+            <trkpt lon="-77.562369" lat="43.235383"/>
+            <trkpt lon="-77.562391" lat="43.235420"/>
+            <trkpt lon="-77.562375" lat="43.235484"/>
+            <trkpt lon="-77.562298" lat="43.235608"/>
+            <trkpt lon="-77.562273" lat="43.235626"/>
+            <trkpt lon="-77.561995" lat="43.236108"/>
+            <trkpt lon="-77.561902" lat="43.236384"/>
+            <trkpt lon="-77.561897" lat="43.236423"/>
+            <trkpt lon="-77.562191" lat="43.236728"/>
+            <trkpt lon="-77.562329" lat="43.237124"/>
+            <trkpt lon="-77.562370" lat="43.237169"/>
+            <trkpt lon="-77.562391" lat="43.237182"/>
+            <trkpt lon="-77.562444" lat="43.237184"/>
+            <trkpt lon="-77.562563" lat="43.237187"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-yellow:658ceb78</name>
+        <extensions>DarkBlue<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563070" lat="43.235559"/>
+            <trkpt lon="-77.563049" lat="43.235556"/>
+            <trkpt lon="-77.563030" lat="43.235548"/>
+            <trkpt lon="-77.562952" lat="43.235472"/>
+            <trkpt lon="-77.562915" lat="43.235457"/>
+            <trkpt lon="-77.562836" lat="43.235451"/>
+            <trkpt lon="-77.562820" lat="43.235444"/>
+            <trkpt lon="-77.562807" lat="43.235428"/>
+            <trkpt lon="-77.562795" lat="43.235401"/>
+            <trkpt lon="-77.562812" lat="43.235265"/>
+            <trkpt lon="-77.562794" lat="43.235175"/>
+            <trkpt lon="-77.562793" lat="43.235091"/>
+            <trkpt lon="-77.562818" lat="43.235005"/>
+            <trkpt lon="-77.562885" lat="43.234899"/>
+            <trkpt lon="-77.563194" lat="43.234659"/>
+            <trkpt lon="-77.563217" lat="43.234648"/>
+            <trkpt lon="-77.563299" lat="43.234572"/>
+            <trkpt lon="-77.563339" lat="43.234549"/>
+            <trkpt lon="-77.563387" lat="43.234536"/>
+            <trkpt lon="-77.563523" lat="43.234531"/>
+            <trkpt lon="-77.563613" lat="43.234511"/>
+            <trkpt lon="-77.563791" lat="43.234383"/>
+            <trkpt lon="-77.563933" lat="43.234166"/>
+            <trkpt lon="-77.564002" lat="43.233852"/>
+            <trkpt lon="-77.564041" lat="43.233771"/>
+            <trkpt lon="-77.564088" lat="43.233726"/>
+            <trkpt lon="-77.564547" lat="43.233491"/>
+            <trkpt lon="-77.564636" lat="43.233411"/>
+            <trkpt lon="-77.564721" lat="43.233171"/>
+            <trkpt lon="-77.565324" lat="43.232507"/>
+            <trkpt lon="-77.565883" lat="43.232149"/>
+            <trkpt lon="-77.565917" lat="43.232107"/>
+            <trkpt lon="-77.565928" lat="43.232084"/>
+            <trkpt lon="-77.565941" lat="43.232012"/>
+            <trkpt lon="-77.565931" lat="43.231514"/>
+            <trkpt lon="-77.565948" lat="43.231470"/>
+            <trkpt lon="-77.566025" lat="43.231369"/>
+            <trkpt lon="-77.566172" lat="43.231247"/>
+            <trkpt lon="-77.566181" lat="43.231232"/>
+            <trkpt lon="-77.566183" lat="43.231212"/>
+            <trkpt lon="-77.566146" lat="43.231036"/>
+            <trkpt lon="-77.566150" lat="43.230910"/>
+            <trkpt lon="-77.566214" lat="43.230726"/>
+            <trkpt lon="-77.566240" lat="43.230679"/>
+            <trkpt lon="-77.566267" lat="43.230665"/>
+            <trkpt lon="-77.566573" lat="43.230580"/>
+            <trkpt lon="-77.566619" lat="43.230575"/>
+            <trkpt lon="-77.566831" lat="43.230618"/>
+            <trkpt lon="-77.566966" lat="43.230674"/>
+            <trkpt lon="-77.567026" lat="43.230741"/>
+            <trkpt lon="-77.567126" lat="43.230913"/>
+            <trkpt lon="-77.567178" lat="43.230970"/>
+            <trkpt lon="-77.568031" lat="43.231319"/>
+            <trkpt lon="-77.568050" lat="43.231322"/>
+            <trkpt lon="-77.568067" lat="43.231320"/>
+            <trkpt lon="-77.568086" lat="43.231313"/>
+            <trkpt lon="-77.568105" lat="43.231281"/>
+            <trkpt lon="-77.568110" lat="43.231263"/>
+            <trkpt lon="-77.568104" lat="43.231229"/>
+            <trkpt lon="-77.568053" lat="43.231122"/>
+            <trkpt lon="-77.567952" lat="43.230988"/>
+            <trkpt lon="-77.567938" lat="43.230956"/>
+            <trkpt lon="-77.567937" lat="43.230941"/>
+            <trkpt lon="-77.567942" lat="43.230926"/>
+            <trkpt lon="-77.568094" lat="43.230817"/>
+            <trkpt lon="-77.568288" lat="43.230427"/>
+            <trkpt lon="-77.568320" lat="43.230268"/>
+            <trkpt lon="-77.568319" lat="43.230220"/>
+            <trkpt lon="-77.568305" lat="43.230166"/>
+            <trkpt lon="-77.568263" lat="43.230075"/>
+            <trkpt lon="-77.568244" lat="43.230059"/>
+            <trkpt lon="-77.568219" lat="43.230053"/>
+            <trkpt lon="-77.568169" lat="43.230071"/>
+            <trkpt lon="-77.568141" lat="43.230072"/>
+            <trkpt lon="-77.568077" lat="43.230066"/>
+            <trkpt lon="-77.567405" lat="43.229679"/>
+            <trkpt lon="-77.567387" lat="43.229661"/>
+            <trkpt lon="-77.567371" lat="43.229572"/>
+            <trkpt lon="-77.567373" lat="43.229536"/>
+            <trkpt lon="-77.567384" lat="43.229501"/>
+            <trkpt lon="-77.567405" lat="43.229473"/>
+            <trkpt lon="-77.567590" lat="43.229320"/>
+            <trkpt lon="-77.567616" lat="43.229276"/>
+            <trkpt lon="-77.567651" lat="43.229084"/>
+            <trkpt lon="-77.567643" lat="43.228976"/>
+            <trkpt lon="-77.567583" lat="43.228787"/>
+            <trkpt lon="-77.567574" lat="43.228775"/>
+            <trkpt lon="-77.567515" lat="43.228756"/>
+            <trkpt lon="-77.567351" lat="43.228829"/>
+            <trkpt lon="-77.567330" lat="43.228830"/>
+            <trkpt lon="-77.566965" lat="43.228643"/>
+            <trkpt lon="-77.566953" lat="43.228615"/>
+            <trkpt lon="-77.567078" lat="43.227963"/>
+            <trkpt lon="-77.567074" lat="43.227917"/>
+            <trkpt lon="-77.567019" lat="43.227812"/>
+            <trkpt lon="-77.566991" lat="43.227633"/>
+            <trkpt lon="-77.566995" lat="43.227446"/>
+            <trkpt lon="-77.566953" lat="43.227487"/>
+            <trkpt lon="-77.566874" lat="43.227623"/>
+            <trkpt lon="-77.566847" lat="43.227707"/>
+            <trkpt lon="-77.566816" lat="43.227917"/>
+            <trkpt lon="-77.566811" lat="43.227931"/>
+            <trkpt lon="-77.566806" lat="43.227939"/>
+            <trkpt lon="-77.566791" lat="43.227938"/>
+            <trkpt lon="-77.566709" lat="43.227805"/>
+            <trkpt lon="-77.566639" lat="43.227600"/>
+            <trkpt lon="-77.566625" lat="43.227578"/>
+            <trkpt lon="-77.566529" lat="43.227502"/>
+            <trkpt lon="-77.566447" lat="43.227472"/>
+            <trkpt lon="-77.566361" lat="43.227467"/>
+            <trkpt lon="-77.566304" lat="43.227469"/>
+            <trkpt lon="-77.565761" lat="43.227430"/>
+            <trkpt lon="-77.565631" lat="43.227432"/>
+            <trkpt lon="-77.565602" lat="43.227432"/>
+            <trkpt lon="-77.565437" lat="43.227438"/>
+            <trkpt lon="-77.565385" lat="43.227471"/>
+            <trkpt lon="-77.565281" lat="43.227571"/>
+            <trkpt lon="-77.565240" lat="43.227585"/>
+            <trkpt lon="-77.565219" lat="43.227587"/>
+            <trkpt lon="-77.565196" lat="43.227586"/>
+            <trkpt lon="-77.565079" lat="43.227555"/>
+            <trkpt lon="-77.565056" lat="43.227559"/>
+            <trkpt lon="-77.565051" lat="43.227565"/>
+            <trkpt lon="-77.565052" lat="43.227588"/>
+            <trkpt lon="-77.565051" lat="43.227595"/>
+            <trkpt lon="-77.564972" lat="43.227605"/>
+            <trkpt lon="-77.564804" lat="43.227544"/>
+            <trkpt lon="-77.564752" lat="43.227551"/>
+            <trkpt lon="-77.564744" lat="43.227551"/>
+            <trkpt lon="-77.564726" lat="43.227547"/>
+            <trkpt lon="-77.564713" lat="43.227505"/>
+            <trkpt lon="-77.564347" lat="43.227249"/>
+            <trkpt lon="-77.564242" lat="43.227145"/>
+            <trkpt lon="-77.564199" lat="43.227126"/>
+            <trkpt lon="-77.563952" lat="43.227079"/>
+            <trkpt lon="-77.563622" lat="43.227642"/>
+            <trkpt lon="-77.563612" lat="43.227819"/>
+            <trkpt lon="-77.563798" lat="43.227985"/>
+            <trkpt lon="-77.563907" lat="43.228154"/>
+            <trkpt lon="-77.563929" lat="43.228231"/>
+            <trkpt lon="-77.563928" lat="43.228242"/>
+            <trkpt lon="-77.563921" lat="43.228252"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-purple:ca0fda49</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.564141" lat="43.229328"/>
+            <trkpt lon="-77.564120" lat="43.229253"/>
+            <trkpt lon="-77.564152" lat="43.229163"/>
+            <trkpt lon="-77.564459" lat="43.228666"/>
+            <trkpt lon="-77.564459" lat="43.228638"/>
+            <trkpt lon="-77.564468" lat="43.228620"/>
+            <trkpt lon="-77.564478" lat="43.228563"/>
+            <trkpt lon="-77.564467" lat="43.228546"/>
+            <trkpt lon="-77.564407" lat="43.228504"/>
+            <trkpt lon="-77.564163" lat="43.228450"/>
+            <trkpt lon="-77.563940" lat="43.228259"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-purple:2748de0d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563940" lat="43.228259"/>
+            <trkpt lon="-77.563437" lat="43.228148"/>
+            <trkpt lon="-77.563416" lat="43.228148"/>
+            <trkpt lon="-77.563322" lat="43.228168"/>
+            <trkpt lon="-77.563198" lat="43.228251"/>
+            <trkpt lon="-77.563174" lat="43.228255"/>
+            <trkpt lon="-77.563036" lat="43.228235"/>
+            <trkpt lon="-77.562852" lat="43.227955"/>
+            <trkpt lon="-77.562736" lat="43.227842"/>
+            <trkpt lon="-77.562728" lat="43.227829"/>
+            <trkpt lon="-77.562715" lat="43.227762"/>
+            <trkpt lon="-77.562722" lat="43.227650"/>
+            <trkpt lon="-77.562703" lat="43.227571"/>
+            <trkpt lon="-77.562697" lat="43.227561"/>
+            <trkpt lon="-77.562690" lat="43.227554"/>
+            <trkpt lon="-77.562682" lat="43.227549"/>
+            <trkpt lon="-77.562604" lat="43.227563"/>
+            <trkpt lon="-77.562549" lat="43.227589"/>
+            <trkpt lon="-77.562494" lat="43.227680"/>
+            <trkpt lon="-77.562505" lat="43.227747"/>
+            <trkpt lon="-77.562552" lat="43.227860"/>
+            <trkpt lon="-77.562546" lat="43.227945"/>
+            <trkpt lon="-77.562270" lat="43.228438"/>
+            <trkpt lon="-77.562216" lat="43.228766"/>
+            <trkpt lon="-77.562243" lat="43.228949"/>
+            <trkpt lon="-77.562260" lat="43.228972"/>
+            <trkpt lon="-77.562277" lat="43.228979"/>
+            <trkpt lon="-77.562348" lat="43.228993"/>
+            <trkpt lon="-77.562372" lat="43.228993"/>
+            <trkpt lon="-77.562399" lat="43.229017"/>
+            <trkpt lon="-77.562522" lat="43.229082"/>
+            <trkpt lon="-77.562573" lat="43.229112"/>
+            <trkpt lon="-77.562768" lat="43.229223"/>
+            <trkpt lon="-77.563048" lat="43.229363"/>
+            <trkpt lon="-77.563114" lat="43.229388"/>
+            <trkpt lon="-77.563354" lat="43.229484"/>
+            <trkpt lon="-77.563442" lat="43.229520"/>
+            <trkpt lon="-77.563451" lat="43.229514"/>
+            <trkpt lon="-77.563425" lat="43.229460"/>
+            <trkpt lon="-77.563412" lat="43.229449"/>
+            <trkpt lon="-77.563408" lat="43.229433"/>
+            <trkpt lon="-77.563421" lat="43.229367"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-purple:20bf98a7</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563421" lat="43.229367"/>
+            <trkpt lon="-77.563425" lat="43.229364"/>
+            <trkpt lon="-77.563453" lat="43.229406"/>
+            <trkpt lon="-77.563762" lat="43.229418"/>
+            <trkpt lon="-77.563924" lat="43.229516"/>
+            <trkpt lon="-77.563940" lat="43.229533"/>
+            <trkpt lon="-77.563979" lat="43.229638"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-lakeshore-trail:8cac72b8</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.551298" lat="43.227832"/>
+            <trkpt lon="-77.551173" lat="43.227905"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:2e48fbf0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.563826" lat="43.229913"/>
+            <trkpt lon="-77.563701" lat="43.229676"/>
+            <trkpt lon="-77.563541" lat="43.229517"/>
+            <trkpt lon="-77.563459" lat="43.229417"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:7324dd63</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556240" lat="43.230511"/>
+            <trkpt lon="-77.556286" lat="43.230530"/>
+            <trkpt lon="-77.556318" lat="43.230567"/>
+            <trkpt lon="-77.556422" lat="43.230639"/>
+            <trkpt lon="-77.556519" lat="43.230679"/>
+            <trkpt lon="-77.556548" lat="43.230712"/>
+            <trkpt lon="-77.556492" lat="43.230900"/>
+            <trkpt lon="-77.556297" lat="43.231150"/>
+            <trkpt lon="-77.556275" lat="43.231292"/>
+            <trkpt lon="-77.556278" lat="43.231362"/>
+            <trkpt lon="-77.556287" lat="43.231382"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:1f702c55</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557975" lat="43.226769"/>
+            <trkpt lon="-77.557896" lat="43.226790"/>
+            <trkpt lon="-77.557605" lat="43.226829"/>
+            <trkpt lon="-77.557242" lat="43.226690"/>
+            <trkpt lon="-77.557225" lat="43.226529"/>
+            <trkpt lon="-77.557181" lat="43.226508"/>
+            <trkpt lon="-77.556967" lat="43.226466"/>
+            <trkpt lon="-77.556899" lat="43.226450"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:157527e4</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556075" lat="43.225845"/>
+            <trkpt lon="-77.556162" lat="43.226134"/>
+            <trkpt lon="-77.556195" lat="43.226239"/>
+            <trkpt lon="-77.556255" lat="43.226311"/>
+            <trkpt lon="-77.556270" lat="43.226321"/>
+            <trkpt lon="-77.556297" lat="43.226331"/>
+            <trkpt lon="-77.556332" lat="43.226333"/>
+            <trkpt lon="-77.556368" lat="43.226355"/>
+            <trkpt lon="-77.556422" lat="43.226412"/>
+            <trkpt lon="-77.556506" lat="43.226449"/>
+            <trkpt lon="-77.556745" lat="43.226470"/>
+            <trkpt lon="-77.556763" lat="43.226465"/>
+            <trkpt lon="-77.556887" lat="43.226399"/>
+            <trkpt lon="-77.556899" lat="43.226398"/>
+            <trkpt lon="-77.556899" lat="43.226451"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:2e9ccced</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556899" lat="43.226451"/>
+            <trkpt lon="-77.556876" lat="43.226466"/>
+            <trkpt lon="-77.556478" lat="43.227075"/>
+            <trkpt lon="-77.556467" lat="43.227111"/>
+            <trkpt lon="-77.556366" lat="43.227263"/>
+            <trkpt lon="-77.556395" lat="43.227345"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:002cb4b9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555440" lat="43.228116"/>
+            <trkpt lon="-77.555837" lat="43.228304"/>
+            <trkpt lon="-77.555871" lat="43.228315"/>
+            <trkpt lon="-77.555902" lat="43.228317"/>
+            <trkpt lon="-77.556009" lat="43.228287"/>
+            <trkpt lon="-77.556153" lat="43.228294"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:74b1a540</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557083" lat="43.227131"/>
+            <trkpt lon="-77.557041" lat="43.227077"/>
+            <trkpt lon="-77.557026" lat="43.227023"/>
+            <trkpt lon="-77.557027" lat="43.227012"/>
+            <trkpt lon="-77.557035" lat="43.226990"/>
+            <trkpt lon="-77.557079" lat="43.226961"/>
+            <trkpt lon="-77.557470" lat="43.226944"/>
+            <trkpt lon="-77.557627" lat="43.226978"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:bfc33c7e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555992" lat="43.231561"/>
+            <trkpt lon="-77.555976" lat="43.231557"/>
+            <trkpt lon="-77.555984" lat="43.231480"/>
+            <trkpt lon="-77.556069" lat="43.231419"/>
+            <trkpt lon="-77.556362" lat="43.231425"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:71e3a0e6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556362" lat="43.231425"/>
+            <trkpt lon="-77.556446" lat="43.231445"/>
+            <trkpt lon="-77.556676" lat="43.231551"/>
+            <trkpt lon="-77.558351" lat="43.231890"/>
+            <trkpt lon="-77.558453" lat="43.231884"/>
+            <trkpt lon="-77.558598" lat="43.231826"/>
+            <trkpt lon="-77.558632" lat="43.231785"/>
+            <trkpt lon="-77.558727" lat="43.231568"/>
+            <trkpt lon="-77.559055" lat="43.231555"/>
+            <trkpt lon="-77.559204" lat="43.231503"/>
+            <trkpt lon="-77.558958" lat="43.231340"/>
+            <trkpt lon="-77.558812" lat="43.231322"/>
+            <trkpt lon="-77.558782" lat="43.231323"/>
+            <trkpt lon="-77.558407" lat="43.231525"/>
+            <trkpt lon="-77.558397" lat="43.231525"/>
+            <trkpt lon="-77.558377" lat="43.231520"/>
+            <trkpt lon="-77.558359" lat="43.231505"/>
+            <trkpt lon="-77.558351" lat="43.231493"/>
+            <trkpt lon="-77.558346" lat="43.231479"/>
+            <trkpt lon="-77.558351" lat="43.231381"/>
+            <trkpt lon="-77.558389" lat="43.231356"/>
+            <trkpt lon="-77.558630" lat="43.230852"/>
+            <trkpt lon="-77.558635" lat="43.230832"/>
+            <trkpt lon="-77.558631" lat="43.230716"/>
+            <trkpt lon="-77.558597" lat="43.230675"/>
+            <trkpt lon="-77.558534" lat="43.229796"/>
+            <trkpt lon="-77.558568" lat="43.229754"/>
+            <trkpt lon="-77.558811" lat="43.229145"/>
+            <trkpt lon="-77.558833" lat="43.228992"/>
+            <trkpt lon="-77.558824" lat="43.228970"/>
+            <trkpt lon="-77.558808" lat="43.228955"/>
+            <trkpt lon="-77.558747" lat="43.228954"/>
+            <trkpt lon="-77.558667" lat="43.228960"/>
+            <trkpt lon="-77.558516" lat="43.228936"/>
+            <trkpt lon="-77.558407" lat="43.228880"/>
+            <trkpt lon="-77.558119" lat="43.228430"/>
+            <trkpt lon="-77.558117" lat="43.228409"/>
+            <trkpt lon="-77.558139" lat="43.228229"/>
+            <trkpt lon="-77.558175" lat="43.228147"/>
+            <trkpt lon="-77.558321" lat="43.227995"/>
+            <trkpt lon="-77.558338" lat="43.227962"/>
+            <trkpt lon="-77.558358" lat="43.227865"/>
+            <trkpt lon="-77.558389" lat="43.227819"/>
+            <trkpt lon="-77.558432" lat="43.227791"/>
+            <trkpt lon="-77.558997" lat="43.227661"/>
+            <trkpt lon="-77.559016" lat="43.227652"/>
+            <trkpt lon="-77.559055" lat="43.227416"/>
+            <trkpt lon="-77.559053" lat="43.227400"/>
+            <trkpt lon="-77.559037" lat="43.227376"/>
+            <trkpt lon="-77.558627" lat="43.227267"/>
+            <trkpt lon="-77.558450" lat="43.227152"/>
+            <trkpt lon="-77.558440" lat="43.227135"/>
+            <trkpt lon="-77.557978" lat="43.226756"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:f0be7aef</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557978" lat="43.226756"/>
+            <trkpt lon="-77.557375" lat="43.226440"/>
+            <trkpt lon="-77.557362" lat="43.226428"/>
+            <trkpt lon="-77.557356" lat="43.226415"/>
+            <trkpt lon="-77.557364" lat="43.226401"/>
+            <trkpt lon="-77.558189" lat="43.226178"/>
+            <trkpt lon="-77.558587" lat="43.226147"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:affbc720</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558587" lat="43.226147"/>
+            <trkpt lon="-77.558848" lat="43.226055"/>
+            <trkpt lon="-77.558866" lat="43.226039"/>
+            <trkpt lon="-77.558876" lat="43.226009"/>
+            <trkpt lon="-77.558847" lat="43.225844"/>
+            <trkpt lon="-77.558699" lat="43.225613"/>
+            <trkpt lon="-77.558399" lat="43.225385"/>
+            <trkpt lon="-77.558343" lat="43.225314"/>
+            <trkpt lon="-77.558319" lat="43.225313"/>
+            <trkpt lon="-77.557646" lat="43.225474"/>
+            <trkpt lon="-77.557623" lat="43.225474"/>
+            <trkpt lon="-77.557599" lat="43.225479"/>
+            <trkpt lon="-77.557397" lat="43.225338"/>
+            <trkpt lon="-77.556969" lat="43.225229"/>
+            <trkpt lon="-77.556929" lat="43.225230"/>
+            <trkpt lon="-77.556893" lat="43.225239"/>
+            <trkpt lon="-77.556839" lat="43.225268"/>
+            <trkpt lon="-77.556811" lat="43.225315"/>
+            <trkpt lon="-77.556799" lat="43.225325"/>
+            <trkpt lon="-77.556179" lat="43.225646"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:a6d62ed9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556179" lat="43.225646"/>
+            <trkpt lon="-77.556066" lat="43.225831"/>
+            <trkpt lon="-77.555767" lat="43.226246"/>
+            <trkpt lon="-77.555655" lat="43.226325"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:7298e791</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555655" lat="43.226325"/>
+            <trkpt lon="-77.555577" lat="43.226347"/>
+            <trkpt lon="-77.555519" lat="43.226348"/>
+            <trkpt lon="-77.555333" lat="43.226320"/>
+            <trkpt lon="-77.555302" lat="43.226332"/>
+            <trkpt lon="-77.555343" lat="43.226390"/>
+            <trkpt lon="-77.555347" lat="43.226434"/>
+            <trkpt lon="-77.555340" lat="43.226456"/>
+            <trkpt lon="-77.555298" lat="43.226507"/>
+            <trkpt lon="-77.555254" lat="43.226531"/>
+            <trkpt lon="-77.555238" lat="43.226535"/>
+            <trkpt lon="-77.555116" lat="43.226527"/>
+            <trkpt lon="-77.555093" lat="43.226530"/>
+            <trkpt lon="-77.555063" lat="43.226543"/>
+            <trkpt lon="-77.554802" lat="43.226818"/>
+            <trkpt lon="-77.554270" lat="43.227028"/>
+            <trkpt lon="-77.554078" lat="43.227215"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:76322f45</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554078" lat="43.227215"/>
+            <trkpt lon="-77.553969" lat="43.227322"/>
+            <trkpt lon="-77.553936" lat="43.227403"/>
+            <trkpt lon="-77.553926" lat="43.227480"/>
+            <trkpt lon="-77.553987" lat="43.227783"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:74f4dbb9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.553987" lat="43.227783"/>
+            <trkpt lon="-77.554006" lat="43.228016"/>
+            <trkpt lon="-77.554071" lat="43.228120"/>
+            <trkpt lon="-77.554602" lat="43.228524"/>
+            <trkpt lon="-77.554845" lat="43.228639"/>
+            <trkpt lon="-77.555030" lat="43.228799"/>
+            <trkpt lon="-77.555066" lat="43.228862"/>
+            <trkpt lon="-77.555080" lat="43.228919"/>
+            <trkpt lon="-77.555079" lat="43.228936"/>
+            <trkpt lon="-77.554895" lat="43.229037"/>
+            <trkpt lon="-77.554459" lat="43.229515"/>
+            <trkpt lon="-77.554453" lat="43.229534"/>
+            <trkpt lon="-77.554712" lat="43.230104"/>
+            <trkpt lon="-77.554717" lat="43.230215"/>
+            <trkpt lon="-77.554777" lat="43.230309"/>
+            <trkpt lon="-77.554804" lat="43.230328"/>
+            <trkpt lon="-77.554842" lat="43.230344"/>
+            <trkpt lon="-77.554881" lat="43.230331"/>
+            <trkpt lon="-77.554891" lat="43.230320"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:4acc8f3d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554891" lat="43.230320"/>
+            <trkpt lon="-77.554904" lat="43.230289"/>
+            <trkpt lon="-77.554903" lat="43.230242"/>
+            <trkpt lon="-77.554879" lat="43.230145"/>
+            <trkpt lon="-77.554885" lat="43.230094"/>
+            <trkpt lon="-77.555073" lat="43.229745"/>
+            <trkpt lon="-77.555108" lat="43.229714"/>
+            <trkpt lon="-77.555133" lat="43.229704"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:01ae5dfc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555133" lat="43.229704"/>
+            <trkpt lon="-77.555324" lat="43.229705"/>
+            <trkpt lon="-77.555349" lat="43.229691"/>
+            <trkpt lon="-77.555618" lat="43.229617"/>
+            <trkpt lon="-77.555680" lat="43.229532"/>
+            <trkpt lon="-77.555871" lat="43.229465"/>
+            <trkpt lon="-77.556074" lat="43.229473"/>
+            <trkpt lon="-77.556163" lat="43.229536"/>
+            <trkpt lon="-77.556171" lat="43.229545"/>
+            <trkpt lon="-77.556176" lat="43.229555"/>
+            <trkpt lon="-77.556183" lat="43.229684"/>
+            <trkpt lon="-77.556181" lat="43.229698"/>
+            <trkpt lon="-77.555862" lat="43.229993"/>
+            <trkpt lon="-77.555807" lat="43.230072"/>
+            <trkpt lon="-77.555808" lat="43.230112"/>
+            <trkpt lon="-77.556025" lat="43.230415"/>
+            <trkpt lon="-77.556043" lat="43.230483"/>
+            <trkpt lon="-77.556014" lat="43.230684"/>
+            <trkpt lon="-77.555997" lat="43.230710"/>
+            <trkpt lon="-77.555871" lat="43.230818"/>
+            <trkpt lon="-77.555855" lat="43.230845"/>
+            <trkpt lon="-77.555854" lat="43.230857"/>
+            <trkpt lon="-77.555857" lat="43.230868"/>
+            <trkpt lon="-77.555864" lat="43.230876"/>
+            <trkpt lon="-77.556002" lat="43.230930"/>
+            <trkpt lon="-77.556023" lat="43.230930"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:16c6abfe</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557425" lat="43.228150"/>
+            <trkpt lon="-77.557435" lat="43.228141"/>
+            <trkpt lon="-77.557440" lat="43.228134"/>
+            <trkpt lon="-77.557337" lat="43.228188"/>
+            <trkpt lon="-77.556239" lat="43.228375"/>
+            <trkpt lon="-77.556173" lat="43.228366"/>
+            <trkpt lon="-77.556152" lat="43.228353"/>
+            <trkpt lon="-77.556146" lat="43.228328"/>
+            <trkpt lon="-77.556162" lat="43.228302"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:9388a7dc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556162" lat="43.228302"/>
+            <trkpt lon="-77.556295" lat="43.228162"/>
+            <trkpt lon="-77.556324" lat="43.228148"/>
+            <trkpt lon="-77.556535" lat="43.228096"/>
+            <trkpt lon="-77.556563" lat="43.228074"/>
+            <trkpt lon="-77.556758" lat="43.227765"/>
+            <trkpt lon="-77.556779" lat="43.227700"/>
+            <trkpt lon="-77.556835" lat="43.227628"/>
+            <trkpt lon="-77.556887" lat="43.227592"/>
+            <trkpt lon="-77.557139" lat="43.227533"/>
+            <trkpt lon="-77.557179" lat="43.227511"/>
+            <trkpt lon="-77.557321" lat="43.227390"/>
+            <trkpt lon="-77.557322" lat="43.227359"/>
+            <trkpt lon="-77.557274" lat="43.227207"/>
+            <trkpt lon="-77.557239" lat="43.227171"/>
+            <trkpt lon="-77.557218" lat="43.227162"/>
+            <trkpt lon="-77.557117" lat="43.227149"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:1c459c7c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.557117" lat="43.227149"/>
+            <trkpt lon="-77.556923" lat="43.227052"/>
+            <trkpt lon="-77.556842" lat="43.227042"/>
+            <trkpt lon="-77.556720" lat="43.227070"/>
+            <trkpt lon="-77.556400" lat="43.227349"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:774af4a6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556400" lat="43.227349"/>
+            <trkpt lon="-77.556246" lat="43.227551"/>
+            <trkpt lon="-77.556156" lat="43.227642"/>
+            <trkpt lon="-77.555728" lat="43.227886"/>
+            <trkpt lon="-77.555510" lat="43.228099"/>
+            <trkpt lon="-77.555437" lat="43.228101"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:7bbb7d43</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.555437" lat="43.228101"/>
+            <trkpt lon="-77.555284" lat="43.228074"/>
+            <trkpt lon="-77.555057" lat="43.227974"/>
+            <trkpt lon="-77.554980" lat="43.227957"/>
+            <trkpt lon="-77.554230" lat="43.228003"/>
+            <trkpt lon="-77.554012" lat="43.227803"/>
+            <trkpt lon="-77.553997" lat="43.227790"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:07f7dd17</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.554049" lat="43.227201"/>
+            <trkpt lon="-77.553937" lat="43.227040"/>
+            <trkpt lon="-77.553875" lat="43.226996"/>
+            <trkpt lon="-77.553797" lat="43.226966"/>
+            <trkpt lon="-77.553606" lat="43.226949"/>
+            <trkpt lon="-77.552932" lat="43.227142"/>
+            <trkpt lon="-77.552768" lat="43.227151"/>
+            <trkpt lon="-77.552598" lat="43.227139"/>
+            <trkpt lon="-77.552218" lat="43.227164"/>
+            <trkpt lon="-77.551719" lat="43.227153"/>
+            <trkpt lon="-77.551011" lat="43.227276"/>
+            <trkpt lon="-77.550558" lat="43.227262"/>
+            <trkpt lon="-77.549262" lat="43.227280"/>
+            <trkpt lon="-77.548707" lat="43.227263"/>
+            <trkpt lon="-77.548415" lat="43.227291"/>
+            <trkpt lon="-77.547848" lat="43.227582"/>
+            <trkpt lon="-77.547766" lat="43.227667"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:04438d7f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.558178" lat="43.234310"/>
+            <trkpt lon="-77.558168" lat="43.234323"/>
+            <trkpt lon="-77.558156" lat="43.234335"/>
+            <trkpt lon="-77.558089" lat="43.234362"/>
+            <trkpt lon="-77.557915" lat="43.234396"/>
+            <trkpt lon="-77.557795" lat="43.234406"/>
+            <trkpt lon="-77.557763" lat="43.234419"/>
+            <trkpt lon="-77.557756" lat="43.234429"/>
+            <trkpt lon="-77.557728" lat="43.234549"/>
+            <trkpt lon="-77.557672" lat="43.234669"/>
+            <trkpt lon="-77.557654" lat="43.234695"/>
+            <trkpt lon="-77.557341" lat="43.234967"/>
+            <trkpt lon="-77.556955" lat="43.235152"/>
+            <trkpt lon="-77.556360" lat="43.235323"/>
+            <trkpt lon="-77.556159" lat="43.235418"/>
+            <trkpt lon="-77.556142" lat="43.235454"/>
+            <trkpt lon="-77.556136" lat="43.235494"/>
+            <trkpt lon="-77.556137" lat="43.235534"/>
+            <trkpt lon="-77.556156" lat="43.235646"/>
+            <trkpt lon="-77.556155" lat="43.235665"/>
+            <trkpt lon="-77.556183" lat="43.235747"/>
+            <trkpt lon="-77.556287" lat="43.235870"/>
+            <trkpt lon="-77.556379" lat="43.235938"/>
+            <trkpt lon="-77.556433" lat="43.235962"/>
+            <trkpt lon="-77.556492" lat="43.235978"/>
+            <trkpt lon="-77.556665" lat="43.235989"/>
+            <trkpt lon="-77.556746" lat="43.235984"/>
+            <trkpt lon="-77.556853" lat="43.235933"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:3d3a74eb</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.556853" lat="43.235933"/>
+            <trkpt lon="-77.556921" lat="43.235888"/>
+            <trkpt lon="-77.556931" lat="43.235883"/>
+            <trkpt lon="-77.556999" lat="43.235868"/>
+            <trkpt lon="-77.557019" lat="43.235867"/>
+            <trkpt lon="-77.557040" lat="43.235861"/>
+            <trkpt lon="-77.557073" lat="43.235833"/>
+            <trkpt lon="-77.557119" lat="43.235598"/>
+            <trkpt lon="-77.557110" lat="43.235484"/>
+            <trkpt lon="-77.557117" lat="43.235438"/>
+            <trkpt lon="-77.557207" lat="43.235249"/>
+            <trkpt lon="-77.557223" lat="43.235227"/>
+            <trkpt lon="-77.557659" lat="43.235030"/>
+            <trkpt lon="-77.557823" lat="43.234909"/>
+            <trkpt lon="-77.558084" lat="43.234563"/>
+            <trkpt lon="-77.558095" lat="43.234553"/>
+            <trkpt lon="-77.558112" lat="43.234505"/>
+            <trkpt lon="-77.558122" lat="43.234489"/>
+            <trkpt lon="-77.558238" lat="43.234358"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-dureast-unnamed-trails:de8a5360</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.562105" lat="43.229114"/>
+            <trkpt lon="-77.561812" lat="43.228641"/>
+            <trkpt lon="-77.561569" lat="43.228372"/>
+            <trkpt lon="-77.561343" lat="43.228106"/>
+            <trkpt lon="-77.561246" lat="43.227863"/>
+        </trkseg>
+    </trk>
+</gpx>

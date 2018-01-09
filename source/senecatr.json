@@ -1,0 +1,49 @@
+{
+  "version": 5,
+  "trailSystems": {
+    "tsystem-senecatr": {
+      "name": "Seneca Trail",
+      "mainPin": [
+        42.989172,
+        -77.428556
+      ],
+      "SW": [
+        42.9294,
+        -77.444977
+      ],
+      "NE": [
+        43.034866,
+        -77.412195
+      ],
+      "directionsCoordinate": [
+        42.995138,
+        -77.436878
+      ],
+      "url": "http://www.victorhikingtrails.org/",
+      "keywords": "senaca",
+      "isSearchable": true
+    }
+  },
+  "parks": {
+  },
+  "trails": {
+    "trail-senecatr-main": {
+      "url": "http://www.victorhikingtrails.org/",
+      "name": "Seneca Trail",
+      "length": 13.5,
+      "color": "red",
+      "SW": [
+        42.9294,
+        -77.444977
+      ],
+      "NE": [
+        43.034866,
+        -77.412195
+      ],
+      "keywords": "senaca",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-senecatr"
+    }
+  }
+}

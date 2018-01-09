@@ -1,0 +1,67 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-cobbs": {
+      "name": "Cobbs Hill Park",
+      "mainPin": [
+        43.138995,
+        -77.570838
+      ],
+      "url": "http://www.cityofrochester.gov/cobbshill/",
+      "SW": [
+        43.136209,
+        -77.578288
+      ],
+      "NE": [
+        43.143946,
+        -77.562719
+      ]
+    }
+  },
+  "trails": {
+    "trail-cobbs-singletrack": {
+      "color": "dark_green",
+      "length": 0,
+      "url": "",
+      "SW": [
+        43.13738,
+        -77.577376
+      ],
+      "NE": [
+        43.141806,
+        -77.562988
+      ],
+      "parentID": "park-cobbs"
+    },
+    "trail-cobbs-reservoir-loop": {
+      "color": "blue",
+      "length": 0,
+      "url": "",
+      "SW": [
+        43.137577,
+        -77.574787
+      ],
+      "NE": [
+        43.139823,
+        -77.569397
+      ],
+      "parentID": "park-cobbs"
+    },
+    "trail-cobbs-gravel": {
+      "color": "unmarked_trail",
+      "length": 0,
+      "url": "",
+      "SW": [
+        43.137352,
+        -77.577193
+      ],
+      "NE": [
+        43.141275,
+        -77.573697
+      ],
+      "parentID": "park-cobbs"
+    }
+  }
+}

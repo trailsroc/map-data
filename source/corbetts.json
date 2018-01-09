@@ -1,0 +1,76 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-corbetts": {
+      "name": "Corbett’s Glen Nature Park",
+      "mainPin": [
+        43.131929,
+        -77.523257
+      ],
+      "directionsCoordinate": [
+        43.128423,
+        -77.521422
+      ],
+      "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
+      "SW": [
+        43.129472,
+        -77.528491
+      ],
+      "NE": [
+        43.137765,
+        -77.516907
+      ],
+      "keywords": "corbetts"
+    }
+  },
+  "trails": {
+    "trail-corbetts-south-access": {
+      "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
+      "name": "Glen Road/Tunnel Access",
+      "color": "black",
+      "blazes": "none",
+      "length": 0.2,
+      "SW": [
+        43.128434,
+        -77.52232
+      ],
+      "NE": [
+        43.130014,
+        -77.520489
+      ],
+      "parentID": "park-corbetts"
+    },
+    "trail-corbetts-perimeter": {
+      "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
+      "name": "Perimeter Trail",
+      "color": "dark_green",
+      "blazes": "none",
+      "length": 1.7,
+      "SW": [
+        43.129893,
+        -77.527412
+      ],
+      "NE": [
+        43.137341,
+        -77.517202
+      ],
+      "parentID": "park-corbetts"
+    },
+    "trail-corbetts-unnamed": {
+      "url": "http://www.townofbrighton.org/262/Corbetts-Glen-Nature-Park",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.130873,
+        -77.526511
+      ],
+      "NE": [
+        43.136264,
+        -77.5178
+      ],
+      "parentID": "park-corbetts"
+    }
+  }
+}

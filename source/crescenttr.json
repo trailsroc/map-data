@@ -1,0 +1,231 @@
+{
+  "version": 5,
+  "trailSystems": {
+    "tsystem-crescenttr": {
+      "name": "Crescent Trail System",
+      "mainPin": [
+        43.069686,
+        -77.40446
+      ],
+      "SW": [
+        43.034866,
+        -77.48281
+      ],
+      "NE": [
+        43.108284,
+        -77.371976
+      ],
+      "directionsCoordinate": [
+        43.068642,
+        -77.425743
+      ],
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "isSearchable": true
+    }
+  },
+  "parks": {
+    "park-crescenttr-mccoord": {
+      "name": "McCoord Woods",
+      "mainPin": [
+        43.062965,
+        -77.461141
+      ],
+      "directionsCoordinate": [
+        43.064299,
+        -77.467267
+      ],
+      "SW": [
+        43.056218,
+        -77.463051
+      ],
+      "NE": [
+        43.065006,
+        -77.454421
+      ],
+      "style": "minorPark",
+      "advisories": [
+        "generalHuntingAdvisory"
+      ],
+      "isSearchable": false
+    },
+    "park-crescenttr-dewitt": {
+      "name": "Dewitt Hill",
+      "mainPin": [
+        43.058085,
+        -77.423688
+      ],
+      "directionsCoordinate": [
+        43.068642,
+        -77.425743
+      ],
+      "SW": [
+        43.056493,
+        -77.42999
+      ],
+      "NE": [
+        43.059528,
+        -77.421561
+      ],
+      "advisories": [
+        "generalHuntingAdvisory"
+      ],
+      "style": "minorPark",
+      "isSearchable": false
+    },
+    "park-crescenttr-howell": {
+      "name": "Howell Road Park",
+      "mainPin": [
+        43.103735,
+        -77.39752
+      ],
+      "SW": [
+        43.100641,
+        -77.40129
+      ],
+      "NE": [
+        43.108568,
+        -77.39119
+      ],
+      "advisories": [
+        "generalHuntingAdvisory"
+      ],
+      "style": "minorPark",
+      "isSearchable": false
+    },
+    "park-white-brook": {
+      "name": "White Brook Nature Area",
+      "mainPin": [
+        43.071299,
+        -77.384069
+      ],
+      "directionsCoordinate": [
+        43.07107,
+        -77.391801
+      ],
+      "SW": [
+        43.067078,
+        -77.391892
+      ],
+      "NE": [
+        43.079058,
+        -77.377864
+      ],
+      "advisories": [
+        "generalHuntingAdvisory"
+      ],
+      "style": "minorPark",
+      "isSearchable": false
+    },
+    "park-crescenttr-highacres": {
+      "name": "High Acres Nature Area",
+      "url": "http://highacreslandfill.wm.com/nature-area/index.jsp",
+      "mainPin": [
+        43.091485, -77.381175
+      ],
+      "SW":[43.086696,-77.389362],
+      "NE":[43.094330, -77.371479],
+      "style":"minorPark",
+      "isSearchable": false
+    }
+  },
+  "trails": {
+    "trail-crescenttr-main": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (Orange)",
+      "shortName": "Crescent Trail",
+      "length": 17.8,
+      "color": "orange",
+      "SW": [
+        43.034866,
+        -77.48281
+      ],
+      "NE": [
+        43.108284,
+        -77.371976
+      ],
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-crescenttr"
+    },
+    "trail-crescenttr-blue": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (Blue)",
+      "shortName": "Blue",
+      "color": "sky",
+      "isPrimary": false,
+      "SW": [
+        43.03883,
+        -77.462642
+      ],
+      "NE": [
+        43.108284,
+        -77.371976
+      ],
+      "parentID": "tsystem-crescenttr"
+    },
+    "trail-crescenttr-green": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (Green)",
+      "shortName": "Green",
+      "color": "dark_green",
+      "isPrimary": false,
+      "SW": [
+        43.047677,
+        -77.459921
+      ],
+      "NE": [
+        43.094171,
+        -77.372005
+      ],
+      "parentID": "tsystem-crescenttr"
+    },
+    "trail-crescenttr-red": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (Red)",
+      "shortName": "Red",
+      "color": "red",
+      "isPrimary": false,
+      "SW": [
+        43.046413,
+        -77.461532
+      ],
+      "NE": [
+        43.105032,
+        -77.392751
+      ],
+      "parentID": "tsystem-crescenttr"
+    },
+    "trail-crescenttr-white": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (White)",
+      "shortName": "White",
+      "color": "white",
+      "isPrimary": false,
+      "SW": [
+        43.034866,
+        -77.464245
+      ],
+      "NE": [
+        43.104094,
+        -77.38653
+      ],
+      "parentID": "tsystem-crescenttr"
+    },
+    "trail-crescenttr-yellow": {
+      "url": "http://www.perinton.org/Departments/parks/hikingctha/",
+      "name": "Crescent Trail (Yellow)",
+      "shortName": "Yellow",
+      "color": "yellow",
+      "isPrimary": false,
+      "SW": [
+        43.044898,
+        -77.446091
+      ],
+      "NE": [
+        43.095319,
+        -77.371976
+      ],
+      "parentID": "tsystem-crescenttr"
+    }
+  }
+}

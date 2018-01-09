@@ -1,0 +1,1274 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T14:36:53.491Z</time>
+    </metadata>
+    <wpt lon="-77.796378" lat="43.005463">
+        <name>point-lodge:oatka:906a2340</name>
+        <desc>{"type":"point-lodge","name":"Oatka Lodge","directionsCoordinate":[43.006095,-77.7917],"parentIDs":["park-oatka"],"shortName":"Oatka"}</desc>
+    </wpt>
+    <wpt lon="-77.792355" lat="43.006020">
+        <name>point-parking:oatka:7e212cad</name>
+        <desc>{"type":"point-parking","directionsCoordinate":[43.006095,-77.7917],"name":"Parking (Main)","parentIDs":["park-oatka","trail-oatka-black-billed-cuckoo","trail-oatka-white-tail","trail-oatka-old-burrell"],"shortName":"Main"}</desc>
+    </wpt>
+    <wpt lon="-77.793405" lat="43.005627">
+        <name>point-sports:oatka:eb306de3</name>
+        <desc>{"type":"point-sports","name":"Soccer Fields","parentIDs":["park-oatka"]}</desc>
+    </wpt>
+    <wpt lon="-77.791874" lat="43.011308">
+        <name>point-parking:oatka:ufishing</name>
+        <desc>{"type":"point-parking","directionsCoordinate":[43.006095,-77.7917],"name":"Parking (Union St Fishing Access)","parentIDs":["park-oatka","trail-oatka-trout-run"],"shortName":"Union St Fishing Access"}</desc>
+    </wpt>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:03f92b55</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.796466" lat="43.005963"/>
+        <rtept lon="-77.796644" lat="43.005927"/>
+        <rtept lon="-77.796814" lat="43.006070"/>
+        <rtept lon="-77.796822" lat="43.006275"/>
+        <rtept lon="-77.796797" lat="43.006473"/>
+        <rtept lon="-77.796788" lat="43.006765"/>
+        <rtept lon="-77.796849" lat="43.007103"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:d2b45a46</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.796849" lat="43.007103"/>
+        <rtept lon="-77.796856" lat="43.007391"/>
+        <rtept lon="-77.796780" lat="43.007627"/>
+        <rtept lon="-77.796788" lat="43.007919"/>
+        <rtept lon="-77.796873" lat="43.008210"/>
+        <rtept lon="-77.797017" lat="43.008459"/>
+        <rtept lon="-77.797238" lat="43.008738"/>
+        <rtept lon="-77.797331" lat="43.008911"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:cbfadf5b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.805465" lat="43.004640"/>
+        <rtept lon="-77.805659" lat="43.004326"/>
+        <rtept lon="-77.805793" lat="43.004192"/>
+        <rtept lon="-77.805793" lat="43.004114"/>
+        <rtept lon="-77.805772" lat="43.004047"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:68481ffa</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797331" lat="43.008911"/>
+        <rtept lon="-77.797408" lat="43.008970"/>
+        <rtept lon="-77.799141" lat="43.008990"/>
+        <rtept lon="-77.800938" lat="43.009013"/>
+        <rtept lon="-77.801641" lat="43.008966"/>
+        <rtept lon="-77.802097" lat="43.008821"/>
+        <rtept lon="-77.802195" lat="43.008825"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:c89e19f9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.802195" lat="43.008825"/>
+        <rtept lon="-77.802333" lat="43.008762"/>
+        <rtept lon="-77.802569" lat="43.008578"/>
+        <rtept lon="-77.803100" lat="43.008264"/>
+        <rtept lon="-77.803572" lat="43.007982"/>
+        <rtept lon="-77.803621" lat="43.007923"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-black-billed-cuckoo:36dcf9e2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803621" lat="43.007923"/>
+        <rtept lon="-77.804232" lat="43.007287"/>
+        <rtept lon="-77.804581" lat="43.006722"/>
+        <rtept lon="-77.804768" lat="43.006071"/>
+        <rtept lon="-77.804870" lat="43.005742"/>
+        <rtept lon="-77.804855" lat="43.005585"/>
+        <rtept lon="-77.804880" lat="43.005460"/>
+        <rtept lon="-77.805160" lat="43.005178"/>
+        <rtept lon="-77.805466" lat="43.004634"/>
+        <rtept lon="-77.805434" lat="43.004294"/>
+        <rtept lon="-77.805341" lat="43.004060"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-bluebird:7f2ecd3f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.805487" lat="43.004032"/>
+        <rtept lon="-77.805381" lat="43.003874"/>
+        <rtept lon="-77.805348" lat="43.003725"/>
+        <rtept lon="-77.805377" lat="43.003498"/>
+        <rtept lon="-77.805359" lat="43.003380"/>
+        <rtept lon="-77.805280" lat="43.003289"/>
+        <rtept lon="-77.804895" lat="43.003123"/>
+        <rtept lon="-77.804687" lat="43.003104"/>
+        <rtept lon="-77.804427" lat="43.003119"/>
+        <rtept lon="-77.804245" lat="43.003080"/>
+        <rtept lon="-77.804146" lat="43.003023"/>
+        <rtept lon="-77.804112" lat="43.002841"/>
+        <rtept lon="-77.804028" lat="43.002797"/>
+        <rtept lon="-77.803877" lat="43.002784"/>
+        <rtept lon="-77.802988" lat="43.002433"/>
+        <rtept lon="-77.801799" lat="43.002470"/>
+        <rtept lon="-77.801541" lat="43.002405"/>
+        <rtept lon="-77.801489" lat="43.002363"/>
+        <rtept lon="-77.801370" lat="43.001980"/>
+        <rtept lon="-77.801418" lat="43.001223"/>
+        <rtept lon="-77.801261" lat="43.001175"/>
+        <rtept lon="-77.801050" lat="43.001180"/>
+        <rtept lon="-77.800971" lat="43.001243"/>
+        <rtept lon="-77.800858" lat="43.001487"/>
+        <rtept lon="-77.800536" lat="43.001724"/>
+        <rtept lon="-77.800371" lat="43.002017"/>
+        <rtept lon="-77.800254" lat="43.002123"/>
+        <rtept lon="-77.800135" lat="43.002172"/>
+        <rtept lon="-77.799801" lat="43.002180"/>
+        <rtept lon="-77.799533" lat="43.002275"/>
+        <rtept lon="-77.799514" lat="43.002408"/>
+        <rtept lon="-77.799449" lat="43.002536"/>
+        <rtept lon="-77.799302" lat="43.002556"/>
+        <rtept lon="-77.799205" lat="43.002509"/>
+        <rtept lon="-77.799174" lat="43.002467"/>
+        <rtept lon="-77.799030" lat="43.002398"/>
+        <rtept lon="-77.798773" lat="43.002365"/>
+        <rtept lon="-77.798653" lat="43.002346"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-gypsum:2354e974</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797331" lat="43.008911"/>
+        <rtept lon="-77.797314" lat="43.009129"/>
+        <rtept lon="-77.797068" lat="43.009346"/>
+        <rtept lon="-77.796806" lat="43.009764"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-gypsum:f76b5264</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.796806" lat="43.009764"/>
+        <rtept lon="-77.797140" lat="43.009884"/>
+        <rtept lon="-77.797515" lat="43.009991"/>
+        <rtept lon="-77.797765" lat="43.010411"/>
+        <rtept lon="-77.798244" lat="43.010461"/>
+        <rtept lon="-77.798592" lat="43.010480"/>
+        <rtept lon="-77.799113" lat="43.010410"/>
+        <rtept lon="-77.799590" lat="43.010422"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-gypsum:3f659420</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.799590" lat="43.010422"/>
+        <rtept lon="-77.799788" lat="43.010571"/>
+        <rtept lon="-77.800205" lat="43.010817"/>
+        <rtept lon="-77.800561" lat="43.010745"/>
+        <rtept lon="-77.801114" lat="43.010771"/>
+        <rtept lon="-77.801697" lat="43.010745"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-gypsum:f07db570</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.802292" lat="43.009251"/>
+        <rtept lon="-77.802279" lat="43.009025"/>
+        <rtept lon="-77.802195" lat="43.008825"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-maple-hill:9c35e340</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.794275" lat="43.001605"/>
+        <rtept lon="-77.794265" lat="43.001501"/>
+        <rtept lon="-77.794272" lat="43.001419"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-maple-hill:d7d90a63</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.794860" lat="43.001489"/>
+        <rtept lon="-77.794812" lat="43.001418"/>
+        <rtept lon="-77.794726" lat="43.001395"/>
+        <rtept lon="-77.794272" lat="43.001419"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-maple-hill:df43a2d6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.794272" lat="43.001419"/>
+        <rtept lon="-77.793814" lat="43.001528"/>
+        <rtept lon="-77.793680" lat="43.001450"/>
+        <rtept lon="-77.793610" lat="43.001371"/>
+        <rtept lon="-77.793546" lat="43.001340"/>
+        <rtept lon="-77.793519" lat="43.001266"/>
+        <rtept lon="-77.793541" lat="43.001163"/>
+        <rtept lon="-77.793535" lat="43.001105"/>
+        <rtept lon="-77.793487" lat="43.001010"/>
+        <rtept lon="-77.793492" lat="43.000940"/>
+        <rtept lon="-77.793642" lat="43.000673"/>
+        <rtept lon="-77.793644" lat="43.000564"/>
+        <rtept lon="-77.793446" lat="43.000135"/>
+        <rtept lon="-77.793321" lat="43.000063"/>
+        <rtept lon="-77.793154" lat="43.000060"/>
+        <rtept lon="-77.793055" lat="43.000041"/>
+        <rtept lon="-77.792763" lat="42.999876"/>
+        <rtept lon="-77.792607" lat="42.999845"/>
+        <rtept lon="-77.792494" lat="42.999852"/>
+        <rtept lon="-77.792336" lat="42.999932"/>
+        <rtept lon="-77.792118" lat="43.000163"/>
+        <rtept lon="-77.792065" lat="43.000300"/>
+        <rtept lon="-77.792099" lat="43.000555"/>
+        <rtept lon="-77.792125" lat="43.000649"/>
+        <rtept lon="-77.792330" lat="43.000913"/>
+        <rtept lon="-77.792389" lat="43.001040"/>
+        <rtept lon="-77.792605" lat="43.001375"/>
+        <rtept lon="-77.792827" lat="43.001532"/>
+        <rtept lon="-77.793598" lat="43.001790"/>
+        <rtept lon="-77.793760" lat="43.001776"/>
+        <rtept lon="-77.794043" lat="43.001795"/>
+        <rtept lon="-77.794198" lat="43.001769"/>
+        <rtept lon="-77.794271" lat="43.001605"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-maple-hill:d04f244f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.794271" lat="43.001605"/>
+        <rtept lon="-77.794544" lat="43.001618"/>
+        <rtept lon="-77.794833" lat="43.001607"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-old-burrell:2fa844ee</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.796467" lat="43.005963"/>
+        <rtept lon="-77.796639" lat="43.005925"/>
+        <rtept lon="-77.796883" lat="43.005864"/>
+        <rtept lon="-77.797287" lat="43.005611"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-old-burrell:ae255fb6</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797287" lat="43.005611"/>
+        <rtept lon="-77.797913" lat="43.005319"/>
+        <rtept lon="-77.798496" lat="43.005098"/>
+        <rtept lon="-77.798951" lat="43.004936"/>
+        <rtept lon="-77.799529" lat="43.004762"/>
+        <rtept lon="-77.800126" lat="43.004598"/>
+        <rtept lon="-77.800554" lat="43.004496"/>
+        <rtept lon="-77.801228" lat="43.004475"/>
+        <rtept lon="-77.801530" lat="43.004448"/>
+        <rtept lon="-77.801705" lat="43.004347"/>
+        <rtept lon="-77.801853" lat="43.004226"/>
+        <rtept lon="-77.802073" lat="43.004168"/>
+        <rtept lon="-77.802441" lat="43.004122"/>
+        <rtept lon="-77.803474" lat="43.004115"/>
+        <rtept lon="-77.804296" lat="43.004106"/>
+        <rtept lon="-77.804747" lat="43.004051"/>
+        <rtept lon="-77.805229" lat="43.004059"/>
+        <rtept lon="-77.805526" lat="43.004062"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-old-burrell:7699a428</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.805526" lat="43.004062"/>
+        <rtept lon="-77.805697" lat="43.004053"/>
+        <rtept lon="-77.805921" lat="43.004046"/>
+        <rtept lon="-77.806188" lat="43.004038"/>
+        <rtept lon="-77.806395" lat="43.004012"/>
+        <rtept lon="-77.806518" lat="43.003946"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-old-burrell:930f8f4d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.806518" lat="43.003946"/>
+        <rtept lon="-77.806565" lat="43.003847"/>
+        <rtept lon="-77.806539" lat="43.003600"/>
+        <rtept lon="-77.806528" lat="43.003441"/>
+        <rtept lon="-77.806533" lat="43.003218"/>
+        <rtept lon="-77.806516" lat="43.003118"/>
+        <rtept lon="-77.806510" lat="43.002469"/>
+        <rtept lon="-77.806515" lat="43.002221"/>
+        <rtept lon="-77.806559" lat="43.001859"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-trout-run:5b2a5496</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803952" lat="43.011207"/>
+        <rtept lon="-77.803266" lat="43.011122"/>
+        <rtept lon="-77.802526" lat="43.011262"/>
+        <rtept lon="-77.802020" lat="43.011271"/>
+        <rtept lon="-77.801570" lat="43.011351"/>
+        <rtept lon="-77.800981" lat="43.011528"/>
+        <rtept lon="-77.798647" lat="43.011637"/>
+        <rtept lon="-77.797773" lat="43.011539"/>
+        <rtept lon="-77.796861" lat="43.011245"/>
+        <rtept lon="-77.795997" lat="43.011088"/>
+        <rtept lon="-77.795408" lat="43.010881"/>
+        <rtept lon="-77.795023" lat="43.010907"/>
+        <rtept lon="-77.794776" lat="43.010852"/>
+        <rtept lon="-77.794572" lat="43.010716"/>
+        <rtept lon="-77.794067" lat="43.010672"/>
+        <rtept lon="-77.793716" lat="43.010962"/>
+        <rtept lon="-77.793383" lat="43.011113"/>
+        <rtept lon="-77.792492" lat="43.010973"/>
+        <rtept lon="-77.792253" lat="43.011159"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-trout-run:96d34272</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803781" lat="43.010406"/>
+        <rtept lon="-77.803844" lat="43.010650"/>
+        <rtept lon="-77.803844" lat="43.010650"/>
+        <rtept lon="-77.803867" lat="43.010973"/>
+        <rtept lon="-77.803867" lat="43.010973"/>
+        <rtept lon="-77.803958" lat="43.011190"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-trout-run:9a7b1c1b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803958" lat="43.011190"/>
+        <rtept lon="-77.803894" lat="43.011630"/>
+        <rtept lon="-77.803845" lat="43.011869"/>
+        <rtept lon="-77.803829" lat="43.012214"/>
+        <rtept lon="-77.803819" lat="43.012532"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-warbler:4b43778e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.802296" lat="43.009250"/>
+        <rtept lon="-77.802779" lat="43.008958"/>
+        <rtept lon="-77.802999" lat="43.008802"/>
+        <rtept lon="-77.803150" lat="43.008631"/>
+        <rtept lon="-77.803368" lat="43.008356"/>
+        <rtept lon="-77.803482" lat="43.008209"/>
+        <rtept lon="-77.803624" lat="43.007928"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-warbler:581630d3</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803624" lat="43.007928"/>
+        <rtept lon="-77.803714" lat="43.008127"/>
+        <rtept lon="-77.803746" lat="43.008754"/>
+        <rtept lon="-77.803717" lat="43.009180"/>
+        <rtept lon="-77.803725" lat="43.009605"/>
+        <rtept lon="-77.803699" lat="43.009950"/>
+        <rtept lon="-77.803663" lat="43.010195"/>
+        <rtept lon="-77.803572" lat="43.010363"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-warbler:86eaa7c9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.803572" lat="43.010363"/>
+        <rtept lon="-77.803572" lat="43.010363"/>
+        <rtept lon="-77.803261" lat="43.010496"/>
+        <rtept lon="-77.803030" lat="43.010520"/>
+        <rtept lon="-77.802837" lat="43.010586"/>
+        <rtept lon="-77.802365" lat="43.010669"/>
+        <rtept lon="-77.801688" lat="43.010751"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:b6e05f11</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797503" lat="43.003990"/>
+        <rtept lon="-77.797109" lat="43.004116"/>
+        <rtept lon="-77.796992" lat="43.004339"/>
+        <rtept lon="-77.796982" lat="43.004501"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:ef811b3a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.795050" lat="43.001594"/>
+        <rtept lon="-77.795096" lat="43.001560"/>
+        <rtept lon="-77.795324" lat="43.001528"/>
+        <rtept lon="-77.795728" lat="43.001528"/>
+        <rtept lon="-77.795977" lat="43.001726"/>
+        <rtept lon="-77.796342" lat="43.001814"/>
+        <rtept lon="-77.796400" lat="43.001844"/>
+        <rtept lon="-77.796440" lat="43.001925"/>
+        <rtept lon="-77.796578" lat="43.002042"/>
+        <rtept lon="-77.796759" lat="43.002115"/>
+        <rtept lon="-77.796900" lat="43.002109"/>
+        <rtept lon="-77.797079" lat="43.002028"/>
+        <rtept lon="-77.797143" lat="43.001889"/>
+        <rtept lon="-77.797153" lat="43.001755"/>
+        <rtept lon="-77.797215" lat="43.001615"/>
+        <rtept lon="-77.797356" lat="43.001553"/>
+        <rtept lon="-77.798129" lat="43.001466"/>
+        <rtept lon="-77.798305" lat="43.001492"/>
+        <rtept lon="-77.798540" lat="43.001594"/>
+        <rtept lon="-77.798622" lat="43.001678"/>
+        <rtept lon="-77.798686" lat="43.001915"/>
+        <rtept lon="-77.798672" lat="43.002103"/>
+        <rtept lon="-77.798629" lat="43.002255"/>
+        <rtept lon="-77.798658" lat="43.002337"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:ec59961a</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.798658" lat="43.002337"/>
+        <rtept lon="-77.798613" lat="43.002384"/>
+        <rtept lon="-77.798587" lat="43.002545"/>
+        <rtept lon="-77.798594" lat="43.002636"/>
+        <rtept lon="-77.798540" lat="43.002716"/>
+        <rtept lon="-77.798083" lat="43.002853"/>
+        <rtept lon="-77.797909" lat="43.002961"/>
+        <rtept lon="-77.797838" lat="43.003057"/>
+        <rtept lon="-77.797714" lat="43.003362"/>
+        <rtept lon="-77.797644" lat="43.003702"/>
+        <rtept lon="-77.797552" lat="43.003968"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:f9b2f654</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797552" lat="43.003968"/>
+        <rtept lon="-77.797397" lat="43.004210"/>
+        <rtept lon="-77.797372" lat="43.004357"/>
+        <rtept lon="-77.797372" lat="43.004510"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:d3687cd9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797372" lat="43.004510"/>
+        <rtept lon="-77.797335" lat="43.004650"/>
+        <rtept lon="-77.797276" lat="43.005220"/>
+        <rtept lon="-77.797286" lat="43.005613"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:3f9d4ec9</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.797372" lat="43.004509"/>
+        <rtept lon="-77.797247" lat="43.004489"/>
+        <rtept lon="-77.796770" lat="43.004512"/>
+        <rtept lon="-77.796609" lat="43.004503"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-white-tail:13f4814b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.796609" lat="43.004503"/>
+        <rtept lon="-77.796329" lat="43.004391"/>
+        <rtept lon="-77.796108" lat="43.004153"/>
+        <rtept lon="-77.796013" lat="43.004116"/>
+        <rtept lon="-77.795873" lat="43.004011"/>
+        <rtept lon="-77.795423" lat="43.003513"/>
+        <rtept lon="-77.795305" lat="43.003420"/>
+        <rtept lon="-77.794737" lat="43.003258"/>
+        <rtept lon="-77.794646" lat="43.003133"/>
+        <rtept lon="-77.794635" lat="43.002964"/>
+        <rtept lon="-77.794710" lat="43.002815"/>
+        <rtept lon="-77.794822" lat="43.002709"/>
+        <rtept lon="-77.795121" lat="43.002608"/>
+        <rtept lon="-77.795154" lat="43.002545"/>
+        <rtept lon="-77.795140" lat="43.002440"/>
+        <rtept lon="-77.795094" lat="43.002325"/>
+        <rtept lon="-77.795068" lat="43.002197"/>
+        <rtept lon="-77.795083" lat="43.001694"/>
+        <rtept lon="-77.795059" lat="43.001622"/>
+        <rtept lon="-77.794903" lat="43.001646"/>
+        <rtept lon="-77.794833" lat="43.001607"/>
+        <rtept lon="-77.794828" lat="43.001548"/>
+        <rtept lon="-77.794860" lat="43.001489"/>
+        <rtept lon="-77.794908" lat="43.001473"/>
+        <rtept lon="-77.794935" lat="43.001501"/>
+        <rtept lon="-77.795027" lat="43.001556"/>
+        <rtept lon="-77.795057" lat="43.001619"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-woodland:aad99726</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.807673" lat="43.008607"/>
+        <rtept lon="-77.807077" lat="43.008981"/>
+        <rtept lon="-77.806738" lat="43.009358"/>
+        <rtept lon="-77.806746" lat="43.009589"/>
+        <rtept lon="-77.806725" lat="43.009656"/>
+        <rtept lon="-77.806744" lat="43.009710"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-gypsum,trail-oatka-warbler:b53737a5</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.801700" lat="43.010751"/>
+        <rtept lon="-77.801760" lat="43.010661"/>
+        <rtept lon="-77.801730" lat="43.010576"/>
+        <rtept lon="-77.801797" lat="43.010420"/>
+        <rtept lon="-77.801916" lat="43.010297"/>
+        <rtept lon="-77.801991" lat="43.009957"/>
+        <rtept lon="-77.801987" lat="43.009793"/>
+        <rtept lon="-77.801992" lat="43.009566"/>
+        <rtept lon="-77.802026" lat="43.009487"/>
+        <rtept lon="-77.802114" lat="43.009409"/>
+        <rtept lon="-77.802209" lat="43.009338"/>
+        <rtept lon="-77.802291" lat="43.009251"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-woodland:df7f1efc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.806530" lat="43.003984"/>
+        <rtept lon="-77.806723" lat="43.004089"/>
+        <rtept lon="-77.806967" lat="43.004168"/>
+        <rtept lon="-77.807152" lat="43.004323"/>
+        <rtept lon="-77.807344" lat="43.004463"/>
+        <rtept lon="-77.807505" lat="43.004514"/>
+        <rtept lon="-77.807641" lat="43.004602"/>
+        <rtept lon="-77.807855" lat="43.004700"/>
+        <rtept lon="-77.808115" lat="43.004919"/>
+        <rtept lon="-77.808448" lat="43.004981"/>
+        <rtept lon="-77.808931" lat="43.004899"/>
+        <rtept lon="-77.809427" lat="43.004927">
+            <ele>190.900000</ele>
+        </rtept>
+        <rtept lon="-77.809495" lat="43.004920">
+            <ele>190.400000</ele>
+        </rtept>
+        <rtept lon="-77.809642" lat="43.004957">
+            <ele>189.100000</ele>
+        </rtept>
+        <rtept lon="-77.809841" lat="43.005126">
+            <ele>187.700000</ele>
+        </rtept>
+        <rtept lon="-77.810188" lat="43.005259">
+            <ele>185.600000</ele>
+        </rtept>
+        <rtept lon="-77.810454" lat="43.005254">
+            <ele>184.400000</ele>
+        </rtept>
+        <rtept lon="-77.810590" lat="43.005282">
+            <ele>183.600000</ele>
+        </rtept>
+        <rtept lon="-77.810773" lat="43.005540">
+            <ele>181.000000</ele>
+        </rtept>
+        <rtept lon="-77.810800" lat="43.005607">
+            <ele>180.700000</ele>
+        </rtept>
+        <rtept lon="-77.810800" lat="43.005719">
+            <ele>180.400000</ele>
+        </rtept>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-woodland:857d16df</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.810800" lat="43.005719">
+            <ele>180.400000</ele>
+        </rtept>
+        <rtept lon="-77.810744" lat="43.005761"/>
+        <rtept lon="-77.810583" lat="43.006216"/>
+        <rtept lon="-77.810068" lat="43.006499"/>
+        <rtept lon="-77.809252" lat="43.006742"/>
+        <rtept lon="-77.808976" lat="43.006908"/>
+        <rtept lon="-77.808747" lat="43.007016"/>
+        <rtept lon="-77.808201" lat="43.007738"/>
+        <rtept lon="-77.807696" lat="43.008624"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-woodland:a50e379c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.807696" lat="43.008624"/>
+        <rtept lon="-77.807572" lat="43.008997"/>
+        <rtept lon="-77.807489" lat="43.009202"/>
+        <rtept lon="-77.807395" lat="43.009346"/>
+        <rtept lon="-77.807089" lat="43.009605"/>
+        <rtept lon="-77.806880" lat="43.009691"/>
+        <rtept lon="-77.806771" lat="43.009718"/>
+    </rte>
+    <rte>
+        <name>seg:trail-oatka-woodland:ad3cbe4d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <rtept lon="-77.806771" lat="43.009718"/>
+        <rtept lon="-77.806655" lat="43.009746"/>
+        <rtept lon="-77.806478" lat="43.009797"/>
+        <rtept lon="-77.805712" lat="43.010025"/>
+        <rtept lon="-77.805058" lat="43.010190"/>
+        <rtept lon="-77.804790" lat="43.010206"/>
+        <rtept lon="-77.804468" lat="43.010206"/>
+        <rtept lon="-77.803781" lat="43.010406"/>
+        <rtept lon="-77.803572" lat="43.010363"/>
+    </rte>
+    <trk>
+        <name>border:park-oatka</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.791668" lat="43.011151"/>
+            <trkpt lon="-77.792999" lat="43.011355"/>
+            <trkpt lon="-77.792902" lat="43.012093"/>
+            <trkpt lon="-77.802794" lat="43.012712"/>
+            <trkpt lon="-77.804232" lat="43.012579"/>
+            <trkpt lon="-77.805562" lat="43.012234"/>
+            <trkpt lon="-77.806796" lat="43.011747"/>
+            <trkpt lon="-77.807815" lat="43.011096"/>
+            <trkpt lon="-77.808512" lat="43.010500"/>
+            <trkpt lon="-77.809961" lat="43.009123"/>
+            <trkpt lon="-77.811441" lat="43.007731"/>
+            <trkpt lon="-77.811441" lat="43.006185"/>
+            <trkpt lon="-77.812235" lat="43.005416"/>
+            <trkpt lon="-77.812729" lat="43.005196"/>
+            <trkpt lon="-77.813523" lat="43.005008"/>
+            <trkpt lon="-77.815497" lat="43.005086"/>
+            <trkpt lon="-77.816012" lat="43.004820"/>
+            <trkpt lon="-77.813909" lat="43.004459"/>
+            <trkpt lon="-77.814381" lat="43.004019"/>
+            <trkpt lon="-77.812514" lat="43.003564"/>
+            <trkpt lon="-77.811146" lat="43.004969"/>
+            <trkpt lon="-77.810642" lat="43.004541"/>
+            <trkpt lon="-77.811688" lat="43.003337"/>
+            <trkpt lon="-77.811334" lat="43.003207"/>
+            <trkpt lon="-77.811146" lat="43.003101"/>
+            <trkpt lon="-77.810889" lat="43.002980"/>
+            <trkpt lon="-77.810631" lat="43.002897"/>
+            <trkpt lon="-77.810036" lat="43.002780"/>
+            <trkpt lon="-77.809564" lat="43.002678"/>
+            <trkpt lon="-77.799559" lat="42.999790"/>
+            <trkpt lon="-77.798798" lat="42.999610"/>
+            <trkpt lon="-77.798325" lat="42.999531"/>
+            <trkpt lon="-77.797955" lat="42.999496"/>
+            <trkpt lon="-77.797414" lat="42.999488"/>
+            <trkpt lon="-77.791641" lat="42.999547"/>
+            <trkpt lon="-77.791636" lat="43.004239"/>
+            <trkpt lon="-77.793143" lat="43.002952"/>
+            <trkpt lon="-77.793809" lat="43.003466"/>
+            <trkpt lon="-77.793900" lat="43.004718"/>
+            <trkpt lon="-77.791647" lat="43.004710"/>
+            <trkpt lon="-77.791625" lat="43.006107"/>
+            <trkpt lon="-77.793734" lat="43.006102"/>
+            <trkpt lon="-77.793621" lat="43.008221"/>
+            <trkpt lon="-77.792870" lat="43.008217"/>
+            <trkpt lon="-77.792880" lat="43.008594"/>
+            <trkpt lon="-77.791668" lat="43.008586"/>
+            <trkpt lon="-77.791674" lat="43.008958"/>
+            <trkpt lon="-77.793674" lat="43.009005"/>
+            <trkpt lon="-77.793664" lat="43.010021"/>
+            <trkpt lon="-77.791668" lat="43.009998"/>
+            <trkpt lon="-77.791679" lat="43.010335"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-yellow:bf8e5967</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.796833" lat="43.007112">
+                <ele>193.000000</ele>
+                <time>2016-02-02T22:35:54Z</time>
+            </trkpt>
+            <trkpt lon="-77.796745" lat="43.007107">
+                <ele>193.200000</ele>
+                <time>2016-02-02T22:35:57Z</time>
+            </trkpt>
+            <trkpt lon="-77.796555" lat="43.007088">
+                <ele>193.500000</ele>
+                <time>2016-02-02T22:36:02Z</time>
+            </trkpt>
+            <trkpt lon="-77.796417" lat="43.007153">
+                <ele>193.800000</ele>
+                <time>2016-02-02T22:36:06Z</time>
+            </trkpt>
+            <trkpt lon="-77.796333" lat="43.007172">
+                <ele>194.000000</ele>
+                <time>2016-02-02T22:36:09Z</time>
+            </trkpt>
+            <trkpt lon="-77.796066" lat="43.007133">
+                <ele>194.600000</ele>
+                <time>2016-02-02T22:36:16Z</time>
+            </trkpt>
+            <trkpt lon="-77.795815" lat="43.007160">
+                <ele>195.100000</ele>
+                <time>2016-02-02T22:36:23Z</time>
+            </trkpt>
+            <trkpt lon="-77.795776" lat="43.007214">
+                <ele>195.200000</ele>
+                <time>2016-02-02T22:36:27Z</time>
+            </trkpt>
+            <trkpt lon="-77.795746" lat="43.007313">
+                <ele>195.300000</ele>
+                <time>2016-02-02T22:36:30Z</time>
+            </trkpt>
+            <trkpt lon="-77.795471" lat="43.007359">
+                <ele>195.200000</ele>
+                <time>2016-02-02T22:36:37Z</time>
+            </trkpt>
+            <trkpt lon="-77.795433" lat="43.007427">
+                <ele>195.100000</ele>
+                <time>2016-02-02T22:36:39Z</time>
+            </trkpt>
+            <trkpt lon="-77.795372" lat="43.007675">
+                <ele>194.800000</ele>
+                <time>2016-02-02T22:36:46Z</time>
+            </trkpt>
+            <trkpt lon="-77.795410" lat="43.007843">
+                <ele>194.500000</ele>
+                <time>2016-02-02T22:36:51Z</time>
+            </trkpt>
+            <trkpt lon="-77.795532" lat="43.007942">
+                <ele>194.300000</ele>
+                <time>2016-02-02T22:36:55Z</time>
+            </trkpt>
+            <trkpt lon="-77.795586" lat="43.008038">
+                <ele>194.200000</ele>
+                <time>2016-02-02T22:36:58Z</time>
+            </trkpt>
+            <trkpt lon="-77.795494" lat="43.008247">
+                <ele>194.000000</ele>
+                <time>2016-02-02T22:37:05Z</time>
+            </trkpt>
+            <trkpt lon="-77.795456" lat="43.008362">
+                <ele>194.000000</ele>
+                <time>2016-02-02T22:37:09Z</time>
+            </trkpt>
+            <trkpt lon="-77.795448" lat="43.008598">
+                <ele>194.000000</ele>
+                <time>2016-02-02T22:37:16Z</time>
+            </trkpt>
+            <trkpt lon="-77.795311" lat="43.008701">
+                <ele>194.100000</ele>
+                <time>2016-02-02T22:37:22Z</time>
+            </trkpt>
+            <trkpt lon="-77.795288" lat="43.008690">
+                <ele>194.100000</ele>
+                <time>2016-02-02T22:37:23Z</time>
+            </trkpt>
+            <trkpt lon="-77.795166" lat="43.008667">
+                <ele>194.300000</ele>
+                <time>2016-02-02T22:37:27Z</time>
+            </trkpt>
+            <trkpt lon="-77.795158" lat="43.008678">
+                <ele>194.300000</ele>
+                <time>2016-02-02T22:37:28Z</time>
+            </trkpt>
+            <trkpt lon="-77.795189" lat="43.008770">
+                <ele>194.400000</ele>
+                <time>2016-02-02T22:37:32Z</time>
+            </trkpt>
+            <trkpt lon="-77.795387" lat="43.008888">
+                <ele>194.400000</ele>
+                <time>2016-02-02T22:37:39Z</time>
+            </trkpt>
+            <trkpt lon="-77.795570" lat="43.009087">
+                <ele>194.400000</ele>
+                <time>2016-02-02T22:37:46Z</time>
+            </trkpt>
+            <trkpt lon="-77.795547" lat="43.009220">
+                <ele>194.300000</ele>
+                <time>2016-02-02T22:37:50Z</time>
+            </trkpt>
+            <trkpt lon="-77.795456" lat="43.009403">
+                <ele>194.100000</ele>
+                <time>2016-02-02T22:37:57Z</time>
+            </trkpt>
+            <trkpt lon="-77.795532" lat="43.009586">
+                <ele>194.000000</ele>
+                <time>2016-02-02T22:38:04Z</time>
+            </trkpt>
+            <trkpt lon="-77.795609" lat="43.009796">
+                <ele>193.700000</ele>
+                <time>2016-02-02T22:38:11Z</time>
+            </trkpt>
+            <trkpt lon="-77.795479" lat="43.009975">
+                <ele>193.000000</ele>
+                <time>2016-02-02T22:38:18Z</time>
+            </trkpt>
+            <trkpt lon="-77.795486" lat="43.010101">
+                <ele>192.400000</ele>
+                <time>2016-02-02T22:38:23Z</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-yellow:32bfe497</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.795486" lat="43.010101">
+                <ele>192.400000</ele>
+                <time>2016-02-02T22:38:23Z</time>
+            </trkpt>
+            <trkpt lon="-77.795525" lat="43.010117">
+                <ele>192.200000</ele>
+                <time>2016-02-02T22:38:24Z</time>
+            </trkpt>
+            <trkpt lon="-77.795609" lat="43.010124">
+                <ele>191.900000</ele>
+                <time>2016-02-02T22:38:26Z</time>
+            </trkpt>
+            <trkpt lon="-77.795769" lat="43.010086">
+                <ele>191.100000</ele>
+                <time>2016-02-02T22:38:30Z</time>
+            </trkpt>
+            <trkpt lon="-77.796066" lat="43.010029">
+                <ele>189.800000</ele>
+                <time>2016-02-02T22:38:37Z</time>
+            </trkpt>
+            <trkpt lon="-77.796356" lat="43.010006">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:38:44Z</time>
+            </trkpt>
+            <trkpt lon="-77.796638" lat="43.009972">
+                <ele>188.600000</ele>
+                <time>2016-02-02T22:38:51Z</time>
+            </trkpt>
+            <trkpt lon="-77.796669" lat="43.009953">
+                <ele>188.600000</ele>
+                <time>2016-02-02T22:38:52Z</time>
+            </trkpt>
+            <trkpt lon="-77.796799" lat="43.009770">
+                <ele>188.500000</ele>
+                <time>2016-02-02T22:38:54Z</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-unnamed:5349a2ad</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.799596" lat="43.010415">
+                <ele>186.300000</ele>
+                <time>2016-02-02T22:32:46Z</time>
+            </trkpt>
+            <trkpt lon="-77.799706" lat="43.010311">
+                <ele>185.900000</ele>
+                <time>2016-02-02T22:32:53Z</time>
+            </trkpt>
+            <trkpt lon="-77.799782" lat="43.010151">
+                <ele>185.200000</ele>
+                <time>2016-02-02T22:33:00Z</time>
+            </trkpt>
+            <trkpt lon="-77.799866" lat="43.010071">
+                <ele>184.800000</ele>
+                <time>2016-02-02T22:33:04Z</time>
+            </trkpt>
+            <trkpt lon="-77.799934" lat="43.009880">
+                <ele>184.800000</ele>
+                <time>2016-02-02T22:33:11Z</time>
+            </trkpt>
+            <trkpt lon="-77.799927" lat="43.009716">
+                <ele>185.900000</ele>
+                <time>2016-02-02T22:33:18Z</time>
+            </trkpt>
+            <trkpt lon="-77.799896" lat="43.009686">
+                <ele>186.900000</ele>
+                <time>2016-02-02T22:33:25Z</time>
+            </trkpt>
+            <trkpt lon="-77.799782" lat="43.009621">
+                <ele>188.000000</ele>
+                <time>2016-02-02T22:33:29Z</time>
+            </trkpt>
+            <trkpt lon="-77.799713" lat="43.009590">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:33:33Z</time>
+            </trkpt>
+            <trkpt lon="-77.799500" lat="43.009510">
+                <ele>190.700000</ele>
+                <time>2016-02-02T22:33:39Z</time>
+            </trkpt>
+            <trkpt lon="-77.799469" lat="43.009445">
+                <ele>191.100000</ele>
+                <time>2016-02-02T22:33:41Z</time>
+            </trkpt>
+            <trkpt lon="-77.799461" lat="43.009365">
+                <ele>191.800000</ele>
+                <time>2016-02-02T22:33:45Z</time>
+            </trkpt>
+            <trkpt lon="-77.799438" lat="43.009346">
+                <ele>192.200000</ele>
+                <time>2016-02-02T22:33:51Z</time>
+            </trkpt>
+            <trkpt lon="-77.799385" lat="43.009315">
+                <ele>192.200000</ele>
+                <time>2016-02-02T22:33:53Z</time>
+            </trkpt>
+            <trkpt lon="-77.799339" lat="43.009300">
+                <ele>192.100000</ele>
+                <time>2016-02-02T22:33:55Z</time>
+            </trkpt>
+            <trkpt lon="-77.799248" lat="43.009277">
+                <ele>192.000000</ele>
+                <time>2016-02-02T22:33:58Z</time>
+            </trkpt>
+            <trkpt lon="-77.798950" lat="43.009190">
+                <ele>191.600000</ele>
+                <time>2016-02-02T22:34:04Z</time>
+            </trkpt>
+            <trkpt lon="-77.798615" lat="43.009232">
+                <ele>191.000000</ele>
+                <time>2016-02-02T22:34:11Z</time>
+            </trkpt>
+            <trkpt lon="-77.798309" lat="43.009212">
+                <ele>190.400000</ele>
+                <time>2016-02-02T22:34:17Z</time>
+            </trkpt>
+            <trkpt lon="-77.798119" lat="43.009159">
+                <ele>189.900000</ele>
+                <time>2016-02-02T22:34:22Z</time>
+            </trkpt>
+            <trkpt lon="-77.798019" lat="43.009106">
+                <ele>189.400000</ele>
+                <time>2016-02-02T22:34:28Z</time>
+            </trkpt>
+            <trkpt lon="-77.797913" lat="43.009163">
+                <ele>189.200000</ele>
+                <time>2016-02-02T22:34:31Z</time>
+            </trkpt>
+            <trkpt lon="-77.797661" lat="43.009228">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:34:37Z</time>
+            </trkpt>
+            <trkpt lon="-77.797455" lat="43.009159">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:34:41Z</time>
+            </trkpt>
+            <trkpt lon="-77.797401" lat="43.009109">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:34:43Z</time>
+            </trkpt>
+            <trkpt lon="-77.797341" lat="43.009109">
+                <ele>189.100000</ele>
+                <time>2016-02-02T22:34:45Z</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-unnamed:33ecb988</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.794458" lat="43.005039">
+                <ele>191.700000</ele>
+                <time>2016-02-02T23:00:20Z</time>
+            </trkpt>
+            <trkpt lon="-77.794586" lat="43.005009">
+                <ele>191.100000</ele>
+                <time>2016-02-02T23:00:27Z</time>
+            </trkpt>
+            <trkpt lon="-77.794746" lat="43.004963">
+                <ele>190.800000</ele>
+                <time>2016-02-02T23:00:33Z</time>
+            </trkpt>
+            <trkpt lon="-77.794861" lat="43.004810">
+                <ele>190.600000</ele>
+                <time>2016-02-02T23:00:40Z</time>
+            </trkpt>
+            <trkpt lon="-77.794891" lat="43.004635">
+                <ele>190.500000</ele>
+                <time>2016-02-02T23:00:47Z</time>
+            </trkpt>
+            <trkpt lon="-77.795097" lat="43.004642">
+                <ele>190.600000</ele>
+                <time>2016-02-02T23:00:54Z</time>
+            </trkpt>
+            <trkpt lon="-77.795288" lat="43.004673">
+                <ele>190.600000</ele>
+                <time>2016-02-02T23:01:01Z</time>
+            </trkpt>
+            <trkpt lon="-77.795509" lat="43.004662">
+                <ele>190.600000</ele>
+                <time>2016-02-02T23:01:08Z</time>
+            </trkpt>
+            <trkpt lon="-77.795746" lat="43.004654">
+                <ele>190.700000</ele>
+                <time>2016-02-02T23:01:15Z</time>
+            </trkpt>
+            <trkpt lon="-77.795975" lat="43.004631">
+                <ele>190.900000</ele>
+                <time>2016-02-02T23:01:22Z</time>
+            </trkpt>
+            <trkpt lon="-77.796181" lat="43.004650">
+                <ele>191.300000</ele>
+                <time>2016-02-02T23:01:29Z</time>
+            </trkpt>
+            <trkpt lon="-77.796333" lat="43.004650">
+                <ele>192.000000</ele>
+                <time>2016-02-02T23:01:36Z</time>
+            </trkpt>
+            <trkpt lon="-77.796601" lat="43.004507">
+                <ele>192.800000</ele>
+                <time>2016-02-02T23:01:43Z</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-unnamed:0e2ff68d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.796446" lat="43.005956"/>
+            <trkpt lon="-77.793743" lat="43.006120"/>
+            <trkpt lon="-77.792448" lat="43.006108"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-oatka-unnamed:d2ac958f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.810800" lat="43.005719">
+                <ele>180.400000</ele>
+            </trkpt>
+            <trkpt lon="-77.810833" lat="43.005751">
+                <ele>180.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.810829" lat="43.005783">
+                <ele>180.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.810842" lat="43.005803">
+                <ele>180.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.810851" lat="43.005859">
+                <ele>179.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.810941" lat="43.005916">
+                <ele>178.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.810981" lat="43.005955">
+                <ele>178.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811047" lat="43.006140">
+                <ele>176.300000</ele>
+            </trkpt>
+            <trkpt lon="-77.811109" lat="43.006138">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811124" lat="43.006093">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811144" lat="43.006077">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811192" lat="43.006069">
+                <ele>176.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.811260" lat="43.006024">
+                <ele>176.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.811282" lat="43.005992">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811305" lat="43.005979">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811364" lat="43.005924">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.811374" lat="43.005893">
+                <ele>176.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.812133" lat="43.005272">
+                <ele>177.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.812448" lat="43.005105">
+                <ele>177.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.812480" lat="43.005099">
+                <ele>177.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.812578" lat="43.005056">
+                <ele>177.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.812616" lat="43.005048">
+                <ele>177.500000</ele>
+            </trkpt>
+            <trkpt lon="-77.812912" lat="43.004916">
+                <ele>178.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.812930" lat="43.004915">
+                <ele>178.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.813273" lat="43.004818">
+                <ele>179.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.813304" lat="43.004816">
+                <ele>178.800000</ele>
+            </trkpt>
+            <trkpt lon="-77.813402" lat="43.004777">
+                <ele>179.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.813578" lat="43.004599">
+                <ele>183.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.813587" lat="43.004576">
+                <ele>183.200000</ele>
+            </trkpt>
+            <trkpt lon="-77.813757" lat="43.004369">
+                <ele>184.600000</ele>
+            </trkpt>
+            <trkpt lon="-77.813782" lat="43.004349">
+                <ele>184.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.813788" lat="43.004346">
+                <ele>184.700000</ele>
+            </trkpt>
+            <trkpt lon="-77.813970" lat="43.004152">
+                <ele>185.900000</ele>
+            </trkpt>
+            <trkpt lon="-77.814019" lat="43.004120">
+                <ele>186.000000</ele>
+            </trkpt>
+            <trkpt lon="-77.814039" lat="43.004099">
+                <ele>186.100000</ele>
+            </trkpt>
+            <trkpt lon="-77.814156" lat="43.004004">
+                <ele>186.100000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

@@ -1,0 +1,137 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-wrnp": {
+      "name": "Whiting Road Nature Preserve",
+      "mainPin": [
+        43.24635,
+        -77.472826
+      ],
+      "directionsCoordinate": [
+        43.246995,
+        -77.468721
+      ],
+      "SW": [
+        43.238517,
+        -77.48021
+      ],
+      "NE": [
+        43.255969,
+        -77.468599
+      ],
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "advisories": [
+        "websterHuntingAdvisory"
+      ]
+    }
+  },
+  "trails": {
+    "trail-wrnp-white": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "White Trail",
+      "color": "white",
+      "length": 0.2,
+      "SW": [
+        43.246382,
+        -77.480129
+      ],
+      "NE": [
+        43.247743,
+        -77.477428
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-red": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Red Trail",
+      "color": "red",
+      "length": 1.4,
+      "SW": [
+        43.240857,
+        -77.477476
+      ],
+      "NE": [
+        43.250881,
+        -77.471535
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-blue": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Blue Trail",
+      "color": "blue",
+      "length": 0.7,
+      "SW": [
+        43.24567,
+        -77.471619
+      ],
+      "NE": [
+        43.249634,
+        -77.468844
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-brown": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Brown Trail",
+      "color": "brown",
+      "length": 0.4,
+      "SW": [
+        43.249496,
+        -77.471918
+      ],
+      "NE": [
+        43.252014,
+        -77.469401
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-green": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Green Trail",
+      "color": "dark_green",
+      "length": 1.2,
+      "SW": [
+        43.250526,
+        -77.474387
+      ],
+      "NE": [
+        43.255585,
+        -77.469958
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-orange": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Orange Trail",
+      "color": "orange",
+      "length": 1.4,
+      "SW": [
+        43.239086,
+        -77.475407
+      ],
+      "NE": [
+        43.245645,
+        -77.470089
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-yellow": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Yellow Trail",
+      "color": "yellow",
+      "length": 0.55,
+      "SW": [
+        43.245571,
+        -77.474184
+      ],
+      "NE": [
+        43.249507,
+        -77.47108
+      ],
+      "parentID": "park-wrnp"
+    }
+  }
+}

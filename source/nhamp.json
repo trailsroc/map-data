@@ -1,0 +1,114 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-nhamp": {
+      "name": "Northampton Park",
+      "mainPin": [
+        43.18365,
+        -77.89066
+      ],
+      "SW": [
+        43.17911,
+        -77.905355
+      ],
+      "NE": [
+        43.192142,
+        -77.854294
+      ],
+      "url": "http://www.monroecounty.gov/parks-northampton.php"
+    }
+  },
+  "trails": {
+    "trail-nhamp-creek": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "Creek Trail",
+      "color": "red",
+      "length": 1.3,
+      "SW": [
+        43.179364,
+        -77.863955
+      ],
+      "NE": [
+        43.185654,
+        -77.858354
+      ],
+      "parentID": "park-nhamp"
+    },
+    "trail-nhamp-fairview": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "Fairview Trail",
+      "color": "dark_green",
+      "length": 1.1,
+      "SW": [
+        43.18486,
+        -77.884988
+      ],
+      "NE": [
+        43.186977,
+        -77.875169
+      ],
+      "parentID": "park-nhamp"
+    },
+    "trail-nhamp-farm": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "Farm Trail",
+      "color": "purple",
+      "length": 1.5,
+      "SW": [
+        43.180452,
+        -77.87129
+      ],
+      "NE": [
+        43.187454,
+        -77.865348
+      ],
+      "parentID": "park-nhamp"
+    },
+    "trail-nhamp-gardner": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "Gardner Trail",
+      "color": "blue",
+      "length": 1.8,
+      "SW": [
+        43.187996,
+        -77.899395
+      ],
+      "NE": [
+        43.190765,
+        -77.884138
+      ],
+      "parentID": "park-nhamp"
+    },
+    "trail-nhamp-loop": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "Loop Trail",
+      "color": "orange",
+      "length": 0.4,
+      "SW": [
+        43.184684,
+        -77.891191
+      ],
+      "NE": [
+        43.186617,
+        -77.888927
+      ],
+      "parentID": "park-nhamp"
+    },
+    "trail-nhamp-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-northampton.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.179554,
+        -77.893262
+      ],
+      "NE": [
+        43.186791,
+        -77.854408
+      ],
+      "parentID": "park-nhamp"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-mponds": {
+      "name": "Mendon Ponds Park",
+      "mainPin": [
+        43.017854,
+        -77.568531
+      ],
+      "SW": [
+        42.996656,
+        -77.585581
+      ],
+      "NE": [
+        43.045216,
+        -77.542675
+      ],
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php"
+    }
+  },
+  "trails": {
+    "trail-mponds-bathtub": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Devil’s Bathtub Trail",
+      "keywords": "devils tub",
+      "color": "pink",
+      "length": 0.67,
+      "SW": [
+        43.021673,
+        -77.573858
+      ],
+      "NE": [
+        43.02576,
+        -77.571605
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-birdsong": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Birdsong/Nature Trail",
+      "keywords": "bird song nature",
+      "color": "yellow",
+      "length": 1,
+      "SW": [
+        43.018762,
+        -77.583207
+      ],
+      "NE": [
+        43.022065,
+        -77.576936
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-eesker": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "East Esker Trail",
+      "color": "dark_green",
+      "length": 4.7,
+      "SW": [
+        43.01012,
+        -77.565364
+      ],
+      "NE": [
+        43.02724,
+        -77.54829
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-fern-valley": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Fern Valley Trail",
+      "color": "teal",
+      "length": 1.4,
+      "SW": [
+        43.034532,
+        -77.574561
+      ],
+      "NE": [
+        43.038938,
+        -77.569298
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-grasslands": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Grasslands Trail",
+      "color": "sky",
+      "length": 2,
+      "SW": [
+        43.0233,
+        -77.580825
+      ],
+      "NE": [
+        43.031531,
+        -77.574108
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-nmeadow": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "North Meadow Trail",
+      "color": "blue",
+      "length": 1.8,
+      "SW": [
+        43.026929,
+        -77.555779
+      ],
+      "NE": [
+        43.033785,
+        -77.54875
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-pine-woods": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Pine Woods Trail",
+      "color": "white",
+      "length": 1,
+      "SW": [
+        43.034019,
+        -77.555492
+      ],
+      "NE": [
+        43.036353,
+        -77.54691
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-quaker": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Quaker Pond Trail",
+      "color": "purple",
+      "length": 2.7,
+      "SW": [
+        42.9992,
+        -77.578869
+      ],
+      "NE": [
+        43.016097,
+        -77.568526
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-smeadow": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Southern Meadow Trail",
+      "color": "red",
+      "length": 3,
+      "SW": [
+        42.9991,
+        -77.570614
+      ],
+      "NE": [
+        43.012347,
+        -77.561334
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-swamp": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "Swamp Trail",
+      "color": "yellow",
+      "length": 0.7,
+      "SW": [
+        43.015125,
+        -77.57979
+      ],
+      "NE": [
+        43.018762,
+        -77.575555
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        42.998927,
+        -77.582846
+      ],
+      "NE": [
+        43.03819,
+        -77.54752
+      ],
+      "parentID": "park-mponds"
+    },
+    "trail-mponds-wesker": {
+      "url": "http://www.monroecounty.gov/parks-mendonponds.php",
+      "name": "West Esker Trail",
+      "color": "orange",
+      "length": 1.5,
+      "SW": [
+        43.025316,
+        -77.57734
+      ],
+      "NE": [
+        43.034403,
+        -77.568559
+      ],
+      "parentID": "park-mponds"
+    }
+  }
+}

@@ -1,0 +1,1200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-gvalley",
+        "trailsroc-shortName": "Genesee Valley Park",
+        "trailsroc-name": "Genesee Valley Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-geneseevalley.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-directionsCoordinate": [
+          -77.635807,
+          43.118813
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.64572381973267,
+          43.11555176041976
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-gvalley-red-creek",
+        "trailsroc-parentID": "park-gvalley",
+        "trailsroc-name": "Red Creek Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-geneseevalley.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Red Creek Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6407665,
+          43.116948
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-gvalley-unnamed-trails",
+        "trailsroc-parentID": "park-gvalley",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-geneseevalley.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.639847,
+          43.1202145
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gvalley-red-creek:239ee65f",
+        "trailsroc-trailIDs": "trail-gvalley-red-creek",
+        "trailsroc-name": "Red Creek Trail",
+        "trailsroc-shortName": "Red Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.639236,
+            43.114323
+          ],
+          [
+            -77.639649,
+            43.114492
+          ],
+          [
+            -77.639894,
+            43.114483
+          ],
+          [
+            -77.640205,
+            43.114488
+          ],
+          [
+            -77.640502,
+            43.114508
+          ],
+          [
+            -77.640777,
+            43.114561
+          ],
+          [
+            -77.641008,
+            43.11463
+          ],
+          [
+            -77.641237,
+            43.114667
+          ],
+          [
+            -77.641512,
+            43.114666
+          ],
+          [
+            -77.641904,
+            43.114644
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gvalley-red-creek:4ef06c7a",
+        "trailsroc-trailIDs": "trail-gvalley-red-creek",
+        "trailsroc-name": "Red Creek Trail",
+        "trailsroc-shortName": "Red Creek Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.641904,
+            43.114644
+          ],
+          [
+            -77.642018,
+            43.114723
+          ],
+          [
+            -77.642058,
+            43.114896
+          ],
+          [
+            -77.642103,
+            43.115024
+          ],
+          [
+            -77.642171,
+            43.115224
+          ],
+          [
+            -77.642204,
+            43.115501
+          ],
+          [
+            -77.642243,
+            43.115646
+          ],
+          [
+            -77.642348,
+            43.11588
+          ],
+          [
+            -77.642375,
+            43.116054
+          ],
+          [
+            -77.642387,
+            43.116266
+          ],
+          [
+            -77.642342,
+            43.116471
+          ],
+          [
+            -77.642256,
+            43.11665
+          ],
+          [
+            -77.642007,
+            43.116811
+          ],
+          [
+            -77.641934,
+            43.116921
+          ],
+          [
+            -77.64174,
+            43.117091
+          ],
+          [
+            -77.641599,
+            43.117206
+          ],
+          [
+            -77.641358,
+            43.117347
+          ],
+          [
+            -77.641061,
+            43.117424
+          ],
+          [
+            -77.64085,
+            43.117537
+          ],
+          [
+            -77.640753,
+            43.11764
+          ],
+          [
+            -77.640718,
+            43.117746
+          ],
+          [
+            -77.640718,
+            43.11794
+          ],
+          [
+            -77.64062,
+            43.118118
+          ],
+          [
+            -77.640527,
+            43.118278
+          ],
+          [
+            -77.640381,
+            43.118459
+          ],
+          [
+            -77.64023,
+            43.118547
+          ],
+          [
+            -77.639886,
+            43.118651
+          ],
+          [
+            -77.639645,
+            43.118825
+          ],
+          [
+            -77.63961,
+            43.118921
+          ],
+          [
+            -77.63963,
+            43.119041
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gvalley-unnamed-trails:dbbaa706",
+        "trailsroc-trailIDs": "trail-gvalley-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.641307,
+            43.119985
+          ],
+          [
+            -77.641006,
+            43.120266
+          ],
+          [
+            -77.640932,
+            43.120403
+          ],
+          [
+            -77.640525,
+            43.120833
+          ],
+          [
+            -77.640371,
+            43.120939
+          ],
+          [
+            -77.640128,
+            43.120984
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gvalley-unnamed-trails:a2dd8a14",
+        "trailsroc-trailIDs": "trail-gvalley-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.638648,
+            43.120008
+          ],
+          [
+            -77.638387,
+            43.120118
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gvalley-unnamed-trails:78bf9c23",
+        "trailsroc-trailIDs": "trail-gvalley-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.63963,
+            43.119041
+          ],
+          [
+            -77.639625,
+            43.119105
+          ],
+          [
+            -77.639752,
+            43.119206
+          ],
+          [
+            -77.639712,
+            43.119343
+          ],
+          [
+            -77.639611,
+            43.119427
+          ],
+          [
+            -77.639552,
+            43.119501
+          ],
+          [
+            -77.639473,
+            43.119559
+          ],
+          [
+            -77.639352,
+            43.119573
+          ],
+          [
+            -77.63923,
+            43.119505
+          ],
+          [
+            -77.639146,
+            43.119451
+          ],
+          [
+            -77.63914,
+            43.119445
+          ],
+          [
+            -77.639013,
+            43.119546
+          ],
+          [
+            -77.638719,
+            43.11986
+          ],
+          [
+            -77.638719,
+            43.11986
+          ],
+          [
+            -77.638648,
+            43.120008
+          ],
+          [
+            -77.638651,
+            43.120102
+          ],
+          [
+            -77.638699,
+            43.120208
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-gvalley:border1",
+        "trailsroc-parkID": "park-gvalley"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.661575,
+              43.110111
+            ],
+            [
+              -77.660594,
+              43.108091
+            ],
+            [
+              -77.661682,
+              43.105523
+            ],
+            [
+              -77.660802,
+              43.103393
+            ],
+            [
+              -77.651997,
+              43.103572
+            ],
+            [
+              -77.651534,
+              43.10437
+            ],
+            [
+              -77.650878,
+              43.10437
+            ],
+            [
+              -77.650911,
+              43.103609
+            ],
+            [
+              -77.649112,
+              43.103624
+            ],
+            [
+              -77.648548,
+              43.104827
+            ],
+            [
+              -77.647641,
+              43.104551
+            ],
+            [
+              -77.646658,
+              43.105145
+            ],
+            [
+              -77.644587,
+              43.104297
+            ],
+            [
+              -77.644742,
+              43.103774
+            ],
+            [
+              -77.643962,
+              43.103758
+            ],
+            [
+              -77.642688,
+              43.106168
+            ],
+            [
+              -77.642363,
+              43.106184
+            ],
+            [
+              -77.641305,
+              43.108232
+            ],
+            [
+              -77.647803,
+              43.108667
+            ],
+            [
+              -77.647848,
+              43.108997
+            ],
+            [
+              -77.645993,
+              43.112136
+            ],
+            [
+              -77.645281,
+              43.112521
+            ],
+            [
+              -77.645386,
+              43.112994
+            ],
+            [
+              -77.648397,
+              43.113076
+            ],
+            [
+              -77.648077,
+              43.113573
+            ],
+            [
+              -77.637537,
+              43.113964
+            ],
+            [
+              -77.633933,
+              43.118966
+            ],
+            [
+              -77.634453,
+              43.1192
+            ],
+            [
+              -77.630822,
+              43.123486
+            ],
+            [
+              -77.632485,
+              43.124113
+            ],
+            [
+              -77.633443,
+              43.123019
+            ],
+            [
+              -77.635181,
+              43.122177
+            ],
+            [
+              -77.638107,
+              43.121975
+            ],
+            [
+              -77.641191,
+              43.121953
+            ],
+            [
+              -77.643574,
+              43.121223
+            ],
+            [
+              -77.646521,
+              43.119768
+            ],
+            [
+              -77.648869,
+              43.118474
+            ],
+            [
+              -77.650686,
+              43.116927
+            ],
+            [
+              -77.65169,
+              43.115753
+            ],
+            [
+              -77.652665,
+              43.115151
+            ],
+            [
+              -77.65405,
+              43.11482
+            ],
+            [
+              -77.655887,
+              43.114575
+            ],
+            [
+              -77.657662,
+              43.113914
+            ],
+            [
+              -77.658985,
+              43.113018
+            ],
+            [
+              -77.659736,
+              43.111732
+            ],
+            [
+              -77.660429,
+              43.111074
+            ],
+            [
+              -77.661791,
+              43.110706
+            ],
+            [
+              -77.661575,
+              43.110111
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:a2ba401c",
+        "trailsroc-name": "Hawthorne Shelter",
+        "trailsroc-shortName": "Hawthorne",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.63824,
+          43.116609
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:2e3c0893",
+        "trailsroc-name": "Dogwood Shelter",
+        "trailsroc-shortName": "Dogwood",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.638519,
+          43.115227
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:6abbc7cb",
+        "trailsroc-name": "Tupelo Shelter",
+        "trailsroc-shortName": "Tupelo",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.638782,
+          43.114945
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:bc92685f",
+        "trailsroc-name": "Canalside Shelter",
+        "trailsroc-shortName": "Canalside",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.637736,
+          43.120071
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:78d5e7de",
+        "trailsroc-name": "Roundhouse Shelter",
+        "trailsroc-shortName": "Roundhouse",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.636454,
+          43.120031
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:gvalley:d5fa4c8a",
+        "trailsroc-name": "Riverbend Shelter",
+        "trailsroc-shortName": "Riverbend",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.6365453004837,
+          43.120685290828085
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.635687,
+          43.121257
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:b1dee8aa",
+        "trailsroc-name": "Parking (Crittenden Rd)",
+        "trailsroc-shortName": "Crittenden Rd",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.650744,
+          43.103917
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:09eed831",
+        "trailsroc-name": "Parking (Golf Course)",
+        "trailsroc-shortName": "Golf Course",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.650962,
+          43.113717
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:2833d45b",
+        "trailsroc-name": "Parking (Hawthorne Shelter)",
+        "trailsroc-shortName": "Hawthorne Shelter",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.637624,
+          43.117087
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:1c740757",
+        "trailsroc-name": "Parking (Red Creek/north field)",
+        "trailsroc-shortName": "Red Creek/north field",
+        "trailsroc-parentIDs": "park-gvalley,trail-gvalley-red-creek",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.638879,
+          43.118332
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:96562764",
+        "trailsroc-name": "Parking (Under 390)",
+        "trailsroc-shortName": "Under 390",
+        "trailsroc-parentIDs": "park-gvalley,trail-gvalley-red-creek",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.64066,
+          43.119726
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:461038b9",
+        "trailsroc-name": "Parking (Genesee Valley Park)",
+        "trailsroc-shortName": "Genesee Valley Park",
+        "trailsroc-parentIDs": "park-gvalley,trail-ecanal-main,trail-gv-riverway-east,trail-gv-riverway-south,trail-gv-greenway,tsystem-ecanal,tsystem-gv-riverway,tsystem-gv-riverway,tsystem-gv-greenway",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.636803,
+          43.119483
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:7cafe065",
+        "trailsroc-name": "Parking (Additional)",
+        "trailsroc-shortName": "Additional",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.636545,
+          43.120685
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:gvalley:c14187b7",
+        "trailsroc-name": "Parking (Sports Complex/Waterways)",
+        "trailsroc-shortName": "Sports Complex/Waterways",
+        "trailsroc-parentIDs": "park-gvalley,trail-gv-riverway-south,trail-gv-greenway,tsystem-gv-riverway,tsystem-gv-greenway",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.636036,
+          43.124033
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:gvalley:2433dff0",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.638713,
+          43.115838
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:gvalley:e5be971f",
+        "trailsroc-name": "Restroom",
+        "trailsroc-shortName": "Restroom",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.635885,
+          43.120208
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:gvalley:f23af8e6",
+        "trailsroc-name": "South Golf Course",
+        "trailsroc-shortName": "South Golf Course",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-url": "http://golftheparks.com/courses/Genesee.html",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.6513859629631,
+          43.11326287368589
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.65377,
+          43.110226
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:gvalley:21321d31",
+        "trailsroc-name": "North Golf Course",
+        "trailsroc-shortName": "North Golf Course",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-url": "http://golftheparks.com/courses/Genesee.html",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.644029,
+          43.118308
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:gvalley:3a1cb616",
+        "trailsroc-name": "Club House",
+        "trailsroc-shortName": "Club House",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-url": "http://golftheparks.com/courses/Genesee.html",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.65075,
+          43.114314
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:gvalley:835e8fb7",
+        "trailsroc-name": "Sports Complex",
+        "trailsroc-shortName": "Sports Complex",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-url": "http://www.cityofrochester.gov/GVPSC/",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.634802,
+          43.12415
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:eca35ec0",
+        "trailsroc-name": "Softball Field 1",
+        "trailsroc-shortName": "Softball Field 1",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.650251,
+          43.104179
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:78d76325",
+        "trailsroc-name": "Softball Field 2",
+        "trailsroc-shortName": "Softball Field 2",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.648127,
+          43.105432
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:bc7b88df",
+        "trailsroc-name": "Softball Field 3",
+        "trailsroc-shortName": "Softball Field 3",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.64729,
+          43.106153
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:5aabc3d9",
+        "trailsroc-name": "Softball Field 4",
+        "trailsroc-shortName": "Softball Field 4",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.640402,
+          43.115223
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:a1d0653d",
+        "trailsroc-name": "Softball Field 5",
+        "trailsroc-shortName": "Softball Field 5",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.639287,
+          43.116288
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:1cbf6037",
+        "trailsroc-name": "Softball Field 6",
+        "trailsroc-shortName": "Softball Field 6",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.639909,
+          43.118074
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:c8a97e85",
+        "trailsroc-name": "Softball Field 7",
+        "trailsroc-shortName": "Softball Field 7",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.640595,
+          43.117275
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:97f1fd32",
+        "trailsroc-name": "Soccer Field",
+        "trailsroc-shortName": "Soccer Field",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.638922,
+          43.117416
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:5fcb6d15",
+        "trailsroc-name": "Cricket Field",
+        "trailsroc-shortName": "Cricket Field",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6414,
+          43.115951
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:gvalley:893f529e",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.637302,
+          43.120513
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-boatLaunch",
+        "trailsroc-id": "point-boatLaunch:gvalley:4be6b9e7",
+        "trailsroc-name": "Canoe Launch (Under Expressway)",
+        "trailsroc-shortName": "Canoe Launch (Under Expressway)",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.641722,
+          43.120223
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-boatLaunch",
+        "trailsroc-id": "point-boatLaunch:gvalley:d751173f",
+        "trailsroc-name": "Boat Launch",
+        "trailsroc-shortName": "Boat Launch",
+        "trailsroc-parentIDs": "park-gvalley",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.636497,
+          43.122647
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

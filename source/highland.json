@@ -1,0 +1,39 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-highland": {
+      "name": "Highland Park",
+      "mainPin": [
+        43.13043,
+        -77.60571
+      ],
+      "SW": [
+        43.12426,
+        -77.61618
+      ],
+      "NE": [
+        43.13554,
+        -77.59871
+      ],
+      "url": "http://www.monroecounty.gov/parks-highland.php"
+    }
+  },
+  "trails": {
+    "trail-highland-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-highland.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.125032,
+        -77.610961
+      ],
+      "NE": [
+        43.132644,
+        -77.600811
+      ],
+      "parentID": "park-highland"
+    }
+  }
+}

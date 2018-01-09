@@ -1,0 +1,114 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-pmills": {
+      "name": "Powder Mills Park",
+      "mainPin": [
+        43.041152,
+        -77.479433
+      ],
+      "SW": [
+        43.03414,
+        -77.49146
+      ],
+      "NE": [
+        43.05164,
+        -77.46829
+      ],
+      "url": "http://www.monroecounty.gov/parks-powdermill.php"
+    }
+  },
+  "trails": {
+    "trail-pmills-daffodil": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "Daffodil Trail",
+      "color": "red",
+      "length": 0.7,
+      "SW": [
+        43.047943,
+        -77.491219
+      ],
+      "NE": [
+        43.054462,
+        -77.483536
+      ],
+      "parentID": "park-pmills"
+    },
+    "trail-pmills-hatchery": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "Hatchery Trail",
+      "color": "blue",
+      "length": 0.8,
+      "SW": [
+        43.047119,
+        -77.480254
+      ],
+      "NE": [
+        43.049568,
+        -77.469917
+      ],
+      "parentID": "park-pmills"
+    },
+    "trail-pmills-ridge": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "Ridge Trail",
+      "color": "grass",
+      "length": 0.4,
+      "SW": [
+        43.04008,
+        -77.479643
+      ],
+      "NE": [
+        43.046463,
+        -77.4756
+      ],
+      "parentID": "park-pmills"
+    },
+    "trail-pmills-trillium": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "Trillium Trail",
+      "color": "orange",
+      "length": 0.5,
+      "SW": [
+        43.040126,
+        -77.481367
+      ],
+      "NE": [
+        43.045772,
+        -77.476749
+      ],
+      "parentID": "park-pmills"
+    },
+    "trail-pmills-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.035353,
+        -77.481225
+      ],
+      "NE": [
+        43.047571,
+        -77.472547
+      ],
+      "parentID": "park-pmills"
+    },
+    "trail-pmills-roads": {
+      "url": "http://www.monroecounty.gov/parks-powdermill.php",
+      "name": "",
+      "color": "black",
+      "blazes": "none",
+      "SW": [
+        43.035116,
+        -77.483104
+      ],
+      "NE": [
+        43.03971,
+        -77.479848
+      ],
+      "parentID": "park-pmills"
+    }
+  }
+}

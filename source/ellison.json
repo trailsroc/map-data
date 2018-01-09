@@ -1,0 +1,130 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-ellison": {
+      "name": "Ellison Park",
+      "mainPin": [
+        43.14945406346895,
+        -77.51878023147583
+      ],
+      "SW": [
+        43.13532,
+        -77.53284
+      ],
+      "NE": [
+        43.15542,
+        -77.50434
+      ],
+      "url": "http://www.monroecounty.gov/parks-ellison.php"
+    }
+  },
+  "trails": {
+    "trail-ellison-bridle": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Bridle Trail",
+      "color": "grass",
+      "length": 0.9,
+      "SW": [
+        43.148399,
+        -77.525976
+      ],
+      "NE": [
+        43.154062,
+        -77.514253
+      ],
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-butlers-gap": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Butler’s Gap Trail",
+      "color": "purple",
+      "length": 0.7,
+      "SW": [
+        43.150221,
+        -77.524618
+      ],
+      "NE": [
+        43.153222,
+        -77.519417
+      ],
+      "keywords": "butlers",
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-coyote-den": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Coyote Den Trail",
+      "color": "sky",
+      "length": 1.1,
+      "SW": [
+        43.13624,
+        -77.518375
+      ],
+      "NE": [
+        43.148061,
+        -77.511392
+      ],
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-indian-landing": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Indian Landing Trail",
+      "color": "orange",
+      "length": 1.5,
+      "SW": [
+        43.149017,
+        -77.525158
+      ],
+      "NE": [
+        43.154073,
+        -77.514604
+      ],
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-mill-race": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Mill Race Trail",
+      "color": "brown",
+      "length": 0.4,
+      "SW": [
+        43.147956,
+        -77.5146
+      ],
+      "NE": [
+        43.151426,
+        -77.511706
+      ],
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-overlook": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "Overlook Trail",
+      "color": "red",
+      "length": 0.6,
+      "SW": [
+        43.140581,
+        -77.513237
+      ],
+      "NE": [
+        43.143237,
+        -77.508823
+      ],
+      "parentID": "park-ellison"
+    },
+    "trail-ellison-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-ellison.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.14419,
+        -77.521491
+      ],
+      "NE": [
+        43.150783,
+        -77.512383
+      ],
+      "parentID": "park-ellison"
+    }
+  }
+}

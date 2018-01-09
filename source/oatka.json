@@ -1,0 +1,193 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-oatka": {
+      "name": "Oatka Creek Park",
+      "mainPin": [
+        43.00565,
+        -77.80106
+      ],
+      "SW": [
+        42.99837,
+        -77.81745
+      ],
+      "NE": [
+        43.01425,
+        -77.78964
+      ],
+      "directionsCoordinate": [
+        43.006095,
+        -77.7917
+      ],
+      "url": "http://www.monroecounty.gov/parks-oatka.php"
+    }
+  },
+  "trails": {
+    "trail-oatka-black-billed-cuckoo": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Black Billed Cuckoo Trail",
+      "color": "black",
+      "length": 0.93,
+      "SW": [
+        43.00396,
+        -77.805793
+      ],
+      "NE": [
+        43.009013,
+        -77.796461
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-bluebird": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Bluebird Trail",
+      "color": "sky",
+      "length": 0.56,
+      "SW": [
+        43.001258,
+        -77.805487
+      ],
+      "NE": [
+        43.004032,
+        -77.799308
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-gypsum": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Gypsum Hollow Trail",
+      "color": "orange",
+      "length": 0.5,
+      "SW": [
+        43.008825,
+        -77.802289
+      ],
+      "NE": [
+        43.010959,
+        -77.796754
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-maple-hill": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Maple Hill Trail",
+      "color": "red",
+      "length": 0.5,
+      "SW": [
+        42.999885,
+        -77.79486
+      ],
+      "NE": [
+        43.001799,
+        -77.792065
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-old-burrell": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Old Burrell Road Trail",
+      "color": "grass",
+      "length": 0.9,
+      "SW": [
+        43.001885,
+        -77.80656
+      ],
+      "NE": [
+        43.00607,
+        -77.796814
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-trout-run": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Trout Run Trail",
+      "color": "teal",
+      "length": 0.77,
+      "SW": [
+        43.010406,
+        -77.803958
+      ],
+      "NE": [
+        43.012532,
+        -77.792253
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-warbler": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Warbler Loop Trail",
+      "color": "purple",
+      "length": 0.52,
+      "SW": [
+        43.007982,
+        -77.803685
+      ],
+      "NE": [
+        43.010733,
+        -77.801798
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-white-tail": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "White Tail Trail",
+      "color": "white",
+      "length": 0.91,
+      "SW": [
+        43.001387,
+        -77.799308
+      ],
+      "NE": [
+        43.005891,
+        -77.794635
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-woodland": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Woodland Trail",
+      "color": "yellow",
+      "length": 0.82,
+      "SW": [
+        43.003576,
+        -77.810927
+      ],
+      "NE": [
+        43.010406,
+        -77.803572
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-yellow": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "Yellow Trail",
+      "color": "yellow",
+      "length": 0.4,
+      "SW": [
+        43.007088,
+        -77.796833
+      ],
+      "NE": [
+        43.010124,
+        -77.795158
+      ],
+      "parentID": "park-oatka"
+    },
+    "trail-oatka-unnamed": {
+      "url": "http://www.monroecounty.gov/parks-oatka.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "SW": [
+        43.004004,
+        -77.814156
+      ],
+      "NE": [
+        43.010415,
+        -77.794458
+      ],
+      "parentID": "park-oatka"
+    }
+  }
+}

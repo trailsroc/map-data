@@ -1,0 +1,29 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-churchville": {
+      "name": "Churchville Park",
+      "mainPin": [
+        43.10825,
+        -77.90131
+      ],
+      "SW": [
+        43.09453,
+        -77.91967
+      ],
+      "NE": [
+        43.11514,
+        -77.87375
+      ],
+      "directionsCoordinate": [
+        43.109538,
+        -77.884596
+      ],
+      "url": "http://www.monroecounty.gov/parks-churchville.php"
+    }
+  },
+  "trails": {
+  }
+}

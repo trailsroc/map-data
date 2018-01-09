@@ -1,0 +1,42 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-ibaymar": {
+      "name": "Irondequoit Bay Marine Park",
+      "shortName": "Indqt. Bay Marine Park",
+      "mainPin": [
+        43.23132,
+        -77.54032
+      ],
+      "SW": [
+        43.22693,
+        -77.54481
+      ],
+      "NE": [
+        43.23545,
+        -77.53324
+      ],
+      "style": "minorPark",
+      "url": "http://www.monroecounty.gov/parks-baymarine.php"
+    }
+  },
+  "trails": {
+    "trail-ibaymar-unnamed-trails": {
+      "url": "http://www.monroecounty.gov/parks-baymarine.php",
+      "name": "",
+      "color": "black",
+      "blazes": "none",
+      "SW": [
+        43.228048,
+        -77.543563
+      ],
+      "NE": [
+        43.234006,
+        -77.537374
+      ],
+      "parentID": "park-ibaymar"
+    }
+  }
+}

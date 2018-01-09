@@ -1,0 +1,2243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-abe",
+        "trailsroc-shortName": "Abraham Lincoln Park",
+        "trailsroc-name": "Abraham Lincoln Park",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true,
+        "trailsroc-directionsCoordinate": [
+          -77.5089955329895,
+          43.180904533483414
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51451,
+          43.18559
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-blue-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "Blue Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "sky",
+        "trailsroc-shortName": "Blue Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51248100000001,
+          43.189952000000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-green-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "Green Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "grass",
+        "trailsroc-shortName": "Green Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516862,
+          43.1850495
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-orange-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "Orange Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Orange Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5135195,
+          43.188459
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-red-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.515638,
+          43.187391000000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-unnamed-trails",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.510825,
+          43.185032500000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-white-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "White Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "white",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51366150000001,
+          43.185126999999994
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-abe-yellow-trail",
+        "trailsroc-parentID": "park-abe",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-url": "http://www.monroecounty.gov/parks-bayeast.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.5149675,
+          43.182402999999994
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-blue-trail:eb4212df",
+        "trailsroc-trailIDs": "trail-abe-blue-trail",
+        "trailsroc-name": "Blue Trail",
+        "trailsroc-shortName": "Blue Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.510267,
+            43.18934
+          ],
+          [
+            -77.510289,
+            43.189426
+          ],
+          [
+            -77.510257,
+            43.189577
+          ],
+          [
+            -77.510177,
+            43.189826
+          ],
+          [
+            -77.510069,
+            43.19004
+          ],
+          [
+            -77.510045,
+            43.190205
+          ],
+          [
+            -77.510491,
+            43.190217
+          ],
+          [
+            -77.510783,
+            43.190243
+          ],
+          [
+            -77.51121,
+            43.190333
+          ],
+          [
+            -77.511451,
+            43.19044
+          ],
+          [
+            -77.511645,
+            43.190495
+          ],
+          [
+            -77.511797,
+            43.190402
+          ],
+          [
+            -77.511995,
+            43.190357
+          ],
+          [
+            -77.512135,
+            43.190285
+          ],
+          [
+            -77.5124,
+            43.190213
+          ],
+          [
+            -77.512525,
+            43.190192
+          ],
+          [
+            -77.512687,
+            43.190279
+          ],
+          [
+            -77.512798,
+            43.190397
+          ],
+          [
+            -77.512895,
+            43.19044
+          ],
+          [
+            -77.513069,
+            43.190441
+          ],
+          [
+            -77.513176,
+            43.190365
+          ],
+          [
+            -77.513352,
+            43.190256
+          ],
+          [
+            -77.51366,
+            43.190297
+          ],
+          [
+            -77.513986,
+            43.19039
+          ],
+          [
+            -77.514219,
+            43.190523
+          ],
+          [
+            -77.514383,
+            43.19061
+          ],
+          [
+            -77.514573,
+            43.190646
+          ],
+          [
+            -77.514788,
+            43.190609
+          ],
+          [
+            -77.514917,
+            43.19054
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-blue-trail:bab23ded",
+        "trailsroc-trailIDs": "trail-abe-blue-trail",
+        "trailsroc-name": "Blue Trail",
+        "trailsroc-shortName": "Blue Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514917,
+            43.19054
+          ],
+          [
+            -77.514889,
+            43.1905
+          ],
+          [
+            -77.514767,
+            43.190411
+          ],
+          [
+            -77.514611,
+            43.190434
+          ],
+          [
+            -77.514509,
+            43.190414
+          ],
+          [
+            -77.514453,
+            43.190361
+          ],
+          [
+            -77.51439,
+            43.19022
+          ],
+          [
+            -77.514237,
+            43.19008
+          ],
+          [
+            -77.513945,
+            43.189933
+          ],
+          [
+            -77.513693,
+            43.189853
+          ],
+          [
+            -77.513487,
+            43.18975
+          ],
+          [
+            -77.5131,
+            43.189681
+          ],
+          [
+            -77.512775,
+            43.189696
+          ],
+          [
+            -77.512175,
+            43.189679
+          ],
+          [
+            -77.511785,
+            43.189579
+          ],
+          [
+            -77.511587,
+            43.189477
+          ],
+          [
+            -77.511514,
+            43.189373
+          ],
+          [
+            -77.511291,
+            43.189258
+          ],
+          [
+            -77.511104,
+            43.189315
+          ],
+          [
+            -77.511005,
+            43.189387
+          ],
+          [
+            -77.510813,
+            43.189355
+          ],
+          [
+            -77.51063,
+            43.189326
+          ],
+          [
+            -77.510257,
+            43.18934
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-green-trail:28acaf5d",
+        "trailsroc-trailIDs": "trail-abe-green-trail",
+        "trailsroc-name": "Green Trail",
+        "trailsroc-shortName": "Green Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515087,
+            43.184373
+          ],
+          [
+            -77.515479,
+            43.184439
+          ],
+          [
+            -77.516006,
+            43.184506
+          ],
+          [
+            -77.516326,
+            43.184554
+          ],
+          [
+            -77.516533,
+            43.18461
+          ],
+          [
+            -77.51671,
+            43.184775
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-green-trail:077c9e79",
+        "trailsroc-trailIDs": "trail-abe-green-trail",
+        "trailsroc-name": "Green Trail",
+        "trailsroc-shortName": "Green Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "grass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51671,
+            43.184775
+          ],
+          [
+            -77.516793,
+            43.184975
+          ],
+          [
+            -77.516891,
+            43.185147
+          ],
+          [
+            -77.517077,
+            43.185269
+          ],
+          [
+            -77.517243,
+            43.185387
+          ],
+          [
+            -77.517325,
+            43.185559
+          ],
+          [
+            -77.517457,
+            43.185692
+          ],
+          [
+            -77.517639,
+            43.185711
+          ],
+          [
+            -77.51802,
+            43.185659
+          ],
+          [
+            -77.518224,
+            43.185586
+          ],
+          [
+            -77.518386,
+            43.185482
+          ],
+          [
+            -77.518656,
+            43.18544
+          ],
+          [
+            -77.518699,
+            43.185393
+          ],
+          [
+            -77.518657,
+            43.185308
+          ],
+          [
+            -77.518556,
+            43.185292
+          ],
+          [
+            -77.518377,
+            43.185304
+          ],
+          [
+            -77.518316,
+            43.185337
+          ],
+          [
+            -77.518196,
+            43.185345
+          ],
+          [
+            -77.518092,
+            43.185278
+          ],
+          [
+            -77.518019,
+            43.185083
+          ],
+          [
+            -77.517901,
+            43.185011
+          ],
+          [
+            -77.517673,
+            43.184933
+          ],
+          [
+            -77.517565,
+            43.18488
+          ],
+          [
+            -77.517396,
+            43.184718
+          ],
+          [
+            -77.51712,
+            43.184669
+          ],
+          [
+            -77.516969,
+            43.184725
+          ],
+          [
+            -77.516719,
+            43.18476
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-orange-trail:8848218c",
+        "trailsroc-trailIDs": "trail-abe-orange-trail",
+        "trailsroc-name": "Orange Trail",
+        "trailsroc-shortName": "Orange Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512124,
+            43.188273
+          ],
+          [
+            -77.512305,
+            43.188068
+          ],
+          [
+            -77.512458,
+            43.187955
+          ],
+          [
+            -77.512659,
+            43.187856
+          ],
+          [
+            -77.512921,
+            43.187737
+          ],
+          [
+            -77.513111,
+            43.187606
+          ],
+          [
+            -77.513334,
+            43.187533
+          ],
+          [
+            -77.513441,
+            43.187533
+          ],
+          [
+            -77.513636,
+            43.187703
+          ],
+          [
+            -77.513834,
+            43.187888
+          ],
+          [
+            -77.513968,
+            43.188094
+          ],
+          [
+            -77.514023,
+            43.188299
+          ],
+          [
+            -77.514073,
+            43.188388
+          ],
+          [
+            -77.514221,
+            43.188553
+          ],
+          [
+            -77.51434,
+            43.188723
+          ],
+          [
+            -77.514477,
+            43.188799
+          ],
+          [
+            -77.514648,
+            43.188845
+          ],
+          [
+            -77.514882,
+            43.18886
+          ],
+          [
+            -77.514915,
+            43.188912
+          ],
+          [
+            -77.514663,
+            43.1889
+          ],
+          [
+            -77.514383,
+            43.188954
+          ],
+          [
+            -77.514193,
+            43.189012
+          ],
+          [
+            -77.514135,
+            43.189103
+          ],
+          [
+            -77.514174,
+            43.189205
+          ],
+          [
+            -77.514196,
+            43.189273
+          ],
+          [
+            -77.514106,
+            43.189344
+          ],
+          [
+            -77.513875,
+            43.189385
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-red-trail:f7930304",
+        "trailsroc-trailIDs": "trail-abe-red-trail",
+        "trailsroc-name": "Red Trail",
+        "trailsroc-shortName": "Red Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515527,
+            43.188333
+          ],
+          [
+            -77.515567,
+            43.188232
+          ],
+          [
+            -77.515501,
+            43.188118
+          ],
+          [
+            -77.515549,
+            43.187985
+          ],
+          [
+            -77.515601,
+            43.187863
+          ],
+          [
+            -77.515533,
+            43.187767
+          ],
+          [
+            -77.515501,
+            43.18769
+          ],
+          [
+            -77.515538,
+            43.187574
+          ],
+          [
+            -77.515725,
+            43.187501
+          ],
+          [
+            -77.515992,
+            43.18736
+          ],
+          [
+            -77.516137,
+            43.187274
+          ],
+          [
+            -77.516225,
+            43.187139
+          ],
+          [
+            -77.516329,
+            43.187066
+          ],
+          [
+            -77.516394,
+            43.187037
+          ],
+          [
+            -77.516657,
+            43.186876
+          ],
+          [
+            -77.516775,
+            43.186696
+          ],
+          [
+            -77.516721,
+            43.186587
+          ],
+          [
+            -77.516639,
+            43.186519
+          ],
+          [
+            -77.516435,
+            43.186449
+          ],
+          [
+            -77.516289,
+            43.186492
+          ],
+          [
+            -77.516222,
+            43.186492
+          ],
+          [
+            -77.516222,
+            43.186568
+          ],
+          [
+            -77.516189,
+            43.186681
+          ],
+          [
+            -77.516096,
+            43.186697
+          ],
+          [
+            -77.515873,
+            43.186704
+          ],
+          [
+            -77.515773,
+            43.186733
+          ],
+          [
+            -77.515704,
+            43.186794
+          ],
+          [
+            -77.515612,
+            43.186825
+          ],
+          [
+            -77.515458,
+            43.186838
+          ],
+          [
+            -77.515415,
+            43.186883
+          ],
+          [
+            -77.515311,
+            43.187043
+          ],
+          [
+            -77.515191,
+            43.187182
+          ],
+          [
+            -77.515008,
+            43.187218
+          ],
+          [
+            -77.514917,
+            43.187298
+          ],
+          [
+            -77.514848,
+            43.187437
+          ],
+          [
+            -77.514743,
+            43.187574
+          ],
+          [
+            -77.514654,
+            43.187596
+          ],
+          [
+            -77.514501,
+            43.187613
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:ebcd68f0",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.511127,
+            43.187988
+          ],
+          [
+            -77.510981,
+            43.188107
+          ],
+          [
+            -77.510793,
+            43.188269
+          ],
+          [
+            -77.510623,
+            43.188471
+          ],
+          [
+            -77.510558,
+            43.188611
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:26896a13",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.510558,
+            43.188611
+          ],
+          [
+            -77.510496,
+            43.188781
+          ],
+          [
+            -77.510411,
+            43.188859
+          ],
+          [
+            -77.510222,
+            43.189043
+          ],
+          [
+            -77.510199,
+            43.189125
+          ],
+          [
+            -77.510196,
+            43.189214
+          ],
+          [
+            -77.510264,
+            43.18934
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:3402986c",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.51055,
+            43.1886
+          ],
+          [
+            -77.510442,
+            43.18852
+          ],
+          [
+            -77.510224,
+            43.188503
+          ],
+          [
+            -77.509508,
+            43.188464
+          ],
+          [
+            -77.509357,
+            43.188392
+          ],
+          [
+            -77.509249,
+            43.188258
+          ],
+          [
+            -77.509275,
+            43.188144
+          ],
+          [
+            -77.509344,
+            43.187986
+          ],
+          [
+            -77.509487,
+            43.187815
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:4d2eeb59",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.509487,
+            43.187815
+          ],
+          [
+            -77.509558,
+            43.187784
+          ],
+          [
+            -77.509722,
+            43.187777
+          ],
+          [
+            -77.510056,
+            43.187811
+          ],
+          [
+            -77.510462,
+            43.187836
+          ],
+          [
+            -77.510996,
+            43.187852
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:6c2a537f",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.509682,
+            43.186315
+          ],
+          [
+            -77.509635,
+            43.186483
+          ],
+          [
+            -77.509652,
+            43.186639
+          ],
+          [
+            -77.509509,
+            43.186942
+          ],
+          [
+            -77.509258,
+            43.187255
+          ],
+          [
+            -77.50907,
+            43.187494
+          ],
+          [
+            -77.509031,
+            43.187578
+          ],
+          [
+            -77.509035,
+            43.18768
+          ],
+          [
+            -77.509085,
+            43.187704
+          ],
+          [
+            -77.509494,
+            43.187819
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:961e30e3",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512627,
+            43.181044
+          ],
+          [
+            -77.5125,
+            43.180933
+          ],
+          [
+            -77.51236,
+            43.180855
+          ],
+          [
+            -77.512196,
+            43.180851
+          ],
+          [
+            -77.511969,
+            43.180878
+          ],
+          [
+            -77.511886,
+            43.180858
+          ],
+          [
+            -77.511717,
+            43.180745
+          ],
+          [
+            -77.511507,
+            43.180725
+          ],
+          [
+            -77.511309,
+            43.180744
+          ],
+          [
+            -77.511077,
+            43.180836
+          ],
+          [
+            -77.510888,
+            43.180866
+          ],
+          [
+            -77.510634,
+            43.180848
+          ],
+          [
+            -77.510461,
+            43.180926
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:d1e92eed",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.511308,
+            43.18799
+          ],
+          [
+            -77.511702,
+            43.18818
+          ],
+          [
+            -77.512135,
+            43.188277
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:442b153b",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512135,
+            43.188277
+          ],
+          [
+            -77.512968,
+            43.188299
+          ],
+          [
+            -77.513172,
+            43.188307
+          ],
+          [
+            -77.513315,
+            43.188355
+          ],
+          [
+            -77.513393,
+            43.188455
+          ],
+          [
+            -77.513456,
+            43.188592
+          ],
+          [
+            -77.513552,
+            43.189165
+          ],
+          [
+            -77.513626,
+            43.189271
+          ],
+          [
+            -77.513884,
+            43.189419
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-unnamed-trails:5e070437",
+        "trailsroc-trailIDs": "trail-abe-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.513884,
+            43.189419
+          ],
+          [
+            -77.514483,
+            43.18977
+          ],
+          [
+            -77.514791,
+            43.189869
+          ],
+          [
+            -77.515647,
+            43.190012
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:666862c0",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.510281,
+            43.181197
+          ],
+          [
+            -77.510588,
+            43.181203
+          ],
+          [
+            -77.510775,
+            43.181285
+          ],
+          [
+            -77.510973,
+            43.181324
+          ],
+          [
+            -77.511938,
+            43.181262
+          ],
+          [
+            -77.512343,
+            43.181206
+          ],
+          [
+            -77.512635,
+            43.181044
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:a217445f",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512635,
+            43.181044
+          ],
+          [
+            -77.512867,
+            43.180944
+          ],
+          [
+            -77.51309,
+            43.180778
+          ],
+          [
+            -77.513265,
+            43.180538
+          ],
+          [
+            -77.513444,
+            43.180323
+          ],
+          [
+            -77.513604,
+            43.180288
+          ],
+          [
+            -77.513942,
+            43.180363
+          ],
+          [
+            -77.514208,
+            43.180436
+          ],
+          [
+            -77.514538,
+            43.180505
+          ],
+          [
+            -77.514726,
+            43.180444
+          ],
+          [
+            -77.515032,
+            43.180448
+          ],
+          [
+            -77.515408,
+            43.180598
+          ],
+          [
+            -77.515648,
+            43.180681
+          ],
+          [
+            -77.515967,
+            43.180656
+          ],
+          [
+            -77.516117,
+            43.180606
+          ],
+          [
+            -77.516314,
+            43.180655
+          ],
+          [
+            -77.516408,
+            43.18076
+          ],
+          [
+            -77.516529,
+            43.180881
+          ],
+          [
+            -77.516724,
+            43.180967
+          ],
+          [
+            -77.516803,
+            43.181144
+          ],
+          [
+            -77.517042,
+            43.181466
+          ],
+          [
+            -77.517033,
+            43.181776
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:f663df1d",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.517033,
+            43.181776
+          ],
+          [
+            -77.516885,
+            43.181958
+          ],
+          [
+            -77.516794,
+            43.1823
+          ],
+          [
+            -77.516701,
+            43.182485
+          ],
+          [
+            -77.516623,
+            43.182795
+          ],
+          [
+            -77.516645,
+            43.18305
+          ],
+          [
+            -77.516534,
+            43.183224
+          ],
+          [
+            -77.516207,
+            43.183339
+          ],
+          [
+            -77.515824,
+            43.183339
+          ],
+          [
+            -77.515418,
+            43.183235
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:8d109cb5",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515418,
+            43.183235
+          ],
+          [
+            -77.515031,
+            43.183186
+          ],
+          [
+            -77.51463,
+            43.18311
+          ],
+          [
+            -77.514305,
+            43.183158
+          ],
+          [
+            -77.513909,
+            43.183385
+          ],
+          [
+            -77.513879,
+            43.183577
+          ],
+          [
+            -77.514135,
+            43.183699
+          ],
+          [
+            -77.5144,
+            43.183754
+          ],
+          [
+            -77.514571,
+            43.183656
+          ],
+          [
+            -77.51491,
+            43.183751
+          ],
+          [
+            -77.515191,
+            43.183912
+          ],
+          [
+            -77.515191,
+            43.18401
+          ],
+          [
+            -77.515076,
+            43.184361
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:638f907d",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515076,
+            43.184361
+          ],
+          [
+            -77.514876,
+            43.184463
+          ],
+          [
+            -77.514798,
+            43.184776
+          ],
+          [
+            -77.514838,
+            43.185106
+          ],
+          [
+            -77.514734,
+            43.185266
+          ],
+          [
+            -77.514503,
+            43.185334
+          ],
+          [
+            -77.514265,
+            43.185529
+          ],
+          [
+            -77.514276,
+            43.185682
+          ],
+          [
+            -77.51406,
+            43.185802
+          ],
+          [
+            -77.51406,
+            43.185881
+          ],
+          [
+            -77.514171,
+            43.186064
+          ],
+          [
+            -77.514222,
+            43.186248
+          ],
+          [
+            -77.514102,
+            43.186277
+          ],
+          [
+            -77.513949,
+            43.186234
+          ],
+          [
+            -77.513652,
+            43.186324
+          ],
+          [
+            -77.513456,
+            43.186451
+          ],
+          [
+            -77.513339,
+            43.186614
+          ],
+          [
+            -77.513109,
+            43.186764
+          ],
+          [
+            -77.512976,
+            43.186901
+          ],
+          [
+            -77.513348,
+            43.186899
+          ],
+          [
+            -77.513743,
+            43.186956
+          ],
+          [
+            -77.513871,
+            43.187053
+          ],
+          [
+            -77.513939,
+            43.187236
+          ],
+          [
+            -77.514062,
+            43.187412
+          ],
+          [
+            -77.514492,
+            43.187619
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:65dea2f7",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.514492,
+            43.187619
+          ],
+          [
+            -77.514807,
+            43.187871
+          ],
+          [
+            -77.514723,
+            43.187981
+          ],
+          [
+            -77.514645,
+            43.188125
+          ],
+          [
+            -77.514772,
+            43.188242
+          ],
+          [
+            -77.514878,
+            43.188231
+          ],
+          [
+            -77.515027,
+            43.188142
+          ],
+          [
+            -77.515156,
+            43.188043
+          ],
+          [
+            -77.51526,
+            43.188076
+          ],
+          [
+            -77.515385,
+            43.188263
+          ],
+          [
+            -77.515514,
+            43.188354
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-white-trail:c802911d",
+        "trailsroc-trailIDs": "trail-abe-white-trail",
+        "trailsroc-name": "White Trail",
+        "trailsroc-shortName": "White Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.515514,
+            43.188354
+          ],
+          [
+            -77.515689,
+            43.188464
+          ],
+          [
+            -77.51586,
+            43.188604
+          ],
+          [
+            -77.515905,
+            43.188753
+          ],
+          [
+            -77.515921,
+            43.189196
+          ],
+          [
+            -77.515974,
+            43.189505
+          ],
+          [
+            -77.51593,
+            43.189692
+          ],
+          [
+            -77.515831,
+            43.189901
+          ],
+          [
+            -77.515736,
+            43.189966
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-yellow-trail:239d42f0",
+        "trailsroc-trailIDs": "trail-abe-yellow-trail",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.517016,
+            43.181772
+          ],
+          [
+            -77.516818,
+            43.181768
+          ],
+          [
+            -77.516744,
+            43.18173
+          ],
+          [
+            -77.516577,
+            43.181651
+          ],
+          [
+            -77.516289,
+            43.1816
+          ],
+          [
+            -77.51604,
+            43.181597
+          ],
+          [
+            -77.515837,
+            43.181674
+          ],
+          [
+            -77.515682,
+            43.18167
+          ],
+          [
+            -77.515371,
+            43.181604
+          ],
+          [
+            -77.515017,
+            43.181631
+          ],
+          [
+            -77.514701,
+            43.181581
+          ],
+          [
+            -77.51449,
+            43.18163
+          ],
+          [
+            -77.514315,
+            43.181607
+          ],
+          [
+            -77.513603,
+            43.18158
+          ],
+          [
+            -77.512919,
+            43.181628
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-abe-yellow-trail:c69a38b9",
+        "trailsroc-trailIDs": "trail-abe-yellow-trail",
+        "trailsroc-name": "Yellow Trail",
+        "trailsroc-shortName": "Yellow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.512919,
+            43.181628
+          ],
+          [
+            -77.513082,
+            43.181763
+          ],
+          [
+            -77.513278,
+            43.181789
+          ],
+          [
+            -77.513553,
+            43.181769
+          ],
+          [
+            -77.514001,
+            43.181872
+          ],
+          [
+            -77.514228,
+            43.182023
+          ],
+          [
+            -77.514282,
+            43.182208
+          ],
+          [
+            -77.51443,
+            43.18245
+          ],
+          [
+            -77.514629,
+            43.182569
+          ],
+          [
+            -77.514849,
+            43.182646
+          ],
+          [
+            -77.514998,
+            43.182711
+          ],
+          [
+            -77.51512,
+            43.18281
+          ],
+          [
+            -77.515269,
+            43.182875
+          ],
+          [
+            -77.515407,
+            43.182992
+          ],
+          [
+            -77.515422,
+            43.183101
+          ],
+          [
+            -77.515417,
+            43.183226
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-abe:border1",
+        "trailsroc-parkID": "park-abe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.516262,
+              43.190697
+            ],
+            [
+              -77.516326,
+              43.189233
+            ],
+            [
+              -77.516254,
+              43.188456
+            ],
+            [
+              -77.515964,
+              43.188383
+            ],
+            [
+              -77.516236,
+              43.187552
+            ],
+            [
+              -77.516597,
+              43.187136
+            ],
+            [
+              -77.517212,
+              43.186865
+            ],
+            [
+              -77.517013,
+              43.186358
+            ],
+            [
+              -77.516683,
+              43.186094
+            ],
+            [
+              -77.516778,
+              43.185744
+            ],
+            [
+              -77.51779,
+              43.186105
+            ],
+            [
+              -77.518767,
+              43.185762
+            ],
+            [
+              -77.518803,
+              43.185183
+            ],
+            [
+              -77.517953,
+              43.184297
+            ],
+            [
+              -77.518297,
+              43.182688
+            ],
+            [
+              -77.518434,
+              43.181507
+            ],
+            [
+              -77.517555,
+              43.1807
+            ],
+            [
+              -77.517031,
+              43.18014
+            ],
+            [
+              -77.517005,
+              43.17994
+            ],
+            [
+              -77.51729,
+              43.179925
+            ],
+            [
+              -77.517542,
+              43.179806
+            ],
+            [
+              -77.517504,
+              43.179544
+            ],
+            [
+              -77.511069,
+              43.179481
+            ],
+            [
+              -77.510571,
+              43.180553
+            ],
+            [
+              -77.509001,
+              43.180552
+            ],
+            [
+              -77.50854,
+              43.18143
+            ],
+            [
+              -77.512159,
+              43.181431
+            ],
+            [
+              -77.511919,
+              43.182364
+            ],
+            [
+              -77.512178,
+              43.182357
+            ],
+            [
+              -77.512565,
+              43.181847
+            ],
+            [
+              -77.513563,
+              43.18207
+            ],
+            [
+              -77.513853,
+              43.182369
+            ],
+            [
+              -77.514227,
+              43.182699
+            ],
+            [
+              -77.514051,
+              43.183088
+            ],
+            [
+              -77.511963,
+              43.183062
+            ],
+            [
+              -77.512128,
+              43.186986
+            ],
+            [
+              -77.511712,
+              43.186977
+            ],
+            [
+              -77.512851,
+              43.188318
+            ],
+            [
+              -77.511936,
+              43.18831
+            ],
+            [
+              -77.510947,
+              43.18789
+            ],
+            [
+              -77.511097,
+              43.187545
+            ],
+            [
+              -77.510305,
+              43.186372
+            ],
+            [
+              -77.510084,
+              43.186318
+            ],
+            [
+              -77.507965,
+              43.18634
+            ],
+            [
+              -77.506083,
+              43.18962
+            ],
+            [
+              -77.506744,
+              43.190627
+            ],
+            [
+              -77.50725,
+              43.190709
+            ],
+            [
+              -77.507612,
+              43.190954
+            ],
+            [
+              -77.507656,
+              43.191372
+            ],
+            [
+              -77.509836,
+              43.191283
+            ],
+            [
+              -77.509991,
+              43.191182
+            ],
+            [
+              -77.510411,
+              43.191188
+            ],
+            [
+              -77.511689,
+              43.190743
+            ],
+            [
+              -77.516262,
+              43.19073
+            ],
+            [
+              -77.516262,
+              43.190697
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:abe:b4d2918d",
+        "trailsroc-name": "Parking",
+        "trailsroc-shortName": "Parking",
+        "trailsroc-parentIDs": "park-abe,trail-abe-white-trail",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.508996,
+          43.180905
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:abe:6fd8c4b1",
+        "trailsroc-name": "Play Areas",
+        "trailsroc-shortName": "Play Areas",
+        "trailsroc-parentIDs": "park-abe",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.509484,
+          43.180908
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:abe:d2d1160f",
+        "trailsroc-name": "Picnic Shelters Shelter",
+        "trailsroc-shortName": "Picnic Shelters",
+        "trailsroc-parentIDs": "park-abe",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.509564,
+          43.180768
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:abe:waterfront",
+        "trailsroc-name": "Waterfront Lodge",
+        "trailsroc-shortName": "Waterfront",
+        "trailsroc-parentIDs": "park-abe",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-directionsCoordinate": [
+          -77.511308,
+          43.18799
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          -77.516073,
+          43.189644
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}
