@@ -71,6 +71,7 @@
         "trailsroc-url": "http://www.monroecounty.gov/parks-mendonponds.php",
         "trailsroc-color": "dark_green",
         "trailsroc-shortName": "East Esker Trail",
+        "trailsroc-keywords": "10k",
         "trailsroc-blazes": "color"
       },
       "geometry": {
@@ -131,6 +132,7 @@
         "trailsroc-url": "http://www.monroecounty.gov/parks-mendonponds.php",
         "trailsroc-color": "blue",
         "trailsroc-shortName": "North Meadow Trail",
+        "trailsroc-keywords": "10k",
         "trailsroc-blazes": "color"
       },
       "geometry": {
@@ -2272,6 +2274,29 @@
           [
             -77.556026,
             43.015361
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-mponds-unnamed-trails:b7b99e4e2",
+        "trailsroc-trailIDs": "trail-mponds-unnamed-trails",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.575181,
+            43.004762
+          ],
+          [
+            -77.574511,
+            43.004951
           ]
         ]
       },
@@ -15055,6 +15080,42 @@
     },
     {
       "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:mponds:roundpond1",
+        "trailsroc-name": "Parking (Round Pond)",
+        "trailsroc-shortName": "Round Pond",
+        "trailsroc-parentIDs": "park-mponds,trail-mponds-eesker",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.565232,
+          43.019197
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:mponds:roundpond2",
+        "trailsroc-name": "Round Pond Nature Area",
+        "trailsroc-shortName": "Nature Area",
+        "trailsroc-parentIDs": "park-mponds",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.564797,
+          43.018567
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "trailsroc-type": "point-intersection",
         "trailsroc-id": "point-intersection:mponds:b2923a43",
         "trailsroc-name": "Intersection 1",
@@ -16469,7 +16530,8 @@
         "trailsroc-name": "Parking (Beach Lot)",
         "trailsroc-shortName": "Beach Lot",
         "trailsroc-parentIDs": "park-mponds,trail-mponds-nmeadow,trail-mponds-eesker",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": true,
+        "trailsroc-keywords": "10k canfieldwoods"
       },
       "geometry": {
         "coordinates": [
@@ -16826,10 +16888,10 @@
     },
     {
       "properties": {
-        "trailsroc-type": "point-parking",
-        "trailsroc-id": "point-parking:mponds:pond-rd-benches",
-        "trailsroc-name": "Parking (Deep Pond benches)",
-        "trailsroc-shortName": "Deep Pond benches",
+        "trailsroc-type": "point-smparking",
+        "trailsroc-id": "point-smparking:mponds:pond-rd-benches",
+        "trailsroc-name": "Shoulder Parking (Deep Pond benches)",
+        "trailsroc-shortName": "Shoulder Parking",
         "trailsroc-parentIDs": "park-mponds",
         "trailsroc-allowsDirections": true
       },

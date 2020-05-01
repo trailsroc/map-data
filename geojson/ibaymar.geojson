@@ -256,6 +256,26 @@
     },
     {
       "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:ibaymar:drawbridge",
+        "trailsroc-name": "Outlet Bridge (Winter Only)",
+        "trailsroc-shortName": "Outlet Bridge",
+        "trailsroc-parentIDs": "park-ibaymar",
+        "trailsroc-url": "https://www2.monroecounty.gov/dot-bridgeibob",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "drawbridge bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.534049,
+          43.234875
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "trailsroc-type": "point-parking",
         "trailsroc-id": "point-parking:ibaymar:9854a2ee",
         "trailsroc-name": "Parking",
