@@ -56,6 +56,7 @@
     "trail-mponds-eesker": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "East Esker Trail",
+      "keywords": "10k",
       "color": "dark_green",
       "length": 4.7,
       "SW": [
@@ -101,6 +102,7 @@
     "trail-mponds-nmeadow": {
       "url": "http://www.monroecounty.gov/parks-mendonponds.php",
       "name": "North Meadow Trail",
+      "keywords": "10k",
       "color": "blue",
       "length": 1.8,
       "SW": [

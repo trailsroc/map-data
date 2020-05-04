@@ -4,6 +4,14 @@
         <name>Untitled Document</name>
         <time>2017-12-21T05:30:17.055Z</time>
     </metadata>
+    <wpt lon="-77.565232" lat="43.019197">
+        <name>point-parking:mponds:roundpond1</name>
+        <desc>{"type":"point-parking","name":"Parking (Round Pond)","shortName":"Round Pond","parentIDs":["park-mponds","trail-mponds-eesker"]}</desc>
+    </wpt>
+    <wpt lon="-77.564797" lat="43.018567">
+            <name>point-poi:mponds:roundpond2</name>
+            <desc>{"type":"point-poi","name":"Round Pond Nature Area","parentIDs":["park-mponds"],"shortName":"Nature Area","allowsDirections":true}</desc>
+    </wpt>
     <wpt lon="-77.564056" lat="43.023798">
         <name>point-intersection:mponds:b2923a43</name>
         <desc>{"type":"point-intersection","name":"Intersection 1","parentIDs":["park-mponds"],"shortName":"1"}</desc>
@@ -318,7 +326,7 @@
     </wpt>
     <wpt lon="-77.558327" lat="43.028753">
         <name>point-parking:mponds:7d193d12</name>
-        <desc>{"type":"point-parking","name":"Parking (Beach Lot)","parentIDs":["park-mponds","trail-mponds-nmeadow","trail-mponds-eesker"],"shortName":"Beach Lot"}</desc>
+        <desc>{"type":"point-parking","name":"Parking (Beach Lot)","parentIDs":["park-mponds","trail-mponds-nmeadow","trail-mponds-eesker"],"shortName":"Beach Lot","keywords":"10k canfieldwoods"}</desc>
     </wpt>
     <wpt lon="-77.559099" lat="43.027537">
         <name>point-restroom:mponds:3fb32c49</name>
@@ -397,8 +405,8 @@
         <desc>{"name":"Parking (Mendon Center Rd)","parentIDs":["park-mponds","trail-mponds-smeadow","trail-mponds-quaker"],"shortName":"Mendon Center Rd"}</desc>
     </wpt>
     <wpt lon="-77.573261" lat="43.019780">
-        <name>point-parking:mponds:pond-rd-benches</name>
-        <desc>{"name":"Parking (Deep Pond benches)","parentIDs":["park-mponds"],"shortName":"Deep Pond benches"}</desc>
+        <name>point-smparking:mponds:pond-rd-benches</name>
+        <desc>{"name":"Shoulder Parking (Deep Pond benches)","parentIDs":["park-mponds"],"shortName":"Shoulder Parking"}</desc>
     </wpt>
     <rte>
         <name>seg:trail-mponds-birdsong:98e2266f</name>
@@ -1291,6 +1299,16 @@
         <rtept lon="-77.556026" lat="43.015361">
             <ele>232.700000</ele>
         </rtept>
+    </rte>
+    <rte>
+        <name>seg:trail-mponds-unnamed-trails:b7b99e4e2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+      <rtept lon="-77.575181" lat="43.004762"></rtept>
+      <rtept lon="-77.574511" lat="43.004951"></rtept>
     </rte>
     <trk>
         <name>border:park-mponds</name>

@@ -69,4 +69,8 @@
             <trkpt lon="-77.537167" lat="43.234100"/>
         </trkseg>
     </trk>
+    <wpt lon="-77.534049" lat="43.234875">
+     <name>point-poi:ibaymar:drawbridge</name>
+     <desc>{"type":"point-poi","name":"Outlet Bridge (Winter Only)","shortName":"Outlet Bridge","parentIDs":["park-ibaymar"],"url":"https://www2.monroecounty.gov/dot-bridgeibob","keywords":"drawbridge bay"}</desc>
+    </wpt>
 <wpt lat="43.22865572191218" lon="-77.54309177398682"><name>point-parking:ibaymar:9854a2ee</name><desc>{"type":"point-parking","name":"Parking","parentIDs":["park-ibaymar"],"shortName":"Parking"}</desc></wpt><wpt lat="43.23347881178729" lon="-77.53942251205444"><name>point-parking:ibaymar:b7b49ac4</name><desc>{"type":"point-parking","name":"Parking","parentIDs":["park-ibaymar"],"shortName":"Parking"}</desc></wpt><wpt lat="43.23439335790285" lon="-77.53726601600647"><name>point-parking:ibaymar:6b00d442</name><desc>{"type":"point-parking","name":"Parking","parentIDs":["park-ibaymar"],"shortName":"Parking"}</desc></wpt><wpt lat="43.23432300868892" lon="-77.53513097763062"><name>point-boatLaunch:ibaymar:0395eef7</name><desc>{"type":"point-boatLaunch","name":"Boat Launch","parentIDs":["park-ibaymar"]}</desc></wpt></gpx>

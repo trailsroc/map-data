@@ -46,7 +46,7 @@
     </wpt>
     <wpt lon="-77.430197" lat="43.049696">
         <name>point-parking:crescenttr:5543e208</name>
-        <desc>{"name":"Parking (Lilac Hill)","parentIDs":["tsystem-crescenttr","trail-crescenttr-white"],"shortName":"Lilac Hill"}</desc>
+        <desc>{"type":"point-poi","comments":"White Trail Closed","name":"White Trail Closed","parentIDs":["tsystem-crescenttr","trail-crescenttr-white"],"shortName":"White Trail Closed"}</desc>
     </wpt>
     <wpt lon="-77.446359" lat="43.048891">
         <name>point-parking:crescenttr:92921144</name>
@@ -9025,109 +9025,6 @@
             <trkpt lon="-77.438190" lat="43.052956"></trkpt>
             <trkpt lon="-77.438022" lat="43.053137"></trkpt>
             <trkpt lon="-77.438023" lat="43.053306"></trkpt>
-        </trkseg>
-    </trk>
-    <trk>
-        <name>seg:trail-crescenttr-white:8b34b3f3</name>
-        <extensions>
-            <gpxx:TrackExtension>
-                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
-            </gpxx:TrackExtension>
-        </extensions>
-        <trkseg>
-            <trkpt lon="-77.427735" lat="43.045450">
-                <ele>230.971939</ele>
-            </trkpt>
-            <trkpt lon="-77.427719" lat="43.045555">
-                <ele>231.413528</ele>
-            </trkpt>
-            <trkpt lon="-77.427666" lat="43.045605">
-                <ele>231.733643</ele>
-            </trkpt>
-            <trkpt lon="-77.427834" lat="43.045807">
-                <ele>232.201935</ele>
-            </trkpt>
-            <trkpt lon="-77.428009" lat="43.045830">
-                <ele>232.198547</ele>
-            </trkpt>
-            <trkpt lon="-77.428291" lat="43.045761">
-                <ele>232.315018</ele>
-            </trkpt>
-            <trkpt lon="-77.428673" lat="43.045723">
-                <ele>232.911911</ele>
-            </trkpt>
-            <trkpt lon="-77.428871" lat="43.045841">
-                <ele>232.844254</ele>
-            </trkpt>
-            <trkpt lon="-77.428912" lat="43.045866">
-                <ele>233.449295</ele>
-            </trkpt>
-            <trkpt lon="-77.428940" lat="43.045906">
-                <ele>228.624268</ele>
-            </trkpt>
-            <trkpt lon="-77.428528" lat="43.046421">
-                <ele>232.521347</ele>
-            </trkpt>
-            <trkpt lon="-77.428429" lat="43.046562">
-                <ele>233.366547</ele>
-            </trkpt>
-            <trkpt lon="-77.428360" lat="43.046879">
-                <ele>235.410873</ele>
-            </trkpt>
-            <trkpt lon="-77.428207" lat="43.047379">
-                <ele>239.523682</ele>
-            </trkpt>
-            <trkpt lon="-77.428253" lat="43.047466">
-                <ele>240.427780</ele>
-            </trkpt>
-            <trkpt lon="-77.428192" lat="43.047638">
-                <ele>242.057602</ele>
-            </trkpt>
-            <trkpt lon="-77.428215" lat="43.047733">
-                <ele>242.298264</ele>
-            </trkpt>
-            <trkpt lon="-77.428345" lat="43.047756">
-                <ele>242.443817</ele>
-            </trkpt>
-            <trkpt lon="-77.428391" lat="43.047852">
-                <ele>242.502853</ele>
-            </trkpt>
-            <trkpt lon="-77.428352" lat="43.047894">
-                <ele>231.533646</ele>
-            </trkpt>
-            <trkpt lon="-77.428528" lat="43.048023">
-                <ele>233.807831</ele>
-            </trkpt>
-            <trkpt lon="-77.428589" lat="43.048092">
-                <ele>236.711334</ele>
-            </trkpt>
-            <trkpt lon="-77.428627" lat="43.048176">
-                <ele>239.272141</ele>
-            </trkpt>
-            <trkpt lon="-77.428627" lat="43.048286">
-                <ele>240.694092</ele>
-            </trkpt>
-            <trkpt lon="-77.428558" lat="43.048420">
-                <ele>242.492142</ele>
-            </trkpt>
-            <trkpt lon="-77.428520" lat="43.049049">
-                <ele>247.352783</ele>
-            </trkpt>
-            <trkpt lon="-77.428780" lat="43.049458">
-                <ele>249.887955</ele>
-            </trkpt>
-            <trkpt lon="-77.428932" lat="43.049580">
-                <ele>250.671783</ele>
-            </trkpt>
-            <trkpt lon="-77.429428" lat="43.049667">
-                <ele>252.306915</ele>
-            </trkpt>
-            <trkpt lon="-77.429588" lat="43.049717">
-                <ele>252.568527</ele>
-            </trkpt>
-            <trkpt lon="-77.429733" lat="43.049728">
-                <ele>252.961334</ele>
-            </trkpt>
         </trkseg>
     </trk>
     <trk>

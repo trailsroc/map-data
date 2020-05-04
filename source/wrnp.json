@@ -132,6 +132,51 @@
         -77.47108
       ],
       "parentID": "park-wrnp"
+    },
+    "trail-wrnp-pink": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Pink Trail",
+      "color": "pink",
+      "length": 0.36,
+      "SW": [
+        43.241068,
+        -77.476207
+      ],
+      "NE": [
+        43.242356,
+        -77.474998
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-black": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "Black Trail",
+      "color": "black",
+      "length": 0.53,
+      "SW": [
+        43.243768,
+        -77.472515
+      ],
+      "NE": [
+        43.243866,
+        -77.470107
+      ],
+      "parentID": "park-wrnp"
+    },
+    "trail-wrnp-unnamed": {
+      "url": "http://www.webstertrails.org/wrnp/wrnp.php",
+      "name": "",
+      "color": "unmarked_trail",
+      "length": 0.15,
+      "SW": [
+        43.244082,
+        -77.476973
+      ],
+      "NE": [
+        43.246494,
+        -77.475405
+      ],
+      "parentID": "park-wrnp"
     }
   }
 }
