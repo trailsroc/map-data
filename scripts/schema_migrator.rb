@@ -6,9 +6,8 @@ require "nokogiri"
 
 $pretty = true
 $dry_run = false
-$source_dir = "/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source/"
-$dest_dir = "/Users/mike/Documents/src/Trails/maps.trailsroc.org/map-data/source-v2/"
-#$gpx_filenames = ["mponds"]
+$source_dir = File.join(Dir.pwd,"unprocessed_source/ready/")
+$dest_dir = File.join(Dir.pwd,"processed_source/")
 $gpx_filenames = ["abe", "auburntr", "black_creek", "canal", "churchville_park", "city_parks", "corbetts", "crescenttr", "durand_eastman", "ellison", "gcanal", "gosnell", "gvalley", "highland", "hitor", "ibaymar", "ibaywest", "lehigh", "lmorin", "mponds", "nhamp", "oatka", "ontariob", "pmills", "senecapk", "senecatr", "tryon", "vht", "webstercp", "webstertr", "wrnp"]
 $json_filenames = $gpx_filenames
 
