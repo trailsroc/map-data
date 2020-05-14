@@ -1,0 +1,16 @@
+* Mertsock scripts
+** extract_trail_json.rb
+** make_geojson.rb
+This populates the director "geojson" from "source", I've verified that it
+does so "perfectly"
+** parentID_migrator.rb
+** poi_gpx_to_json.rb
+** query.rb
+** schema_migrator.rb
+** shortName_normalizer.rb
+** trailSystems.rb
+
+** geojson-merge
+The last step.
+Installed through npm (ugh!!!!1!!!1!)
+geojson-merge geojson/* > combined.geojson

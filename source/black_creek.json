@@ -159,6 +159,21 @@
         -77.798479
       ],
       "parentID": "park-black-cr"
+    },
+    "trail-black-cr-fairytrail": {
+      "url": "http://www.monroecounty.gov/parks-blackcreek.php",
+      "name": "Fairy House Trail",
+      "length": 0.45,
+      "color": "orange",
+      "SW": [
+        43.078902,
+        -77.800232
+      ],
+      "NE": [
+        43.080357,
+        -77.798479
+      ],
+      "parentID": "park-black-cr"
     }
   }
 }
