@@ -1,0 +1,106 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-harriswhalen": {
+      "name": "Harris Whalen Park",
+      "mainPin": [43.135194,-77.445459],
+      "SW": [43.133746,-77.447798],
+      "NE": [43.138122,-77.443449],
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php"
+    }
+  },
+  "trails": {
+    "trail-harriswhalen-west-loop": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "West Loop",
+        "color": "red",
+        "length": 0.5,
+        "SW": [43.135569,-77.447475],
+        "NE": [43.136889,-77.444818],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-east-loop": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "East Loop",
+        "color": "red",
+        "length": 0.4,
+        "SW": [43.135637,-77.444814],
+        "NE": [43.137964,-77.443714],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-middle-trail": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Middle Trail",
+        "color": "blue",
+        "length": 0.2,
+        "SW": [43.135452,-77.445922],
+        "NE": [43.13637,-77.443946],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-access": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Access Trail",
+        "color": "red",
+        "length": 0.0,
+        "SW": [43.13544,-77.445305],
+        "NE": [43.135568,-77.445264],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-access2": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Access Trail",
+        "color": "yellow",
+        "length": 0.1,
+        "SW": [43.137502,-77.443746],
+        "NE": [43.13794,-77.442316],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-wild-ginger": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Wild Ginger Trail",
+        "color": "blue",
+        "length": 0.3,
+        "SW": [43.134962,-77.446841],
+        "NE": [43.137215,-77.446287],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-meadow": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Meadow Trail",
+        "color": "yellow",
+        "length": 0.1,
+        "SW": [43.135755,-77.447291],
+        "NE": [43.136203,-77.446421],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-myrtle": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Myrtle Trail",
+        "color": "yellow",
+        "length": 0.1,
+        "SW": [43.136696,-77.4447],
+        "NE": [43.136821,-77.443785],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-ridge": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Ridge Trail",
+        "color": "orange",
+        "length": 0.3,
+        "SW": [43.135512,-77.446471],
+        "NE": [43.137061,-77.444743],
+      "parentID": "park-harriswhalen"
+    },
+    "trail-harriswhalen-main": {
+      "url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+      "name": "Main Trail",
+        "color": "white",
+        "length": 0.3,
+        "SW": [43.135491,-77.444843],
+        "NE": [43.137891,-77.444693],
+      "parentID": "park-harriswhalen"
+    }
+  }
+}
