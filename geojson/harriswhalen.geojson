@@ -539,12 +539,12 @@
     {
       "properties": {
         "trailsroc-type": "trailSegment",
-        "trailsroc-id": "seg:trail-harriswhalen-access:12e2d43e",
-        "trailsroc-trailIDs": "trail-harriswhalen-access",
+        "trailsroc-id": "seg:trail-harriswhalen-access2:12e2d43e",
+        "trailsroc-trailIDs": "trail-harriswhalen-access2",
         "trailsroc-name": "Access Trail",
         "trailsroc-shortName": "Access Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": "red"
+        "trailsroc-color": "yellow"
       },
       "geometry": {
         "type": "LineString",
@@ -844,6 +844,24 @@
     {
       "properties": {
         "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:harriswhalen:mainparking",
+        "trailsroc-name": "Main Parking",
+        "trailsroc-shortName": "Main Parking",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445457,
+          43.135188
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
         "trailsroc-id": "point-parking:harriswalen:smalllot",
         "trailsroc-name": "Small Lot",
         "trailsroc-shortName": "Small Lot",
@@ -863,10 +881,10 @@
       "properties": {
         "trailsroc-type": "point-sports",
         "trailsroc-id": "point-sports:harriswalen:playground",
-        "trailsroc-name": "Main Parking",
+        "trailsroc-name": "Playground",
         "trailsroc-shortName": "Playground",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -884,7 +902,7 @@
         "trailsroc-name": "Open Pavilion",
         "trailsroc-shortName": "Open Pavilion",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -902,7 +920,7 @@
         "trailsroc-name": "Upper Restroom",
         "trailsroc-shortName": "Upper Restroom",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -920,7 +938,7 @@
         "trailsroc-name": "Horseshoe Pits",
         "trailsroc-shortName": "Horseshoe Pits",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -938,7 +956,7 @@
         "trailsroc-name": "Lodge Restroom",
         "trailsroc-shortName": "Lodge Restroom",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -956,7 +974,7 @@
         "trailsroc-name": "Lodge",
         "trailsroc-shortName": "Lodge",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [
@@ -974,7 +992,7 @@
         "trailsroc-name": "Water Tower",
         "trailsroc-shortName": "Water Tower",
         "trailsroc-parentIDs": "park-harriswhalen",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": false
       },
       "geometry": {
         "coordinates": [

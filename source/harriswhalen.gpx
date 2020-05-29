@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" version="1.1" creator="Adze - http://kobotsw.com/apps/adze">
   <wpt lat="43.135188" lon="-77.445457">
-    <name>Main Parking</name>
+    <name>point-parking:harriswhalen:mainparking</name>
     <desc>{"type":"point-parking","name":"Main Parking","parentIDs":["park-harriswhalen"],"shortName":"Main Parking","allowsDirections":true}</desc>
   </wpt>
   <wpt lat="43.137914" lon="-77.442262">
@@ -10,31 +10,31 @@
   </wpt>
   <wpt lat="43.135136" lon="-77.446126">
     <name>point-sports:harriswalen:playground</name>
-    <desc>{"type":"point-sports","name":"Main Parking","parentIDs":["park-harriswhalen"],"shortName":"Playground","allowsDirections":true}</desc>
+    <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-harriswhalen"],"shortName":"Playground","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.135171" lon="-77.445895">
     <name>point-shelter:harriswalen:pavilion</name>
-    <desc>{"type":"point-shelter","name":"Open Pavilion","parentIDs":["park-harriswhalen"],"shortName":"Open Pavilion","allowsDirections":true}</desc>
+    <desc>{"type":"point-shelter","name":"Open Pavilion","parentIDs":["park-harriswhalen"],"shortName":"Open Pavilion","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.135401" lon="-77.445849">
     <name>point-restroom:harriswalen:upperrestroom</name>
-    <desc>{"type":"point-restroom","name":"Upper Restroom","parentIDs":["park-harriswhalen"],"shortName":"Upper Restroom","allowsDirections":true}</desc>
+    <desc>{"type":"point-restroom","name":"Upper Restroom","parentIDs":["park-harriswhalen"],"shortName":"Upper Restroom","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.135238" lon="-77.444878">
     <name>point-sports:harriswalen:horseshoepits</name>
-    <desc>{"type":"point-sports","name":"Horseshoe Pits","parentIDs":["park-harriswhalen"],"shortName":"Horseshoe Pits","allowsDirections":true}</desc>
+    <desc>{"type":"point-sports","name":"Horseshoe Pits","parentIDs":["park-harriswhalen"],"shortName":"Horseshoe Pits","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.133183" lon="-77.446459">
     <name>point-restroom:harriswalen:lowerrestroom</name>
-    <desc>{"type":"point-restroom","name":"Lodge Restroom","parentIDs":["park-harriswhalen"],"shortName":"Lodge Restroom","allowsDirections":true}</desc>
+    <desc>{"type":"point-restroom","name":"Lodge Restroom","parentIDs":["park-harriswhalen"],"shortName":"Lodge Restroom","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.133115" lon="-77.446459">
     <name>point-lodge:harriswalen:lodge</name>
-    <desc>{"type":"point-lodge","name":"Lodge","parentIDs":["park-harriswhalen"],"shortName":"Lodge","allowsDirections":true}</desc>
+    <desc>{"type":"point-lodge","name":"Lodge","parentIDs":["park-harriswhalen"],"shortName":"Lodge","allowsDirections":false}</desc>
   </wpt>
   <wpt lat="43.135412" lon="-77.446516">
     <name>point-poi:harriswalen:watertower</name>
-    <desc>{"type":"point-poi","name":"Water Tower","parentIDs":["park-harriswhalen"],"shortName":"Water Tower","allowsDirections":true}</desc>
+    <desc>{"type":"point-poi","name":"Water Tower","parentIDs":["park-harriswhalen"],"shortName":"Water Tower","allowsDirections":false}</desc>
   </wpt>
   <trk>
     <name>border:park-harriswhalen</name>
@@ -239,7 +239,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>seg:trail-harriswhalen-access:12e2d43e</name>
+    <name>seg:trail-harriswhalen-access2:12e2d43e</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
