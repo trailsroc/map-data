@@ -1,0 +1,1007 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "trailsroc-type": "park",
+        "trailsroc-id": "park-harriswhalen",
+        "trailsroc-shortName": "Harris Whalen Park",
+        "trailsroc-name": "Harris Whalen Park",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445459,
+          43.135194
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-west-loop",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "West Loop",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "West Loop",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4461465,
+          43.136229
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-east-loop",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "East Loop",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "East Loop",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.444264,
+          43.1368005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-middle-trail",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Middle Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "Middle Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.44493399999999,
+          43.135911
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-access",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Access Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "red",
+        "trailsroc-shortName": "Access Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4452845,
+          43.135504
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-access2",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Access Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Access Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.443031,
+          43.137721
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-wild-ginger",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Wild Ginger Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "blue",
+        "trailsroc-shortName": "Wild Ginger Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446564,
+          43.1360885
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-meadow",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Meadow Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Meadow Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446856,
+          43.135979000000006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-myrtle",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Myrtle Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Myrtle Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4442425,
+          43.1367585
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-ridge",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Ridge Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "orange",
+        "trailsroc-shortName": "Ridge Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445607,
+          43.1362865
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-harriswhalen-main",
+        "trailsroc-parentID": "park-harriswhalen",
+        "trailsroc-name": "Main Trail",
+        "trailsroc-url": "http://www.penfieldrec.org/Harris_Whalen_Park.php",
+        "trailsroc-color": "white",
+        "trailsroc-shortName": "Main Trail",
+        "trailsroc-blazes": "color"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.44476800000001,
+          43.136691
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-west-loop:fd7d9406",
+        "trailsroc-trailIDs": "trail-harriswhalen-west-loop",
+        "trailsroc-name": "West Loop",
+        "trailsroc-shortName": "West Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.445266,
+            43.13634
+          ],
+          [
+            -77.445586,
+            43.136531
+          ],
+          [
+            -77.445713,
+            43.136664
+          ],
+          [
+            -77.446035,
+            43.136805
+          ],
+          [
+            -77.446183,
+            43.136848
+          ],
+          [
+            -77.446305,
+            43.136827
+          ],
+          [
+            -77.446587,
+            43.136889
+          ],
+          [
+            -77.446754,
+            43.136876
+          ],
+          [
+            -77.446873,
+            43.136865
+          ],
+          [
+            -77.447069,
+            43.136761
+          ],
+          [
+            -77.447208,
+            43.136714
+          ],
+          [
+            -77.44733,
+            43.136587
+          ],
+          [
+            -77.447376,
+            43.136445
+          ],
+          [
+            -77.447368,
+            43.136312
+          ],
+          [
+            -77.447288,
+            43.136202
+          ],
+          [
+            -77.447334,
+            43.13614
+          ],
+          [
+            -77.447368,
+            43.136051
+          ],
+          [
+            -77.447475,
+            43.135863
+          ],
+          [
+            -77.447363,
+            43.135793
+          ],
+          [
+            -77.447109,
+            43.135787
+          ],
+          [
+            -77.446918,
+            43.135724
+          ],
+          [
+            -77.446719,
+            43.135615
+          ],
+          [
+            -77.446556,
+            43.135627
+          ],
+          [
+            -77.446471,
+            43.135699
+          ],
+          [
+            -77.446084,
+            43.135608
+          ],
+          [
+            -77.446004,
+            43.135605
+          ],
+          [
+            -77.445852,
+            43.135635
+          ],
+          [
+            -77.445732,
+            43.135709
+          ],
+          [
+            -77.445682,
+            43.135788
+          ],
+          [
+            -77.445388,
+            43.135669
+          ],
+          [
+            -77.445264,
+            43.135569
+          ],
+          [
+            -77.445132,
+            43.135679
+          ],
+          [
+            -77.444818,
+            43.135693
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-east-loop:8740d45f",
+        "trailsroc-trailIDs": "trail-harriswhalen-east-loop",
+        "trailsroc-name": "East Loop",
+        "trailsroc-shortName": "East Loop",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.444714,
+            43.137416
+          ],
+          [
+            -77.444521,
+            43.137713
+          ],
+          [
+            -77.444457,
+            43.137886
+          ],
+          [
+            -77.4443,
+            43.137964
+          ],
+          [
+            -77.443885,
+            43.13775
+          ],
+          [
+            -77.443742,
+            43.13751
+          ],
+          [
+            -77.443799,
+            43.137051
+          ],
+          [
+            -77.443714,
+            43.136868
+          ],
+          [
+            -77.443771,
+            43.136691
+          ],
+          [
+            -77.443942,
+            43.136368
+          ],
+          [
+            -77.443935,
+            43.135966
+          ],
+          [
+            -77.444028,
+            43.135637
+          ],
+          [
+            -77.444307,
+            43.135637
+          ],
+          [
+            -77.4444,
+            43.135679
+          ],
+          [
+            -77.444814,
+            43.135684
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-middle-trail:844a702",
+        "trailsroc-trailIDs": "trail-harriswhalen-middle-trail",
+        "trailsroc-name": "Middle Trail",
+        "trailsroc-shortName": "Middle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.443946,
+            43.13637
+          ],
+          [
+            -77.444339,
+            43.136287
+          ],
+          [
+            -77.444757,
+            43.136266
+          ],
+          [
+            -77.444886,
+            43.136279
+          ],
+          [
+            -77.445068,
+            43.136323
+          ],
+          [
+            -77.44525,
+            43.136349
+          ],
+          [
+            -77.445358,
+            43.136287
+          ],
+          [
+            -77.445611,
+            43.135958
+          ],
+          [
+            -77.445679,
+            43.135789
+          ],
+          [
+            -77.445747,
+            43.135705
+          ],
+          [
+            -77.445922,
+            43.135452
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-access:a3aec68b",
+        "trailsroc-trailIDs": "trail-harriswhalen-access",
+        "trailsroc-name": "Access Trail",
+        "trailsroc-shortName": "Access Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.445305,
+            43.13544
+          ],
+          [
+            -77.445273,
+            43.135488
+          ],
+          [
+            -77.445264,
+            43.135568
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-access2:12e2d43e",
+        "trailsroc-trailIDs": "trail-harriswhalen-access2",
+        "trailsroc-name": "Access Trail",
+        "trailsroc-shortName": "Access Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.442316,
+            43.137927
+          ],
+          [
+            -77.442431,
+            43.13794
+          ],
+          [
+            -77.442788,
+            43.137867
+          ],
+          [
+            -77.443249,
+            43.137653
+          ],
+          [
+            -77.443746,
+            43.137502
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-wild-ginger:6910d633",
+        "trailsroc-trailIDs": "trail-harriswhalen-wild-ginger",
+        "trailsroc-name": "Wild Ginger Trail",
+        "trailsroc-shortName": "Wild Ginger Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.446287,
+            43.137215
+          ],
+          [
+            -77.446305,
+            43.136824
+          ],
+          [
+            -77.446508,
+            43.136378
+          ],
+          [
+            -77.446791,
+            43.135932
+          ],
+          [
+            -77.446841,
+            43.135804
+          ],
+          [
+            -77.44683,
+            43.135664
+          ],
+          [
+            -77.446726,
+            43.134962
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-meadow:7220bd88",
+        "trailsroc-trailIDs": "trail-harriswhalen-meadow",
+        "trailsroc-name": "Meadow Trail",
+        "trailsroc-shortName": "Meadow Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.447291,
+            43.136203
+          ],
+          [
+            -77.446987,
+            43.136086
+          ],
+          [
+            -77.44678,
+            43.135924
+          ],
+          [
+            -77.446421,
+            43.135755
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-myrtle:101e87a7",
+        "trailsroc-trailIDs": "trail-harriswhalen-myrtle",
+        "trailsroc-name": "Myrtle Trail",
+        "trailsroc-shortName": "Myrtle Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.4447,
+            43.136821
+          ],
+          [
+            -77.444314,
+            43.13678
+          ],
+          [
+            -77.4441,
+            43.136801
+          ],
+          [
+            -77.443785,
+            43.136696
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-ridge:61f8fbc8",
+        "trailsroc-trailIDs": "trail-harriswhalen-ridge",
+        "trailsroc-name": "Ridge Trail",
+        "trailsroc-shortName": "Ridge Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "orange"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.44608,
+            43.135512
+          ],
+          [
+            -77.446471,
+            43.1357
+          ],
+          [
+            -77.445708,
+            43.136649
+          ],
+          [
+            -77.445522,
+            43.136858
+          ],
+          [
+            -77.445372,
+            43.136952
+          ],
+          [
+            -77.444743,
+            43.137061
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-harriswhalen-main:d260ef1c",
+        "trailsroc-trailIDs": "trail-harriswhalen-main",
+        "trailsroc-name": "Main Trail",
+        "trailsroc-shortName": "Main Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "white"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.444707,
+            43.137891
+          ],
+          [
+            -77.444736,
+            43.137114
+          ],
+          [
+            -77.444693,
+            43.136832
+          ],
+          [
+            -77.444757,
+            43.136279
+          ],
+          [
+            -77.444814,
+            43.135674
+          ],
+          [
+            -77.444843,
+            43.135491
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "parkBorder",
+        "trailsroc-id": "border:park-harriswhalen:border1",
+        "trailsroc-parkID": "park-harriswhalen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.446837,
+              43.135013
+            ],
+            [
+              -77.446665,
+              43.135021
+            ],
+            [
+              -77.446065,
+              43.135428
+            ],
+            [
+              -77.446068,
+              43.135564
+            ],
+            [
+              -77.447798,
+              43.135598
+            ],
+            [
+              -77.447727,
+              43.137241
+            ],
+            [
+              -77.444796,
+              43.137142
+            ],
+            [
+              -77.444728,
+              43.138122
+            ],
+            [
+              -77.443752,
+              43.138096
+            ],
+            [
+              -77.443831,
+              43.135491
+            ],
+            [
+              -77.443449,
+              43.135465
+            ],
+            [
+              -77.443513,
+              43.133746
+            ],
+            [
+              -77.446901,
+              43.133793
+            ],
+            [
+              -77.446837,
+              43.135013
+            ],
+            [
+              -77.446837,
+              43.135013
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:harriswhalen:mainparking",
+        "trailsroc-name": "Main Parking",
+        "trailsroc-shortName": "Main Parking",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445457,
+          43.135188
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-parking",
+        "trailsroc-id": "point-parking:harriswalen:smalllot",
+        "trailsroc-name": "Small Lot",
+        "trailsroc-shortName": "Small Lot",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.442262,
+          43.137914
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:harriswalen:playground",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446126,
+          43.135136
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-shelter",
+        "trailsroc-id": "point-shelter:harriswalen:pavilion",
+        "trailsroc-name": "Open Pavilion",
+        "trailsroc-shortName": "Open Pavilion",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445895,
+          43.135171
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:harriswalen:upperrestroom",
+        "trailsroc-name": "Upper Restroom",
+        "trailsroc-shortName": "Upper Restroom",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.445849,
+          43.135401
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:harriswalen:horseshoepits",
+        "trailsroc-name": "Horseshoe Pits",
+        "trailsroc-shortName": "Horseshoe Pits",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.444878,
+          43.135238
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-restroom",
+        "trailsroc-id": "point-restroom:harriswalen:lowerrestroom",
+        "trailsroc-name": "Lodge Restroom",
+        "trailsroc-shortName": "Lodge Restroom",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446459,
+          43.133183
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-lodge",
+        "trailsroc-id": "point-lodge:harriswalen:lodge",
+        "trailsroc-name": "Lodge",
+        "trailsroc-shortName": "Lodge",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446459,
+          43.133115
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:harriswalen:watertower",
+        "trailsroc-name": "Water Tower",
+        "trailsroc-shortName": "Water Tower",
+        "trailsroc-parentIDs": "park-harriswhalen",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.446516,
+          43.135412
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ]
+}

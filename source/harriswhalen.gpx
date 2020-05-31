@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" version="1.1" creator="Adze - http://kobotsw.com/apps/adze">
+  <wpt lat="43.135188" lon="-77.445457">
+    <name>point-parking:harriswhalen:mainparking</name>
+    <desc>{"type":"point-parking","name":"Main Parking","parentIDs":["park-harriswhalen"],"shortName":"Main Parking","allowsDirections":true}</desc>
+  </wpt>
+  <wpt lat="43.137914" lon="-77.442262">
+    <name>point-parking:harriswalen:smalllot</name>
+    <desc>{"type":"point-parking","name":"Small Lot","parentIDs":["park-harriswhalen"],"shortName":"Small Lot","allowsDirections":true}</desc>
+  </wpt>
+  <wpt lat="43.135136" lon="-77.446126">
+    <name>point-sports:harriswalen:playground</name>
+    <desc>{"type":"point-sports","name":"Playground","parentIDs":["park-harriswhalen"],"shortName":"Playground","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.135171" lon="-77.445895">
+    <name>point-shelter:harriswalen:pavilion</name>
+    <desc>{"type":"point-shelter","name":"Open Pavilion","parentIDs":["park-harriswhalen"],"shortName":"Open Pavilion","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.135401" lon="-77.445849">
+    <name>point-restroom:harriswalen:upperrestroom</name>
+    <desc>{"type":"point-restroom","name":"Upper Restroom","parentIDs":["park-harriswhalen"],"shortName":"Upper Restroom","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.135238" lon="-77.444878">
+    <name>point-sports:harriswalen:horseshoepits</name>
+    <desc>{"type":"point-sports","name":"Horseshoe Pits","parentIDs":["park-harriswhalen"],"shortName":"Horseshoe Pits","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.133183" lon="-77.446459">
+    <name>point-restroom:harriswalen:lowerrestroom</name>
+    <desc>{"type":"point-restroom","name":"Lodge Restroom","parentIDs":["park-harriswhalen"],"shortName":"Lodge Restroom","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.133115" lon="-77.446459">
+    <name>point-lodge:harriswalen:lodge</name>
+    <desc>{"type":"point-lodge","name":"Lodge","parentIDs":["park-harriswhalen"],"shortName":"Lodge","allowsDirections":false}</desc>
+  </wpt>
+  <wpt lat="43.135412" lon="-77.446516">
+    <name>point-poi:harriswalen:watertower</name>
+    <desc>{"type":"point-poi","name":"Water Tower","parentIDs":["park-harriswhalen"],"shortName":"Water Tower","allowsDirections":false}</desc>
+  </wpt>
+  <trk>
+    <name>border:park-harriswhalen</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.135013" lon="-77.446837">
+      </trkpt>
+      <trkpt lat="43.135021" lon="-77.446665">
+      </trkpt>
+      <trkpt lat="43.135428" lon="-77.446065">
+      </trkpt>
+      <trkpt lat="43.135564" lon="-77.446068">
+      </trkpt>
+      <trkpt lat="43.135598" lon="-77.447798">
+      </trkpt>
+      <trkpt lat="43.137241" lon="-77.447727">
+      </trkpt>
+      <trkpt lat="43.137142" lon="-77.444796">
+      </trkpt>
+      <trkpt lat="43.138122" lon="-77.444728">
+      </trkpt>
+      <trkpt lat="43.138096" lon="-77.443752">
+      </trkpt>
+      <trkpt lat="43.135491" lon="-77.443831">
+      </trkpt>
+      <trkpt lat="43.135465" lon="-77.443449">
+      </trkpt>
+      <trkpt lat="43.133746" lon="-77.443513">
+      </trkpt>
+      <trkpt lat="43.133793" lon="-77.446901">
+      </trkpt>
+      <trkpt lat="43.135013" lon="-77.446837">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-west-loop:fd7d9406</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.13634" lon="-77.445266">
+      </trkpt>
+      <trkpt lat="43.136531" lon="-77.445586">
+      </trkpt>
+      <trkpt lat="43.136664" lon="-77.445713">
+      </trkpt>
+      <trkpt lat="43.136805" lon="-77.446035">
+      </trkpt>
+      <trkpt lat="43.136848" lon="-77.446183">
+      </trkpt>
+      <trkpt lat="43.136827" lon="-77.446305">
+      </trkpt>
+      <trkpt lat="43.136889" lon="-77.446587">
+      </trkpt>
+      <trkpt lat="43.136876" lon="-77.446754">
+      </trkpt>
+      <trkpt lat="43.136865" lon="-77.446873">
+      </trkpt>
+      <trkpt lat="43.136761" lon="-77.447069">
+      </trkpt>
+      <trkpt lat="43.136714" lon="-77.447208">
+      </trkpt>
+      <trkpt lat="43.136587" lon="-77.44733">
+      </trkpt>
+      <trkpt lat="43.136445" lon="-77.447376">
+      </trkpt>
+      <trkpt lat="43.136312" lon="-77.447368">
+      </trkpt>
+      <trkpt lat="43.136202" lon="-77.447288">
+      </trkpt>
+      <trkpt lat="43.13614" lon="-77.447334">
+      </trkpt>
+      <trkpt lat="43.136051" lon="-77.447368">
+      </trkpt>
+      <trkpt lat="43.135863" lon="-77.447475">
+      </trkpt>
+      <trkpt lat="43.135793" lon="-77.447363">
+      </trkpt>
+      <trkpt lat="43.135787" lon="-77.447109">
+      </trkpt>
+      <trkpt lat="43.135724" lon="-77.446918">
+      </trkpt>
+      <trkpt lat="43.135615" lon="-77.446719">
+      </trkpt>
+      <trkpt lat="43.135627" lon="-77.446556">
+      </trkpt>
+      <trkpt lat="43.135699" lon="-77.446471">
+      </trkpt>
+      <trkpt lat="43.135608" lon="-77.446084">
+      </trkpt>
+      <trkpt lat="43.135605" lon="-77.446004">
+      </trkpt>
+      <trkpt lat="43.135635" lon="-77.445852">
+      </trkpt>
+      <trkpt lat="43.135709" lon="-77.445732">
+      </trkpt>
+      <trkpt lat="43.135788" lon="-77.445682">
+      </trkpt>
+      <trkpt lat="43.135669" lon="-77.445388">
+      </trkpt>
+      <trkpt lat="43.135569" lon="-77.445264">
+      </trkpt>
+      <trkpt lat="43.135679" lon="-77.445132">
+      </trkpt>
+      <trkpt lat="43.135693" lon="-77.444818">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-east-loop:8740d45f</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.137416" lon="-77.444714">
+      </trkpt>
+      <trkpt lat="43.137713" lon="-77.444521">
+      </trkpt>
+      <trkpt lat="43.137886" lon="-77.444457">
+      </trkpt>
+      <trkpt lat="43.137964" lon="-77.4443">
+      </trkpt>
+      <trkpt lat="43.13775" lon="-77.443885">
+      </trkpt>
+      <trkpt lat="43.13751" lon="-77.443742">
+      </trkpt>
+      <trkpt lat="43.137051" lon="-77.443799">
+      </trkpt>
+      <trkpt lat="43.136868" lon="-77.443714">
+      </trkpt>
+      <trkpt lat="43.136691" lon="-77.443771">
+      </trkpt>
+      <trkpt lat="43.136368" lon="-77.443942">
+      </trkpt>
+      <trkpt lat="43.135966" lon="-77.443935">
+      </trkpt>
+      <trkpt lat="43.135637" lon="-77.444028">
+      </trkpt>
+      <trkpt lat="43.135637" lon="-77.444307">
+      </trkpt>
+      <trkpt lat="43.135679" lon="-77.4444">
+      </trkpt>
+      <trkpt lat="43.135684" lon="-77.444814">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-middle-trail:844a702</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.13637" lon="-77.443946">
+      </trkpt>
+      <trkpt lat="43.136287" lon="-77.444339">
+      </trkpt>
+      <trkpt lat="43.136266" lon="-77.444757">
+      </trkpt>
+      <trkpt lat="43.136279" lon="-77.444886">
+      </trkpt>
+      <trkpt lat="43.136323" lon="-77.445068">
+      </trkpt>
+      <trkpt lat="43.136349" lon="-77.44525">
+      </trkpt>
+      <trkpt lat="43.136287" lon="-77.445358">
+      </trkpt>
+      <trkpt lat="43.135958" lon="-77.445611">
+      </trkpt>
+      <trkpt lat="43.135789" lon="-77.445679">
+      </trkpt>
+      <trkpt lat="43.135705" lon="-77.445747">
+      </trkpt>
+      <trkpt lat="43.135452" lon="-77.445922">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-access:a3aec68b</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.13544" lon="-77.445305">
+      </trkpt>
+      <trkpt lat="43.135488" lon="-77.445273">
+      </trkpt>
+      <trkpt lat="43.135568" lon="-77.445264">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-access2:12e2d43e</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.137927" lon="-77.442316">
+      </trkpt>
+      <trkpt lat="43.13794" lon="-77.442431">
+      </trkpt>
+      <trkpt lat="43.137867" lon="-77.442788">
+      </trkpt>
+      <trkpt lat="43.137653" lon="-77.443249">
+      </trkpt>
+      <trkpt lat="43.137502" lon="-77.443746">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-wild-ginger:6910d633</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.137215" lon="-77.446287">
+      </trkpt>
+      <trkpt lat="43.136824" lon="-77.446305">
+      </trkpt>
+      <trkpt lat="43.136378" lon="-77.446508">
+      </trkpt>
+      <trkpt lat="43.135932" lon="-77.446791">
+      </trkpt>
+      <trkpt lat="43.135804" lon="-77.446841">
+      </trkpt>
+      <trkpt lat="43.135664" lon="-77.44683">
+      </trkpt>
+      <trkpt lat="43.134962" lon="-77.446726">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-meadow:7220bd88</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.136203" lon="-77.447291">
+      </trkpt>
+      <trkpt lat="43.136086" lon="-77.446987">
+      </trkpt>
+      <trkpt lat="43.135924" lon="-77.44678">
+      </trkpt>
+      <trkpt lat="43.135755" lon="-77.446421">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-myrtle:101e87a7</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.136821" lon="-77.4447">
+      </trkpt>
+      <trkpt lat="43.13678" lon="-77.444314">
+      </trkpt>
+      <trkpt lat="43.136801" lon="-77.4441">
+      </trkpt>
+      <trkpt lat="43.136696" lon="-77.443785">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-ridge:61f8fbc8</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.135512" lon="-77.44608">
+      </trkpt>
+      <trkpt lat="43.1357" lon="-77.446471">
+      </trkpt>
+      <trkpt lat="43.136649" lon="-77.445708">
+      </trkpt>
+      <trkpt lat="43.136858" lon="-77.445522">
+      </trkpt>
+      <trkpt lat="43.136952" lon="-77.445372">
+      </trkpt>
+      <trkpt lat="43.137061" lon="-77.444743">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>seg:trail-harriswhalen-main:d260ef1c</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.137891" lon="-77.444707">
+      </trkpt>
+      <trkpt lat="43.137114" lon="-77.444736">
+      </trkpt>
+      <trkpt lat="43.136832" lon="-77.444693">
+      </trkpt>
+      <trkpt lat="43.136279" lon="-77.444757">
+      </trkpt>
+      <trkpt lat="43.135674" lon="-77.444814">
+      </trkpt>
+      <trkpt lat="43.135491" lon="-77.444843">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

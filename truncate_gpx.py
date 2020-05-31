@@ -9,6 +9,12 @@ import numpy as np
 
 
 def truncate(g):
+    for waypoint in gpx.waypoints:
+        waypoint.latitude = np.round(waypoint.latitude, decimals=6)
+        waypoint.longitude = np.round(waypoint.longitude, decimals=6)
+        if waypoint.elevation:
+            waypoint.elevation = np.round(waypoint.elevation, decimals=6)
+
     for track in gpx.tracks:
         for segment in track.segments:
             for point in segment.points:
