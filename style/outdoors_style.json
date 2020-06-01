@@ -92,11 +92,11 @@
     "pitch": 0,
     "sources": {
         "composite": {
-            "url": "mapbox://mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v7,trailsroc.cjby7y8sk2wtq2qppfxiwshza-73ekz",
+            "url": "mapbox://mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v7,trailsroc.ckaix6nvo0lgb2ak7gxrf6lpk-0cnr1",
             "type": "vector"
         }
     },
-    "sprite": "mapbox://sprites/trailsroc/cje2xhtz5d2fa2rq9bvnuhmgq",
+    "sprite": "mapbox://sprites/trailsroc/cje2xhtz5d2fa2rq9bvnuhmgq/1plf5he0f12b3q6l6loa7vcqc",
     "glyphs": "mapbox://fonts/trailsroc/{fontstack}/{range}.pbf",
     "layers": [
         {
@@ -6722,8 +6722,8 @@
         }
     ],
     "created": "2018-02-25T15:07:42.600Z",
-    "id": "ck9lxoy482otn1jmt7k2u6t6x",
-    "modified": "2020-04-30T23:58:11.161Z",
+    "id": "cje2xhtz5d2fa2rq9bvnuhmgq",
+    "modified": "2020-05-31T20:19:41.673Z",
     "owner": "trailsroc",
     "visibility": "private",
     "draft": false
