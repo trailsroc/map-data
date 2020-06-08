@@ -100,7 +100,7 @@
         "trailsroc-parentID": "tsystem-elcamino",
         "trailsroc-name": "El Camino Trail",
         "trailsroc-url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
-        "trailsroc-color": null,
+        "trailsroc-color": "black",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-style": "trailSystem",
         "trailsroc-blazes": "none",
@@ -3930,7 +3930,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -3956,7 +3956,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -3982,7 +3982,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4012,7 +4012,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4038,7 +4038,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4064,7 +4064,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4090,7 +4090,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4116,7 +4116,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4154,7 +4154,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4188,7 +4188,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4222,7 +4222,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4276,7 +4276,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4318,7 +4318,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4348,7 +4348,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",
@@ -4382,7 +4382,7 @@
         "trailsroc-name": "El Camino Trail",
         "trailsroc-shortName": "El Camino Trail",
         "trailsroc-surface": "singletrack",
-        "trailsroc-color": null
+        "trailsroc-color": "black"
       },
       "geometry": {
         "type": "LineString",

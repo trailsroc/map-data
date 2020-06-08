@@ -83,6 +83,7 @@
     },
     "trail-elcamino-main": {
       "name": "El Camino Trail",
+      "color": "black",
       "url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
       "SW": [
         43.173149,
