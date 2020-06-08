@@ -1577,7 +1577,7 @@
         "trailsroc-id": "point-smparking:senecapk:ebridge",
         "trailsroc-name": "Street Parking (near bridge)",
         "trailsroc-shortName": "Street Parking",
-        "trailsroc-parentIDs": "park-senecapk,trail-senecapk-olmsted-s",
+        "trailsroc-parentIDs": "park-senecapk,trail-senecapk-olmsted-s,trail-elcamino-main,tsystem-elcamino",
         "trailsroc-allowsDirections": true
       },
       "geometry": {

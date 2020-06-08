@@ -1,6 +1,24 @@
 {
   "version": 5,
   "trailSystems": {
+    "tsystem-elcamino": {
+      "name": "El Camino Trail",
+      "mainPin": [
+        43.184036,
+        -77.617481
+      ],
+      "url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
+      "directionsCoordinate": null,
+      "SW": [
+        43.173149,
+        -77.619487
+      ],
+      "NE": [
+        43.197882,
+        -77.613952
+      ],
+      "isSearchable": true
+    }
   },
   "parks": {
     "park-cobbs": {
@@ -62,6 +80,38 @@
         -77.573697
       ],
       "parentID": "park-cobbs"
+    },
+    "trail-elcamino-main": {
+      "name": "El Camino Trail",
+      "url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
+      "SW": [
+        43.173149,
+        -77.619487
+      ],
+      "NE": [
+        43.197882,
+        -77.613952
+      ],
+      "blazes": "none",
+      "style": "trailSystem",
+      "isPrimary": true,
+      "parentID": "tsystem-elcamino"
+    },
+    "trail-elcamino-access": {
+      "name": "El Camino Trail Access",
+      "shortName": "El Camino Access",
+      "color": "unmarked_trail",
+      "isSearchable": false,
+      "SW": [
+        43.181686,
+        -77.619449
+      ],
+      "NE": [
+        43.191902,
+        -77.612876
+      ],
+      "blazes": "none",
+      "parentID": "tsystem-elcamino"
     }
   }
 }

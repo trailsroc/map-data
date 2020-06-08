@@ -1556,4 +1556,279 @@
             </trkpt>
         </trkseg>
     </trk>
+
+    <trk>
+        <name>seg:trail-elcamino-main:39c2eda0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618797" lat="43.173149"></trkpt>
+            <trkpt lon="-77.618847" lat="43.173994"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:1dda4af2</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618847" lat="43.173994"></trkpt>
+            <trkpt lon="-77.618908" lat="43.174741"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:c06c1bd1</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618908" lat="43.174741"></trkpt>
+            <trkpt lon="-77.619012" lat="43.176222"></trkpt>
+            <trkpt lon="-77.619179" lat="43.177764"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:20c13209</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619179" lat="43.177764"></trkpt>
+            <trkpt lon="-77.619226" lat="43.178632"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:5acdf442</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619226" lat="43.178632"></trkpt>
+            <trkpt lon="-77.619284" lat="43.179445"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:69ca5027</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619284" lat="43.179445"></trkpt>
+            <trkpt lon="-77.619323" lat="43.180277"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:7d5c8fc0</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619323" lat="43.180277"></trkpt>
+            <trkpt lon="-77.619415" lat="43.181695"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:9a87d877</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619415" lat="43.181695"></trkpt>
+            <trkpt lon="-77.619487" lat="43.182425"></trkpt>
+            <trkpt lon="-77.619384" lat="43.182879"></trkpt>
+            <trkpt lon="-77.619198" lat="43.183245"></trkpt>
+            <trkpt lon="-77.618866" lat="43.183712"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:c7e79ceb</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618866" lat="43.183712"></trkpt>
+            <trkpt lon="-77.617147" lat="43.185661"></trkpt>
+            <trkpt lon="-77.617055" lat="43.185816"></trkpt>
+            <trkpt lon="-77.617086" lat="43.186257"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:38b09bfd</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.617086" lat="43.186257"></trkpt>
+            <trkpt lon="-77.616517" lat="43.186274"></trkpt>
+            <trkpt lon="-77.616369" lat="43.186369"></trkpt>
+            <trkpt lon="-77.616053" lat="43.186439"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:31ebc091</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.616053" lat="43.186439"></trkpt>
+            <trkpt lon="-77.615634" lat="43.187083"></trkpt>
+            <trkpt lon="-77.615345" lat="43.187457"></trkpt>
+            <trkpt lon="-77.615199" lat="43.187740"></trkpt>
+            <trkpt lon="-77.615054" lat="43.187902"></trkpt>
+            <trkpt lon="-77.614575" lat="43.188645"></trkpt>
+            <trkpt lon="-77.614319" lat="43.189287"></trkpt>
+            <trkpt lon="-77.614183" lat="43.190171"></trkpt>
+            <trkpt lon="-77.613991" lat="43.191829"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:ae1cf05f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.613991" lat="43.191829"></trkpt>
+            <trkpt lon="-77.613952" lat="43.192183"></trkpt>
+            <trkpt lon="-77.613958" lat="43.192272"></trkpt>
+            <trkpt lon="-77.614061" lat="43.192635"></trkpt>
+            <trkpt lon="-77.614321" lat="43.193138"></trkpt>
+            <trkpt lon="-77.614512" lat="43.193428"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:6d6e3fc7</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.614512" lat="43.193428"></trkpt>
+            <trkpt lon="-77.616154" lat="43.195874"></trkpt>
+            <trkpt lon="-77.616236" lat="43.196031"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:905bc27d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.616236" lat="43.196031"></trkpt>
+            <trkpt lon="-77.616284" lat="43.196209"></trkpt>
+            <trkpt lon="-77.616669" lat="43.196633"></trkpt>
+            <trkpt lon="-77.616801" lat="43.196939"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-main:310a7d59</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.616801" lat="43.196939"></trkpt>
+            <trkpt lon="-77.616848" lat="43.197128"></trkpt>
+            <trkpt lon="-77.617204" lat="43.197520"></trkpt>
+            <trkpt lon="-77.617309" lat="43.197656"></trkpt>
+            <trkpt lon="-77.617335" lat="43.197793"></trkpt>
+            <trkpt lon="-77.617493" lat="43.197882"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-access:fe27bf5f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.618313" lat="43.181763"></trkpt>
+            <trkpt lon="-77.618421" lat="43.181692"></trkpt>
+            <trkpt lon="-77.619417" lat="43.181686"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-access:3aef125e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.619449" lat="43.184000"></trkpt>
+            <trkpt lon="-77.618872" lat="43.183705"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-access:f9293a98</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.615173" lat="43.191739"></trkpt>
+            <trkpt lon="-77.613992" lat="43.191828"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-elcamino-access:01f1d5bc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.613992" lat="43.191828"></trkpt>
+            <trkpt lon="-77.613816" lat="43.191843"></trkpt>
+            <trkpt lon="-77.613338" lat="43.191839"></trkpt>
+            <trkpt lon="-77.612876" lat="43.191902"></trkpt>
+        </trkseg>
+    </trk>
+
+    <wpt lon="-77.619249" lat="43.174912">
+        <name>point-poi:elcamino:conkeypark</name>
+        <desc>{"name":"Conkey Corner Park","parentIDs":["trail-elcamino-main","tsystem-elcamino"],"url":"https://www.geneseelandtrust.org/public-spaces/el-camino","allowsDirections":true}</desc>
+    </wpt>
+    <wpt lon="-77.618893" lat="43.181422">
+        <name>point-sports:elcamino:0114dd34</name>
+        <desc>{"name":"Ball Fields","parentIDs":["tsystem-elcamino"]}</desc>
+    </wpt>
+    <wpt lon="-77.618963" lat="43.181910">
+        <name>point-sports:elcamino:2a70e408</name>
+        <desc>{"name":"Tennis Courts","parentIDs":["tsystem-elcamino"]}</desc>
+    </wpt>
+    <wpt lon="-77.618665" lat="43.180862">
+        <name>point-sports:elcamino:fca7358f</name>
+        <desc>{"name":"Playground","parentIDs":["tsystem-elcamino"]}</desc>
+    </wpt>
 </gpx>
