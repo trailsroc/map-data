@@ -161,22 +161,29 @@ Examples:
 
 Count total number of features:
 $ ruby query.rb . *.geojson | wc -l
+
 List of all trail colors ("cut" removes the filenames):
 $ ruby query.rb .color *.geojson | cut -d : -f 2- | sort -u
+
 List of all POI types:
 $ ruby query.rb poi.type *.geojson | cut -d : -f 2- | sort -u
+
 List of all park names:
 $ ruby query.rb park.name *.geojson
+
 List of features that have any search keywords:
-$ ruby query.rb ?keywords *.geojson
+$ ruby query.rb '?keywords' *.geojson
+
 List of all properties used by points of interest:
 $ ruby query.rb poi.@keys *.geojson | cut -d : -f 2- | sort -u
-List of geojson files that have some obsolete property:
-$ ruby query.rb ?bogus *.geojson | cut -d : -f 1 | sort -u
+
+List of geojson files that have some obsolete property named "bogus":
+$ ruby query.rb '?bogus' *.geojson | cut -d : -f 1 | sort -u
 
 Other commands:
+
+Creates 20 random 8-character strings for use in feature IDs:
 $ ruby query.rb --makeids 20
-Creates 20 random 8-character strings for use in feature IDs.
 
 USAGE
 
