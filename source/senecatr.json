@@ -58,7 +58,8 @@
       ],
       "keywords": "senaca seneca",
       "isPrimary": false,
-      "parentID": "tsystem-senecatr"
+      "parentID": "tsystem-senecatr",
+      "isSearchable": true
     }
   }
 }

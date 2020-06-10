@@ -59,7 +59,8 @@
         "trailsroc-shortName": "Apple Farm Trail",
         "trailsroc-keywords": "senaca seneca",
         "trailsroc-blazes": "color",
-        "trailsroc-isPrimary": false
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
       },
       "geometry": {
         "coordinates": [
@@ -5512,7 +5513,7 @@
         "trailsroc-name": "Victor Apple Farm",
         "trailsroc-shortName": "Victor Apple Farm",
         "trailsroc-url": "https://www.thevictorapplefarm.com",
-        "trailsroc-allowsDirections": false
+        "trailsroc-allowsDirections": true
       },
       "geometry": {
         "coordinates": [

@@ -6605,7 +6605,7 @@
     </wpt>
     <wpt lon="-77.412140" lat="42.952449">
         <name>point-poi:senecatr:applefarm</name>
-        <desc>{"name":"Victor Apple Farm","url":"https://www.thevictorapplefarm.com"}</desc>
+        <desc>{"name":"Victor Apple Farm","url":"https://www.thevictorapplefarm.com","allowsDirections":true}</desc>
     </wpt>
     <wpt lon="-77.424126" lat="42.956475">
         <name>point-scenic:senecatr:greatbrook</name>

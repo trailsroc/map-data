@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2017-12-28T00:14:33.563Z</time>
+        <time>2020-06-10T13:10:59.946Z</time>
     </metadata>
     <wpt lon="-78.021728" lat="43.227844">
         <name>point-parking:canal:b53cb311</name>
@@ -146,13 +146,13 @@
     </wpt>
     <wpt lon="-77.630282" lat="43.181457">
         <name>point-parking:canal:6d8ae0d0</name>
-        <desc>{"name":"Parking (Maplewood)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-maplewood"],"shortName":"Maplewood"}</desc>
+        <desc>{"name":"Parking (Maplewood)","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-maplewood"],"shortName":"Maplewood","keywords":"lower falls"}</desc>
     </wpt>
     <wpt lon="-77.615641" lat="43.162423">
         <name>point-poi:canal:footbridge1</name>
-        <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Pont de Rennes Bridge","shortName":"Pont de Rennes","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"],"keywords":"high falls"}</desc>
     </wpt>
-    <wpt lon="-77.611153" lat="43.157490">
+    <wpt lon="-77.611125" lat="43.157526">
         <name>point-poi:canal:footbridge2</name>
         <desc>{"name":"Footbridge","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
@@ -183,6 +183,18 @@
     <wpt lon="-77.429091" lat="43.094677">
         <name>point-poi:cobbs:trolleybridge</name>
         <desc>{"name":"Footbridge","parentIDs":["trail-ecanal-main","tsystem-ecanal","trail-crescenttr-yellow"],"shortName":"Footbridge"}</desc>
+    </wpt>
+    <wpt lon="-77.621096" lat="43.164547">
+        <name>point-scenic:sriverway:hfalls1</name>
+        <desc>{"name":"High Falls Overlook","shortName":"High Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+    </wpt>
+    <wpt lon="-77.628369" lat="43.178915">
+        <name>point-scenic:sriverway:lfalls1</name>
+        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+    </wpt>
+    <wpt lon="-77.629207" lat="43.180031">
+        <name>point-scenic:sriverway:lfalls2</name>
+        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
     </wpt>
     <rte>
         <name>seg:trail-gv-riverway-east:9437ed00</name>
@@ -4463,14 +4475,15 @@
     </trk>
     <trk>
         <name>seg:trail-gv-riverway-other:4d5057fe</name>
-        <extensions>
-            <gpxx:TrackExtension>
+        <extensions>DarkYellow<gpxx:TrackExtension>
                 <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
             </gpxx:TrackExtension>
         </extensions>
         <trkseg>
-            <trkpt lon="-77.611816" lat="43.157607"></trkpt>
-            <trkpt lon="-77.610571" lat="43.157492"></trkpt>
+            <trkpt lon="-77.611887" lat="43.157610"></trkpt>
+            <trkpt lon="-77.611177" lat="43.157547"></trkpt>
+            <trkpt lon="-77.610632" lat="43.157512"></trkpt>
+            <trkpt lon="-77.610282" lat="43.157553"></trkpt>
         </trkseg>
     </trk>
     <trk>
@@ -4532,6 +4545,100 @@
         <trkseg>
             <trkpt lon="-77.622020" lat="43.197677"></trkpt>
             <trkpt lon="-77.619545" lat="43.198041"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-south:2483aa93</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.621658" lat="43.165092"></trkpt>
+            <trkpt lon="-77.621558" lat="43.164996"></trkpt>
+            <trkpt lon="-77.621419" lat="43.164949"></trkpt>
+            <trkpt lon="-77.621238" lat="43.164676"></trkpt>
+            <trkpt lon="-77.621101" lat="43.164401"></trkpt>
+            <trkpt lon="-77.620947" lat="43.163961"></trkpt>
+            <trkpt lon="-77.620856" lat="43.163847"></trkpt>
+            <trkpt lon="-77.620409" lat="43.163368"></trkpt>
+            <trkpt lon="-77.620207" lat="43.163126"></trkpt>
+            <trkpt lon="-77.620047" lat="43.162806"></trkpt>
+            <trkpt lon="-77.619873" lat="43.162476"></trkpt>
+            <trkpt lon="-77.619576" lat="43.162199"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-south:bb1754bd</name>
+        <extensions>DarkGreen<gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.612555" lat="43.158939"></trkpt>
+            <trkpt lon="-77.612493" lat="43.158806"></trkpt>
+            <trkpt lon="-77.612490" lat="43.158693"></trkpt>
+            <trkpt lon="-77.611888" lat="43.157600"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-south:adbe8be7</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.611888" lat="43.157600"></trkpt>
+            <trkpt lon="-77.611627" lat="43.157112"></trkpt>
+            <trkpt lon="-77.611512" lat="43.156950"></trkpt>
+            <trkpt lon="-77.611365" lat="43.156859"></trkpt>
+            <trkpt lon="-77.611267" lat="43.156850"></trkpt>
+            <trkpt lon="-77.610914" lat="43.156086"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-south:f9282d1e</name>
+        <extensions>DarkGreen<gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.610914" lat="43.156086"></trkpt>
+            <trkpt lon="-77.610640" lat="43.155457"></trkpt>
+            <trkpt lon="-77.610828" lat="43.155329"></trkpt>
+            <trkpt lon="-77.610690" lat="43.154919"></trkpt>
+            <trkpt lon="-77.611329" lat="43.154796"></trkpt>
+            <trkpt lon="-77.611265" lat="43.154691"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-other:77a6492e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.611625" lat="43.157123"></trkpt>
+            <trkpt lon="-77.611489" lat="43.157202"></trkpt>
+            <trkpt lon="-77.611205" lat="43.157484"></trkpt>
+            <trkpt lon="-77.611201" lat="43.157538"></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>seg:trail-gv-riverway-other:0aed8a7f</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="-77.613603" lat="43.157049"></trkpt>
+            <trkpt lon="-77.612418" lat="43.157630"></trkpt>
+            <trkpt lon="-77.612255" lat="43.157457"></trkpt>
+            <trkpt lon="-77.611903" lat="43.157601"></trkpt>
         </trkseg>
     </trk>
 </gpx>
