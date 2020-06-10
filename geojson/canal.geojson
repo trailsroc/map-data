@@ -13834,7 +13834,8 @@
         "trailsroc-name": "High Falls Overlook",
         "trailsroc-shortName": "High Falls",
         "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
-        "trailsroc-allowsDirections": false
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "high falls"
       },
       "geometry": {
         "coordinates": [
@@ -13852,7 +13853,8 @@
         "trailsroc-name": "Lower Falls Overlook",
         "trailsroc-shortName": "Lower Falls",
         "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
-        "trailsroc-allowsDirections": false
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "lower falls"
       },
       "geometry": {
         "coordinates": [
@@ -13870,7 +13872,8 @@
         "trailsroc-name": "Lower Falls Overlook",
         "trailsroc-shortName": "Lower Falls",
         "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
-        "trailsroc-allowsDirections": false
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "lower falls"
       },
       "geometry": {
         "coordinates": [

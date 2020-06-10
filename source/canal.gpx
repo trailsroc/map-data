@@ -186,15 +186,15 @@
     </wpt>
     <wpt lon="-77.621096" lat="43.164547">
         <name>point-scenic:sriverway:hfalls1</name>
-        <desc>{"name":"High Falls Overlook","shortName":"High Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"High Falls Overlook","shortName":"High Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"],"keywords":"high falls"}</desc>
     </wpt>
     <wpt lon="-77.628369" lat="43.178915">
         <name>point-scenic:sriverway:lfalls1</name>
-        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"],"keywords":"lower falls"}</desc>
     </wpt>
     <wpt lon="-77.629207" lat="43.180031">
         <name>point-scenic:sriverway:lfalls2</name>
-        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"]}</desc>
+        <desc>{"name":"Lower Falls Overlook","shortName":"Lower Falls","parentIDs":["tsystem-gv-riverway","trail-gv-riverway-south"],"keywords":"lower falls"}</desc>
     </wpt>
     <rte>
         <name>seg:trail-gv-riverway-east:9437ed00</name>
