@@ -3,6 +3,11 @@
 require 'json'
 
 def process(query_terms, file_paths)
+    if IDGenerator.handles(query_terms)
+        IDGenerator.new().process(file_paths)
+        return
+    end
+
     query = GeoJSONQuery.new(query_terms)
 
     file_paths.each do |path|
@@ -80,7 +85,28 @@ class GeoJSONQuery
     end
 end
 
+class IDGenerator
+    def self.handles(query_text)
+        query_text == "--makeids"
+    end
+
+    def random_id()
+        $r.bytes(4).unpack("H*")[0]
+    end
+
+    def process(argv)
+        # argv[0] == number of IDs. default to 1
+        num_ids = argv[0].to_i
+        num_ids = 1 if num_ids < 1
+        num_ids.times do
+            print "#{self.random_id()}\n"
+        end
+    end
+end
+
 # General helpers ################################
+
+$r = Random.new
 
 def error_msg(msg, o)
     $stderr.puts msg
@@ -135,18 +161,29 @@ Examples:
 
 Count total number of features:
 $ ruby query.rb . *.geojson | wc -l
+
 List of all trail colors ("cut" removes the filenames):
 $ ruby query.rb .color *.geojson | cut -d : -f 2- | sort -u
+
 List of all POI types:
 $ ruby query.rb poi.type *.geojson | cut -d : -f 2- | sort -u
+
 List of all park names:
 $ ruby query.rb park.name *.geojson
+
 List of features that have any search keywords:
-$ ruby query.rb ?keywords *.geojson
+$ ruby query.rb '?keywords' *.geojson
+
 List of all properties used by points of interest:
 $ ruby query.rb poi.@keys *.geojson | cut -d : -f 2- | sort -u
-List of geojson files that have some obsolete property:
-$ ruby query.rb ?bogus *.geojson | cut -d : -f 1 | sort -u
+
+List of geojson files that have some obsolete property named "bogus":
+$ ruby query.rb '?bogus' *.geojson | cut -d : -f 1 | sort -u
+
+Other commands:
+
+Creates 20 random 8-character strings for use in feature IDs:
+$ ruby query.rb --makeids 20
 
 USAGE
 

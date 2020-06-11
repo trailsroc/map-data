@@ -66,7 +66,7 @@
     </wpt>
     <wpt lon="-77.619125" lat="43.198167">
         <name>point-smparking:senecapk:ebridge</name>
-        <desc>{"type":"point-parking","comments":"Zoo S","name":"Street Parking (near bridge)","shortName":"Street Parking","parentIDs":["park-senecapk","trail-senecapk-olmsted-s"]}</desc>
+        <desc>{"type":"point-parking","comments":"Zoo S","name":"Street Parking (near bridge)","shortName":"Street Parking","parentIDs":["park-senecapk","trail-senecapk-olmsted-s","trail-elcamino-main","tsystem-elcamino"]}</desc>
     </wpt>
     <rte>
         <name>seg:trail-senecapk-gorge-overlook:8a9027f9</name>

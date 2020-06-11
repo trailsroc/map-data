@@ -12595,12 +12595,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -77.611816,
-            43.157607
+            -77.611887,
+            43.15761
           ],
           [
-            -77.610571,
-            43.157492
+            -77.611177,
+            43.157547
+          ],
+          [
+            -77.610632,
+            43.157512
+          ],
+          [
+            -77.610282,
+            43.157553
           ]
         ]
       },
@@ -12751,6 +12759,256 @@
           [
             -77.619545,
             43.198041
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-south:2483aa93",
+        "trailsroc-trailIDs": "trail-gv-riverway-south",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Genesee Riverway (South)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.621658,
+            43.165092
+          ],
+          [
+            -77.621558,
+            43.164996
+          ],
+          [
+            -77.621419,
+            43.164949
+          ],
+          [
+            -77.621238,
+            43.164676
+          ],
+          [
+            -77.621101,
+            43.164401
+          ],
+          [
+            -77.620947,
+            43.163961
+          ],
+          [
+            -77.620856,
+            43.163847
+          ],
+          [
+            -77.620409,
+            43.163368
+          ],
+          [
+            -77.620207,
+            43.163126
+          ],
+          [
+            -77.620047,
+            43.162806
+          ],
+          [
+            -77.619873,
+            43.162476
+          ],
+          [
+            -77.619576,
+            43.162199
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-south:bb1754bd",
+        "trailsroc-trailIDs": "trail-gv-riverway-south",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Genesee Riverway (South)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.612555,
+            43.158939
+          ],
+          [
+            -77.612493,
+            43.158806
+          ],
+          [
+            -77.61249,
+            43.158693
+          ],
+          [
+            -77.611888,
+            43.1576
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-south:adbe8be7",
+        "trailsroc-trailIDs": "trail-gv-riverway-south",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Genesee Riverway (South)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.611888,
+            43.1576
+          ],
+          [
+            -77.611627,
+            43.157112
+          ],
+          [
+            -77.611512,
+            43.15695
+          ],
+          [
+            -77.611365,
+            43.156859
+          ],
+          [
+            -77.611267,
+            43.15685
+          ],
+          [
+            -77.610914,
+            43.156086
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-south:f9282d1e",
+        "trailsroc-trailIDs": "trail-gv-riverway-south",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Genesee Riverway (South)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "sky"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.610914,
+            43.156086
+          ],
+          [
+            -77.61064,
+            43.155457
+          ],
+          [
+            -77.610828,
+            43.155329
+          ],
+          [
+            -77.61069,
+            43.154919
+          ],
+          [
+            -77.611329,
+            43.154796
+          ],
+          [
+            -77.611265,
+            43.154691
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-other:77a6492e",
+        "trailsroc-trailIDs": "trail-gv-riverway-other",
+        "trailsroc-name": "Genesee Riverway (Other Trails)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.611625,
+            43.157123
+          ],
+          [
+            -77.611489,
+            43.157202
+          ],
+          [
+            -77.611205,
+            43.157484
+          ],
+          [
+            -77.611201,
+            43.157538
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-gv-riverway-other:0aed8a7f",
+        "trailsroc-trailIDs": "trail-gv-riverway-other",
+        "trailsroc-name": "Genesee Riverway (Other Trails)",
+        "trailsroc-shortName": "Genesee Riverway",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "blue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.613603,
+            43.157049
+          ],
+          [
+            -77.612418,
+            43.15763
+          ],
+          [
+            -77.612255,
+            43.157457
+          ],
+          [
+            -77.611903,
+            43.157601
           ]
         ]
       },
@@ -13393,7 +13651,8 @@
         "trailsroc-name": "Parking (Maplewood)",
         "trailsroc-shortName": "Maplewood",
         "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-maplewood",
-        "trailsroc-allowsDirections": true
+        "trailsroc-allowsDirections": true,
+        "trailsroc-keywords": "lower falls"
       },
       "geometry": {
         "coordinates": [
@@ -13408,10 +13667,11 @@
       "properties": {
         "trailsroc-type": "point-poi",
         "trailsroc-id": "point-poi:canal:footbridge1",
-        "trailsroc-name": "Footbridge",
-        "trailsroc-shortName": "Footbridge",
+        "trailsroc-name": "Pont de Rennes Bridge",
+        "trailsroc-shortName": "Pont de Rennes",
         "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
-        "trailsroc-allowsDirections": false
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "high falls"
       },
       "geometry": {
         "coordinates": [
@@ -13433,8 +13693,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.611153,
-          43.15749
+          -77.611125,
+          43.157526
         ],
         "type": "Point"
       },
@@ -13562,6 +13822,63 @@
         "coordinates": [
           -77.429091,
           43.094677
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:sriverway:hfalls1",
+        "trailsroc-name": "High Falls Overlook",
+        "trailsroc-shortName": "High Falls",
+        "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "high falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.621096,
+          43.164547
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:sriverway:lfalls1",
+        "trailsroc-name": "Lower Falls Overlook",
+        "trailsroc-shortName": "Lower Falls",
+        "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "lower falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.628369,
+          43.178915
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:sriverway:lfalls2",
+        "trailsroc-name": "Lower Falls Overlook",
+        "trailsroc-shortName": "Lower Falls",
+        "trailsroc-parentIDs": "tsystem-gv-riverway,trail-gv-riverway-south",
+        "trailsroc-allowsDirections": false,
+        "trailsroc-keywords": "lower falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.629207,
+          43.180031
         ],
         "type": "Point"
       },

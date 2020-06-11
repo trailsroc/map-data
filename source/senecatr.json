@@ -19,7 +19,7 @@
         42.995138,
         -77.436878
       ],
-      "url": "http://www.victorhikingtrails.org/",
+      "url": "https://www.victorhikingtrails.org/",
       "keywords": "senaca",
       "isSearchable": true
     }
@@ -28,9 +28,8 @@
   },
   "trails": {
     "trail-senecatr-main": {
-      "url": "http://www.victorhikingtrails.org/",
+      "url": "https://www.victorhikingtrails.org/",
       "name": "Seneca Trail",
-      "length": 13.5,
       "color": "red",
       "SW": [
         42.9294,
@@ -44,6 +43,23 @@
       "style": "trailSystem",
       "isPrimary": true,
       "parentID": "tsystem-senecatr"
+    },
+    "trail-senecatr-apple": {
+      "url": "https://www.victorhikingtrails.org/map/trails/apple_farm.php",
+      "name": "Apple Farm Trail",
+      "color": "yellow",
+      "SW": [
+        42.951408,
+        -77.425351
+      ],
+      "NE": [
+        42.952791,
+        -77.414435
+      ],
+      "keywords": "senaca seneca",
+      "isPrimary": false,
+      "parentID": "tsystem-senecatr",
+      "isSearchable": true
     }
   }
 }

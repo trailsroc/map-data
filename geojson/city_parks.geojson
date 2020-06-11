@@ -3,6 +3,25 @@
   "features": [
     {
       "properties": {
+        "trailsroc-type": "trailSystem",
+        "trailsroc-id": "tsystem-elcamino",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
+        "trailsroc-allowsDirections": true,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.617481,
+          43.184036
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "trailsroc-type": "park",
         "trailsroc-id": "park-cobbs",
         "trailsroc-shortName": "Cobbs Hill Park",
@@ -69,6 +88,48 @@
         "coordinates": [
           -77.575445,
           43.1393135
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-elcamino-main",
+        "trailsroc-parentID": "tsystem-elcamino",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
+        "trailsroc-color": "black",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-blazes": "none",
+        "trailsroc-isPrimary": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6167195,
+          43.1855155
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-elcamino-access",
+        "trailsroc-parentID": "tsystem-elcamino",
+        "trailsroc-name": "El Camino Trail Access",
+        "trailsroc-color": "unmarked_trail",
+        "trailsroc-shortName": "El Camino Access",
+        "trailsroc-blazes": "none",
+        "trailsroc-isSearchable": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6161625,
+          43.186794
         ],
         "type": "Point"
       },
@@ -3862,6 +3923,612 @@
     },
     {
       "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:39c2eda0",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.618797,
+            43.173149
+          ],
+          [
+            -77.618847,
+            43.173994
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:1dda4af2",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.618847,
+            43.173994
+          ],
+          [
+            -77.618908,
+            43.174741
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:c06c1bd1",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.618908,
+            43.174741
+          ],
+          [
+            -77.619012,
+            43.176222
+          ],
+          [
+            -77.619179,
+            43.177764
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:20c13209",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619179,
+            43.177764
+          ],
+          [
+            -77.619226,
+            43.178632
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:5acdf442",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619226,
+            43.178632
+          ],
+          [
+            -77.619284,
+            43.179445
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:69ca5027",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619284,
+            43.179445
+          ],
+          [
+            -77.619323,
+            43.180277
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:7d5c8fc0",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619323,
+            43.180277
+          ],
+          [
+            -77.619415,
+            43.181695
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:9a87d877",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619415,
+            43.181695
+          ],
+          [
+            -77.619487,
+            43.182425
+          ],
+          [
+            -77.619384,
+            43.182879
+          ],
+          [
+            -77.619198,
+            43.183245
+          ],
+          [
+            -77.618866,
+            43.183712
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:c7e79ceb",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.618866,
+            43.183712
+          ],
+          [
+            -77.617147,
+            43.185661
+          ],
+          [
+            -77.617055,
+            43.185816
+          ],
+          [
+            -77.617086,
+            43.186257
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:38b09bfd",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.617086,
+            43.186257
+          ],
+          [
+            -77.616517,
+            43.186274
+          ],
+          [
+            -77.616369,
+            43.186369
+          ],
+          [
+            -77.616053,
+            43.186439
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:31ebc091",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.616053,
+            43.186439
+          ],
+          [
+            -77.615634,
+            43.187083
+          ],
+          [
+            -77.615345,
+            43.187457
+          ],
+          [
+            -77.615199,
+            43.18774
+          ],
+          [
+            -77.615054,
+            43.187902
+          ],
+          [
+            -77.614575,
+            43.188645
+          ],
+          [
+            -77.614319,
+            43.189287
+          ],
+          [
+            -77.614183,
+            43.190171
+          ],
+          [
+            -77.613991,
+            43.191829
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:ae1cf05f",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.613991,
+            43.191829
+          ],
+          [
+            -77.613952,
+            43.192183
+          ],
+          [
+            -77.613958,
+            43.192272
+          ],
+          [
+            -77.614061,
+            43.192635
+          ],
+          [
+            -77.614321,
+            43.193138
+          ],
+          [
+            -77.614512,
+            43.193428
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:6d6e3fc7",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.614512,
+            43.193428
+          ],
+          [
+            -77.616154,
+            43.195874
+          ],
+          [
+            -77.616236,
+            43.196031
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:905bc27d",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.616236,
+            43.196031
+          ],
+          [
+            -77.616284,
+            43.196209
+          ],
+          [
+            -77.616669,
+            43.196633
+          ],
+          [
+            -77.616801,
+            43.196939
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-main:310a7d59",
+        "trailsroc-trailIDs": "trail-elcamino-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "El Camino Trail",
+        "trailsroc-shortName": "El Camino Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "black"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.616801,
+            43.196939
+          ],
+          [
+            -77.616848,
+            43.197128
+          ],
+          [
+            -77.617204,
+            43.19752
+          ],
+          [
+            -77.617309,
+            43.197656
+          ],
+          [
+            -77.617335,
+            43.197793
+          ],
+          [
+            -77.617493,
+            43.197882
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-access:fe27bf5f",
+        "trailsroc-trailIDs": "trail-elcamino-access",
+        "trailsroc-name": "El Camino Trail Access",
+        "trailsroc-shortName": "El Camino Access",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.618313,
+            43.181763
+          ],
+          [
+            -77.618421,
+            43.181692
+          ],
+          [
+            -77.619417,
+            43.181686
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-access:3aef125e",
+        "trailsroc-trailIDs": "trail-elcamino-access",
+        "trailsroc-name": "El Camino Trail Access",
+        "trailsroc-shortName": "El Camino Access",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.619449,
+            43.184
+          ],
+          [
+            -77.618872,
+            43.183705
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-access:f9293a98",
+        "trailsroc-trailIDs": "trail-elcamino-access",
+        "trailsroc-name": "El Camino Trail Access",
+        "trailsroc-shortName": "El Camino Access",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.615173,
+            43.191739
+          ],
+          [
+            -77.613992,
+            43.191828
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-elcamino-access:01f1d5bc",
+        "trailsroc-trailIDs": "trail-elcamino-access",
+        "trailsroc-name": "El Camino Trail Access",
+        "trailsroc-shortName": "El Camino Access",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "unmarked_trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.613992,
+            43.191828
+          ],
+          [
+            -77.613816,
+            43.191843
+          ],
+          [
+            -77.613338,
+            43.191839
+          ],
+          [
+            -77.612876,
+            43.191902
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "trailsroc-type": "parkBorder",
         "trailsroc-id": "border:park-cobbs:border1",
         "trailsroc-parkID": "park-cobbs"
@@ -4386,6 +5053,79 @@
         "coordinates": [
           -77.574921,
           43.13806
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:elcamino:conkeypark",
+        "trailsroc-name": "Conkey Corner Park",
+        "trailsroc-shortName": "Conkey Corner Park",
+        "trailsroc-parentIDs": "trail-elcamino-main,tsystem-elcamino",
+        "trailsroc-url": "https://www.geneseelandtrust.org/public-spaces/el-camino",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.619249,
+          43.174912
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:elcamino:0114dd34",
+        "trailsroc-name": "Ball Fields",
+        "trailsroc-shortName": "Ball Fields",
+        "trailsroc-parentIDs": "tsystem-elcamino",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.618893,
+          43.181422
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:elcamino:2a70e408",
+        "trailsroc-name": "Tennis Courts",
+        "trailsroc-shortName": "Tennis Courts",
+        "trailsroc-parentIDs": "tsystem-elcamino",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.618963,
+          43.18191
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:elcamino:fca7358f",
+        "trailsroc-name": "Playground",
+        "trailsroc-shortName": "Playground",
+        "trailsroc-parentIDs": "tsystem-elcamino",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.618665,
+          43.180862
         ],
         "type": "Point"
       },

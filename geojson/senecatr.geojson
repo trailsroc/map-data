@@ -7,7 +7,7 @@
         "trailsroc-id": "tsystem-senecatr",
         "trailsroc-shortName": "Seneca Trail",
         "trailsroc-name": "Seneca Trail",
-        "trailsroc-url": "http://www.victorhikingtrails.org/",
+        "trailsroc-url": "https://www.victorhikingtrails.org/",
         "trailsroc-allowsDirections": true,
         "trailsroc-isSearchable": true,
         "trailsroc-keywords": "senaca",
@@ -31,7 +31,7 @@
         "trailsroc-id": "trail-senecatr-main",
         "trailsroc-parentID": "tsystem-senecatr",
         "trailsroc-name": "Seneca Trail",
-        "trailsroc-url": "http://www.victorhikingtrails.org/",
+        "trailsroc-url": "https://www.victorhikingtrails.org/",
         "trailsroc-color": "red",
         "trailsroc-shortName": "Seneca Trail",
         "trailsroc-keywords": "senaca",
@@ -43,6 +43,29 @@
         "coordinates": [
           -77.428586,
           42.982133000000005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trail",
+        "trailsroc-id": "trail-senecatr-apple",
+        "trailsroc-parentID": "tsystem-senecatr",
+        "trailsroc-name": "Apple Farm Trail",
+        "trailsroc-url": "https://www.victorhikingtrails.org/map/trails/apple_farm.php",
+        "trailsroc-color": "yellow",
+        "trailsroc-shortName": "Apple Farm Trail",
+        "trailsroc-keywords": "senaca seneca",
+        "trailsroc-blazes": "color",
+        "trailsroc-isPrimary": false,
+        "trailsroc-isSearchable": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.419893,
+          42.9520995
         ],
         "type": "Point"
       },
@@ -3853,7 +3876,7 @@
     {
       "properties": {
         "trailsroc-type": "trailSegment",
-        "trailsroc-id": "seg:trail-senecatr-main:07d3b899",
+        "trailsroc-id": "seg:trail-senecatr-main:590da387",
         "trailsroc-trailIDs": "trail-senecatr-main",
         "trailsroc-style": "trailSystem",
         "trailsroc-name": "Seneca Trail",
@@ -3887,6 +3910,28 @@
           [
             -77.424069,
             42.960069
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-main:a40a2fd9",
+        "trailsroc-trailIDs": "trail-senecatr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Seneca Trail",
+        "trailsroc-shortName": "Seneca Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.424069,
+            42.960069
           ],
           [
             -77.423843,
@@ -3897,8 +3942,30 @@
             42.95937
           ],
           [
-            -77.423881,
-            42.958773
+            -77.423845,
+            42.958871
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-main:07d3b899",
+        "trailsroc-trailIDs": "trail-senecatr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Seneca Trail",
+        "trailsroc-shortName": "Seneca Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.423845,
+            42.958871
           ],
           [
             -77.423741,
@@ -3983,6 +4050,28 @@
           [
             -77.425156,
             42.95276
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-main:5336df65",
+        "trailsroc-trailIDs": "trail-senecatr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Seneca Trail",
+        "trailsroc-shortName": "Seneca Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.425156,
+            42.95276
           ],
           [
             -77.425104,
@@ -4004,6 +4093,28 @@
             -77.426447,
             42.951194
           ],
+          [
+            -77.425349,
+            42.951405
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-main:2f492902",
+        "trailsroc-trailIDs": "trail-senecatr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Seneca Trail",
+        "trailsroc-shortName": "Seneca Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             -77.425349,
             42.951405
@@ -4773,6 +4884,415 @@
     },
     {
       "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-apple:e99d774f",
+        "trailsroc-trailIDs": "trail-senecatr-apple",
+        "trailsroc-name": "Apple Farm Trail",
+        "trailsroc-shortName": "Apple Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.42515,
+            42.952763
+          ],
+          [
+            -77.425085,
+            42.952769
+          ],
+          [
+            -77.425076,
+            42.952775
+          ],
+          [
+            -77.425044,
+            42.952787
+          ],
+          [
+            -77.42502,
+            42.952791
+          ],
+          [
+            -77.424995,
+            42.952791
+          ],
+          [
+            -77.424983,
+            42.95279
+          ],
+          [
+            -77.424972,
+            42.952788
+          ],
+          [
+            -77.424961,
+            42.952785
+          ],
+          [
+            -77.424951,
+            42.952781
+          ],
+          [
+            -77.424943,
+            42.952776
+          ],
+          [
+            -77.424936,
+            42.95277
+          ],
+          [
+            -77.42493,
+            42.952764
+          ],
+          [
+            -77.424925,
+            42.952757
+          ],
+          [
+            -77.424921,
+            42.95274
+          ],
+          [
+            -77.424921,
+            42.952731
+          ],
+          [
+            -77.424925,
+            42.95271
+          ],
+          [
+            -77.424943,
+            42.952664
+          ],
+          [
+            -77.424949,
+            42.952653
+          ],
+          [
+            -77.42497,
+            42.952604
+          ],
+          [
+            -77.424977,
+            42.952579
+          ],
+          [
+            -77.424981,
+            42.952553
+          ],
+          [
+            -77.424982,
+            42.95254
+          ],
+          [
+            -77.424982,
+            42.952528
+          ],
+          [
+            -77.424981,
+            42.952515
+          ],
+          [
+            -77.424981,
+            42.952502
+          ],
+          [
+            -77.424977,
+            42.952476
+          ],
+          [
+            -77.424976,
+            42.952464
+          ],
+          [
+            -77.42497,
+            42.952425
+          ],
+          [
+            -77.42497,
+            42.952411
+          ],
+          [
+            -77.424969,
+            42.952398
+          ],
+          [
+            -77.424971,
+            42.95237
+          ],
+          [
+            -77.424982,
+            42.952327
+          ],
+          [
+            -77.425002,
+            42.952284
+          ],
+          [
+            -77.425028,
+            42.952241
+          ],
+          [
+            -77.425149,
+            42.952074
+          ],
+          [
+            -77.425288,
+            42.951807
+          ],
+          [
+            -77.4253,
+            42.951777
+          ],
+          [
+            -77.425315,
+            42.951731
+          ],
+          [
+            -77.425322,
+            42.9517
+          ],
+          [
+            -77.425326,
+            42.95167
+          ],
+          [
+            -77.425324,
+            42.951656
+          ],
+          [
+            -77.425308,
+            42.951637
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-apple:9749c77c",
+        "trailsroc-trailIDs": "trail-senecatr-apple",
+        "trailsroc-name": "Apple Farm Trail",
+        "trailsroc-shortName": "Apple Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.425308,
+            42.951637
+          ],
+          [
+            -77.425289,
+            42.95162
+          ],
+          [
+            -77.425266,
+            42.951605
+          ],
+          [
+            -77.425222,
+            42.951587
+          ],
+          [
+            -77.425206,
+            42.951582
+          ],
+          [
+            -77.425151,
+            42.95157
+          ],
+          [
+            -77.424397,
+            42.951512
+          ],
+          [
+            -77.42432,
+            42.951512
+          ],
+          [
+            -77.4243,
+            42.951513
+          ],
+          [
+            -77.424281,
+            42.951513
+          ],
+          [
+            -77.422498,
+            42.951687
+          ],
+          [
+            -77.422477,
+            42.951687
+          ],
+          [
+            -77.422411,
+            42.95169
+          ],
+          [
+            -77.422389,
+            42.95169
+          ],
+          [
+            -77.422367,
+            42.951691
+          ],
+          [
+            -77.422346,
+            42.951691
+          ],
+          [
+            -77.422324,
+            42.951692
+          ],
+          [
+            -77.422281,
+            42.951692
+          ],
+          [
+            -77.42226,
+            42.951693
+          ],
+          [
+            -77.422049,
+            42.951689
+          ],
+          [
+            -77.422034,
+            42.951687
+          ],
+          [
+            -77.42202,
+            42.951687
+          ],
+          [
+            -77.421987,
+            42.951684
+          ],
+          [
+            -77.42198,
+            42.951683
+          ],
+          [
+            -77.421581,
+            42.951717
+          ],
+          [
+            -77.420377,
+            42.951702
+          ],
+          [
+            -77.418971,
+            42.951688
+          ],
+          [
+            -77.418033,
+            42.951594
+          ],
+          [
+            -77.417684,
+            42.951632
+          ],
+          [
+            -77.416462,
+            42.951815
+          ],
+          [
+            -77.415172,
+            42.95201
+          ],
+          [
+            -77.414435,
+            42.952062
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-apple:7c17085a",
+        "trailsroc-trailIDs": "trail-senecatr-apple",
+        "trailsroc-name": "Apple Farm Trail",
+        "trailsroc-shortName": "Apple Farm Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "yellow"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.42531,
+            42.951633
+          ],
+          [
+            -77.425351,
+            42.951408
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "trailSegment",
+        "trailsroc-id": "seg:trail-senecatr-main:e8d927ee",
+        "trailsroc-trailIDs": "trail-senecatr-main",
+        "trailsroc-style": "trailSystem",
+        "trailsroc-name": "Seneca Trail",
+        "trailsroc-shortName": "Seneca Trail",
+        "trailsroc-surface": "singletrack",
+        "trailsroc-color": "red"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.423852,
+            42.958874
+          ],
+          [
+            -77.4241,
+            42.958881
+          ],
+          [
+            -77.424144,
+            42.958931
+          ],
+          [
+            -77.424098,
+            42.959126
+          ],
+          [
+            -77.424108,
+            42.959192
+          ],
+          [
+            -77.42418,
+            42.959389
+          ],
+          [
+            -77.424166,
+            42.959688
+          ],
+          [
+            -77.424069,
+            42.960068
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "trailsroc-type": "point-parking",
         "trailsroc-id": "point-parking:senecatr:8e23a429",
         "trailsroc-name": "Parking (trail access behind Bed/Bath/Beyond)",
@@ -4962,6 +5482,97 @@
         "coordinates": [
           -77.439897,
           43.033274
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-sports",
+        "trailsroc-id": "point-sports:senecatr:discgolf",
+        "trailsroc-name": "Disc Golf Course",
+        "trailsroc-shortName": "Disc Golf Course",
+        "trailsroc-parentIDs": "tsystem-senecatr,trail-senecatr-main,trail-senecatr-apple",
+        "trailsroc-url": "https://grdgc.org/courses/apple-farm-spartan-dgc",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.420781,
+          42.952366
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-poi",
+        "trailsroc-id": "point-poi:senecatr:applefarm",
+        "trailsroc-name": "Victor Apple Farm",
+        "trailsroc-shortName": "Victor Apple Farm",
+        "trailsroc-url": "https://www.thevictorapplefarm.com",
+        "trailsroc-allowsDirections": true
+      },
+      "geometry": {
+        "coordinates": [
+          -77.41214,
+          42.952449
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:senecatr:greatbrook",
+        "trailsroc-name": "Great Brook",
+        "trailsroc-shortName": "Great Brook",
+        "trailsroc-parentIDs": "tsystem-senecatr,trail-senecatr-main",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.424126,
+          42.956475
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:senecatr:gbrookbridge",
+        "trailsroc-name": "Great Brook Bridge",
+        "trailsroc-shortName": "Bridge",
+        "trailsroc-parentIDs": "tsystem-senecatr,trail-senecatr-main",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.425227,
+          42.95281
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "trailsroc-type": "point-scenic",
+        "trailsroc-id": "point-scenic:senecatr:beaverpond",
+        "trailsroc-name": "Beaver Pond/Picnic Table",
+        "trailsroc-shortName": "Beaver Pond",
+        "trailsroc-parentIDs": "tsystem-senecatr,trail-senecatr-main",
+        "trailsroc-allowsDirections": false
+      },
+      "geometry": {
+        "coordinates": [
+          -77.426409,
+          42.951132
         ],
         "type": "Point"
       },
