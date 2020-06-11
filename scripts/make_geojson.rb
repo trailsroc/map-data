@@ -7,8 +7,9 @@ require 'nokogiri'
 # initialize ################################
 
 $data_version = 5
-$pretty = true #true
+$pretty = true
 $dry_run = false
+$single_output_file = false
 $source_dir = File.join(Dir.pwd,'source/')
 $dest_dir = File.join(Dir.pwd,'geojson/')
 $gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'harriswhalen', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
@@ -536,22 +537,39 @@ if $dest_dir
         end
     end
 
-    print('Writing GeoJSON files to ' + $dest_dir + "...\n")
-    $features.each do |filename, featureset|
+    if $single_output_file
+        full_path = $dest_dir + 'dataset.geojson'
+        print("Writing merged GeoJSON file #{full_path}\n")
+        merged_features = []
+        $features.each do |filename, featureset|
+            merged_features = merged_features + featureset
+        end
         doc = {}
         doc['type'] = 'FeatureCollection'
-        doc['features'] = featureset
-        full_filename = filename + '.geojson'
-        print('Writing data to ' + full_filename + "...\n")
-
-        if $dry_run
-            next
-        end
-
+        doc['features'] = merged_features
         if $pretty
-            IO.write($dest_dir + full_filename, JSON.pretty_generate(doc))
+            IO.write(full_path, JSON.pretty_generate(doc))
         else
-            IO.write($dest_dir + full_filename, JSON.generate(doc))
+            IO.write(full_path, JSON.generate(doc))
+        end
+    else
+        print('Writing GeoJSON files to ' + $dest_dir + "...\n")
+        $features.each do |filename, featureset|
+            doc = {}
+            doc['type'] = 'FeatureCollection'
+            doc['features'] = featureset
+            full_filename = filename + '.geojson'
+            print('Writing data to ' + full_filename + "...\n")
+
+            if $dry_run
+                next
+            end
+
+            if $pretty
+                IO.write($dest_dir + full_filename, JSON.pretty_generate(doc))
+            else
+                IO.write($dest_dir + full_filename, JSON.generate(doc))
+            end
         end
     end
 else
