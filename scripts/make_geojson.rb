@@ -12,7 +12,42 @@ $dry_run = false
 $single_output_file = false
 $source_dir = File.join(Dir.pwd,'source/')
 $dest_dir = File.join(Dir.pwd,'geojson/')
-$gpx_filenames = ['abe', 'auburntr', 'black_creek', 'canal', 'churchville_park', 'city_parks', 'corbetts', 'crescenttr', 'durand_eastman', 'ellison', 'gcanal', 'gosnell', 'gvalley', 'highland', 'harriswhalen', 'hitor', 'ibaymar', 'ibaywest', 'lehigh', 'lmorin', 'mponds', 'nhamp', 'oatka', 'ontariob', 'pmills', 'senecapk', 'senecatr', 'tryon', 'vht', 'webstercp', 'webstertr', 'wrnp']
+$gpx_filenames = [
+  'abe',
+  'auburntr',
+  'black_creek',
+  'canal',
+  'churchville_park',
+  'city_parks',
+  'corbetts',
+  'crescenttr',
+  'durand_eastman',
+  'ellison',
+  'gcanal',
+  'gosnell',
+  'gvalley',
+  'highland',
+  'harriswhalen',
+  'hitor',
+  'ibaymar',
+  'ibaywest',
+  'isaacgordon',
+  'lehigh',
+  'lmorin',
+  'mponds',
+  'nhamp',
+  'oatka',
+  'ontariob',
+  'pmills',
+  'senecapk',
+  'senecatr',
+  'tryon',
+  'vht',
+  'webstercp',
+  'webstertr',
+  'wrnp',
+]
+
 $json_filenames = $gpx_filenames
 
 $metadata = {:parks => {}, :trailSystems => {}, :trails => {}, :poiTypes => [], :bundle => {}, :idlist => []}

@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <bounds minlat="43.047376" maxlat="43.052119" minlon="-77.56472919045808" maxlon="-77.551744">
+    </bounds>
+  </metadata>
+  <trk>
+    <name>border:park-isaacgordon</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050107" lon="-77.565036">
+      </trkpt>
+      <trkpt lat="43.049328" lon="-77.565664">
+      </trkpt>
+      <trkpt lat="43.049688" lon="-77.566419">
+      </trkpt>
+      <trkpt lat="43.049441" lon="-77.566661">
+      </trkpt>
+      <trkpt lat="43.049003" lon="-77.567021">
+      </trkpt>
+      <trkpt lat="43.04846" lon="-77.567386">
+      </trkpt>
+      <trkpt lat="43.048167" lon="-77.567503">
+      </trkpt>
+      <trkpt lat="43.04718" lon="-77.568132">
+      </trkpt>
+      <trkpt lat="43.04699" lon="-77.568248">
+      </trkpt>
+      <trkpt lat="43.046777" lon="-77.568121">
+      </trkpt>
+      <trkpt lat="43.046534" lon="-77.566374">
+      </trkpt>
+      <trkpt lat="43.046507" lon="-77.562571">
+      </trkpt>
+      <trkpt lat="43.047927" lon="-77.562574">
+      </trkpt>
+      <trkpt lat="43.047857" lon="-77.552489">
+      </trkpt>
+      <trkpt lat="43.048454" lon="-77.552502">
+      </trkpt>
+      <trkpt lat="43.048454" lon="-77.551686">
+      </trkpt>
+      <trkpt lat="43.0502" lon="-77.551703">
+      </trkpt>
+      <trkpt lat="43.050196" lon="-77.55121">
+      </trkpt>
+      <trkpt lat="43.050837" lon="-77.551201">
+      </trkpt>
+      <trkpt lat="43.050933" lon="-77.551264">
+      </trkpt>
+      <trkpt lat="43.05097" lon="-77.55142">
+      </trkpt>
+      <trkpt lat="43.050612" lon="-77.552293">
+      </trkpt>
+      <trkpt lat="43.050517" lon="-77.552811">
+      </trkpt>
+      <trkpt lat="43.050498" lon="-77.553427">
+      </trkpt>
+      <trkpt lat="43.050683" lon="-77.554211">
+      </trkpt>
+      <trkpt lat="43.050948" lon="-77.554856">
+      </trkpt>
+      <trkpt lat="43.051521" lon="-77.554658">
+      </trkpt>
+      <trkpt lat="43.05178" lon="-77.555121">
+      </trkpt>
+      <trkpt lat="43.052266" lon="-77.555758">
+      </trkpt>
+      <trkpt lat="43.051632" lon="-77.556525">
+      </trkpt>
+      <trkpt lat="43.050874" lon="-77.557326">
+      </trkpt>
+      <trkpt lat="43.050728" lon="-77.557986">
+      </trkpt>
+      <trkpt lat="43.050747" lon="-77.558602">
+      </trkpt>
+      <trkpt lat="43.05093" lon="-77.559243">
+      </trkpt>
+      <trkpt lat="43.051416" lon="-77.559723">
+      </trkpt>
+      <trkpt lat="43.052076" lon="-77.559836">
+      </trkpt>
+      <trkpt lat="43.051905" lon="-77.560114">
+      </trkpt>
+      <trkpt lat="43.050743" lon="-77.561539">
+      </trkpt>
+      <trkpt lat="43.050746" lon="-77.562133">
+      </trkpt>
+      <trkpt lat="43.050864" lon="-77.564596">
+      </trkpt>
+      <trkpt lat="43.050877" lon="-77.564994">
+      </trkpt>
+      <trkpt lat="43.050383" lon="-77.565584">
+      </trkpt>
+      <trkpt lat="43.050106" lon="-77.565037">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+        <name>seg:trail-isaacgordon-orange:3800f680</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.047756" lon="-77.556525">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.047752" lon="-77.556523">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.047712" lon="-77.556513">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.04755" lon="-77.556455">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.047486" lon="-77.556391">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.047468" lon="-77.556317">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.047457" lon="-77.556298">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.047453" lon="-77.556292">
+        <ele>202.15</ele>
+      </trkpt>
+      <trkpt lat="43.047431" lon="-77.55626">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.047403" lon="-77.556264">
+        <ele>202.6</ele>
+      </trkpt>
+      <trkpt lat="43.047376" lon="-77.556299">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.047378" lon="-77.556299">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.047453" lon="-77.556292">
+        <ele>202.15</ele>
+      </trkpt>
+      <trkpt lat="43.047477" lon="-77.55629">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.047493" lon="-77.55629">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.04758" lon="-77.556287">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.047716" lon="-77.556329">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.047752" lon="-77.556339">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.04776" lon="-77.556343">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.047769" lon="-77.556355">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.047794" lon="-77.556391">
+        <ele>100.33</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+        <name>seg:trail-isaacgordon-orange:e3fb864e</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.048048" lon="-77.556219">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.047993" lon="-77.556232">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.047934" lon="-77.556335">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.047878" lon="-77.556358">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.047832" lon="-77.556409">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.047795" lon="-77.556391">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.047787" lon="-77.556401">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.047775" lon="-77.556412">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.047768" lon="-77.556433">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.047758" lon="-77.556488">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.047756" lon="-77.556525">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.047787" lon="-77.556665">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.047998" lon="-77.556827">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.048029" lon="-77.556899">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.048074" lon="-77.556957">
+        <ele>201.32</ele>
+      </trkpt>
+      <trkpt lat="43.048095" lon="-77.557008">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.048159" lon="-77.557113">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048202" lon="-77.557146">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048204" lon="-77.557147">
+        <ele>201.23</ele>
+      </trkpt>
+      <trkpt lat="43.048206" lon="-77.557148">
+        <ele>201.23</ele>
+      </trkpt>
+      <trkpt lat="43.04823" lon="-77.557183">
+        <ele>203.2</ele>
+      </trkpt>
+      <trkpt lat="43.048214" lon="-77.557227">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048269" lon="-77.557407">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048365" lon="-77.557546">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.04844" lon="-77.557574">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048479" lon="-77.557628">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048512" lon="-77.557662">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.048552" lon="-77.557725">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.048597" lon="-77.557755">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048619" lon="-77.557816">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048633" lon="-77.557888">
+        <ele>202.8</ele>
+      </trkpt>
+      <trkpt lat="43.048645" lon="-77.557951">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="43.048665" lon="-77.557999">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.048697" lon="-77.558048">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.048774" lon="-77.558098">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.04883" lon="-77.558139">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.048917" lon="-77.558189">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.048993" lon="-77.558221">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.049053" lon="-77.558168">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049076" lon="-77.558121">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.049122" lon="-77.558103">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.049156" lon="-77.558054">
+        <ele>201.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:c94f8c4c</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.048886" lon="-77.55621">
+        <ele>206.4</ele>
+      </trkpt>
+      <trkpt lat="43.048879" lon="-77.556252">
+        <ele>206.4</ele>
+      </trkpt>
+      <trkpt lat="43.048903" lon="-77.556327">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.048895" lon="-77.556396">
+        <ele>206.15</ele>
+      </trkpt>
+      <trkpt lat="43.048899" lon="-77.556504">
+        <ele>206.8</ele>
+      </trkpt>
+      <trkpt lat="43.048901" lon="-77.556514">
+        <ele>206.63</ele>
+      </trkpt>
+      <trkpt lat="43.048909" lon="-77.556566">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048909" lon="-77.556603">
+        <ele>207.8</ele>
+      </trkpt>
+      <trkpt lat="43.04891" lon="-77.556619">
+        <ele>207.6</ele>
+      </trkpt>
+      <trkpt lat="43.048913" lon="-77.556691">
+        <ele>208.2</ele>
+      </trkpt>
+      <trkpt lat="43.048917" lon="-77.55675">
+        <ele>208.6</ele>
+      </trkpt>
+      <trkpt lat="43.048915" lon="-77.55677">
+        <ele>208.6</ele>
+      </trkpt>
+      <trkpt lat="43.048938" lon="-77.556896">
+        <ele>208.6</ele>
+      </trkpt>
+      <trkpt lat="43.048948" lon="-77.556913">
+        <ele>208.6</ele>
+      </trkpt>
+      <trkpt lat="43.048968" lon="-77.556967">
+        <ele>208.4</ele>
+      </trkpt>
+      <trkpt lat="43.048979" lon="-77.557014">
+        <ele>208.4</ele>
+      </trkpt>
+      <trkpt lat="43.04899" lon="-77.55707">
+        <ele>208.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:d1f9a811</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.049265" lon="-77.55568">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.049273" lon="-77.555699">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.049261" lon="-77.555766">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.049237" lon="-77.55586">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="43.049219" lon="-77.555949">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049162" lon="-77.5561">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="43.049134" lon="-77.55616">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.049127" lon="-77.556228">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.049132" lon="-77.556335">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.049042" lon="-77.556382">
+        <ele>204.4</ele>
+      </trkpt>
+      <trkpt lat="43.049009" lon="-77.556433">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="43.048974" lon="-77.556485">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.048964" lon="-77.556489">
+        <ele>205.8</ele>
+      </trkpt>
+      <trkpt lat="43.048956" lon="-77.556497">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.048901" lon="-77.556514">
+        <ele>206.4</ele>
+      </trkpt>
+      <trkpt lat="43.048901" lon="-77.556514">
+        <ele>206.63</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:2ed62863</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.050107" lon="-77.554834">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050093" lon="-77.554714">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050152" lon="-77.554556">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050176" lon="-77.554415">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050175" lon="-77.554259">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050172" lon="-77.55409">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050136" lon="-77.553968">
+        <ele>0.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:fa8edc3b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.0499" lon="-77.551829">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.049887" lon="-77.551832">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.04985" lon="-77.551841">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.04975" lon="-77.551841">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.049733" lon="-77.551842">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.049615" lon="-77.551851">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049603" lon="-77.551855">
+        <ele>204.4</ele>
+      </trkpt>
+      <trkpt lat="43.049556" lon="-77.551864">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049533" lon="-77.551871">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.049526" lon="-77.551893">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049514" lon="-77.551904">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049433" lon="-77.551959">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="43.04937" lon="-77.552084">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.049325" lon="-77.552087">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.049279" lon="-77.55208">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="43.049212" lon="-77.552085">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.04917" lon="-77.552055">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.049013" lon="-77.552047">
+        <ele>211.4</ele>
+      </trkpt>
+      <trkpt lat="43.048947" lon="-77.552052">
+        <ele>212.6</ele>
+      </trkpt>
+      <trkpt lat="43.0489" lon="-77.552008">
+        <ele>214.0</ele>
+      </trkpt>
+      <trkpt lat="43.048828" lon="-77.551962">
+        <ele>215.2</ele>
+      </trkpt>
+      <trkpt lat="43.048765" lon="-77.551933">
+        <ele>215.8</ele>
+      </trkpt>
+      <trkpt lat="43.048731" lon="-77.551936">
+        <ele>216.0</ele>
+      </trkpt>
+      <trkpt lat="43.048659" lon="-77.551918">
+        <ele>216.4</ele>
+      </trkpt>
+      <trkpt lat="43.048614" lon="-77.551901">
+        <ele>217.0</ele>
+      </trkpt>
+      <trkpt lat="43.04856" lon="-77.551853">
+        <ele>217.4</ele>
+      </trkpt>
+      <trkpt lat="43.048535" lon="-77.551827">
+        <ele>219.0</ele>
+      </trkpt>
+      <trkpt lat="43.04852" lon="-77.551816">
+        <ele>219.0</ele>
+      </trkpt>
+      <trkpt lat="43.04851" lon="-77.551805">
+        <ele>219.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:cc8ed2fc</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.048207" lon="-77.557146">
+        <ele>201.23</ele>
+      </trkpt>
+      <trkpt lat="43.048251" lon="-77.557129">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.048285" lon="-77.557115">
+        <ele>199.6</ele>
+      </trkpt>
+      <trkpt lat="43.0483" lon="-77.557112">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.048336" lon="-77.557099">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.048339" lon="-77.557096">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.04836" lon="-77.557085">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.048405" lon="-77.557075">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.048467" lon="-77.557062">
+        <ele>202.8</ele>
+      </trkpt>
+      <trkpt lat="43.048481" lon="-77.557052">
+        <ele>203.2</ele>
+      </trkpt>
+      <trkpt lat="43.048505" lon="-77.55703">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048528" lon="-77.557024">
+        <ele>204.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:d68bed1d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.049056" lon="-77.555622">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.04909" lon="-77.555645">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.049147" lon="-77.555643">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.0492" lon="-77.555643">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.049262" lon="-77.55568">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049266" lon="-77.555676">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049269" lon="-77.555651">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049318" lon="-77.555572">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.049401" lon="-77.555492">
+        <ele>199.6</ele>
+      </trkpt>
+      <trkpt lat="43.049509" lon="-77.555383">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.049514" lon="-77.555354">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.049534" lon="-77.555296">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.049571" lon="-77.555234">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.049591" lon="-77.555194">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.049602" lon="-77.555175">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.049689" lon="-77.555073">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.049758" lon="-77.555039">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.04979" lon="-77.55502">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.049861" lon="-77.554987">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.049889" lon="-77.554979">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.049917" lon="-77.554977">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.049954" lon="-77.554941">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049968" lon="-77.554933">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049981" lon="-77.554929">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050006" lon="-77.554909">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050079" lon="-77.554837">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.05012" lon="-77.554832">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050189" lon="-77.554831">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.05031" lon="-77.55476">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050332" lon="-77.554758">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050452" lon="-77.554815">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050468" lon="-77.554829">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050509" lon="-77.554857">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050547" lon="-77.554831">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050594" lon="-77.554812">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050673" lon="-77.554828">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050686" lon="-77.554837">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050724" lon="-77.554867">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050756" lon="-77.554886">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050772" lon="-77.554898">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.050792" lon="-77.554903">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050814" lon="-77.554906">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.050895" lon="-77.554906">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.050975" lon="-77.554902">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.051005" lon="-77.554884">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.05112" lon="-77.554912">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.051207" lon="-77.554861">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.051242" lon="-77.554839">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.051285" lon="-77.554859">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.0513" lon="-77.554859">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.051381" lon="-77.554875">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.051532" lon="-77.554909">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.051607" lon="-77.554908">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.051675" lon="-77.55487">
+        <ele>195.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-orange:7ce4905b</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Orange</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.048492" lon="-77.556839">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.048496" lon="-77.556831">
+        <ele>204.4</ele>
+      </trkpt>
+      <trkpt lat="43.048477" lon="-77.5568">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048457" lon="-77.556791">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048353" lon="-77.55681">
+        <ele>203.2</ele>
+      </trkpt>
+      <trkpt lat="43.048335" lon="-77.55681">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.048245" lon="-77.556855">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.048214" lon="-77.556876">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.048195" lon="-77.556904">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.048182" lon="-77.556915">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.048131" lon="-77.55694">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048118" lon="-77.556947">
+        <ele>201.32</ele>
+      </trkpt>
+      <trkpt lat="43.048075" lon="-77.556959">
+        <ele>0.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+        <name>seg:trail-isaacgordon-red:621a1225</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.049667" lon="-77.558602">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.0497" lon="-77.558564">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.049766" lon="-77.558575">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049836" lon="-77.55853">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049922" lon="-77.55853">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049972" lon="-77.558543">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050091" lon="-77.558565">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050109" lon="-77.558565">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050172" lon="-77.558559">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.050412" lon="-77.558463">
+        <ele>195.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-red:4560354d</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.050606" lon="-77.562219">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050846" lon="-77.5622">
+        <ele>0.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-red:32e0e465</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.049732" lon="-77.559449">
+        <ele>194.74</ele>
+      </trkpt>
+      <trkpt lat="43.049735" lon="-77.559348">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049726" lon="-77.559215">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.049724" lon="-77.559093">
+        <ele>194.06</ele>
+      </trkpt>
+      <trkpt lat="43.049723" lon="-77.559084">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.049702" lon="-77.558938">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.049718" lon="-77.558863">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049711" lon="-77.55885">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049697" lon="-77.558747">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049699" lon="-77.558726">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049675" lon="-77.558658">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049658" lon="-77.558559">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049629" lon="-77.558495">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.0496" lon="-77.558438">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.049574" lon="-77.558361">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.049567" lon="-77.558336">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.049544" lon="-77.558156">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.049529" lon="-77.55804">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.049519" lon="-77.55801">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.049515" lon="-77.55798">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.049525" lon="-77.557905">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.049539" lon="-77.557833">
+        <ele>199.6</ele>
+      </trkpt>
+      <trkpt lat="43.049538" lon="-77.557778">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.049531" lon="-77.557703">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.049527" lon="-77.557689">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049544" lon="-77.557641">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.04956" lon="-77.557614">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="43.049496" lon="-77.557604">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.049456" lon="-77.55761">
+        <ele>202.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-purple:e3bbb3cf</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Purple</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.04899" lon="-77.557079">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.049027" lon="-77.5573">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.049045" lon="-77.557375">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.049068" lon="-77.557417">
+        <ele>205.8</ele>
+      </trkpt>
+      <trkpt lat="43.049149" lon="-77.557476">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.049237" lon="-77.557544">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.049256" lon="-77.557557">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.049382" lon="-77.557624">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.049454" lon="-77.557614">
+        <ele>205.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-blue:a50f1606</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.050717" lon="-77.564729">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="43.050477" lon="-77.564588">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="43.050403" lon="-77.564536">
+        <ele>191.0</ele>
+      </trkpt>
+      <trkpt lat="43.050277" lon="-77.56447">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050249" lon="-77.564449">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050222" lon="-77.564428">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050195" lon="-77.564409">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050153" lon="-77.564386">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050136" lon="-77.564371">
+        <ele>191.2</ele>
+      </trkpt>
+      <trkpt lat="43.050112" lon="-77.564341">
+        <ele>191.4</ele>
+      </trkpt>
+      <trkpt lat="43.050101" lon="-77.564318">
+        <ele>191.4</ele>
+      </trkpt>
+      <trkpt lat="43.05008" lon="-77.564264">
+        <ele>191.4</ele>
+      </trkpt>
+      <trkpt lat="43.050065" lon="-77.564227">
+        <ele>191.6</ele>
+      </trkpt>
+      <trkpt lat="43.050058" lon="-77.56419">
+        <ele>191.8</ele>
+      </trkpt>
+      <trkpt lat="43.050055" lon="-77.564185">
+        <ele>191.6</ele>
+      </trkpt>
+      <trkpt lat="43.050008" lon="-77.564098">
+        <ele>191.4</ele>
+      </trkpt>
+      <trkpt lat="43.04996" lon="-77.563939">
+        <ele>191.4</ele>
+      </trkpt>
+      <trkpt lat="43.04996" lon="-77.563883">
+        <ele>191.8</ele>
+      </trkpt>
+      <trkpt lat="43.049955" lon="-77.563818">
+        <ele>191.8</ele>
+      </trkpt>
+      <trkpt lat="43.049946" lon="-77.56375">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="43.049942" lon="-77.563723">
+        <ele>192.2</ele>
+      </trkpt>
+      <trkpt lat="43.049949" lon="-77.563676">
+        <ele>192.4</ele>
+      </trkpt>
+      <trkpt lat="43.049948" lon="-77.563647">
+        <ele>192.4</ele>
+      </trkpt>
+      <trkpt lat="43.049935" lon="-77.563564">
+        <ele>192.6</ele>
+      </trkpt>
+      <trkpt lat="43.049932" lon="-77.563458">
+        <ele>192.8</ele>
+      </trkpt>
+      <trkpt lat="43.049931" lon="-77.563428">
+        <ele>193.0</ele>
+      </trkpt>
+      <trkpt lat="43.049923" lon="-77.563372">
+        <ele>193.0</ele>
+      </trkpt>
+      <trkpt lat="43.049908" lon="-77.563228">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049911" lon="-77.563199">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.04991" lon="-77.563167">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049906" lon="-77.563067">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049902" lon="-77.562862">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049894" lon="-77.562734">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049873" lon="-77.562644">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049841" lon="-77.562517">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049838" lon="-77.5625">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.049838" lon="-77.562479">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.049819" lon="-77.56238">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.049808" lon="-77.562318">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.049783" lon="-77.562218">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.049761" lon="-77.562008">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049773" lon="-77.561794">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049778" lon="-77.561749">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049778" lon="-77.561665">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049771" lon="-77.561547">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049761" lon="-77.561456">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049729" lon="-77.561298">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049728" lon="-77.5612">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.049707" lon="-77.561056">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.049684" lon="-77.560847">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.049679" lon="-77.560694">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.049677" lon="-77.560661">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049656" lon="-77.560465">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049655" lon="-77.560399">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049676" lon="-77.560263">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049681" lon="-77.56022">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049681" lon="-77.560137">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049682" lon="-77.560106">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049692" lon="-77.560046">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049698" lon="-77.560016">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.049707" lon="-77.559853">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049701" lon="-77.559827">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049682" lon="-77.559706">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049662" lon="-77.559653">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049612" lon="-77.559555">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.049603" lon="-77.559423">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049543" lon="-77.559212">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.049533" lon="-77.559012">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.049487" lon="-77.558823">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.049476" lon="-77.558789">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.049472" lon="-77.558727">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.04947" lon="-77.558693">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.049468" lon="-77.558646">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.049471" lon="-77.558621">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.049487" lon="-77.558499">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.049462" lon="-77.558472">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.049427" lon="-77.558359">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.049427" lon="-77.558335">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.049423" lon="-77.558312">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.049409" lon="-77.558259">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.0494" lon="-77.558233">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.049354" lon="-77.558199">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.04931" lon="-77.558149">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.049273" lon="-77.558106">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.049193" lon="-77.558061">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.049177" lon="-77.558058">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.049171" lon="-77.558059">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.049071" lon="-77.558054">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.048931" lon="-77.557968">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.048817" lon="-77.557906">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.048795" lon="-77.557888">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048744" lon="-77.557856">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048696" lon="-77.557777">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.048679" lon="-77.557713">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.048662" lon="-77.557611">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="43.048669" lon="-77.557545">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.048661" lon="-77.5575">
+        <ele>203.6</ele>
+      </trkpt>
+      <trkpt lat="43.048657" lon="-77.557449">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="43.048621" lon="-77.557344">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.048625" lon="-77.55734">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.048583" lon="-77.557237">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.048566" lon="-77.55722">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="43.048534" lon="-77.55719">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.048527" lon="-77.557023">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.04851" lon="-77.556958">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.048497" lon="-77.556844">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.048495" lon="-77.556844">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.04859" lon="-77.556844">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048634" lon="-77.556806">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048651" lon="-77.556783">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048662" lon="-77.556758">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048667" lon="-77.556741">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.048673" lon="-77.556722">
+        <ele>207.0</ele>
+      </trkpt>
+      <trkpt lat="43.048673" lon="-77.556684">
+        <ele>207.0</ele>
+      </trkpt>
+      <trkpt lat="43.048679" lon="-77.556665">
+        <ele>207.0</ele>
+      </trkpt>
+      <trkpt lat="43.04877" lon="-77.556601">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.048814" lon="-77.556585">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.048863" lon="-77.556561">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048889" lon="-77.556538">
+        <ele>202.8</ele>
+      </trkpt>
+      <trkpt lat="43.04892" lon="-77.556517">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="43.049004" lon="-77.556465">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.049047" lon="-77.556424">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.049062" lon="-77.556401">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.049088" lon="-77.556356">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049166" lon="-77.556323">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049166" lon="-77.556324">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.04922" lon="-77.556393">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.049236" lon="-77.556448">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.049248" lon="-77.556507">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.049255" lon="-77.556533">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.049254" lon="-77.556549">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.049199" lon="-77.556682">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.049204" lon="-77.556714">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.049227" lon="-77.556817">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.049237" lon="-77.55684">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.049254" lon="-77.556907">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049263" lon="-77.55692">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049279" lon="-77.556926">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049355" lon="-77.556996">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049427" lon="-77.55703">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049437" lon="-77.557033">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.049457" lon="-77.557054">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049523" lon="-77.557042">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.049522" lon="-77.557029">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.049524" lon="-77.55701">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.049527" lon="-77.55699">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.049562" lon="-77.556907">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.049575" lon="-77.556879">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.049632" lon="-77.556847">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.049657" lon="-77.556845">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.04974" lon="-77.556793">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.049857" lon="-77.556768">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.049859" lon="-77.556847">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.049994" lon="-77.556869">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.050016" lon="-77.556834">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.050068" lon="-77.556819">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.050134" lon="-77.556835">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.050346" lon="-77.556816">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.050348" lon="-77.556811">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.050367" lon="-77.556861">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.050358" lon="-77.55689">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.05035" lon="-77.55691">
+        <ele>199.4</ele>
+      </trkpt>
+      <trkpt lat="43.050357" lon="-77.556945">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.05039" lon="-77.556982">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.050388" lon="-77.557051">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.050367" lon="-77.557097">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.050347" lon="-77.557159">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.050341" lon="-77.557273">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.050342" lon="-77.557372">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.050359" lon="-77.557492">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.0504" lon="-77.557599">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.050405" lon="-77.55763">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.050402" lon="-77.557683">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.050402" lon="-77.557707">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="43.050403" lon="-77.557768">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.050397" lon="-77.55778">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.050398" lon="-77.557855">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.050432" lon="-77.558081">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.050439" lon="-77.558113">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.050434" lon="-77.558238">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.050426" lon="-77.558402">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.050405" lon="-77.558461">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.05041" lon="-77.558469">
+        <ele>196.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-red,trail-isaacgordon-blue:42b4a377</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.050413" lon="-77.558478">
+        <ele>97.9</ele>
+      </trkpt>
+      <trkpt lat="43.050429" lon="-77.558552">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.050419" lon="-77.558613">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.050418" lon="-77.558638">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050438" lon="-77.558714">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050439" lon="-77.55872">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050449" lon="-77.558864">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050448" lon="-77.558865">
+        <ele>195.29</ele>
+      </trkpt>
+      <trkpt lat="43.050436" lon="-77.559055">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050462" lon="-77.559204">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050465" lon="-77.559277">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050456" lon="-77.559377">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.050455" lon="-77.559601">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.050455" lon="-77.559693">
+        <ele>195.26</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-red,trail-isaacgordon-blue:83a5b046</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.050455" lon="-77.559693">
+        <ele>195.26</ele>
+      </trkpt>
+      <trkpt lat="43.050455" lon="-77.559799">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.05046" lon="-77.559995">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050466" lon="-77.560097">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050477" lon="-77.560169">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050496" lon="-77.560421">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.050496" lon="-77.560455">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.050491" lon="-77.560734">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.050512" lon="-77.560981">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.050529" lon="-77.561243">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.050562" lon="-77.561508">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.050564" lon="-77.561539">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.050561" lon="-77.561642">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050562" lon="-77.561742">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050561" lon="-77.561889">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.050579" lon="-77.562042">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.05058" lon="-77.562213">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.050597" lon="-77.562252">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.050587" lon="-77.562432">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.050598" lon="-77.562684">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050595" lon="-77.562753">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.050598" lon="-77.563023">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.0506" lon="-77.563059">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.050608" lon="-77.563124">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050622" lon="-77.563331">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.050625" lon="-77.563393">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050648" lon="-77.563651">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.050649" lon="-77.56368">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.050653" lon="-77.563712">
+        <ele>194.0</ele>
+      </trkpt>
+      <trkpt lat="43.050668" lon="-77.563924">
+        <ele>193.2</ele>
+      </trkpt>
+      <trkpt lat="43.050665" lon="-77.564101">
+        <ele>192.8</ele>
+      </trkpt>
+      <trkpt lat="43.050683" lon="-77.564314">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="43.050683" lon="-77.564353">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="43.050715" lon="-77.564729">
+        <ele>191.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-red,trail-isaacgordon-blue:e2834076</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+    <trkseg>
+      <trkpt lat="43.049641" lon="-77.559602">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.049659" lon="-77.559534">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.049731" lon="-77.559455">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="43.049768" lon="-77.559551">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049795" lon="-77.559709">
+        <ele>193.4</ele>
+      </trkpt>
+      <trkpt lat="43.049944" lon="-77.559751">
+        <ele>193.6</ele>
+      </trkpt>
+      <trkpt lat="43.049967" lon="-77.559754">
+        <ele>193.8</ele>
+      </trkpt>
+      <trkpt lat="43.050101" lon="-77.559716">
+        <ele>194.2</ele>
+      </trkpt>
+      <trkpt lat="43.050123" lon="-77.559715">
+        <ele>194.4</ele>
+      </trkpt>
+      <trkpt lat="43.050196" lon="-77.559699">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050245" lon="-77.559689">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="43.050315" lon="-77.559689">
+        <ele>194.8</ele>
+      </trkpt>
+      <trkpt lat="43.050406" lon="-77.559701">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050432" lon="-77.559699">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="43.050455" lon="-77.559693">
+        <ele>195.26</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+<name>seg:trail-isaacgordon-unmarked:a69cb79b</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049792" lon="-77.552137">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.049803" lon="-77.552102">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.049826" lon="-77.552009">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.04986" lon="-77.551895">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.049925" lon="-77.551795">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.04999" lon="-77.551759">
+        <ele>205.6</ele>
+      </trkpt>
+      <trkpt lat="43.050033" lon="-77.551744">
+        <ele>206.0</ele>
+      </trkpt>
+      <trkpt lat="43.050107" lon="-77.551755">
+        <ele>206.8</ele>
+      </trkpt>
+      <trkpt lat="43.050192" lon="-77.551797">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.050219" lon="-77.551884">
+        <ele>207.6</ele>
+      </trkpt>
+      <trkpt lat="43.050223" lon="-77.551946">
+        <ele>207.8</ele>
+      </trkpt>
+      <trkpt lat="43.05022" lon="-77.552141">
+        <ele>208.8</ele>
+      </trkpt>
+      <trkpt lat="43.050222" lon="-77.552203">
+        <ele>209.0</ele>
+      </trkpt>
+      <trkpt lat="43.050215" lon="-77.55246">
+        <ele>209.4</ele>
+      </trkpt>
+      <trkpt lat="43.050189" lon="-77.552598">
+        <ele>207.8</ele>
+      </trkpt>
+      <trkpt lat="43.050184" lon="-77.552655">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="43.050168" lon="-77.552723">
+        <ele>206.4</ele>
+      </trkpt>
+      <trkpt lat="43.050156" lon="-77.55281">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.050158" lon="-77.55284">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.050153" lon="-77.552897">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="43.050148" lon="-77.552925">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.050148" lon="-77.552984">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.050149" lon="-77.553083">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.050157" lon="-77.553152">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.050167" lon="-77.553277">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.050169" lon="-77.55331">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.050171" lon="-77.553347">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.050186" lon="-77.553552">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.050188" lon="-77.55362">
+        <ele>199.6</ele>
+      </trkpt>
+      <trkpt lat="43.050182" lon="-77.55378">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.050182" lon="-77.55387">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.050139" lon="-77.553965">
+        <ele>198.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+  <name>seg:trail-isaacgordon-unmarked:7ab30b3</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.048819" lon="-77.553257">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.048838" lon="-77.553039">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048853" lon="-77.552996">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048868" lon="-77.552943">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048926" lon="-77.552841">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048953" lon="-77.552804">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048955" lon="-77.552796">
+        <ele>202.16</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:d387f322</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049253" lon="-77.552607">
+        <ele>204.06</ele>
+      </trkpt>
+      <trkpt lat="43.049247" lon="-77.552611">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.049206" lon="-77.552647">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.049041" lon="-77.552751">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.049022" lon="-77.55277">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048955" lon="-77.552796">
+        <ele>202.16</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:bfefcfa8</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049253" lon="-77.552607">
+        <ele>204.06</ele>
+      </trkpt>
+      <trkpt lat="43.0493" lon="-77.552586">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.049347" lon="-77.552553">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.049439" lon="-77.552492">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="43.049608" lon="-77.552394">
+        <ele>205.8</ele>
+      </trkpt>
+      <trkpt lat="43.04966" lon="-77.552339">
+        <ele>205.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:ccd7411</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049792" lon="-77.552137">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.04979" lon="-77.552141">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.049741" lon="-77.552253">
+        <ele>205.33</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:9933a969</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049741" lon="-77.552253">
+        <ele>205.33</ele>
+      </trkpt>
+      <trkpt lat="43.04973" lon="-77.552277">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="43.04966" lon="-77.552339">
+        <ele>205.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:5c56919a</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050136" lon="-77.553966">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.050035" lon="-77.553957">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.049948" lon="-77.553963">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.04984" lon="-77.55399">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.049706" lon="-77.554052">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.049683" lon="-77.554071">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.049643" lon="-77.554113">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.049579" lon="-77.554174">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.049532" lon="-77.554218">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.04944" lon="-77.554328">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.049332" lon="-77.554476">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.049291" lon="-77.554523">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.049173" lon="-77.554673">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.049068" lon="-77.554806">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.048999" lon="-77.55497">
+        <ele>199.4</ele>
+      </trkpt>
+      <trkpt lat="43.048991" lon="-77.554992">
+        <ele>199.4</ele>
+      </trkpt>
+      <trkpt lat="43.04899" lon="-77.555182">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.049011" lon="-77.555305">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.04902" lon="-77.555398">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.049048" lon="-77.555582">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.049051" lon="-77.555617">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.049046" lon="-77.555661">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.049042" lon="-77.55576">
+        <ele>202.0</ele>
+      </trkpt>
+      <trkpt lat="43.049016" lon="-77.556009">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.049015" lon="-77.556012">
+        <ele>202.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:748291a5</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.049015" lon="-77.556012">
+        <ele>202.5</ele>
+      </trkpt>
+      <trkpt lat="43.048996" lon="-77.556105">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.048939" lon="-77.556177">
+        <ele>202.67</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:4a9fe486</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050527" lon="-77.556982">
+        <ele>196.85</ele>
+      </trkpt>
+      <trkpt lat="43.050528" lon="-77.556977">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.050552" lon="-77.556914">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.050598" lon="-77.556829">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.050611" lon="-77.556821">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.050644" lon="-77.556808">
+        <ele>98.82</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:d7133a5b</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.052119" lon="-77.555479">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.052095" lon="-77.555564">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.052084" lon="-77.555668">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.052045" lon="-77.555816">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.051952" lon="-77.55595">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.051914" lon="-77.556004">
+        <ele>199.4</ele>
+      </trkpt>
+      <trkpt lat="43.051762" lon="-77.556184">
+        <ele>199.8</ele>
+      </trkpt>
+      <trkpt lat="43.051608" lon="-77.556357">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.05159" lon="-77.556381">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.05155" lon="-77.556416">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.051399" lon="-77.556554">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="43.051286" lon="-77.556582">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.051155" lon="-77.556684">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.051009" lon="-77.556748">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.050819" lon="-77.556801">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.050738" lon="-77.556808">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.050595" lon="-77.556801">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.050442" lon="-77.556807">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.050353" lon="-77.556815">
+        <ele>199.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+<name>seg:trail-isaacgordon-unmarked:afc51d06</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050161" lon="-77.557077">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.05025" lon="-77.556959">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.050282" lon="-77.556937">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.050297" lon="-77.556933">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.050332" lon="-77.556935">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.050384" lon="-77.556909">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.05051" lon="-77.556893">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.050529" lon="-77.55691">
+        <ele>197.2</ele>
+      </trkpt>
+      <trkpt lat="43.050528" lon="-77.556957">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.050527" lon="-77.556982">
+        <ele>196.85</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+<name>seg:trail-isaacgordon-unmarked:72ca5490</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.048955" lon="-77.552796">
+        <ele>202.16</ele>
+      </trkpt>
+      <trkpt lat="43.048956" lon="-77.552792">
+        <ele>202.04</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:bf03f1e2</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.048956" lon="-77.552792">
+        <ele>202.04</ele>
+      </trkpt>
+      <trkpt lat="43.048973" lon="-77.552728">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048974" lon="-77.55267">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048989" lon="-77.552543">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.049038" lon="-77.552449">
+        <ele>200.4</ele>
+      </trkpt>
+      <trkpt lat="43.049104" lon="-77.552295">
+        <ele>201.0</ele>
+      </trkpt>
+      <trkpt lat="43.049115" lon="-77.552266">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.04919" lon="-77.552137">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.049208" lon="-77.552081">
+        <ele>202.2</ele>
+      </trkpt>
+      <trkpt lat="43.049187" lon="-77.552061">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="43.04914" lon="-77.552051">
+        <ele>202.8</ele>
+      </trkpt>
+      <trkpt lat="43.049125" lon="-77.552054">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.049103" lon="-77.552057">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.049052" lon="-77.552055">
+        <ele>204.8</ele>
+      </trkpt>
+      <trkpt lat="43.049043" lon="-77.552051">
+        <ele>205.2</ele>
+      </trkpt>
+      <trkpt lat="43.049007" lon="-77.552045">
+        <ele>206.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:4346df2</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050461" lon="-77.557038">
+        <ele>98.91</ele>
+      </trkpt>
+      <trkpt lat="43.050527" lon="-77.556982">
+        <ele>196.85</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:4ed6ffff</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.050362" lon="-77.557113">
+        <ele>99.34</ele>
+      </trkpt>
+      <trkpt lat="43.05038" lon="-77.557106">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.050461" lon="-77.557038">
+        <ele>98.91</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:fb9a8ba8</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.048102" lon="-77.556226">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.048142" lon="-77.555932">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.048107" lon="-77.555933">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="43.048095" lon="-77.555886">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.048095" lon="-77.555834">
+        <ele>196.6</ele>
+      </trkpt>
+      <trkpt lat="43.048096" lon="-77.555803">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.048096" lon="-77.555774">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.048094" lon="-77.55574">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="43.048089" lon="-77.555661">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.048082" lon="-77.555563">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.048068" lon="-77.555465">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.048061" lon="-77.555362">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="43.048047" lon="-77.555256">
+        <ele>195.4</ele>
+      </trkpt>
+      <trkpt lat="43.048028" lon="-77.555151">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.048026" lon="-77.555046">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.048024" lon="-77.554934">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.048021" lon="-77.554861">
+        <ele>195.6</ele>
+      </trkpt>
+      <trkpt lat="43.048007" lon="-77.554689">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="43.048016" lon="-77.554622">
+        <ele>196.2</ele>
+      </trkpt>
+      <trkpt lat="43.048025" lon="-77.554591">
+        <ele>196.4</ele>
+      </trkpt>
+      <trkpt lat="43.048025" lon="-77.554461">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="43.048021" lon="-77.5544">
+        <ele>197.4</ele>
+      </trkpt>
+      <trkpt lat="43.048018" lon="-77.554371">
+        <ele>197.6</ele>
+      </trkpt>
+      <trkpt lat="43.048022" lon="-77.55434">
+        <ele>198.0</ele>
+      </trkpt>
+      <trkpt lat="43.04804" lon="-77.554263">
+        <ele>199.0</ele>
+      </trkpt>
+      <trkpt lat="43.048048" lon="-77.554236">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="43.048057" lon="-77.554153">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="43.048056" lon="-77.554096">
+        <ele>200.8</ele>
+      </trkpt>
+      <trkpt lat="43.04806" lon="-77.55404">
+        <ele>201.2</ele>
+      </trkpt>
+      <trkpt lat="43.048068" lon="-77.553991">
+        <ele>201.8</ele>
+      </trkpt>
+      <trkpt lat="43.048035" lon="-77.553913">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="43.048039" lon="-77.553827">
+        <ele>203.4</ele>
+      </trkpt>
+      <trkpt lat="43.048041" lon="-77.553751">
+        <ele>203.8</ele>
+      </trkpt>
+      <trkpt lat="43.048047" lon="-77.55363">
+        <ele>204.4</ele>
+      </trkpt>
+      <trkpt lat="43.048077" lon="-77.553542">
+        <ele>204.6</ele>
+      </trkpt>
+      <trkpt lat="43.048219" lon="-77.553369">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048322" lon="-77.553278">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048339" lon="-77.553262">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048357" lon="-77.553243">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.04838" lon="-77.553223">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048426" lon="-77.553189">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048492" lon="-77.553152">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048561" lon="-77.553121">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048584" lon="-77.553112">
+        <ele>204.2</ele>
+      </trkpt>
+      <trkpt lat="43.048747" lon="-77.553024">
+        <ele>204.4</ele>
+      </trkpt>
+      <trkpt lat="43.048868" lon="-77.552944">
+        <ele>204.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+          <name>seg:trail-isaacgordon-unmarked:4298a52e</name>
+<extensions>
+    <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Unmarked</gpxx:DisplayColor>
+    </gpxx:TrackExtension>
+</extensions>
+    <trkseg>
+      <trkpt lat="43.048939" lon="-77.556177">
+        <ele>202.67</ele>
+      </trkpt>
+      <trkpt lat="43.048927" lon="-77.556192">
+        <ele>202.6</ele>
+      </trkpt>
+      <trkpt lat="43.048851" lon="-77.55622">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="43.048686" lon="-77.556163">
+        <ele>202.6</ele>
+      </trkpt>
+      <trkpt lat="43.048517" lon="-77.556135">
+        <ele>201.6</ele>
+      </trkpt>
+      <trkpt lat="43.048417" lon="-77.556143">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="43.04834" lon="-77.556171">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="43.048279" lon="-77.556184">
+        <ele>199.4</ele>
+      </trkpt>
+      <trkpt lat="43.04819" lon="-77.556216">
+        <ele>198.8</ele>
+      </trkpt>
+      <trkpt lat="43.048146" lon="-77.556224">
+        <ele>198.4</ele>
+      </trkpt>
+      <trkpt lat="43.048128" lon="-77.556227">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="43.048052" lon="-77.556219">
+        <ele>197.76</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

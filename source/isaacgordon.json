@@ -1,0 +1,80 @@
+{
+  "version": 5,
+  "trailSystems": {
+  },
+  "parks": {
+    "park-isaacgordon": {
+      "name": "Isaac Gordon Park",
+      "mainPin": [
+              43.048478,-77.559792
+      ],
+        "SW": [43.046507,-77.568248],
+        "NE": [43.052266,-77.551201],
+      "directionsCoordinate": [
+              43.05078,-77.564996
+      ],
+      "url": "http://townofpittsford.org/trailsandwalkways"
+    }
+  },
+  "trails": {
+    "trail-isaacgordon-orange": {
+        "name": "Orange Trail",
+        "color": "orange",
+        "length": 1.9,
+      "SW": [
+        43.047376,
+        -77.558221
+      ],
+      "NE": [
+        43.051675,
+        -77.551805
+      ]
+    },
+    "trail-isaacgordon-red": {
+        "name": "Red Trail",
+        "color": "red",
+        "length": 0.5,
+      "SW": [
+        43.049456,
+        -77.562219
+      ],
+      "NE": [
+        43.050846,
+        -77.557604
+      ]
+    },
+    "trail-isaacgordon-purple": {
+        "name": "Purple Trail",
+        "color": "purple",
+        "length": 0.1,
+        "SW": [43.04899,-77.557624],
+        "NE": [43.049454,-77.557079]
+    },
+    "trail-isaacgordon-blue": {
+        "name": "Blue Trail",
+        "color": "blue",
+        "length": 2.0,
+      "SW": [
+        43.048495,
+        -77.564729
+      ],
+      "NE": [
+        43.050717,
+        -77.556323
+      ]
+    },
+    "trail-isaacgordon-unmarked": {
+        "name": "Unmarked",
+        "color": "unmarked_trail",
+        "length": 1.7,
+      "SW": [
+        43.048007,
+        -77.557113
+      ],
+      "NE": [
+        43.052119,
+        -77.551744
+      ]
+    }
+  }
+}
