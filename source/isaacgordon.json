@@ -5,7 +5,7 @@
   "parks": {
     "park-isaacgordon": {
       "name": "Isaac Gordon Nature Park",
-      "shortname": "Isaac Gordon",
+      "shortName": "Isaac Gordon",
       "mainPin": [
               43.048478,-77.559792
       ],
@@ -21,7 +21,7 @@
     "trail-isaacgordon-orange": {
         "name": "Orange Trail",
         "color": "orange",
-        "length": 1.9,
+        "length": 2.0,
         "parentID":"park-isaacgordon",
       "SW": [
         43.047376,

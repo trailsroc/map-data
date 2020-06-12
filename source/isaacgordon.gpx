@@ -4,6 +4,14 @@
     <bounds minlat="43.047376" maxlat="43.052119" minlon="-77.56472919045808" maxlon="-77.551744">
     </bounds>
   </metadata>
+<wpt lat="43.050354" lon="-77.556921">
+        <name>point-scenic:isaacgordon:7c5eebcb</name>
+        <desc>{"type":"point-scenic","name":"Overlook","shortName":"Overlook","parentIDs":["park-isaacgordon","trail-isaacgordon-red"]}</desc>
+</wpt>
+<wpt lat="43.050713" lon="-77.564732">
+        <name>point-parking:isaacgordon:52806d04</name>
+        <desc>{"type":"point-parking","name":"Parking","shortName":"Parking","parentIDs":["park-isaacgordon","trail-isaacgordon-red","trail-isaacgordon-blue"]}</desc>
+</wpt>
   <trk>
     <name>border:park-isaacgordon</name>
 <extensions>
@@ -468,91 +476,66 @@
         </extensions>
     <trkseg>
       <trkpt lat="43.0499" lon="-77.551829">
-        <ele>204.8</ele>
       </trkpt>
       <trkpt lat="43.049887" lon="-77.551832">
-        <ele>204.8</ele>
       </trkpt>
       <trkpt lat="43.04985" lon="-77.551841">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.04975" lon="-77.551841">
-        <ele>204.2</ele>
       </trkpt>
       <trkpt lat="43.049733" lon="-77.551842">
-        <ele>204.2</ele>
       </trkpt>
       <trkpt lat="43.049615" lon="-77.551851">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.049603" lon="-77.551855">
-        <ele>204.4</ele>
       </trkpt>
       <trkpt lat="43.049556" lon="-77.551864">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.049533" lon="-77.551871">
-        <ele>204.8</ele>
       </trkpt>
       <trkpt lat="43.049526" lon="-77.551893">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.049514" lon="-77.551904">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.049433" lon="-77.551959">
-        <ele>204.0</ele>
       </trkpt>
       <trkpt lat="43.04937" lon="-77.552084">
-        <ele>203.6</ele>
       </trkpt>
       <trkpt lat="43.049325" lon="-77.552087">
-        <ele>203.8</ele>
       </trkpt>
       <trkpt lat="43.049279" lon="-77.55208">
-        <ele>204.0</ele>
       </trkpt>
       <trkpt lat="43.049212" lon="-77.552085">
-        <ele>204.6</ele>
       </trkpt>
       <trkpt lat="43.04917" lon="-77.552055">
-        <ele>0.0</ele>
       </trkpt>
       <trkpt lat="43.049013" lon="-77.552047">
-        <ele>211.4</ele>
       </trkpt>
       <trkpt lat="43.048947" lon="-77.552052">
-        <ele>212.6</ele>
       </trkpt>
       <trkpt lat="43.0489" lon="-77.552008">
-        <ele>214.0</ele>
       </trkpt>
       <trkpt lat="43.048828" lon="-77.551962">
-        <ele>215.2</ele>
       </trkpt>
       <trkpt lat="43.048765" lon="-77.551933">
-        <ele>215.8</ele>
       </trkpt>
       <trkpt lat="43.048731" lon="-77.551936">
-        <ele>216.0</ele>
       </trkpt>
       <trkpt lat="43.048659" lon="-77.551918">
-        <ele>216.4</ele>
       </trkpt>
       <trkpt lat="43.048614" lon="-77.551901">
-        <ele>217.0</ele>
       </trkpt>
       <trkpt lat="43.04856" lon="-77.551853">
-        <ele>217.4</ele>
       </trkpt>
       <trkpt lat="43.048535" lon="-77.551827">
-        <ele>219.0</ele>
       </trkpt>
       <trkpt lat="43.04852" lon="-77.551816">
-        <ele>219.0</ele>
       </trkpt>
       <trkpt lat="43.04851" lon="-77.551805">
-        <ele>219.2</ele>
+      </trkpt>
+      <trkpt lat="43.048495" lon="-77.551765">
+      </trkpt>
+      <trkpt lat="43.048473" lon="-77.550906">
       </trkpt>
     </trkseg>
   </trk>
