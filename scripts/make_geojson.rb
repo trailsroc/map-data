@@ -1,5 +1,27 @@
 #!/usr/bin/env ruby
-# usage: ruby make_geojson.rb | pbcopy
+
+# usage:
+#
+### Create a single combined file for all data
+### e.g. for updating Mapbox datasets/tilesets
+# $dest_dir = nil
+# $gpx_filenames = [ all available gpx files ]
+# > ruby make_geojson.rb > prod-v1-build1.geojson
+#
+### Create a combined file for a subset of data
+### e.g. for code review
+# $dest_dir = nil
+# $gpx_filenames = [ subset of files ]
+# > ruby make_geojson.rb | less
+#
+### Create separate geojson files for each input file
+### e.g. for updating this repository
+# $dest_dir = File.join(Dir.pwd,'geojson')
+# $gpx_filenames = [ all available gpx files ]
+# > rm -rf geojson/
+# > ruby make_geojson.rb
+#
+### Or other modifications of variables under `initialize` as needed.
 
 require 'json'
 require 'nokogiri'
@@ -9,9 +31,8 @@ require 'nokogiri'
 $data_version = 5
 $pretty = true
 $dry_run = false
-$single_output_file = false
 $source_dir = File.join(Dir.pwd,'source/')
-$dest_dir = File.join(Dir.pwd,'geojson/')
+$dest_dir = nil #File.join(Dir.pwd,'gmerged/')
 $gpx_filenames = [
   'abe',
   'auburntr',
@@ -572,39 +593,22 @@ if $dest_dir
         end
     end
 
-    if $single_output_file
-        full_path = $dest_dir + 'dataset.geojson'
-        print("Writing merged GeoJSON file #{full_path}\n")
-        merged_features = []
-        $features.each do |filename, featureset|
-            merged_features = merged_features + featureset
-        end
+    print('Writing GeoJSON files to ' + $dest_dir + "...\n")
+    $features.each do |filename, featureset|
         doc = {}
         doc['type'] = 'FeatureCollection'
-        doc['features'] = merged_features
-        if $pretty
-            IO.write(full_path, JSON.pretty_generate(doc))
-        else
-            IO.write(full_path, JSON.generate(doc))
+        doc['features'] = featureset
+        full_filename = filename + '.geojson'
+        print('Writing data to ' + full_filename + "...\n")
+
+        if $dry_run
+            next
         end
-    else
-        print('Writing GeoJSON files to ' + $dest_dir + "...\n")
-        $features.each do |filename, featureset|
-            doc = {}
-            doc['type'] = 'FeatureCollection'
-            doc['features'] = featureset
-            full_filename = filename + '.geojson'
-            print('Writing data to ' + full_filename + "...\n")
 
-            if $dry_run
-                next
-            end
-
-            if $pretty
-                IO.write($dest_dir + full_filename, JSON.pretty_generate(doc))
-            else
-                IO.write($dest_dir + full_filename, JSON.generate(doc))
-            end
+        if $pretty
+            IO.write($dest_dir + full_filename, JSON.pretty_generate(doc))
+        else
+            IO.write($dest_dir + full_filename, JSON.generate(doc))
         end
     end
 else
