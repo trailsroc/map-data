@@ -8,7 +8,7 @@ import docopt
 import numpy as np
 
 
-def truncate(g):
+def truncate(gpx):
     for waypoint in gpx.waypoints:
         waypoint.latitude = np.round(waypoint.latitude, decimals=6)
         waypoint.longitude = np.round(waypoint.longitude, decimals=6)
@@ -16,6 +16,7 @@ def truncate(g):
             waypoint.elevation = np.round(waypoint.elevation, decimals=6)
 
     for track in gpx.tracks:
+        track.reduce_points(min_distance=1)
         for segment in track.segments:
             for point in segment.points:
                 point.latitude = np.round(point.latitude, decimals=6)
@@ -30,6 +31,10 @@ def p(g):
             for point in segment.points:
                 print(point)
 
+def read_gpx(fd):
+    gpx = gpxpy.parse(fd)
+    truncate(gpx)
+    return gpx
 
 if __name__ == "__main__":
     args = docopt.docopt(__doc__)

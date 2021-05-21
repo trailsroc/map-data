@@ -1,0 +1,23 @@
+{
+    "park-tryon": {
+      "name": "Tryon Park",
+      "mainPin": [
+        43.166964,
+        -77.536989
+      ],
+      "SW": [
+        43.15845,
+        -77.54324
+      ],
+      "NE": [
+        43.17252,
+        -77.533189
+      ],
+      "directionsCoordinate": [
+        43.165778,
+        -77.53768
+      ],
+      "url": "http://www.monroecounty.gov/parks-tryon.php",
+      "keywords": "tyron"
+    }
+}
