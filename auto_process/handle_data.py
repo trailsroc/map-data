@@ -108,3 +108,4 @@ def scatter_data(name, gpx_all, meta):
 
 if __name__ == "__main__":
     scatter_data("tryon", *gather_data("Tryon"))
+    scatter_data("letchworth", *gather_data("Letchworth"))
