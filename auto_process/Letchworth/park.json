@@ -1,0 +1,24 @@
+{
+    "park-letchworth": {
+      "name": "Letchworth State Park",
+      "mainPin": [
+          42.6558711,
+          -78.1351672
+      ],
+      "SW": [
+          42.57164,
+          -78.0563319
+      ],
+      "NE": [
+          42.57164,
+          -78.0563319
+      ],
+      "directionsCoordinate": [
+        42.7310535,
+        -77.9066334
+      ],
+      "url": "https://parks.ny.gov/parks/letchworth",
+      "keywords": "letchworth"
+    }
+}
+

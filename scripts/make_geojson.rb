@@ -54,6 +54,7 @@ $gpx_filenames = [
   'ibaywest',
   'isaacgordon',
   'lehigh',
+  'letchworth',
   'lmorin',
   'mponds',
   'nhamp',
