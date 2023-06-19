@@ -1,0 +1,44 @@
+{
+ "version": 5,
+ "trailsSystems": {},
+ "parks": {
+  "park-letchworth": {
+   "name": "Letchworth State Park",
+   "mainPin": [
+    42.6558711,
+    -78.1351672
+   ],
+   "SW": [
+    42.56727772471986,
+    -78.0584811440875
+   ],
+   "NE": [
+    42.74431494329998,
+    -77.88073105750897
+   ],
+   "directionsCoordinate": [
+    42.7310535,
+    -77.9066334
+   ],
+   "url": "https://parks.ny.gov/parks/letchworth",
+   "keywords": "letchworth"
+  }
+ },
+ "trails": {
+  "trails-letchworth-15a": {
+   "name": "15A",
+   "color": "black",
+   "length": 3.47,
+   "SW": [
+    42.639804,
+    -77.988555
+   ],
+   "NE": [
+    42.669589,
+    -77.973209
+   ],
+   "parentID": "park-letchworth",
+   "url": "https://parks.ny.gov/parks/letchworth"
+  }
+ }
+}
