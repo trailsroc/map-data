@@ -140,7 +140,7 @@ Possible values of filter:
     Matches features with the given trailsroc-type value.
 - poi:
     Matches features with any point-XYZ trailsroc-type.
-- ?key: 
+- ?key:
     Matches features where the trailsroc-<key> property exists.
 
 selector: determines what to print about each feature.
@@ -153,7 +153,7 @@ Possible values of selector:
 - key:
     Prints the value of the feature's trailsroc-<key> property.
 - @keys:
-    Lists the names of the trailsroc-XYZ property keys that exist 
+    Lists the names of the trailsroc-XYZ property keys that exist
     for the matched features. Note this may produce more than one line
     of output per feature.
 

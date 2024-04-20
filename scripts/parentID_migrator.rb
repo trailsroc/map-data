@@ -132,7 +132,7 @@ def parse_gpx(filename)
             if !poi_id.include?(":")
                 next
             end
-            
+
             tokens = poi_id.split(":")
             poi_type = tokens.first
 

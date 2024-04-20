@@ -42,7 +42,6 @@
     "trail-cobbs-singletrack": {
       "color": "dark_green",
       "length": 0,
-      "url": "",
       "SW": [
         43.13738,
         -77.577376
@@ -56,7 +55,6 @@
     "trail-cobbs-reservoir-loop": {
       "color": "blue",
       "length": 0,
-      "url": "",
       "SW": [
         43.137577,
         -77.574787
@@ -70,7 +68,6 @@
     "trail-cobbs-gravel": {
       "color": "unmarked_trail",
       "length": 0,
-      "url": "",
       "SW": [
         43.137352,
         -77.577193

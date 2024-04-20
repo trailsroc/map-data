@@ -261,7 +261,7 @@ def parse_gpx(filename)
             if !poi_id.include?(":")
                 next
             end
-            
+
             descs = node.>("desc")
             if descs.count > 0 && descs.first.content.length > 0 then
                 other_attrs = JSON.load(descs.first.content) || {}

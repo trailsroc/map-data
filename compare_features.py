@@ -13,7 +13,7 @@ def compare_names(a, b):
 
 
 def prune_diff(d):
-    pruned = list()
+    pruned = []
     for x in d:
         if x[0] == "add" and x[2][0][0] == "id":
             continue

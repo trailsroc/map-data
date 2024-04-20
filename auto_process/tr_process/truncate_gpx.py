@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-""" truncate_gpx
-Usage:
-    truncate_gpx.py INGPX OUTGPX
-"""
 import gpxpy
-import docopt
 import numpy as np
+import click
 
 
 def truncate(gpx):
@@ -25,22 +21,27 @@ def truncate(gpx):
                     point.elevation = np.round(point.elevation, decimals=2)
 
 
-def p(g):
+def p(gpx):
     for track in gpx.tracks:
         for segment in track.segments:
             for point in segment.points:
                 print(point)
+
 
 def read_gpx(fd):
     gpx = gpxpy.parse(fd)
     truncate(gpx)
     return gpx
 
-if __name__ == "__main__":
-    args = docopt.docopt(__doc__)
 
-    with open(args["INGPX"], "r") as fd:
-        gpx = gpxpy.parse(fd)
-        truncate(gpx)
-        with open(args["OUTGPX"], "w") as outFD:
-            outFD.write(gpx.to_xml())
+@click.command()
+@click.argument("infn", type=click.File("r"))
+@click.argument("outfn", type=click.File("w"))
+def main(infn, outfn):
+    gpx = gpxpy.parse(infn)
+    truncate(gpx)
+    outfn.write(gpx.to_xml())
+
+
+if __name__ == "__main__":
+    main()

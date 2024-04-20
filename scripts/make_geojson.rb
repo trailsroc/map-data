@@ -156,7 +156,7 @@ end
 def center_of_list(coordinates)
     if coordinates.empty?
         return [0,0]
-    end 
+    end
     sums = coordinates.reduce([0,0]) { |sum,c| [sum[0]+c[0], sum[1]+c[1]] }
     return [sums[0].to_f / coordinates.count, sums[1].to_f / coordinates.count]
 end
@@ -463,7 +463,7 @@ def parse_json(filename)
             optional_property(feature, 'annotationIconName', item)
             optional_property(feature, 'isSearchable', item)
             optional_property(feature, "keywords", item)
-            
+
             if item['directionsCoordinate']
                 feature_property(feature, 'directionsCoordinate', item['directionsCoordinate'].reverse)
             end
@@ -494,7 +494,7 @@ def parse_json(filename)
             optional_property(feature, 'isSearchable', park, dflt: !nil_or_blank(park['name']))
             optional_property(feature, "keywords", park)
             optional_property(feature, "style", park)
-            
+
             if park['directionsCoordinate']
                 feature_property(feature, 'directionsCoordinate', park['directionsCoordinate'].reverse)
             end
@@ -511,7 +511,7 @@ def parse_json(filename)
             else
                 trail['surface'] = ''
             end
-            
+
             $metadata[:trails][trail_id] = trail
             #register_and_validate_unique_id(trail_id, "JSON trail")
 

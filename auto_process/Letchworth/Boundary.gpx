@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
-<metadata><bounds minlat="42.567277724719858" minlon="-78.058481144087494" maxlat="42.744314943299983" maxlon="-77.880731057508967"/></metadata>                
+<metadata><bounds minlat="42.567277724719858" minlon="-78.058481144087494" maxlat="42.744314943299983" maxlon="-77.880731057508967"/></metadata>
 <trk>
         <name>border:park-letchworth</name>
         <extensions>

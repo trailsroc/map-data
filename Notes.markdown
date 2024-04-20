@@ -2,7 +2,7 @@
 
 - There is a fair amount of repetition in the metadata (e.g. every trail segment has the trail name, color, etc.). This is done to support the various layers in the Mapbox Style
 - Each trail, park, and point of interest is represented by a single “Point” feature in the Geojson, as a single place to store the metadata for these entities. The coordinate of the point determines where the point of interest or park icon appears on the map. For trails, the coordinate is not important. The actual tracks for trails are LineString features, and park borders are Polygon features.
-- Every GPX should be split into segments. The rule is to split a track at every road or trail intersection. This is to support selecting individual segments in the app to get information such as segment length, and eventually for additional possible features such as selecting a series of segments 
+- Every GPX should be split into segments. The rule is to split a track at every road or trail intersection. This is to support selecting individual segments in the app to get information such as segment length, and eventually for additional possible features such as selecting a series of segments
 - Every feature needs a unique "trailsroc-id" property - even individual trail segments and park borders. You’ll see that the ID values follow a naming convention; the app requires the IDs to be properly formatted
 
 ## Migrating/preparing GPX/JSON files and converting to GeoJSON
@@ -78,6 +78,3 @@ zoom 15
   ▿ ne : CLLocationCoordinate2D
     - latitude : 43.03158126009393
     - longitude : -77.57905576305842
-
-
-

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.1.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="43.160789568750893" minlon="-77.538640729095562" maxlat="43.175130174221032" maxlon="-77.533461385085062"/></metadata>                
+<metadata><bounds minlat="43.160789568750893" minlon="-77.538640729095562" maxlat="43.175130174221032" maxlon="-77.533461385085062"/></metadata>
 <trk>
   <name>U08</name>
   <type>Blue</type>

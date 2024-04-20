@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.1.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="43.160946048484988" minlon="-77.538595657951930" maxlat="43.172465175639452" maxlon="-77.533341365728305"/></metadata>                
+<metadata><bounds minlat="43.160946048484988" minlon="-77.538595657951930" maxlat="43.172465175639452" maxlon="-77.533341365728305"/></metadata>
 <trk>
   <name>K15</name>
   <type>Black</type>

@@ -2,7 +2,6 @@
 
 import os
 import glob
-import gpxpy
 import tr_process as tp
 import astropy.units as u
 from numpy.random import default_rng
@@ -31,7 +30,7 @@ valid_colors = [
 
 
 def populate_trails(path, url, gpx_all):
-    trails = dict()
+    trails = {}
     for x in os.listdir(path):
         if not os.path.isdir(os.path.join(path, x)):
             continue
@@ -43,7 +42,7 @@ def populate_trails(path, url, gpx_all):
             for track in a.tracks:
                 bounds = track.get_bounds()
                 id = "trails-{}-{}".format(path.lower(), extract_id(track.name))
-                trails[id] = dict()
+                trails[id] = {}
                 trails[id]["name"] = track.name
                 trails[id]["color"] = x.lower()
                 trails[id]["length"] = (
@@ -89,9 +88,9 @@ def populate_poi(path, gpx_all):
 
 
 def gather_data(path):
-    meta = dict()
+    meta = {}
     meta["version"] = 5
-    meta["trailsSystems"] = dict()
+    meta["trailsSystems"] = {}
     trails, meta["parks"], url = populate_parks(path)
     trails = populate_poi(path, trails)
     trails, meta["trails"] = populate_trails(path, url, trails)
