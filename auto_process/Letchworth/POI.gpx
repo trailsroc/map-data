@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2017-11-05T15:13:59.116Z</time>
+    </metadata>
+<wpt lat="42.74052363958481" lon="-77.89033952179369">
+        <name>point-poi:letchworth:north</name>
+        <desc>{"type":"point-poi","comments":"Letchworth","name":"North Entrance","parentIDs":["park-letchworth"],"shortName":"North Entrance"}</desc>
+    <time>2023-06-17T03:01:12Z</time>
+</wpt>
+<wpt lat="42.571729547641105" lon="-78.05185317993164">
+        <name>point-poi:letchworth:south</name>
+        <desc>{"type":"point-poi","comments":"Letchworth","name":"South Entrance","parentIDs":["park-letchworth"],"shortName":"South Entrance"}</desc>
+    <time>2023-06-17T03:58:14Z</time>
+</wpt>
+<wpt lat="42.694233242458836" lon="-77.95812606811523">
+        <name>point-poi:letchworth:west</name>
+        <desc>{"type":"point-poi","comments":"Letchworth","name":"West Entrance","parentIDs":["park-letchworth"],"shortName":"West Entrance"}</desc>
+    <time>2023-06-17T04:37:05Z</time>
+</wpt>
+<wpt lat="42.58957994121848" lon="-78.01163028323599">
+        <name>point-parking:letchworth:lowerfalls</name>
+        <desc>{"type":"point-parking","comments":"Letchworth","name":"Lower Falls Parking","parentIDs":["park-letchworth"],"shortName":"Lower Falls Parking"}</desc>
+    <time>2023-06-17T05:07:58Z</time>
+</wpt>
+<wpt lat="42.731079181213" lon="-77.90585517883301">
+        <name>point-parking:letchworth:mtmorrisdam</name>
+        <desc>{"type":"point-parking","comments":"Letchworth","name":"Mt Morris Dam","parentIDs":["park-letchworth"],"shortName":"Mt Morris Dam"}</desc>
+    <time>2023-06-17T05:52:35Z</time>
+</wpt>
+</gpx>
